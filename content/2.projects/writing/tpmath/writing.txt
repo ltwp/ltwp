@@ -6,11 +6,11 @@ This is a silly thought, and me testing [mathjax](http://mathjax.org) on my webs
 
 I always feel like I have enough toilet paper, and then suddenly I don't. The roll looks ripe and fine, then one day mid-dookie it becomes suddenly empty. There has to be a reason for this.
 
-It makes some sense. I judge the amount of toilet paper left largely by the area of paper I can see when I view the roll down the tube. The are of a circle is of course related to r&sup2;, where r is the radius. Radius is a linear quantity, and we pull paper off the roll in a linear way. But I was judging how "full" the roll was by something non-linear. A quick calculation confirms this.
+It makes some sense. I believe that I judge the amount of toilet paper left largely by the area of paper I can see when I view the roll down the tube. The area of a circle is of course related to _r&sup2;_, where _r_ is the radius. Radius is a linear quantity, and we pull paper off the roll in a linear way. I am judging how "full" the roll was by something non-linear.
 
 Let's define some variables.
 
-_t_ for time. _r_ for the radius of the roll. _T_ for the thickness of the paper. And _l_ for the length of paper remaining on the roll.
+_t_ for time. _r_ for the radius of the roll. _T_ for the (fixed) thickness of the paper. And _l_ for the length of paper remaining on the roll.
 
 $$ r=r(t) $$
 $$ r(0) = R $$
@@ -31,7 +31,7 @@ Now we can rearrange and solve.
 
 $$ \frac{dr}{dt} r = \frac{-\alpha T}{2\pi} \Rightarrow \int \frac{dr}{dt} r \,dt = \frac{-\alpha T}{2\pi} \int\,dt \Rightarrow \frac{r^2}{2} + C = \frac{-\alpha T}{2\pi}*t $$
 
-And so we find our equation for _r(t)_:
+And so we find our equation for _r(t)_, taking the positive branch:
 
 $$ r(t) = \sqrt{\frac{-\alpha T}{\pi}*t + C} $$
 
@@ -43,15 +43,15 @@ Which looks about like this, according to Wolfram|Alpha:
 
 ![](http://ltwp.net/stuff/tpmath_graph.png)
 
-See that hockey-stick behavior? As time goes on, taking toilet paper at a constant rate, the radius will start to decrease faster and faster. My intuition was correct about this.
+I was wrong about judging the fullness of the roll by area. If we square this equation, it becomes linear, so with time the area decreases at a linear rate. I guess my eyes trust the linear measurement more.
 
-But I was wrong about judging the fullness of the roll by area. If we square this equation, it becomes linear, so with time the area decreases at a linear rate. I guess my eyes trust the linear measurement more.
+See that hockey-stick behavior, though? As time goes on, taking toilet paper at a constant rate, the radius will decrease faster and faster. This makes more sense. As you take more paper, the radius of the roll decreases, and thus it takes less paper to make the radius shrink faster (as you are pulling layers off of the circumference).
 
-Anyway, keep a spare roll or two under the sink.
+Anyway, Keep a spare roll or two under the sink.
 -
 details:
 
-Diepenveen, The Netherlands, 2015.
+The Netherlands, 2015.
 
 -
 tags:
