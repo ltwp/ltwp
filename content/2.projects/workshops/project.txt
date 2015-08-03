@@ -1,4 +1,4 @@
-name: Workshops
+winname: Workshops
 -
 shortname: Workshops
 -
@@ -11,6 +11,8 @@ __LEGO As A Creative Tool__ at [A Better World By Design](http://www.abetterworl
 __Introduction to Arduino__ via Brown STEAM, hosted by the Brown Design Workshop on November 9, 2013.
 
 __LEGO As A Creative Tool__ as an inaugural event at [Boston University's EPIC](http://www.bu.edu/eng/current-students/epic/) on March 1, 2014. Collaboration with Gavin Atkinson.
+
+__[George Hart Sculpture Workshop](http://www.browndailyherald.com/2014/03/07/steam-lecture-examines-connection-math-arts/)__ in March 6, 2014. I brought [George Hart](http://www.georgehart.com) to campus for a lecture and "sculpture barn raising," sponsored by Brown STEAM, the Brown Division of Applied Mathematics, and Brown School of Engineering. Together an interdisciplinary group of undergrads and grad students built a sculpture which was installed in the Barus-Holley Engineering building.
 
 __LEGO As A Creative Tool__ at [AS220 Youth](http://youth.as220.org) on May 10, 2014. A slightly modified curriculum to focus on storytelling. Collaboration with Gavin Atkinson and Max Farnham.
 

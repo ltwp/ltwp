@@ -14,7 +14,7 @@ Originally modeled after [Brian Evenson](http://bombmagazine.org/article/1000191
 
 ## [Conversation & Space](http://ltwp.net/stuff/conversation_space/)
 
-An HTML poem originally published in the now-defunkt Recess Journal. Spring 2014.
+An HTML poem originally published in the now-defunkt Recess Journal. Thanks to Kate Groetzinger and Koji Yamamoto for letting me break their web platform. Spring 2014.
 
 -
 oneline:

@@ -5,6 +5,10 @@
 <link rel="stylesheet" type="text/css" href="./public/docs/css.css" />
 <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
 
+
+        <script type="text/javascript"
+            src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
     </head>
     <body>
 
@@ -52,4 +56,4 @@
     </body>
 </html>
 
-<!-- Stacey(2.3.0): d8067e8faf129266186f20450b4a1312 -->
+<!-- Stacey(2.3.0): 0573b0bb62375c6f55fae7efd466e7d4 -->

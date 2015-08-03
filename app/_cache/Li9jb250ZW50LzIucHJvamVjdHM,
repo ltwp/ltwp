@@ -23,9 +23,9 @@
 
 <p>I'm an applied mathematician with broad interests. I like structures, spaces, dynamics.</p>
 
-<p>View <a href="http://ltwp.net/projects/writing">my writing</a>.</p>
+<p>View <a href="http://ltwp.net/projects/writing">my writing</a> and <a href="http://ltwp.net/projects/workshops">my workshops</a>.</p>
 
-<p>I am currently finishing my time at Brown University. I am a TA in the Division of Applied Mathematics and am the head manager at the <a href="http://www.brown.edu/research/projects/design-workshop/about-us">Brown Design Workshop</a>, where I was a founding member. I give tours at the <a href="http://risdmuseum.org">RISD Museum</a>.</p>
+<p>I am currently finishing my time as an undergraduate at Brown University. I am a TA in the Division of Applied Mathematics and am the head manager at the <a href="http://www.brown.edu/research/projects/design-workshop/about-us">Brown Design Workshop</a>, where I was a founding member. I give tours at the <a href="http://risdmuseum.org">RISD Museum</a>.</p>
 
 <p>Previously, professionally, I have done fluids research on an NSF grant, technical research on social systems and networks at <a href="http://thisisthicket.net">Thicket</a>, and furniture building with <a href="http://borisbally.com">Boris Bally</a>. I continue to be associated with <a href="http://brown.steamwith.us">Brown STEAM</a>.</p>
 
@@ -57,60 +57,55 @@
 
         <div id="right_column">
             
-            <a href="./?/projects/hopscotch/"><h3>1  Hopscotch </h3></a><br />
+            <a href="./?/projects/hopscotch/"><h3> Hopscotch </h3></a><br />
 
                             <div class="caption">A brand and a pair of overalls.</div>
             
 
             
-            <a href="./?/projects/sapma/"><h3>2  Studio Applied Math </h3></a><br />
+            <a href="./?/projects/sapma/"><h3> Studio Applied Math </h3></a><br />
 
                             <div class="caption">Treating the math classroom like an atelier.</div>
             
 
             
-            <a href="./?/projects/pneu/"><h3>3  Pneumatic Igloo </h3></a><br />
+            <a href="./?/projects/pneu/"><h3> Pneumatic Igloo </h3></a><br />
 
                             <div class="caption">What does it take to make an inflatable structure?</div>
             
 
             
-            <a href="./?/projects/graphs/"><h3>4 Functional Graphs  </h3></a><br />
+            <a href="./?/projects/graphs/"><h3>Functional Graphs  </h3></a><br />
 
                             <div class="caption">Small-scale graph isomorphism investigation.</div>
             
 
             
-            <a href="./?/projects/nonspace/"><h3>5  non-space </h3></a><br />
+            <a href="./?/projects/nonspace/"><h3> non-space </h3></a><br />
 
                             <div class="caption">Ephemeral art show.</div>
             
 
             
-            <a href="./?/projects/lego/"><h3>6  LEGO Workshops </h3></a><br />
-
-            
-
-            
-            <a href="./?/projects/output/"><h3>7  for/with/in </h3></a><br />
+            <a href="./?/projects/output/"><h3> for/with/in </h3></a><br />
 
                             <div class="caption">Experiments in the web browser.</div>
             
 
             
-            <a href="./?/projects/jcdsri/"><h3>8  KinderSTEAM </h3></a><br />
+            <a href="./?/projects/jcdsri/"><h3> KinderSTEAM </h3></a><br />
 
                             <div class="caption">K-5 integrative teaching.</div>
             
 
             
-            <a href="./?/projects/tactilemath/"><h3>9  Tactile Math </h3></a><br />
+            <a href="./?/projects/tactilemath/"><h3> Tactile Math </h3></a><br />
 
                             <div class="caption">Make math easier to play with.</div>
             
 
             
-            <a href="./?/projects/granular/"><h3>10 Granular Flows  </h3></a><br />
+            <a href="./?/projects/granular/"><h3>Granular Flows  </h3></a><br />
 
                             <div class="caption">Understanding inter-grain stresses.</div>
             
@@ -123,4 +118,4 @@
     </body>
 </html>
 
-<!-- Stacey(2.3.0): 467d002fd33efdaceacae084c0c9d5bc -->
+<!-- Stacey(2.3.0): 0573b0bb62375c6f55fae7efd466e7d4 -->

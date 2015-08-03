@@ -5,6 +5,9 @@
 <link rel="stylesheet" type="text/css" href="./public/docs/css.css" />
 <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
 
+        <script type="text/javascript"
+            src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
     </head>
     <body>
 
@@ -31,9 +34,7 @@
 
 <h2><a href="http://ltwp.net/stuff/conversation_space/">Conversation &amp; Space</a></h2>
 
-<p>An HTML poem originally published in the now-defunkt Recess Journal. Spring 2014.</p>
-
-<h2><a href="http://ltwp.net/projects/writing/soilsamples">Soil Samples</a></h2>
+<p>An HTML poem originally published in the now-defunkt Recess Journal. Thanks to Kate Groetzinger and Koji Yamamoto for letting me break their web platform. Spring 2014.</p>
 
         </div>
 
@@ -53,4 +54,4 @@
     </body>
 </html>
 
-<!-- Stacey(2.3.0): 61ededf7b66f5f8e7cba5394878871e6 -->
+<!-- Stacey(2.3.0): 0573b0bb62375c6f55fae7efd466e7d4 -->

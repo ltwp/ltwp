@@ -1,0 +1,90 @@
+<html>
+    <head>
+        <title>LTWP | Toilet Paper Math</title>
+        <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css.css" />
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+
+
+        <script type="text/javascript"
+            src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- <br />
+<span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+<br />
+ -->
+
+        
+
+                <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+        
+
+        <h1>Toilet Paper Math</h1>
+            <span class="details">
+                <p>Diepenveen, The Netherlands, 2015.</p>
+
+            </span>
+
+        <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+
+        <div id="writing_column">
+
+            <p>This is a silly thought, and me testing <a href="http://mathjax.org">mathjax</a> on my website.</p>
+
+<p>I always feel like I have enough toilet paper, and then suddenly I don't. The roll looks ripe and fine, then one day mid-dookie it becomes suddenly empty. There has to be a reason for this.</p>
+
+<p>It makes some sense. I judge the amount of toilet paper left largely by the area of paper I can see when I view the roll down the tube. The are of a circle is of course related to r&sup2;, where r is the radius. Radius is a linear quantity, and we pull paper off the roll in a linear way. But I was judging how "full" the roll was by something non-linear. A quick calculation confirms this.</p>
+
+<p>Let's define some variables.</p>
+
+<p><em>t</em> for time. <em>r</em> for the radius of the roll. <em>T</em> for the thickness of the paper. And <em>l</em> for the length of paper remaining on the roll.</p>
+
+<p>$$ r=r(t) $$
+$$ r(0) = R $$</p>
+
+<p>Assuming our roll is solid (has no cardboard tube), the area of the circular part of the tube, time the thickness of the paper <em>T</em>, gives us the length of the role at any moment in time, <em>l(t)</em>.</p>
+
+<p>$$ l(t) = \frac{\pi r^2}{T} $$</p>
+
+<p>Now, let's assume I use toilet paper at a constant rate. We can write this as:</p>
+
+<p>$$ \frac{dl}{dt} = -\alpha = \frac{d}{dt}(\frac{\pi r^2}{T}) = \frac{dr}{dt} \frac{2\pi r}{T} $$</p>
+
+<p>Thus we can find our rate of radial change.</p>
+
+<p>$$ \frac{dr}{dt} = \frac{-\alpha T}{2\pi} * \frac{1}{r} $$</p>
+
+<p>Now we can rearrange and solve.</p>
+
+<p>$$ \frac{dr}{dt} r = \frac{-\alpha T}{2\pi} \Rightarrow \int \frac{dr}{dt} r \,dt = \frac{-\alpha T}{2\pi} \int\,dt \Rightarrow \frac{r^2}{2} + C = \frac{-\alpha T}{2\pi}*t $$</p>
+
+<p>And so we find our equation for <em>r(t)</em>:</p>
+
+<p>$$ r(t) = \sqrt{\frac{-\alpha T}{\pi}*t + C} $$</p>
+
+<p>With our initial condition of <em>r(0)=R</em>, we find</p>
+
+<p>$$ r(t) = \sqrt{\frac{-\alpha T}{\pi}*t + R^2} $$</p>
+
+<p>Which looks about like this, according to Wolfram|Alpha:</p>
+
+<p><img src="http://ltwp.net/stuff/tpmath_graph.png" alt=""></p>
+
+<p>See that hockey-stick behavior? As time goes on, taking toilet paper at a constant rate, the radius will start to decrease faster and faster. My intuition was correct about this.</p>
+
+<p>But I was wrong about judging the fullness of the roll by area. If we square this equation, it becomes linear, so with time the area decreases at a linear rate. I guess my eyes trust the linear measurement more.</p>
+
+        </div>
+
+        <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): d0e4df1bad1164b2e060741ea762cda0 -->
