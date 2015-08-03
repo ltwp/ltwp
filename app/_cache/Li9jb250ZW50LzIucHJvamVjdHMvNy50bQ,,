@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <title>LTWP | Tactile Math</title>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    </head>
+    <body>
+
+        <div class="container">
+
+            <span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+            <br />
+
+
+            <h1>Tactile Math</h1>
+
+            
+
+            <p>In Fall 2013 I did an independent study in the Brown Visual Art deparment, investigating non-written methods for teaching and learning about mathematics. My advisor was Professor <a href="http://www.richard-fishman.com">Richard Fishman</a>.</p>
+
+<p>I examined methods for making math education and communication better than the current systems, focusing on visual and tactile representation methods.</p>
+
+<p>For the "Language of Abstraction" collage, topics present: calculus, elementary fluid mechanics, elementary statistics, elementary chemistry, category theory, homotopy theory, dynamic programming, mock objects, viscous flows, logic, systems engineering. Credit to Alex Czulak, Hawk Weisman, Max Kaplan, Martin Maxey, Nic Schumann, Jacob Sysak, Dmitry Vagner (and myself).</p>
+
+<p>Some of the questions I was asking: can mathematical thinking be taught without cumbersome notation? Why do we have the notation we do? What does it mean to understand a concept? What are effective ways of communicated complex ideas, especially in multimodal methods?</p>
+
+<p>The independent study was open-ended but yielded fruit. I was able to put a lot of conscious effort into learning how to best communicate mathematics (avoid notation, focus on process) and translate ideas between notation and visuals. In addition, I formed some opinions on what needs to be done to reform elementary math education, which you can read here.</p>
+
+
+                        <div class="gallery">
+
+                                <a href="./content/2.projects/7.tm/6.JPG" data-lightbox="photos"><img src="./content/2.projects/7.tm/6.JPG" /></a><br />
+                                <a href="./content/2.projects/7.tm/5.png" data-lightbox="photos"><img src="./content/2.projects/7.tm/5.png" /></a><br />
+                                <a href="./content/2.projects/7.tm/4.JPG" data-lightbox="photos"><img src="./content/2.projects/7.tm/4.JPG" /></a><br />
+                                <a href="./content/2.projects/7.tm/3.png" data-lightbox="photos"><img src="./content/2.projects/7.tm/3.png" /></a><br />
+                                <a href="./content/2.projects/7.tm/2.JPG" data-lightbox="photos"><img src="./content/2.projects/7.tm/2.JPG" /></a><br />
+                                <a href="./content/2.projects/7.tm/1.JPG" data-lightbox="photos"><img src="./content/2.projects/7.tm/1.JPG" /></a><br />
+                                <a href="./content/2.projects/7.tm/sketches_2.gif" data-lightbox="photos"><img src="./content/2.projects/7.tm/sketches_2.gif" /></a><br />
+                                <a href="./content/2.projects/7.tm/sketches_1.gif" data-lightbox="photos"><img src="./content/2.projects/7.tm/sketches_1.gif" /></a><br />
+                                <a href="./content/2.projects/7.tm/process_1.jpg" data-lightbox="photos"><img src="./content/2.projects/7.tm/process_1.jpg" /></a><br />
+                                <a href="./content/2.projects/7.tm/process_0.jpg" data-lightbox="photos"><img src="./content/2.projects/7.tm/process_0.jpg" /></a><br />
+                                <a href="./content/2.projects/7.tm/0pano.jpg" data-lightbox="photos"><img src="./content/2.projects/7.tm/0pano.jpg" /></a><br />
+                
+
+            </div>
+            
+
+
+
+        </div>
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): 4861e06860ff1a9e855e0d1c8e0cf742 -->

@@ -1,0 +1,31 @@
+name: LEGO Workshops
+-
+description:
+
+I started building with LEGO when I was 2 years old and haven't ever stopped. LEGO has been a fundamental part of my youth, outlook, and social life for as long as I can remember.
+
+LEGO is a remarkable thing. Toy, outlet, tool, artistic media, and more; it can be whatever you want it to be. Together with my friend [Gavin Atkinson](http://gav.space), we seek to share the wonderful possibilities of LEGO with wide audiences.
+
+Before befriending Gavin, I gave a solo LEGO workshop in September 2013 at the [Better World by Design](http://www.abetterworldbydesign.com/2015/) (BWxD) conference, focusing on the role of iteration in the design process. This was the first workshop at BWxD done independently by an undergraduate, ever, and was quite a success. Thanks to [Brown STEAM](http://brown.steamwith.us) for the support.
+
+Gavin and I teamed up and were invited to give an inaugural workshop at Boston University's new engineering and innovation building, EPIC. Our workshop was called "LEGO As A Creative Tool" and sought to introduce engineers to creative design processes. We did a narrative building-focused workshop at [AS220 Youth](http://youth.as220.org) later in Spring 2014&mdash;thank you Leigh and Gianna! Max Farnham joined the team for this one.
+
+In September 2014, we moved to version 2.0 of "LEGO As A Creative Tool" and presented at BWxD. We will be creating a new workshop, focusing on the idea of "Access," for BWxD 2015.
+
+I continue to build LEGO on my personal time and am involved as a coordinator for [Brickworld Chicago](http://brickworld.us).
+-
+details:
+
+A Better World by Design, September 2013.
+
+Boston University Engineering Product Innovation Center, March 2014.
+
+AS220 Youth, May 2014.
+
+A Better World by Design, September 2014.
+
+-
+tags: craft, design, pedagogy
+-
+oneline:
+-

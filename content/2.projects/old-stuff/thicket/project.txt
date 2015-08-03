@@ -1,0 +1,22 @@
+name: Thicket Technical Research Fellow
+-
+shortname: Thicket Research
+-
+description:
+
+I had the pleasure of joining the team at [Thicket](http://thisisthicket.net) in New York City as a technical researcher.
+
+My research took me into fields of Graph Theory, Fuzzy Logic, Cognitive Mapping, Clique/Clustering, and more. My work took the form of research, documentation, and prototyping. I made headway into a new way of modeling time-lag effects within a graph-based system.
+
+Many freatures for Thicket's proprietary cognitive mapping tool, on the quantitative side, went through me. I found relevant sources in contemporary network research to forward new metrics and strategies for effective analysis of cognitive maps as systems, and prototyped them in MATLAB before handing code off to the lead developer for Java implementation.
+
+I also helped create an online cognitive map visualization tool (with [graph dracula](http://www.graphdracula.net)) and survey platform, for use in a Chinatown Youth Initiative workshop on identity and activities. This code was in javascript, HTML, and PHP.
+-
+details:
+
+New York, NY. Summer 2014.
+-
+tags: math, computation
+-
+oneline: Modeling social systems through dynamic networks.
+-

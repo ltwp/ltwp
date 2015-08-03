@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>LTWP | Writing</title>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    </head>
+    <body>
+
+        <div class="container">
+
+            <span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+            <br />
+
+
+            <h1>Writing</h1>
+
+            
+
+            <p>In March 2014 I published an interactive HTML poem in Recess Journal called <a href="http://recessjournal.com/2014/03/conversation-space/">conversation &amp; space</a>.</p>
+
+<p>In May 2013 I wrote, as a final for a class on Cartography, a collection of thoughts on <a href="./etc/vg_essay.pdf">video game cartography</a>.</p>
+
+
+            
+
+
+
+        </div>
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): 8c4cf9fa8cf421adcf2a81101e199e9d -->

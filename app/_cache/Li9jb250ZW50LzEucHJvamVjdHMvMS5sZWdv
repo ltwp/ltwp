@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <title>LTWP | LEGO</title>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    </head>
+    <body>
+
+        <div class="container">
+
+            <span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+            <br />
+
+
+            <h1>LEGO</h1>
+
+            
+
+            <p>I have been playing with LEGO since I was 2. My first set was a fire truck, and soon after building it I insisted my mom help me build the picture on the back of the box.</p>
+
+<p>Since then, I haven't really stopped. At age thirteen I attended my first fan convention, the now-defunct Brickfest, and was hooked (despite being one of the youngest people there). I have made many good friends through the LEGO community, and have held roles of blog editor and moderator in various online venues.</p>
+
+<p>Since being away for high school and college, I have not built often. Instead, I am an assistant coordinator of Space/Sci-Fi at <a href="http://brickworld.us">Brickworld Chicago</a>, the largest fan convention in North America.</p>
+
+<p>I have also been running a series of "workshops" about LEGO aimed at college students and older.</p>
+
+<p>The first was an informal building session for my friends, held in the Brown University Science Center.</p>
+
+<p>The second was a dry run of my workshop "LEGO As A Creative Tool," <a href="http://www.brown.edu/research/projects/design-workshop/news/2013-09/lego-creative-tool-workshop">documented by the Brown BDW</a>.</p>
+
+<p>Then, in September 2013, at the <a href="http://www.abetterworldbydesign.com">Better World By Design</a> conference, I ran "LEGO As A Creative Tool" in full. This workshop focused on the archetypal design process and went through it in LEGO, spliced with information about LEGO used as a design tool by everyone from basement scientists to IDEO. It got some press in <a href="http://makezine.com/2013/09/11/a-better-world-by-design-returns-to-providence-sept-27/">Makezine</a>.</p>
+
+<p>In March 2014, <a href="http://gavin-atkinson.com">Gavin Atkinson</a> and I were invited to run the workshop at Boston University at their new Engineering Product Innovation Center. This workshop focused on the process of constrained iteration.</p>
+
+<p>In May 2014, Gavin Atkinson, Max Farnham, and I partnered with <a href="http://as220.org">AS220 Youth</a> and implemented a weekend workshop. This version centered around storytelling in LEGO.</p>
+
+<p>In September 2014, Gavin and I ran a new LEGO-focused workshop at Better World By Design again, but the subject now was not so much the design process. Rather, we spoke about LEGO as metaphor for constructive systems, and LEGO in the context of an art medium.</p>
+
+
+                        <div class="gallery">
+
+                            <a href="./content/1.projects/1.lego/poster_1.png" data-lightbox="photos"><img src="./content/1.projects/1.lego/poster_1.png" /></a>
+                            <a href="./content/1.projects/1.lego/poster_0.jpg" data-lightbox="photos"><img src="./content/1.projects/1.lego/poster_0.jpg" /></a>
+                            <a href="./content/1.projects/1.lego/bwxd1.jpg" data-lightbox="photos"><img src="./content/1.projects/1.lego/bwxd1.jpg" /></a>
+                            <a href="./content/1.projects/1.lego/bu.jpg" data-lightbox="photos"><img src="./content/1.projects/1.lego/bu.jpg" /></a>
+                
+
+            </div>
+            
+
+
+
+        </div>
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): 85795f085621458b164af800b2224c24 -->

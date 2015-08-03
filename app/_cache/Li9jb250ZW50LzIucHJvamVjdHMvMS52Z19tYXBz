@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>LTWP | Cartography, Place, and Identity in Video Games</title>
+        <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    </head>
+    <body>
+
+        <br />
+<span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+<br />
+
+
+                <div class="gallery">
+
+                        <img src="./content/2.projects/1.vg_maps/vg_edge.png" />
+            
+
+        </div>
+        
+
+        
+
+        <div id="left_column">
+
+            <p>For my final project in a cartographic history class at RISD, taught by Dr Christina Connett, I wrote an essay about spatial representation in video games and its ramifications in allowing for player in-game identity creation. I consider it one of my better research papers in college and opened my eyes to further rabbit holes of critical theory.</p>
+
+        </div>
+
+        <div style="text-align: center;" id="right_column">
+            <h1>Cartography, Place, and Identity in Video Games</h1>
+
+            <span class="details">
+                <p>Providence, RI. May 2013.</p>
+
+<p>RISD Class "Visual Narratives in Cartography"</p>
+
+
+                <!-- writing -->
+            </span>
+        </div>
+
+        <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): 9ee2671feb694ccb476a74812530bb52 -->

@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <title>LTWP | Brown STEAM</title>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    </head>
+    <body>
+
+        <div class="container">
+
+            <span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+            <br />
+
+
+            <h1>Brown STEAM</h1>
+
+            
+
+            <div id="description">
+                <p>One of my major reasons for attending Brown University is because I was excited about <a href="http://stemtosteam.org">STEAM</a>.</p>
+
+<p>I found friends and mentors in two like-minded classmates, Hanna McPhee and Michelle Site. With them at the helm, the three of us launched <a href="http://brownsteam.org">Brown STEAM</a>, as a partner group to <a href="http://risdsteam.org">RISD STEAM</a>. We saught to provide a home for people whose interests and projects found them caught between the restrictive disciplinary boundaries of a modern research university, and to espouse the importance of interdisciplinary thinking in the working world.</p>
+
+<p>I acted as VP for two semesters, took a break for another, and am now back as a Senior Advisor for the group. I have helped with advising, administrative duties, logistics, event implementation, and web design (along with <a href="http://cath.land">Cath Schmidt</a>). My biggest event  for the 2013-2014 school year was getting mathematician/sculptor/professor <a href="http://georgehart.com">George Hart</a> to Brown. He gave a lecture, workshop, and installed a hanging orb sculpture in the Engineering/Physics building on campus. Many thanks to Brown STEAM, The Division of Applied Mathematics, the School of Engineering, and the Physics Department for their support.</p>
+
+<p>In Spring 2013 I started a group to partner teach at the <a href="http://jcdsri.org">Jewish Community Day School Rhode Island</a>, to teach STEAM principles to students at a younger age.</p>
+
+            </div>
+
+        </div>
+
+                <div class="gallery">
+
+                        <a href="./content/2.projects/4.steam/george_hart_final.jpg" data-lightbox="photos"><img src="./content/2.projects/4.steam/george_hart_final.jpg" /></a><br />
+                        <a href="./content/2.projects/4.steam/steamteam_1.JPG" data-lightbox="photos"><img src="./content/2.projects/4.steam/steamteam_1.JPG" /></a><br />
+                        <a href="./content/2.projects/4.steam/steamwithus.png" data-lightbox="photos"><img src="./content/2.projects/4.steam/steamwithus.png" /></a><br />
+                        <a href="./content/2.projects/4.steam/blog.png" data-lightbox="photos"><img src="./content/2.projects/4.steam/blog.png" /></a><br />
+                        <a href="./content/2.projects/4.steam/IMG_4659.JPG" data-lightbox="photos"><img src="./content/2.projects/4.steam/IMG_4659.JPG" /></a><br />
+                        <a href="./content/2.projects/4.steam/IMG_3152.JPG" data-lightbox="photos"><img src="./content/2.projects/4.steam/IMG_3152.JPG" /></a><br />
+                        <a href="./content/2.projects/4.steam/IMG_3157.JPG" data-lightbox="photos"><img src="./content/2.projects/4.steam/IMG_3157.JPG" /></a><br />
+                        <a href="./content/2.projects/4.steam/IMG_2931.JPG" data-lightbox="photos"><img src="./content/2.projects/4.steam/IMG_2931.JPG" /></a><br />
+            
+
+        </div>
+        
+
+
+
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): a89f016decd107edf7356af336a69c0a -->

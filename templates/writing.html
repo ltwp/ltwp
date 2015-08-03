@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>LTWP | @name</title>
+        :top
+    </head>
+    <body>
+
+        <!-- :back_proj -->
+
+        if $images do
+        <div class="gallery">
+
+            foreach $images do
+            <img src="@url" />
+            endforeach
+
+        </div>
+        endif
+
+        if !$images do
+        :whitespace
+        endif
+
+        <h1>@name</h1>
+            <span class="details">
+                @details
+            </span>
+
+        :whitespace
+
+        <div id="writing_column">
+
+            @description
+        </div>
+
+        :whitespace
+
+    </body>
+</html>

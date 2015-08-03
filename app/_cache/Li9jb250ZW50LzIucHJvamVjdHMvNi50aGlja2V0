@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>LTWP | Thicket Technical Research</title>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    </head>
+    <body>
+
+        <div class="container">
+
+            <span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+            <br />
+
+
+            <h1>Thicket Technical Research</h1>
+
+            
+
+            <p>In Summer 2014 I had the pleasure of joining the team at <a href="http://thisisthicket.net">Thicket</a> in Brooklyn, NY as a technical researcher.</p>
+
+<p>My research took me into fields of Graph Theory, Fuzzy Logic, Cognitive Mapping, Clique/Clustering, and more. My work took the form of research, documentation, and prototyping. I made headway into a new way of modeling time-lag effects within a graph-based system.</p>
+
+<p>Many freatures for Thicket's proprietary cognitive mapping tool, on the quantitative side, went through me. I found relevant sources in contemporary research to forward new metrics and strategies for effective analysis of cognitive maps as systems, and prototyped them in MATLAB before handing code off to the lead developer for Java implementation.</p>
+
+<p>I also helped create an online cognitive map visualization tool (with <a href="http://www.graphdracula.net">graph dracula</a>) and survey platform, for use in a Chinatown Youth Initiative workshop on identity and activities. This code was in javascript, HTML, and PHP.</p>
+
+
+                        <div class="gallery">
+
+                                <a href="./content/2.projects/6.thicket/time_lag.png" data-lightbox="photos"><img src="./content/2.projects/6.thicket/time_lag.png" /></a><br />
+                
+
+            </div>
+            
+
+
+
+        </div>
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): cbcfead36083d16369bddf20693553a8 -->

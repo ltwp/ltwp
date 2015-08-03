@@ -1,0 +1,30 @@
+name: Workshops
+-
+shortname: Workshops
+-
+description:
+
+## Workshops I've Run:
+
+__LEGO As A Creative Tool__ at [A Better World By Design](http://www.abetterworldbydesign.com) 2013. This was the first student-designed workshop at their conference ever! Focus on the creative process, through LEGO bricks.
+
+__Introduction to Arduino__ via Brown STEAM, hosted by the Brown Design Workshop on November 9, 2013.
+
+__LEGO As A Creative Tool__ as an inaugural event at [Boston University's EPIC](http://www.bu.edu/eng/current-students/epic/) on March 1, 2014. Collaboration with Gavin Atkinson.
+
+__LEGO As A Creative Tool__ at [AS220 Youth](http://youth.as220.org) on May 10, 2014. A slightly modified curriculum to focus on storytelling. Collaboration with Gavin Atkinson and Max Farnham.
+
+__[LEGO: The Quantum of Construction](http://www.abetterworldbydesign.com/workshops/#p8597)__ at [A Better World By Design](http://www.abetterworldbydesign.com) 2014. This curriculum was an introduction to the LEGO hobby and many possibilities for the medium. Collaboration with Gavin Atkinson.
+
+## Workshops I've Attended:
+
+__[Brown Workshop: Integrating Dynamics and Stochastics](http://www.dam.brown.edu/people/lipshutz/workshop.html)__, November 7 2014, at Brown University in Providence, RI.
+
+__[Getting Started with PDEs](http://www.as.huji.ac.il/pdes)__, September 3-9, 2015, at the Hebrew University in Jerusalem, Israel.
+-
+oneline:
+-
+details:
+-
+tags:
+-

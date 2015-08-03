@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>LTWP | Web Design</title>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    </head>
+    <body>
+
+        <div class="container">
+
+            <span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+            <br />
+
+
+            <h1>Web Design</h1>
+
+            
+
+            <div id="description">
+                <p>I taught myself HTML and CSS while in high school because I thought all the cool kids had their own website. Since then, I have done web development (mostly front-end) for <a href="http://communitysystemsfoundation.org">Community Systems Foundation</a>, <a href="http://thisisthicket.net">Thicket</a>, <a href="http://steamwith.us">STEAM</a>, and a couple friends.</p>
+
+<p>I am fluent in HTML, CSS, and jQuery/Javascript, with some vague knowledge of d3.js, PHP, and beyond.</p>
+
+<p>In Spring 2014 I took a class called <a href="http://htmloutput.charrette.ws">HTML Output</a> with John Caserta. This class focused on the web browser as a design tool, experimental web displays, and the conversion from online into print forms. The final output was a website/<a href="http://www.lulu.com/shop/john-caserta/for-with-in/paperback/product-21835972.html">book</a> that is customizable. You can view my work (an interview, some projects, and the webpage itself) at <a href="http://htmloutput.risd.gd">for/with/in</a>.</p>
+
+<p>I have also designed a couple tumblr themes.</p>
+
+            </div>
+
+        </div>
+
+                <div class="gallery">
+
+                        <a href="./content/2.projects/2.web/steamwithus.png" data-lightbox="photos"><img src="./content/2.projects/2.web/steamwithus.png" /></a><br />
+                        <a href="./content/2.projects/2.web/pieratt.PNG" data-lightbox="photos"><img src="./content/2.projects/2.web/pieratt.PNG" /></a><br />
+                        <a href="./content/2.projects/2.web/mfti_1.png" data-lightbox="photos"><img src="./content/2.projects/2.web/mfti_1.png" /></a><br />
+                        <a href="./content/2.projects/2.web/di_facts.png" data-lightbox="photos"><img src="./content/2.projects/2.web/di_facts.png" /></a><br />
+                        <a href="./content/2.projects/2.web/confetti.png" data-lightbox="photos"><img src="./content/2.projects/2.web/confetti.png" /></a><br />
+            
+
+        </div>
+        
+
+
+
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): a89f016decd107edf7356af336a69c0a -->

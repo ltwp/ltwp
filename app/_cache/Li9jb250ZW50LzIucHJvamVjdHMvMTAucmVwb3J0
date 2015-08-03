@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>LTWP | A Report On Bottle Caps</title>
+        <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+
+        <!-- <br />
+<span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+<br />
+ -->
+
+        
+
+                <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+        
+
+        <div id="left_column">
+
+            <p>Alternative Commencement is a space for upcoming graduates to reflect on their years at Brown, in whatever form that may take.</p>
+
+<p>Inspired by writing I was doing at the time in a class with English professor Michael Stewart, and <a href="http://bombmagazine.org/article/1000191/three-reports">readings</a> by Brian Evenson, I wrote about my apartment and apartmentmate.</p>
+
+<p>You can read my piece on <a href="http://alternativecommencement.tumblr.com/post/115119244973/a-report-on-bottle-caps-lukas-winklerprins">Alternative Commencement</a>.</p>
+
+        </div>
+
+        <div style="text-align: center;" id="right_column">
+            <h1>A Report On Bottle Caps</h1>
+
+            <span class="details">
+                <p>Providence, RI. April 2015.</p>
+
+
+                <!-- writing -->
+            </span>
+        </div>
+
+        <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): 0d64f1f43450216e121d3d113a8bb241 -->

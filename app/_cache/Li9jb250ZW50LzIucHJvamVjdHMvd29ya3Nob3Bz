@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>LTWP | Workshops</title>
+        <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css.css" />
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+
+        <!-- <br />
+<span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+<br />
+ -->
+
+        
+
+                <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+        
+
+        <div id="left_column">
+
+            <h2>Workshops I've Run:</h2>
+
+<p><strong>Introduction to Arduino</strong> via Brown STEAM, hosted by the Brown Design Workshop on November 9, 2013.</p>
+
+<p><strong>LEGO As A Creative Tool</strong> at <a href="http://www.abetterworldbydesign.com">A Better World By Design</a> 2013. This was the first student-designed workshop at their conference ever! Focus on the creative process, through LEGO bricks.</p>
+
+<p><strong>LEGO As A Creative Tool</strong> at <a href="http://youth.as220.org">AS220 Youth</a>. A slightly modified curriculum to focus on storytelling. Collaboration with Gavin Atkinson and Max Farnham.</p>
+
+<p><strong>LEGO As A Creative Tool</strong> as an inaugural event at <a href="http://www.bu.edu/eng/current-students/epic/">Boston University's EPIC</a> on March 1, 2014. Collaboration with Gavin Atkinson.</p>
+
+<p><strong><a href="http://www.abetterworldbydesign.com/workshops/#p8597">LEGO: The Quantum of Construction</a></strong> at <a href="http://www.abetterworldbydesign.com">A Better World By Design</a> 2014. This curriculum was an introduction to the LEGO hobby and many possibilities for the medium.</p>
+
+<h2>Workshops I've Attended:</h2>
+
+<p><strong><a href="http://www.dam.brown.edu/people/lipshutz/workshop.html">Brown Workshop: Integrating Dynamics and Stochastics</a></strong>, November 7 2014, at Brown University.</p>
+
+<p><strong><a href="http://www.as.huji.ac.il/pdes">Getting Started with PDEs</a></strong>, September 3-9, 2015, at the Hebrew University in Jerusalem, Israel.</p>
+
+        </div>
+
+        <div style="text-align: center;" id="right_column">
+            <h1>Workshops</h1>
+
+            <span class="details">
+                
+
+                <!--  -->
+            </span>
+        </div>
+
+        <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): f9cd758ecc63dc900b1804430eb6647d -->

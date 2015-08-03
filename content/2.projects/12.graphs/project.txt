@@ -1,0 +1,22 @@
+name: Functional Graphs of Polynomials on Finite Fields
+-
+shortname: Functional Graphs
+-
+description:
+
+In the second half of [Studio Applied Math](http://ltwp.net/projects/sapma), I teamed up with Daniel Keliher (Brown '17) to investigate the structures of graphs made by polynomial dynamics on finite fields. That is, we are curious what shapes of graphs emerge from choosing certain functions and sets of (modulo) numbers.
+
+Our investigation began with a literature review, took us into deep computationally difficult territory in finding directed graph isomorphisms, and then into truly striking patterns of polynomial isometry.
+
+Our paper, summarizing the project, can be found [here](http://ltwp.net/stuff/keliher_winklerprins.pdf).
+-
+details:
+
+Providence, RI. May 2015.
+
+Brown Class "Studio Applied Math"
+-
+tags: math
+-
+oneline: Small-scale graph isomorphism investigation.
+-

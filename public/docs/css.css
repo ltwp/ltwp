@@ -1,0 +1,154 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  width: 100%;
+  background-color: white;
+  color: black;
+  xfont-family: Inconsolata, Menlo, Courier, monospace;
+  font-family: 'PT Serif', serif;
+  text-align: center;
+  line-height: 140%;
+  font-size: 16px;
+}
+
+.container{
+  margin: 20px auto;
+  width: 500px;
+}
+
+::-moz-selection {
+  background-color: #eec611;
+}
+
+::selection {
+  background-color: #eec611;
+}
+
+h1{
+  font-family: 'Helvetica', sans-serif;
+  font-weight: bold;
+  font-size: 70px;
+  line-height: 80px;
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: left;
+  padding: 5px;
+  margin: 0;
+  font-family: 'Helvetica',sans-serif;
+}
+
+p{
+  margin: 20px 0px;
+}
+
+a{
+  text-decoration: none;
+  border-bottom: 1px solid #333333;
+  color: #333333;
+}
+a:hover{
+  border: none;
+}
+
+.nav{
+  font-family: 'Courier',monospace;
+  background-color: #DDDDDD;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.nav a{
+  border-bottom: 2px solid #333333;
+}
+
+.left{
+  text-align: left;
+}
+
+/* Some stuff for THE PROJECT PAGE */
+
+#left_column{
+  display: inline;
+  float: left;
+  width: 30%;
+  margin-left: 10%;
+  text-align: left;
+}
+
+#right_column{
+  display: inline;
+  float: right;
+  width: 45%;
+  margin-right: 5%;
+  text-align: left;
+}
+
+#writing_column{
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  font-size: 18px;
+}
+
+/* To use in Project Titles */
+h3{
+  font-size: 35px;
+  line-height: 40px;
+  font-weight: bold;
+  font-family: 'Helvetica',sans-serif;
+  xtext-transform: uppercase;
+  text-decoration: none;
+}
+
+/*
+h3:after{
+  content: "→";
+  text-transform: none;
+}
+*/
+
+h3:hover{
+  font-style: italic;
+}
+
+/* To use in Project captions */
+.caption{
+  color: #AAAAAA;
+  font-size: 12px;
+  padding-left: 30px;
+  position: relative;
+  top: -20px;
+}
+
+
+/* Now stuff for PROJECT PAGES */
+
+.gallery{
+  height: 570px;
+  width: 100%;
+  white-space: nowrap;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  margin: 20px auto;
+}
+
+.gallery img{
+  margin: 5px;
+  height: 550px;
+  width: auto;
+  display: inline;
+}
+
+.details{
+  font-size: 13px;
+}

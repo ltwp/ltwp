@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>LTWP | non-space</title>
+        <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+
+        <!-- <br />
+<span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+<br />
+ -->
+
+                <div class="gallery">
+
+                        <img src="./content/2.projects/9.nonspace/4.jpg" />
+                        <img src="./content/2.projects/9.nonspace/3.jpg" />
+                        <img src="./content/2.projects/9.nonspace/2.jpg" />
+                        <img src="./content/2.projects/9.nonspace/1.gif" />
+                        <img src="./content/2.projects/9.nonspace/0.jpg" />
+            
+
+        </div>
+        
+
+        
+
+        <div id="left_column">
+
+            <p>In Fall 2014, <a href="http://main.bradtroemel.com">Brad Troemel</a> came and spoke in Providence through the Creative Mind Initiative. He told stories of being an undergrad at SAIC, where students would push all the furniture out of their apartments and hold small shows of their friends' artwork. I was enamored with this idea, and had a number of friends who were artists or designers.</p>
+
+<p>In November, I found myself in possession of a pair of keys that unlocked an empty apartment. With the help of my friends <a href="http://elizabethgoodspeed.com">Elizabeth Goodspeed</a>, <a href="http://polinagodz.net">Polina Godz</a>, <a href="http://jjord.com">Jordan Beard</a>, and <a href="http://nathanzack.net">Nathan Zack</a>, we threw a one-night, pop-up, 12-artist show.</p>
+
+<p>Thanks to Alice Taranto, Savannah Berkley, Rachel Haberstroh, Zack Korol-Gold, Danny Sobor, Lukas Eigler-Harding, Yeon Hak Ryoo, Julie Mennone, Nic Schulman, Wes Sanders, Steven Dowd, Milan Koerner-Safrata, and my fellow organizers for being patient and making an awesome night. And thank you to <a href="http://www.theindy.org">The College Hill Independent</a> for the press.</p>
+
+        </div>
+
+        <div style="text-align: center;" id="right_column">
+            <h1>non-space</h1>
+
+            <span class="details">
+                <p>Providence, RI. November-December 2014.</p>
+
+
+                <!-- experiences, art -->
+            </span>
+        </div>
+
+        <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): eaf4c11c34651fb5991eaffa77e75082 -->

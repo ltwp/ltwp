@@ -1,0 +1,18 @@
+name: non-space
+-
+description:
+
+In Fall 2014, [Brad Troemel](http://main.bradtroemel.com) came and spoke in Providence through the Creative Mind Initiative. He told stories of being an undergrad at SAIC, where students would push all the furniture out of their apartments and hold small shows of their friends' artwork. I was enamored with this idea, and had a number of friends who were artists or designers.
+
+In November, I found myself in possession of a pair of keys that unlocked an empty apartment. With the help of my friends [Elizabeth Goodspeed](http://elizabethgoodspeed.com), [Polina Godz](http://polinagodz.net), [Jordan Beard](http://jjord.com), and [Nathan Zack](http://nathanzack.net), we threw a one-night, pop-up, 12-artist show.
+
+Thanks to Alice Taranto, Savannah Berkley, Rachel Haberstroh, Zack Korol-Gold, Danny Sobor, Lukas Eigler-Harding, Yeon Hak Ryoo, Julie Mennone, Nic Schulman, Wes Sanders, Steven Dowd, Milan Koerner-Safrata, and my fellow organizers for being patient and making an awesome night. And thank you to [The College Hill Independent](http://www.theindy.org) for the press.
+-
+details:
+
+Providence, RI. November-December 2014.
+-
+tags: experiences, art
+-
+oneline: Ephemeral art show.
+-

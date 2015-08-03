@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>LTWP | Studio Applied Math</title>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    </head>
+    <body>
+
+        <div class="container">
+
+            <span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+            <br />
+
+
+            <h1>Studio Applied Math</h1>
+
+            
+
+            <div id="description">
+                <p>Studio Applied Math is an idea that has been rumbling around my head since the end of high school. I have always loved math (something I credit to an incredible string of great math teachers and professors), but as I progress I have grown tired of the same boring format: lectures with little student involvement, problem sets, and in-class closed-book exams. This can work for basic material, but at the high levels feels ineffective and outdated.</p>
+
+<p>My favorite classes have always been "studios." A studio-style classroom is more student-taught, but professor-guided; it focuses on diverse viewpoints to solve open-ended problems. Students work on long-term projects, instead of week-to-week problem sets.</p>
+
+<p>What happens when we apply this classroom structure to the subject of mathematics? A team of students, led by me, my friend Mara Freilich, and our mentor Bjorn Sandstede, are seeking to find out in a student-designed class in Spring 2015. Keep tuned at <a href="http://studioapma.tumblr.com">Studio APMA</a>.</p>
+
+            </div>
+
+        </div>
+
+                <div class="gallery">
+
+                        <a href="./content/2.projects/3.sapma/logo.png" data-lightbox="photos"><img src="./content/2.projects/3.sapma/logo.png" /></a><br />
+            
+
+        </div>
+        
+
+
+
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): a89f016decd107edf7356af336a69c0a -->

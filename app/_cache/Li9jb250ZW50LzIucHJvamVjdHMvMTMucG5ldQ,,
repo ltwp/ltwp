@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>LTWP | Pneumatic Igloo</title>
+        <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+
+        <!-- <br />
+<span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+<br />
+ -->
+
+                <div class="gallery">
+
+                        <img src="./content/2.projects/13.pneu/5.JPG" />
+                        <img src="./content/2.projects/13.pneu/4.JPG" />
+                        <img src="./content/2.projects/13.pneu/3.JPG" />
+                        <img src="./content/2.projects/13.pneu/2.jpeg" />
+                        <img src="./content/2.projects/13.pneu/1.PNG" />
+            
+
+        </div>
+        
+
+        
+
+        <div id="left_column">
+
+            <p>During the 2014-2015 school year, Brown STEAM started collaborating with local company <a href="http://pneuha.us">Pneuhaus</a>, developing a plan to commission a large-scale bubble for the student group to use as a flexible and transportable programming space.</p>
+
+<p>In the planning and research phases of this project, I found myself excited about the technical details of pneumatic structures: the engineering details, as well as physical construction. I took this interest to Dr Chris Bull in the School of Engineering and developed an independent study for me to study Pneumatic Architecture.</p>
+
+<p>The semester consisted of a crash-course in solid mechanics, pneumatic engineering, and finite element methods. All that before actually sitting down and designing, then constructing, my own inflatable pneumatic structure.</p>
+
+<p>I call my structure the "igloo." It is a 2/3rds sphere in the form of a geodesic dome, made out of 1.9oz ripstop Nylon.</p>
+
+<p>Big thanks to Pneuhaus, Dr Bull, Alex Hadik, and many other friends for their help and support over the course of this project. More documentation forthcoming.</p>
+
+        </div>
+
+        <div style="text-align: center;" id="right_column">
+            <h1>Pneumatic Igloo</h1>
+
+            <span class="details">
+                <p>Providence, RI. May 2015.</p>
+
+<p>Brown Class "Pneumatic Architecture" Indepedent Study in ENGN department.</p>
+
+
+                <!-- craft, design, math -->
+            </span>
+        </div>
+
+        <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): 1847cbca242b464f62fcf7ac0dded35b -->

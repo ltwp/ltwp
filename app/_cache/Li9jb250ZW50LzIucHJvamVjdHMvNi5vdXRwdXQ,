@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <title>LTWP | for/with/in</title>
+        <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+
+        <!-- <br />
+<span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+<br />
+ -->
+
+                <div class="gallery">
+
+                        <img src="./content/2.projects/6.output/Screen Shot 2014-04-14 at 10.29.04 p.PNG" />
+                        <img src="./content/2.projects/6.output/Screen Shot 2014-04-01 at 11.21.53 a.PNG" />
+                        <img src="./content/2.projects/6.output/Screen Shot 2014-03-07-at-4.50.10-p.png" />
+            
+
+        </div>
+        
+
+        
+
+        <div id="left_column">
+
+            <p>I had the pleasure of taking <a href="http://htmloutput.risd.gd">HTML Output</a> in RISD's Graphic Design department under John Caserta. We spent the semester investigating the messy corners and crazy possibilities of the web browser.</p>
+
+<p>My experiments focused on scrolling as a gesture of interaction and defaults built into standard web formats. My knowledge of javascript put me near the front of the ship when making a tool to turn the website into a printable book at the push of a button, too, but this effort was largely driven by the amazing Evan Brooks. I also got to interview a hero of mine, <a href="http://pieratt.com">Ben Pieratt</a>.</p>
+
+        </div>
+
+        <div style="text-align: center;" id="right_column">
+            <h1>for/with/in</h1>
+
+            <span class="details">
+                <p>Providence, RI. Spring 2014.</p>
+
+<p>RISD Class "HTML Output"</p>
+
+
+                <!-- design -->
+            </span>
+        </div>
+
+        <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): 59b19a4f512abc425b28ea925e2d35e1 -->

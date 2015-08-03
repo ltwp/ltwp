@@ -1,0 +1,18 @@
+name: Conversation & Space
+-
+description:
+
+In Spring 2014 I was in an [experimental web design class](http://ltwp.net/projects/output) and was thinking about multimedia experiences within the allowances of scrolling in the web browser. This poem (if I can call it that) is the result. Published by the now-defunct Recess Journal; many thanks to Kate Groetzinger and Koji Yamamoto for letting me break their web platform.
+
+To read the poem, click [here](http://ltwp.net/stuff/conversation_space/).
+-
+details:
+
+Providence, RI. March 2014.
+
+Originally published by Recess Journal (at Brown University).
+-
+tags: writing
+-
+oneline: Scrolling poem.
+-

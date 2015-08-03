@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>LTWP | Projects</title>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    </head>
+    <body>
+
+        <div class="container">
+
+            <span class="nav"><a href="./">&larr; back to LTWP</a></span>
+            <br />
+
+
+            <h1>Projects</h1>
+
+            <p>My research interests are in dynamic systems, graph theory, granular fluids, and metrics. I also like furniture, short stories, art history, education, and swimming.</p>
+
+
+            
+            <h2><a href="./?/projects/steam/">Brown STEAM</a></h2> <br />
+
+            
+            <h2><a href="./?/projects/sapma/">Studio Applied Math</a></h2> <br />
+
+            
+            <h2><a href="./?/projects/web/">Web Design</a></h2> <br />
+
+            
+            <h2><a href="./?/projects/lego/">LEGO</a></h2> <br />
+
+            
+
+        </div>
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): 33b0a5aeaa23acb862a629da9f1c2641 -->

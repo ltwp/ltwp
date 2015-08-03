@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <title>LTWP | Thicket Technical Research Fellow</title>
+        <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css.css" />
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+
+        <!-- <br />
+<span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+<br />
+ -->
+
+                <div class="gallery">
+
+                        <img src="./content/2.projects/thicket/hiccupdeck_1.jpg" />
+            
+
+        </div>
+        
+
+        
+
+        <div id="left_column">
+
+            <p>I had the pleasure of joining the team at <a href="http://thisisthicket.net">Thicket</a> in New York City as a technical researcher.</p>
+
+<p>My research took me into fields of Graph Theory, Fuzzy Logic, Cognitive Mapping, Clique/Clustering, and more. My work took the form of research, documentation, and prototyping. I made headway into a new way of modeling time-lag effects within a graph-based system.</p>
+
+<p>Many freatures for Thicket's proprietary cognitive mapping tool, on the quantitative side, went through me. I found relevant sources in contemporary network research to forward new metrics and strategies for effective analysis of cognitive maps as systems, and prototyped them in MATLAB before handing code off to the lead developer for Java implementation.</p>
+
+<p>I also helped create an online cognitive map visualization tool (with <a href="http://www.graphdracula.net">graph dracula</a>) and survey platform, for use in a Chinatown Youth Initiative workshop on identity and activities. This code was in javascript, HTML, and PHP.</p>
+
+        </div>
+
+        <div style="text-align: center;" id="right_column">
+            <h1>Thicket Technical Research Fellow</h1>
+
+            <span class="details">
+                <p>New York, NY. Summer 2014.</p>
+
+
+                <!-- math, computation -->
+            </span>
+        </div>
+
+        <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): 2d045d7247b25abbb32ae303334d42ba -->

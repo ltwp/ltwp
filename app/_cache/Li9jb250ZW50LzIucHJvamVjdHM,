@@ -1,0 +1,126 @@
+<html>
+    <head>
+        <title>LTWP | Projects</title>
+        <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css.css" />
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+
+        <!-- <br />
+<span class="nav"><a href="./">&larr; back to LTWP</a></span>
+<br />
+ -->
+
+        <div class="container">
+        <h1>Projects</h1>
+        <br />&nbsp;
+        </div>
+
+        <div id="left_column">
+            <h2>About Me</h2>
+
+<p>I'm an applied mathematician with broad interests. I like structures, spaces, dynamics.</p>
+
+<p>View <a href="http://ltwp.net/projects/writing">my writing</a>.</p>
+
+<p>I am currently finishing my time at Brown University. I am a TA in the Division of Applied Mathematics and am the head manager at the <a href="http://www.brown.edu/research/projects/design-workshop/about-us">Brown Design Workshop</a>, where I was a founding member. I give tours at the <a href="http://risdmuseum.org">RISD Museum</a>.</p>
+
+<p>Previously, professionally, I have done fluids research on an NSF grant, technical research on social systems and networks at <a href="http://thisisthicket.net">Thicket</a>, and furniture building with <a href="http://borisbally.com">Boris Bally</a>. I continue to be associated with <a href="http://brown.steamwith.us">Brown STEAM</a>.</p>
+
+<p>Some skills I can offer:</p>
+
+<ul>
+<li>Interdisciplinary Research</li>
+<li>Dynamic and agent-based modeling</li>
+<li>MATLAB, Mathematica, LaTeX</li>
+<li>Workshop Planning and Execution</li>
+<li>Microsoft and Google document suites</li>
+<li>Wood- and Metal-working</li>
+<li>Adobe Photoshop and Illustrator</li>
+<li>Fabric Construction</li>
+<li>HTML/CSS</li>
+<li>Javascript, jQuery, various libraries.</li>
+<li>Arduino &amp; Processing</li>
+<li>Rhino 3D (currently learning)</li>
+<li>Python (currently learning)</li>
+</ul>
+
+<p>Elsewhere: <a href="http://www.last.fm/user/ltwp">last.fm</a> / <a href="https://github.com/ltwp">github</a> / <a href="http://www.ltwp.yelp.com">yelp</a> / <a href="https://pinboard.in/u:lukas">pinboard</a> / <a href="https://www.are.na/lukas-wp">are.na</a></p>
+
+
+            <!-- <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. -->
+        </div>
+
+
+
+        <div id="right_column">
+            
+            <a href="./?/projects/hopscotch/"><h3>1  Hopscotch </h3></a><br />
+
+                            <div class="caption">A brand and a pair of overalls.</div>
+            
+
+            
+            <a href="./?/projects/sapma/"><h3>2  Studio Applied Math </h3></a><br />
+
+                            <div class="caption">Treating the math classroom like an atelier.</div>
+            
+
+            
+            <a href="./?/projects/pneu/"><h3>3  Pneumatic Igloo </h3></a><br />
+
+                            <div class="caption">What does it take to make an inflatable structure?</div>
+            
+
+            
+            <a href="./?/projects/graphs/"><h3>4 Functional Graphs  </h3></a><br />
+
+                            <div class="caption">Small-scale graph isomorphism investigation.</div>
+            
+
+            
+            <a href="./?/projects/nonspace/"><h3>5  non-space </h3></a><br />
+
+                            <div class="caption">Ephemeral art show.</div>
+            
+
+            
+            <a href="./?/projects/lego/"><h3>6  LEGO Workshops </h3></a><br />
+
+            
+
+            
+            <a href="./?/projects/output/"><h3>7  for/with/in </h3></a><br />
+
+                            <div class="caption">Experiments in the web browser.</div>
+            
+
+            
+            <a href="./?/projects/jcdsri/"><h3>8  KinderSTEAM </h3></a><br />
+
+                            <div class="caption">K-5 integrative teaching.</div>
+            
+
+            
+            <a href="./?/projects/tactilemath/"><h3>9  Tactile Math </h3></a><br />
+
+                            <div class="caption">Make math easier to play with.</div>
+            
+
+            
+            <a href="./?/projects/granular/"><h3>10 Granular Flows  </h3></a><br />
+
+                            <div class="caption">Understanding inter-grain stresses.</div>
+            
+
+            
+        </div>
+
+        <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): 467d002fd33efdaceacae084c0c9d5bc -->

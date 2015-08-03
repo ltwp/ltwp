@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>LTWP | Hopscotch</title>
+        <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css.css" />
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+
+        <!-- <br />
+<span class="nav"><a href="./?/projects">&larr; back to Projects</a></span>
+<br />
+ -->
+
+                <div class="gallery">
+
+                        <img src="./content/2.projects/15.hopscotch/_MG_7053.JPG" />
+            
+
+        </div>
+        
+
+        
+
+        <div id="left_column">
+
+            <p>I think it was in Spring 2014 that my friend <a href="http://nathanzack.net">Nate</a> came to me and told me he thought there was a hole in the market for mid-priced womens overalls. We, half-jokingly, talked about starting a brand, making a pair, and then fell back into our schoolwork and summer jobs.</p>
+
+<p>But we kept talking about this idea—a certain aesthetic, the literary woman, a level of comfort and cozy, urban spaces and rural lineage. Lines in space and arrangements of textures. We kept finding ourselves looking at images of overalls.</p>
+
+<p>Finally, in January 2015, we sprung. We were excited to learn how to construct a garment out of fabric, to define a look, a feel, and to make design decisions that start to construct a brand.</p>
+
+<p>It took us 5 months, but we made a pair of real, denim overalls. Thanks to <a href="http://laylamayehsan.com">Layla</a> for her paitience and amazing modeling skills. Thanks to the <a href="http://www.brown.edu/research/projects/design-workshop/about-us">BDW</a> for their sewing machine and generous table space. Thank you <a href="jjord.com">Jordan</a> for his excellent photography.</p>
+
+<p>More photos, and a website, to come.</p>
+
+        </div>
+
+        <div style="text-align: center;" id="right_column">
+            <h1>Hopscotch</h1>
+
+            <span class="details">
+                <p>Providence, RI. May 2015.</p>
+
+<p>Photo by Jordan Beard.</p>
+
+
+                <!-- craft, design -->
+            </span>
+        </div>
+
+        <div style="height: 40px; width: 100%; display: block; clear: both;">&nbsp;</div>
+
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): d7f5f4153355597d2c336a6bce84db31 -->

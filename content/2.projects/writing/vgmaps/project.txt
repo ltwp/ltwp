@@ -1,0 +1,20 @@
+name: Cartography, Place, and Identity in Video Games
+-
+shortname: Videogame Maps
+-
+description:
+
+For my final project in a cartographic history class at RISD, taught by Dr Christina Connett, I wrote an essay about spatial representation in video games and its ramifications in allowing for player in-game identity creation. I consider it one of my better research papers in college and opened my eyes to further rabbit holes of critical theory.
+
+Read the essay [here](http://ltwp.net/stuff/vg_cartography.pdf).
+-
+details:
+
+Providence, RI. May 2013.
+
+RISD Class "Visual Narratives in Cartography"
+-
+tags: writing
+-
+oneline: Essay on identity in virtual space.
+-
