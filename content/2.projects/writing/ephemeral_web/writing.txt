@@ -1,0 +1,359 @@
+name: On Ephemerality and The Internet
+-
+description:
+
+# 0. EVERYTHING YOU OWN IS DYING
+
+You know that car your dad always talks about? That one he had in his teens or 20s that brings glimmers to his eyes when he references it, even if it got 8mpg and didn’t have air conditioning? This tool, this space, defined some part of his life. He saw things and listened to music and sometimes his friends would sit in the back. That car is long gone. He has a couple photos and good memories left.
+
+What is my analogue of that, as a 22-year-old Millennial who grew up moving around and will likely never own a car?
+
+Is it a website?
+
+I’m going to remember Twitter in 30 years as a hotbed for silly humor and sharing links, and too bad they don’t make ‘em like that any more kiddo. I love twitter (despite its overwhelming speed and poor treatment of vulnerable users). It has adapted based on how users behave, it is not a faux-pas to unfollow a friend, and the interactions boil down to a few simple principles. It's a flexible thing where I get to do a lot and for me, it will be this tool, this space, that was a certain time and place. All I get to keep are the memories of its quirks and my experiences, and any tweets I somehow save.
+
+But we don’t talk like that. We act as if a lot of social media will last forever. (Not the media itself, necessary—hi Snapchat—but the structures of the media.) We make accounts that depend on our Facebook profiles and all of our password resets go back to one Gmail account we made back before we had full-time jobs.  Facebook will vanish one day; Gmail too. These are fragile relationships in a web of ever-compounding link rot and shifting APIs. More fragile, perhaps, than your dad’s rusting Ford. We are building sandcastles. Digital sandcastles that, for an increasing proportion of people, especially in my generation, act as storehouses to everything that defines them. Our photos, our words, our friends, our work, and our identities are online. A sandcastle is not a safe place to keep these things.
+
+We want agency and ownership over the identities we form within and around the media we consume. We want to find a lock-box for our digital selves, a place to own our information. Of course, a lock-box doesn't last forever either. It just lasts longer than we'll be alive to care about it, and that's good enough.
+
+Along with owning a car, my dad used to live in a small apartment, and had some books and furniture. These tools and spaces and media frame much of his experience and his identities. Focus now is more on digital spaces, digital media—digital furniture. My dad had a garage for his car. Where do we put the digital stuff we own?
+
+Ownership in the digital age is different, of course, because digital products can be reproduced at virtually zero cost. If I own a couch, that means that in my apartment I have a couch that I can use at any moment I want. If I own a .jpg however, what does this mean? If me owning a couch is about me being able to use it whenever I want, then the idea of owning digital property is mostly about _finding it_ in the massive, messy haystack that is the internet. If I can find it, it’s mine.
+
+> After all, if Google is the front door of the web it no longer really matters what’s on the web, if you can’t find it via Google with a 10 second investment in time then it might as well not exist. [via](http://jacquesmattheij.com/defending-the-right-to-be-forgotten)
+
+
+> If it doesn't have a URL, it doesn't exist. $$$
+https://twitter.com/RonenV/status/450303404389449728
+
+I haven’t yet mentioned the fact that virtually all of us, plugged into the web, are doing so via a chunk of metal that itself can store documents. Sometimes this content outlasts that on the web, but sometimes it doesn’t. Disk drives die all the time. So do [cloud services](http://bygonebureau.com/2011/01/17/link-rot/). Pick your poison, or just try both and accept the need for redundancy (more on this later). I try to treat my content equally whether it is online or only on my hard drive—the only real difference is the former is more easily accessible to people other than me. Both public and private sandcastles of content are necessary for my internal senses of identity to stay healthy and flexible. Increasingly, _all_ of my digital furniture is online, just some of it is privately online. (This is why we need digital privacy, but that’s a topic for another essay.)
+
+I pay or have payed for a couple internet services, like [Pinboard.in](http://pinboard.in), [Rdio](http://rdio.com), and [Instapaper](http://instapaper.com). The monetary value in these services is in _finding things_—their access, speed, ease, and searchability. I am paying for a short-cut to finding the media I want to find, and thus own. Are.na is free unless you pay for Premium, which comes with the perk of better search. Natch.
+
+This ability to find is invaluable in these shifting sands. But there’s a bit of trouble in the fact that these searching services are made of sand, too.
+
+Rdio is going to go out of business and take my collection with it. Internet protocols are going to die. My couch is going to get ground up. My apartment building will be torn down. The electrical grid will take a new form. Earth will burn and we’ll be on Mars. All infrastructure is temporary. But this scope is too large. People are still creating, consuming, making money, enjoying life. We aren’t all acting as if these infrastructure are going to die tomorrow because they aren’t. Only some are. The rest will die later.
+
+# 1. SCALES OF THE STREAM
+
+In [Maciej Ceglowski’s recent talk](http://idlewords.com/talks/web_design_first_100_years.htm), he discusses a saturation point of technologies, where they bump up against physical barriers like energy efficiency. Mathematicians call these inherent scales. For an airplane the inherent scales are the length of the fuselage and the length of the wing. For a clock the inherent scales are the length of the pendulum and how fast it swings (which are related). Humans have an inherent time scale of about 70 years of life, an inherent time scale of about 24 hours for circadian rhythm, an inherent length scale of about 162cm for height, etcetera.
+
+None of these things are _fixed_. New energy technologies come and go all the time, and evolution is still at work in changing what humans are shaped like. These scales that seem fixed are changing at their own meta-level inherent speeds. The pace at which things like the human genome change is virtually meaningless as we live and create at a day-to-day pace; it is too slow. The stream of cultural change slowly too, but a bit faster. Technological change happens faster, but still not as fundamentally fast as we may think. Faster still is the pace at which we navigate our daily tasks, our relationships, and our juggling of identity in our actions and thoughts. So the inherent time scale of human thought, action, interaction is much faster than that of the inherent time scale of human cultural epochs, and much faster than the inherent time scale of genetic evolution.
+
+But faster than everything mentioned is the stream of the internet. “__The Stream__” (or “Feed”) of Facebook, Twitter, Youtube, Soundcloud, Snapchat, Tumblr, the Blogosphere, and more. These feeds could learn a lesson about the inherent scales of the human.
+
+> People who didn’t live pre-Internet can’t grasp how devoid of ideas life in my hometown was. The only bookstores sold Bibles the size of coffee tables and dashboard Virgin Marys that glowed in the dark. I stopped in the middle of the SAT to memorize a poem, because I thought, This is a great work of art and I’ll never see it again. -[Mary Karr](http://www.theparisreview.org/interviews/5992/the-art-of-memoir-no-1-mary-karr)
+
+Mary Karr’s hometown had an information time scale that was too slow compared to that of her brain. On the web, we have more than enough information every minute. Part of the cultural zeitgeist of my generation is an feeling of being overwhelmed. We can’t make our minds up, we don’t know what to look at. The stream gives us too much, it flows too densely and quickly. I don’t have a good idea of what the inherent scale for the brain to absorb information is (I’d say it’s somewhere between an hour and three days), but the stream is definitely a few orders of magnitude too fast.
+
+(Don’t let this sound like a universal pan of stream-based media sites. I love them and they are excellent at some things, especially rapid publicity and easy browsing, or [television internet](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426). This is fun in casual bite-size consumption. But in terms of long-term habits, sharing, and media creation, I want to move a bit slower.)
+
+In my experience, our way of dealing with this is by cherry-picking from The Stream. Almost all of these social media sites allow you to “fav” content, or at least “share” to a site where you can “fav”. (In some places it’s a “like” or “star” or whatever—I’ll use “fav” as a generic term for this action.) This little click can mean a lot of things. Sometimes it’s a bookmark, a statement of delight, or sometimes an acknowledgement. For my purposes I’ll focus on the former two cases in this essay. When I “fav” something, it means _I want to come back to this_. I either am curious enough, or like the piece of content enough, that it is worth a revisit.
+
+As Robin Sloan beautifully articulates in his tap essay, Fish: “On the internet today, [seeing] something twice is a radical act.” When you own a book, it sits on your shelf at home and is easy to open up again. Online, it is just as easy to find something yet unseen as it is to revisit something. Having a shelf of digital stuff we love—our tumblr “likes” and twitter “favs”—make them all the easier to revisit, to love, and to own, as best we can.
+
+If you are like me, and spend a lot of time on these sites, your favs are still a fast-moving dumping ground. We’ve siphoned off some of The Stream into our river of favs, which moves at a slower pace, one much closer to our inherent scale of media intake. But these streams are still too quick. And when I return to it, it is sorted in the exact way the stream is: reverse-chronologically.
+
+# 2. CONTENT STRUCTURES
+
+I have a love/hate relationship with reverse-chronological organization of media. Chronology is a hierarchy. In a reverse-chronological structure, the most recent things are at the top, and we down from there. When I want to do research, however, I tend to want a network, not a chronological hierarchy. I want to see where ideas connect with each other, what content is relevant to other content. This is frequently more important than the publication date. Manuel de Landa, in _[1000 Years of Nonlinear History](http://www.amazon.com/Thousand-Years-Nonlinear-History/dp/0942299329/ref=sr_1_1?ie=UTF8&qid=1439331397&sr=8-1&keywords=1000+years+of+nonlinear+history),_ goes deep into distinguishing the network and the hierarchy as the two archetypes of structure. But he admits that almost anything is a blend of the two—networks of hierarchies and hierarchies of networks.
+
+There are upsides of reverse-chronology (R-C henceforth) too. This structure values the most recent things, which is good for world news and updates from friends. It also allows the past to gracefully drift away, which allows things we might not be so proud of to get a few more clicks further away from eternal presence. A few clicks is an eternity in digital media time.
+
+R-C is perhaps the only structure suitable for the full brunt of The Stream. Labels, categories, connections—these are the tools for creating other types of sorting structures. But the amount of time it would take to label, categorize, and connect things in the stream wouldn’t give us enough time to see everything uploaded in the meantime. The only possible structure for the stream is one that allows an unencumbered pace—and thus we need reverse chronology. Anything else is censorship.
+
+The Stream is uncomplicated and uncritical, but obliteratingly fast. Our favs are a bit slower, and censored by our tastes and interests and thoughts. Maybe our favs are not slow enough for an applied structure other than reverse-chronology, but they get closer. (This of course depends on exactly who you are and how you curate your favs.) Fav streams make it easier to return to the same thing twice.
+
+The things we truly love, that we come back to again and again—these things start turning up in our references, our work, and our conversations. They become part of a network of other media that hovers in our consciousness. (As an aside, you don’t have to literally return to a piece of work—returning in your thoughts is more than enough. I only went to high school once, but this doesn’t mean I don’t think about it regularly.)
+
+Cultivating an organized network (of any media) takes time. To do it effectively, you need a bit of a plan and to put in the effort to draw the connections where they should be, as they exist in your head. This gets at one of the core motivations for this essay: giving out a digital “fav” takes almost as long as it does for you to think that you “like” it. Referencing an article you read to another, and a book you remember a chapter of, and a couple images you saw on Instagram—this mental process takes milliseconds but to record it all down takes at least a few minutes. I don’t think we will ever be able to make record of our internal memory association networks as fast as we can construct them, but I am curious to see where Are.na goes. A network is resilient. Remove some parts and you might still end up at the same ideas; they have built-in redundancy. Hold this thought.
+
+Networks are enormously valuable for research, deep investigations, cross-categorical thinking, innovation, and archiving. But they take a lot of time and knowledge to make. The favs stream is quick to create and good for periodic, rapid revisits of recent content, before everything gets pulled so far from shore that it becomes hard to find. The fav stream makes for a decent transition state between the full-strength stream and either obsolescence or networked archiving.
+
+# 3. WE’RE NOT AIMING FOR PERMANENCE
+
+Things like [Perma.cc](http://perma.cc) are trying to make links permanent, and [Archive](http://archive.org) attempts to make enduring record of the web. It’s a valiant fight, and I have donated to the Internet Archive. I believe in the effort! But ultimately I think they are taking photographs of sandcastles. And then storing those photographs in slightly larger sandcastles slightly further from the incoming tide of obsolete formatting or destruction.
+
+The only media that persists is that with redundancy and cultural value. This is what memes are. People have to like content so much that they put it in a network and make it accessible from multiple places. Content persists through time just like genes do—by being valuable enough to be reconstructed and diversely held. We know about Socrates because enough people liked him to remember what he said, and then they put it down in paper or stone. And then people reproduced what they saw. Bret Victor agrees:
+
+> I suggested that some very stable and reliable media, DNA and print, owe their stability and reliability to replication and retention. [via](http://worrydream.com/TheWebOfAlexandria/2.html)
+
+Retention and replication are what allows content to persist through time, bringing media to inherent time scales closer to that of humans and human culture.
+
+We shouldn’t be aiming for permanence. It’s futile! Entropy is increasing in the universe. We’re just aiming for persistence. And thus I finally reach the point of this essay. I want to encourage the creation of persistent networks on the internet. Let me call these “semipermanent.”
+
+I keep my own semipermanent space, my “[Shoebox](http://ltwp.net/shoebox)” I call it. (The name is an old reference to my friend Brandon Evans’ [Basin](http://basin.tumblr.com)). I update it about twice a year, maybe three times. When I first made it, it was only a list of friends and favorite quotes. But now I want to fill it more. I’ve been wrestling with confusion about purpose of developing taste and internet ephemerality for years, and I’ve had this decent solution in front of me the entire time. I want it to be a periodically refreshed page of my favorite things. A snapshot of my tastes as they evolve at whatever my brain’s inherent time scale is. __The goal is a digital place where things are highly valued, easy to find, and thus easy to reproduce.__
+
+These personally curated spaces, with periodic updates, are some of my favorite things on the internet. Frank Chimero has his [library](http://www.frankchimero.com/library/). My favorite blog of all time is Bin Chen’s [You Might Find Yourself](http://youmightfindyourself.com) which is unabashedly his personal and not particularly fast-moving. [Codex99](http://www.codex99.com/) is a great example of a blog-as-shoebox, as are many other hand-written blogs.
+
+![](http://41.media.tumblr.com/46b75aab79a09711da9ae5fc11efabfa/tumblr_n8enw6DMRW1qapbm3o1_1280.png)
+
+I’ve been following [Electric Objects](https://www.electricobjects.com) since their inception and, although I don’t own one (hey, I’m a on a student budget right now), I really believe in the mission of slowing down internet art to a good time scale and allowing you to thoughtfully curate a public collection. I hope they keep their API open.
+
+What we want is persistent digital ownership of the things we love, and the things that are important. To do this, we need it to be kept a bit separated from The Stream, and in multiple places. Slow the internet down and distribute it. This will keep it safe. We don’t want our identities to die when the media companies do.
+
+# 4. DIGITAL FURNITURE, DIGITAL IDENTITIES
+
+Let me restate that this essay is not to bash Facebook, Twitter, Tumblr, and so forth. In fact, these services are great. I just wish they were more wholly aligned with my values.
+
+Why are they great? They build redundancy and networks. It’s their job, literally—larger networks mean more eyeballs means more ads means more money for them. When you share something on Facebook, now Facebook has as copy. And all your friends have seen it, and you can make use of them as a distributed memory. This is great! It means you can find it on their site, using their powerful search and ability to message your friends. One step closer to digital ownership of that content. These services are excellent prosthetic memories and should be used as part of our distributed semipermanent networks of valuable memes.
+
+But any digital platform has value sets built-in. Facebook makes it a messy social affair to remove someone from your network (“un-friend,” yeesh) and tries to keep most content within its walled garden. As I said before, I think Twitter does a bit of a better job with these things, but of course Twitter limits the kind of content that can be shared there. Facebook makes it easy to revisit the past, Twitter makes it hard. Tumblr makes it quick to share your thoughts, but also makes you believe that your  mood-board certifies you as an art director. Instagram allows you to hone your photography skills, but also makes you jealous of all the facetiously amazing lives your friends are living. These are all compromises and they’re all going to vanish anyway.
+
+(My least favorite thing about Facebook is that it makes it hard to meet people you haven’t yet met. I see or email or call or text the people I already know! I like Twitter because it’s very open to you contacting people you don’t [yet] know. Tumblr was good for this too, before any semblance of conversation via tumblr dissolved around 2011-2012.)
+
+You might have noticed I’ve tended to use the word “identities” when referring to a person’s use of digital tools/media, which are the digital furniture that makes up the digital space. Flexible identity is another point of good that these corporate platforms provide. I behave quite differently on Facebook versus Twitter versus Snapchat versus whatever. I behave differently every ten minutes when you hang out with me in person. I have a variety of different facets that make up the meatsack and brainspace that we call “Lukas.”
+
+> Do I contradict myself? Very well, then I contradict myself, I am large, I contain multitudes. -Walt Whitman
+
+I feel very freed by the fact that I can act on different aspects of my thoughts and behaviors and articulate those in different ways. My personal website is the closest I have to having a personal garden or [turf](http://tumblr.austinkleon.com/tagged/own+your+turf) and it is great, but it is also somewhat static, and used relatively professionally. You don’t go to my website to find my irreverent humor, you go to my twitter.
+
+If I tried to cram everything that is “me” into one single platform, I would suffocate. That’s like trying to make a painting but not allowing you to use more than one color. (Sorry, Yves Klein and Robert Ryman.) Frank Chimero argues that
+
+> the best way for me to do this is to step out of the stream and “build my own house” […] I don’t have to simplify or crop or be pulled out of context (unless I want that), which hopefully produces a fuller picture of who I am, what I like, and what I value. [via](http://frankchimero.com/writing/homesteading-2014/)
+
+Of course I want to build my own digital house and sit on my own digital furniture. But even more empowering is to have a couple homes and be able to move between them. The good semipermanent spaces might not have single URLs. My shoebox has a URL but it exists also on my laptop, on my server, and other peoples’ servers. Maybe I’ll replicate it in are.na or a tumblr too. It’s the same for the content I create. It will all go on my website, but it needs to be on twitter, on tumblr, on instagram, on anything else for it to have enough redundancy to be persistent over time. Through a combination of platforms (with values listed in section 6), we can allow for fully-formed multifaceted identities.
+
+Our records of stuff we _love_ are enormously important to these identities. Subcultures are the products of people defining their identities through their tastes. Both our favs streams and our semipermanent spaces, whether public or private, help us sort through our internal identities. We wear clothes and talk about music we like as public performances of our tastes and identity. Of course we do online too. We just don’t want to be limited by them. Wall Street bankers can have New Order tattoos.
+
+# 5. THE RIGHT TO VANISH / CRYSTALLIZING BRANDS
+
+This is perhaps the hottest topic I’ll touch on, and the most relevant to anyone who doesn’t live online as much as I do. Before digitization, content that was old was hard to find and own. Records (for most things) could drift into the past as peoples’ identities changed over time, as long as they didn’t become persistent memes.
+
+But my blog from high school is still there. In fact, I still use it. You just have to go back maybe 100 pages on Tumblr. I really, really don’t want you to.
+
+Bret Victor, again, [reminds us](http://worrydream.com/TheWebOfAlexandria/2.html) to “consider that, historically, people have relied on different media for different social purposes.”
+
+I struggle with this all the time. How professional do I make my twitter? my website? my emails? I can write a professional email, but in general, I like this philosophy:
+
+![https://xkcd.com/137/](https://imgs.xkcd.com/comics/dreams.png)
+
+For all these services that I use very personally, I don’t want to have to mediate how I use them. That kills the soul. I also want my old personal content to get washed away by the stream. A searchable record might be good, but only privately. I want my public, personal information to vanish with time. I wonder if this can work like patent law, but closer to human time scales than technological. Anything less than 2 years old has to stay online, for instance. Older than that? OK, you have the [right to be forgotten](https://en.wikipedia.org/wiki/Right_to_be_forgotten).
+
+But [Jacques Mattheij](http://jacquesmattheij.com/defending-the-right-to-be-forgotten) brings up a really good point, one that has stuck with me. In the last sentence of section 3 I noted that our identities are separate from the brands and companies we interact with. The difference between a human and company is a bit up for debate in America, but my outlook has recently shifted to believing that brands are crystallizations of identity.
+
+In business we want to invest in things that are sure-shots and consistent; they should have the same shape every time we look at them. People and their identities obviously don’t do this. A company forms in order to make an externalized entity that runs on an inherent time scale, slower than that of the human. It has certain beliefs, values, and abilities, like a person, but it moves slower. We need to hold brands to consistency and non-censorship, but give people the ability to change as they change. Some people have personal brands, and this can be really difficult; a public scandal for a politician or celebrity affects them, because their identities and their brand are one and the same. This isn’t so for most of us.
+
+I’m really interested in one-person brands that operate with the person’s identity separated from the brand. Like Dan Cassaro and [Young Jerks](http://youngjerks.com). Young Jerks should be held to relative consistency over its life time. (A pivot here and there is OK.) Dan is allowed to change any time he wants.
+
+Somebody writes a bad review about the work done by a brand? The writer reserves their right to free speech. It doesn’t mess with the brand’s rights to happiness, because the brand is a crystallized version of a little bit of somebody. The brand should not be able to request it to be removed. I think this posit meshes well with some issues Jill Lepore raised in her recent [New Yorker piece](http://www.newyorker.com/magazine/2015/01/26/cobweb). Negative criticism happens to brands; libel happens to people.
+
+In the case of celebrities, this becomes really hard. I’m not quite sure what to do about censorship and protection when brand and person are so tightly intertwined. Thankfully, I’m not one. And likely neither are you. And perhaps I should start articulating a personal brand for my work, behind which I can enjoy a multifaceted identity.
+
+Because I want most of my sandcastles to wash away with time. I want the [right to delete](http://idlewords.com/talks/internet_with_a_human_face.htm) my old self, and I hope to do so about at the speed that I forget what my old self was thinking. Twitter does a decent job at making old tweets hard to find. Did you ever notice that your Youtube likes cap out at 200? As in, when you like your 201st video, the 1st video vanishes from your likes record?
+
+I’d be interested in seeing this kind of functionality be more common. It allows the fav stream to accept its place as just a staging ground. Our semipermanent spaces will be made of more networked and more critical content, and created in a more directed way. Stuff that makes you say “I _want_ this to stay around for a while.”
+
+We get rid of old furniture when it breaks or we don’t like it. We toss out old clothes. But sometimes, maybe we keep that leather studded jacket from our teenage years in a box in a closet. We need to treat our digital belongings in the same way. Our semipermanent spaces are our closets and bedrooms; our personal brands are our conference rooms. We can externalize facets of ourself in order to work better and protect our messy internal identities.
+
+At risk of mixing metaphors, we need our personal sandcastles to wash away once in a while so that we can build new ones. When we take a sandcastle and cast it in concrete, we are allowed to hold it to a higher standard of consistency.
+
+# 6. OK, SO WHAT DO I DO
+
+Implementations of semi-permanence and non-R-C structures online is rare. A lot of the things I’ve linked to talk about ideas that can help promote their further construction. I’ll discuss a bit about three of my current favorite media platforms: Are.na, Pinboard.in, and Instapaper.com. When choosing to outsource a digital house, I recommend looking for these things to build redundancy, value, authenticity, and ownership:
+
+- Transparency and acknowledgement of personal ownership.
+- Export and import, with reliable file types.
+- Networking between different digital platforms.
+- Sharing with other people, but options for privacy.
+- Ability to have multiple non-intertwined accounts.
+- Control over the speed and shape of the stream, or other media structures.
+- Ability to edit and delete, or otherwise acceptance of ephemerality.
+
+![](https://d2w9rnfcy7mm78.cloudfront.net/416340/large_6c504ee83c273fb68cc8315b81109327.png)
+
+I value Pinboard and Are.na immensely for the ease at which I can export my information (and thus my identities) into well-established document formats. A PDF is not made of stone but it is not made of sand either. Ease of download allows us to plug things in to other platforms and build redundancy.
+
+Instapaper and Pinboard are great examples of effective networking redundancy too: my Instapaper favs can get saved to my Pinboard; my Pinboard bookmarks can be tweeted. Centralization is an issue with behemoths the size of Facebook, but Pinboard and Instapaper celebrate moderate size and an ability to connect their services to others, creating redundancy. They are both sandcastles, but the sandcastles now have bridges and blueprints for other castles.
+
+Note that, for their fully-fleshed versions, Pinboard, Are.na, and Instapaper are all paid services. When you don’t pay for something, you are not the consumer the service is catering to. I do love Twitter, but I definitely have to keep a wary eye on it. Pay for good stuff, people.
+
+An effective semi-permanent space should be a network. Keeping some of this network to yourself—your own webpage, your own hard drive—is beneficial and allows you to display your media identity exactly as you desire. But there is resiliency in the networking abilities of large services too. Use both.
+
+Mentioned earlier is that for memes to persist they need both redundancy and value. I’m focusing on the former because, well, the latter is up to your and your tastes. We as cultures and subcultures need to choose what is valuable and give it forms such that we can pass it on when our sandcastles fall apart. This is a pretty natural process.
+
+I have yet to see an online platform create an effective non-R-C display as default. I was optimistic when [Ello](http://ello.co)  rolled out, given their desire to transform the typical social network, but they stuck with The Stream. I really believe Are.na could do it, but they haven’t. I am keeping my ear to the ground for projects such as [The Consortium for Slower Internet](http://www.slowerinternet.com/index.html) to see what comes out, and might have some projects of my own in the future.
+
+By cherishing the listed attributes in external platforms, carefully curating and valuing our digital furniture, and creating redundancy across the web, we can seek to build meaningful digital spaces with value, resiliency, and access. We should accept our needs for separate identities and redundancy in digital things. Bring digital content down to human time scales and make copies of what is valuable; the network will carry what’s needed into the future. The stream will continue to roar on, and we should respect that our sandcastles will be washed away. Until then, let’s make them the best they can be.
+# 0. EVERYTHING YOU OWN IS DYING
+
+You know that car your dad always talks about? That one he had in his teens or 20s that brings glimmers to his eyes when he references it, even if it got 8mpg and didn’t have air conditioning? This tool, this space, defined some part of his life. He saw things and listened to music and sometimes his friends would sit in the back. That car is long gone. He has a couple photos and good memories left.
+
+What is my analogue of that, as a 22-year-old Millennial who grew up moving around and will likely never own a car?
+
+Is it a website?
+
+I’m going to remember Twitter in 30 years as a hotbed for silly humor and sharing links, and too bad they don’t make ‘em like that any more kiddo. I love twitter (despite its overwhelming speed and poor treatment of vulnerable users). It has adapted based on how users behave, it is not a faux-pas to unfollow a friend, and the interactions boil down to a few simple principles. It's a flexible thing where I get to do a lot and for me, it will be this tool, this space, that was a certain time and place. All I get to keep are the memories of its quirks and my experiences, and any tweets I somehow save.
+
+But we don’t talk like that. We act as if a lot of social media will last forever. (Not the media itself, necessary—hi Snapchat—but the structures of the media.) We make accounts that depend on our Facebook profiles and all of our password resets go back to one Gmail account we made back before we had full-time jobs.  Facebook will vanish one day; Gmail too. These are fragile relationships in a web of ever-compounding link rot and shifting APIs. More fragile, perhaps, than your dad’s rusting Ford. We are building sandcastles. Digital sandcastles that, for an increasing proportion of people, especially in my generation, act as storehouses to everything that defines them. Our photos, our words, our friends, our work, and our identities are online. A sandcastle is not a safe place to keep these things.
+
+We want agency and ownership over the identities we form within and around the media we consume. We want to find a lock-box for our digital selves, a place to own our information. Of course, a lock-box doesn't last forever either. It just lasts longer than we'll be alive to care about it, and that's good enough.
+
+Along with owning a car, my dad used to live in a small apartment, and had some books and furniture. These tools and spaces and media frame much of his experience and his identities. Focus now is more on digital spaces, digital media—digital furniture. My dad had a garage for his car. Where do we put the digital stuff we own?
+
+Ownership in the digital age is different, of course, because digital products can be reproduced at virtually zero cost. If I own a couch, that means that in my apartment I have a couch that I can use at any moment I want. If I own a .jpg however, what does this mean? If me owning a couch is about me being able to use it whenever I want, then the idea of owning digital property is mostly about _finding it_ in the massive, messy haystack that is the internet. If I can find it, it’s mine.
+
+> After all, if Google is the front door of the web it no longer really matters what’s on the web, if you can’t find it via Google with a 10 second investment in time then it might as well not exist. [via](http://jacquesmattheij.com/defending-the-right-to-be-forgotten)
+
+
+> If it doesn't have a URL, it doesn't exist. $$$
+https://twitter.com/RonenV/status/450303404389449728
+
+I haven’t yet mentioned the fact that virtually all of us, plugged into the web, are doing so via a chunk of metal that itself can store documents. Sometimes this content outlasts that on the web, but sometimes it doesn’t. Disk drives die all the time. So do [cloud services](http://bygonebureau.com/2011/01/17/link-rot/). Pick your poison, or just try both and accept the need for redundancy (more on this later). I try to treat my content equally whether it is online or only on my hard drive—the only real difference is the former is more easily accessible to people other than me. Both public and private sandcastles of content are necessary for my internal senses of identity to stay healthy and flexible. Increasingly, _all_ of my digital furniture is online, just some of it is privately online. (This is why we need digital privacy, but that’s a topic for another essay.)
+
+I pay or have payed for a couple internet services, like [Pinboard.in](http://pinboard.in), [Rdio](http://rdio.com), and [Instapaper](http://instapaper.com). The monetary value in these services is in _finding things_—their access, speed, ease, and searchability. I am paying for a short-cut to finding the media I want to find, and thus own. Are.na is free unless you pay for Premium, which comes with the perk of better search. Natch.
+
+This ability to find is invaluable in these shifting sands. But there’s a bit of trouble in the fact that these searching services are made of sand, too.
+
+Rdio is going to go out of business and take my collection with it. Internet protocols are going to die. My couch is going to get ground up. My apartment building will be torn down. The electrical grid will take a new form. Earth will burn and we’ll be on Mars. All infrastructure is temporary. But this scope is too large. People are still creating, consuming, making money, enjoying life. We aren’t all acting as if these infrastructure are going to die tomorrow because they aren’t. Only some are. The rest will die later.
+
+# 1. SCALES OF THE STREAM
+
+In [Maciej Ceglowski’s recent talk](http://idlewords.com/talks/web_design_first_100_years.htm), he discusses a saturation point of technologies, where they bump up against physical barriers like energy efficiency. Mathematicians call these inherent scales. For an airplane the inherent scales are the length of the fuselage and the length of the wing. For a clock the inherent scales are the length of the pendulum and how fast it swings (which are related). Humans have an inherent time scale of about 70 years of life, an inherent time scale of about 24 hours for circadian rhythm, an inherent length scale of about 162cm for height, etcetera.
+
+None of these things are _fixed_. New energy technologies come and go all the time, and evolution is still at work in changing what humans are shaped like. These scales that seem fixed are changing at their own meta-level inherent speeds. The pace at which things like the human genome change is virtually meaningless as we live and create at a day-to-day pace; it is too slow. The stream of cultural change slowly too, but a bit faster. Technological change happens faster, but still not as fundamentally fast as we may think. Faster still is the pace at which we navigate our daily tasks, our relationships, and our juggling of identity in our actions and thoughts. So the inherent time scale of human thought, action, interaction is much faster than that of the inherent time scale of human cultural epochs, and much faster than the inherent time scale of genetic evolution.
+
+But faster than everything mentioned is the stream of the internet. “__The Stream__” (or “Feed”) of Facebook, Twitter, Youtube, Soundcloud, Snapchat, Tumblr, the Blogosphere, and more. These feeds could learn a lesson about the inherent scales of the human.
+
+> People who didn’t live pre-Internet can’t grasp how devoid of ideas life in my hometown was. The only bookstores sold Bibles the size of coffee tables and dashboard Virgin Marys that glowed in the dark. I stopped in the middle of the SAT to memorize a poem, because I thought, This is a great work of art and I’ll never see it again. -[Mary Karr](http://www.theparisreview.org/interviews/5992/the-art-of-memoir-no-1-mary-karr)
+
+Mary Karr’s hometown had an information time scale that was too slow compared to that of her brain. On the web, we have more than enough information every minute. Part of the cultural zeitgeist of my generation is an feeling of being overwhelmed. We can’t make our minds up, we don’t know what to look at. The stream gives us too much, it flows too densely and quickly. I don’t have a good idea of what the inherent scale for the brain to absorb information is (I’d say it’s somewhere between an hour and three days), but the stream is definitely a few orders of magnitude too fast.
+
+(Don’t let this sound like a universal pan of stream-based media sites. I love them and they are excellent at some things, especially rapid publicity and easy browsing, or [television internet](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426). This is fun in casual bite-size consumption. But in terms of long-term habits, sharing, and media creation, I want to move a bit slower.)
+
+In my experience, our way of dealing with this is by cherry-picking from The Stream. Almost all of these social media sites allow you to “fav” content, or at least “share” to a site where you can “fav”. (In some places it’s a “like” or “star” or whatever—I’ll use “fav” as a generic term for this action.) This little click can mean a lot of things. Sometimes it’s a bookmark, a statement of delight, or sometimes an acknowledgement. For my purposes I’ll focus on the former two cases in this essay. When I “fav” something, it means _I want to come back to this_. I either am curious enough, or like the piece of content enough, that it is worth a revisit.
+
+As Robin Sloan beautifully articulates in his tap essay, Fish: “On the internet today, [seeing] something twice is a radical act.” When you own a book, it sits on your shelf at home and is easy to open up again. Online, it is just as easy to find something yet unseen as it is to revisit something. Having a shelf of digital stuff we love—our tumblr “likes” and twitter “favs”—make them all the easier to revisit, to love, and to own, as best we can.
+
+If you are like me, and spend a lot of time on these sites, your favs are still a fast-moving dumping ground. We’ve siphoned off some of The Stream into our river of favs, which moves at a slower pace, one much closer to our inherent scale of media intake. But these streams are still too quick. And when I return to it, it is sorted in the exact way the stream is: reverse-chronologically.
+
+# 2. CONTENT STRUCTURES
+
+I have a love/hate relationship with reverse-chronological organization of media. Chronology is a hierarchy. In a reverse-chronological structure, the most recent things are at the top, and we down from there. When I want to do research, however, I tend to want a network, not a chronological hierarchy. I want to see where ideas connect with each other, what content is relevant to other content. This is frequently more important than the publication date. Manuel de Landa, in _[1000 Years of Nonlinear History](http://www.amazon.com/Thousand-Years-Nonlinear-History/dp/0942299329/ref=sr_1_1?ie=UTF8&qid=1439331397&sr=8-1&keywords=1000+years+of+nonlinear+history),_ goes deep into distinguishing the network and the hierarchy as the two archetypes of structure. But he admits that almost anything is a blend of the two—networks of hierarchies and hierarchies of networks.
+
+There are upsides of reverse-chronology (R-C henceforth) too. This structure values the most recent things, which is good for world news and updates from friends. It also allows the past to gracefully drift away, which allows things we might not be so proud of to get a few more clicks further away from eternal presence. A few clicks is an eternity in digital media time.
+
+R-C is perhaps the only structure suitable for the full brunt of The Stream. Labels, categories, connections—these are the tools for creating other types of sorting structures. But the amount of time it would take to label, categorize, and connect things in the stream wouldn’t give us enough time to see everything uploaded in the meantime. The only possible structure for the stream is one that allows an unencumbered pace—and thus we need reverse chronology. Anything else is censorship.
+
+The Stream is uncomplicated and uncritical, but obliteratingly fast. Our favs are a bit slower, and censored by our tastes and interests and thoughts. Maybe our favs are not slow enough for an applied structure other than reverse-chronology, but they get closer. (This of course depends on exactly who you are and how you curate your favs.) Fav streams make it easier to return to the same thing twice.
+
+The things we truly love, that we come back to again and again—these things start turning up in our references, our work, and our conversations. They become part of a network of other media that hovers in our consciousness. (As an aside, you don’t have to literally return to a piece of work—returning in your thoughts is more than enough. I only went to high school once, but this doesn’t mean I don’t think about it regularly.)
+
+Cultivating an organized network (of any media) takes time. To do it effectively, you need a bit of a plan and to put in the effort to draw the connections where they should be, as they exist in your head. This gets at one of the core motivations for this essay: giving out a digital “fav” takes almost as long as it does for you to think that you “like” it. Referencing an article you read to another, and a book you remember a chapter of, and a couple images you saw on Instagram—this mental process takes milliseconds but to record it all down takes at least a few minutes. I don’t think we will ever be able to make record of our internal memory association networks as fast as we can construct them, but I am curious to see where Are.na goes. A network is resilient. Remove some parts and you might still end up at the same ideas; they have built-in redundancy. Hold this thought.
+
+Networks are enormously valuable for research, deep investigations, cross-categorical thinking, innovation, and archiving. But they take a lot of time and knowledge to make. The favs stream is quick to create and good for periodic, rapid revisits of recent content, before everything gets pulled so far from shore that it becomes hard to find. The fav stream makes for a decent transition state between the full-strength stream and either obsolescence or networked archiving.
+
+# 3. WE’RE NOT AIMING FOR PERMANENCE
+
+Things like [Perma.cc](http://perma.cc) are trying to make links permanent, and [Archive](http://archive.org) attempts to make enduring record of the web. It’s a valiant fight, and I have donated to the Internet Archive. I believe in the effort! But ultimately I think they are taking photographs of sandcastles. And then storing those photographs in slightly larger sandcastles slightly further from the incoming tide of obsolete formatting or destruction.
+
+The only media that persists is that with redundancy and cultural value. This is what memes are. People have to like content so much that they put it in a network and make it accessible from multiple places. Content persists through time just like genes do—by being valuable enough to be reconstructed and diversely held. We know about Socrates because enough people liked him to remember what he said, and then they put it down in paper or stone. And then people reproduced what they saw. Bret Victor agrees:
+
+> I suggested that some very stable and reliable media, DNA and print, owe their stability and reliability to replication and retention. [via](http://worrydream.com/TheWebOfAlexandria/2.html)
+
+Retention and replication are what allows content to persist through time, bringing media to inherent time scales closer to that of humans and human culture.
+
+We shouldn’t be aiming for permanence. It’s futile! Entropy is increasing in the universe. We’re just aiming for persistence. And thus I finally reach the point of this essay. I want to encourage the creation of persistent networks on the internet. Let me call these “semipermanent.”
+
+I keep my own semipermanent space, my “[Shoebox](http://ltwp.net/shoebox)” I call it. (The name is an old reference to my friend Brandon Evans’ [Basin](http://basin.tumblr.com)). I update it about twice a year, maybe three times. When I first made it, it was only a list of friends and favorite quotes. But now I want to fill it more. I’ve been wrestling with confusion about purpose of developing taste and internet ephemerality for years, and I’ve had this decent solution in front of me the entire time. I want it to be a periodically refreshed page of my favorite things. A snapshot of my tastes as they evolve at whatever my brain’s inherent time scale is. __The goal is a digital place where things are highly valued, easy to find, and thus easy to reproduce.__
+
+These personally curated spaces, with periodic updates, are some of my favorite things on the internet. Frank Chimero has his [library](http://www.frankchimero.com/library/). My favorite blog of all time is Bin Chen’s [You Might Find Yourself](http://youmightfindyourself.com) which is unabashedly his personal and not particularly fast-moving. [Codex99](http://www.codex99.com/) is a great example of a blog-as-shoebox, as are many other hand-written blogs.
+
+![](http://41.media.tumblr.com/46b75aab79a09711da9ae5fc11efabfa/tumblr_n8enw6DMRW1qapbm3o1_1280.png)
+
+I’ve been following [Electric Objects](https://www.electricobjects.com) since their inception and, although I don’t own one (hey, I’m a on a student budget right now), I really believe in the mission of slowing down internet art to a good time scale and allowing you to thoughtfully curate a public collection. I hope they keep their API open.
+
+What we want is persistent digital ownership of the things we love, and the things that are important. To do this, we need it to be kept a bit separated from The Stream, and in multiple places. Slow the internet down and distribute it. This will keep it safe. We don’t want our identities to die when the media companies do.
+
+# 4. DIGITAL FURNITURE, DIGITAL IDENTITIES
+
+Let me restate that this essay is not to bash Facebook, Twitter, Tumblr, and so forth. In fact, these services are great. I just wish they were more wholly aligned with my values.
+
+Why are they great? They build redundancy and networks. It’s their job, literally—larger networks mean more eyeballs means more ads means more money for them. When you share something on Facebook, now Facebook has as copy. And all your friends have seen it, and you can make use of them as a distributed memory. This is great! It means you can find it on their site, using their powerful search and ability to message your friends. One step closer to digital ownership of that content. These services are excellent prosthetic memories and should be used as part of our distributed semipermanent networks of valuable memes.
+
+But any digital platform has value sets built-in. Facebook makes it a messy social affair to remove someone from your network (“un-friend,” yeesh) and tries to keep most content within its walled garden. As I said before, I think Twitter does a bit of a better job with these things, but of course Twitter limits the kind of content that can be shared there. Facebook makes it easy to revisit the past, Twitter makes it hard. Tumblr makes it quick to share your thoughts, but also makes you believe that your  mood-board certifies you as an art director. Instagram allows you to hone your photography skills, but also makes you jealous of all the facetiously amazing lives your friends are living. These are all compromises and they’re all going to vanish anyway.
+
+(My least favorite thing about Facebook is that it makes it hard to meet people you haven’t yet met. I see or email or call or text the people I already know! I like Twitter because it’s very open to you contacting people you don’t [yet] know. Tumblr was good for this too, before any semblance of conversation via tumblr dissolved around 2011-2012.)
+
+You might have noticed I’ve tended to use the word “identities” when referring to a person’s use of digital tools/media, which are the digital furniture that makes up the digital space. Flexible identity is another point of good that these corporate platforms provide. I behave quite differently on Facebook versus Twitter versus Snapchat versus whatever. I behave differently every ten minutes when you hang out with me in person. I have a variety of different facets that make up the meatsack and brainspace that we call “Lukas.”
+
+> Do I contradict myself? Very well, then I contradict myself, I am large, I contain multitudes. -Walt Whitman
+
+I feel very freed by the fact that I can act on different aspects of my thoughts and behaviors and articulate those in different ways. My personal website is the closest I have to having a personal garden or [turf](http://tumblr.austinkleon.com/tagged/own+your+turf) and it is great, but it is also somewhat static, and used relatively professionally. You don’t go to my website to find my irreverent humor, you go to my twitter.
+
+If I tried to cram everything that is “me” into one single platform, I would suffocate. That’s like trying to make a painting but not allowing you to use more than one color. (Sorry, Yves Klein and Robert Ryman.) Frank Chimero argues that
+
+> the best way for me to do this is to step out of the stream and “build my own house” […] I don’t have to simplify or crop or be pulled out of context (unless I want that), which hopefully produces a fuller picture of who I am, what I like, and what I value. [via](http://frankchimero.com/writing/homesteading-2014/)
+
+Of course I want to build my own digital house and sit on my own digital furniture. But even more empowering is to have a couple homes and be able to move between them. The good semipermanent spaces might not have single URLs. My shoebox has a URL but it exists also on my laptop, on my server, and other peoples’ servers. Maybe I’ll replicate it in are.na or a tumblr too. It’s the same for the content I create. It will all go on my website, but it needs to be on twitter, on tumblr, on instagram, on anything else for it to have enough redundancy to be persistent over time. Through a combination of platforms (with values listed in section 6), we can allow for fully-formed multifaceted identities.
+
+Our records of stuff we _love_ are enormously important to these identities. Subcultures are the products of people defining their identities through their tastes. Both our favs streams and our semipermanent spaces, whether public or private, help us sort through our internal identities. We wear clothes and talk about music we like as public performances of our tastes and identity. Of course we do online too. We just don’t want to be limited by them. Wall Street bankers can have New Order tattoos.
+
+# 5. THE RIGHT TO VANISH / CRYSTALLIZING BRANDS
+
+This is perhaps the hottest topic I’ll touch on, and the most relevant to anyone who doesn’t live online as much as I do. Before digitization, content that was old was hard to find and own. Records (for most things) could drift into the past as peoples’ identities changed over time, as long as they didn’t become persistent memes.
+
+But my blog from high school is still there. In fact, I still use it. You just have to go back maybe 100 pages on Tumblr. I really, really don’t want you to.
+
+Bret Victor, again, [reminds us](http://worrydream.com/TheWebOfAlexandria/2.html) to “consider that, historically, people have relied on different media for different social purposes.”
+
+I struggle with this all the time. How professional do I make my twitter? my website? my emails? I can write a professional email, but in general, I like this philosophy:
+
+![https://xkcd.com/137/](https://imgs.xkcd.com/comics/dreams.png)
+
+For all these services that I use very personally, I don’t want to have to mediate how I use them. That kills the soul. I also want my old personal content to get washed away by the stream. A searchable record might be good, but only privately. I want my public, personal information to vanish with time. I wonder if this can work like patent law, but closer to human time scales than technological. Anything less than 2 years old has to stay online, for instance. Older than that? OK, you have the [right to be forgotten](https://en.wikipedia.org/wiki/Right_to_be_forgotten).
+
+But [Jacques Mattheij](http://jacquesmattheij.com/defending-the-right-to-be-forgotten) brings up a really good point, one that has stuck with me. In the last sentence of section 3 I noted that our identities are separate from the brands and companies we interact with. The difference between a human and company is a bit up for debate in America, but my outlook has recently shifted to believing that brands are crystallizations of identity.
+
+In business we want to invest in things that are sure-shots and consistent; they should have the same shape every time we look at them. People and their identities obviously don’t do this. A company forms in order to make an externalized entity that runs on an inherent time scale, slower than that of the human. It has certain beliefs, values, and abilities, like a person, but it moves slower. We need to hold brands to consistency and non-censorship, but give people the ability to change as they change. Some people have personal brands, and this can be really difficult; a public scandal for a politician or celebrity affects them, because their identities and their brand are one and the same. This isn’t so for most of us.
+
+I’m really interested in one-person brands that operate with the person’s identity separated from the brand. Like Dan Cassaro and [Young Jerks](http://youngjerks.com). Young Jerks should be held to relative consistency over its life time. (A pivot here and there is OK.) Dan is allowed to change any time he wants.
+
+Somebody writes a bad review about the work done by a brand? The writer reserves their right to free speech. It doesn’t mess with the brand’s rights to happiness, because the brand is a crystallized version of a little bit of somebody. The brand should not be able to request it to be removed. I think this posit meshes well with some issues Jill Lepore raised in her recent [New Yorker piece](http://www.newyorker.com/magazine/2015/01/26/cobweb). Negative criticism happens to brands; libel happens to people.
+
+In the case of celebrities, this becomes really hard. I’m not quite sure what to do about censorship and protection when brand and person are so tightly intertwined. Thankfully, I’m not one. And likely neither are you. And perhaps I should start articulating a personal brand for my work, behind which I can enjoy a multifaceted identity.
+
+Because I want most of my sandcastles to wash away with time. I want the [right to delete](http://idlewords.com/talks/internet_with_a_human_face.htm) my old self, and I hope to do so about at the speed that I forget what my old self was thinking. Twitter does a decent job at making old tweets hard to find. Did you ever notice that your Youtube likes cap out at 200? As in, when you like your 201st video, the 1st video vanishes from your likes record?
+
+I’d be interested in seeing this kind of functionality be more common. It allows the fav stream to accept its place as just a staging ground. Our semipermanent spaces will be made of more networked and more critical content, and created in a more directed way. Stuff that makes you say “I _want_ this to stay around for a while.”
+
+We get rid of old furniture when it breaks or we don’t like it. We toss out old clothes. But sometimes, maybe we keep that leather studded jacket from our teenage years in a box in a closet. We need to treat our digital belongings in the same way. Our semipermanent spaces are our closets and bedrooms; our personal brands are our conference rooms. We can externalize facets of ourself in order to work better and protect our messy internal identities.
+
+At risk of mixing metaphors, we need our personal sandcastles to wash away once in a while so that we can build new ones. When we take a sandcastle and cast it in concrete, we are allowed to hold it to a higher standard of consistency.
+
+# 6. OK, SO WHAT DO I DO
+
+Implementations of semi-permanence and non-R-C structures online is rare. A lot of the things I’ve linked to talk about ideas that can help promote their further construction. I’ll discuss a bit about three of my current favorite media platforms: Are.na, Pinboard.in, and Instapaper.com. When choosing to outsource a digital house, I recommend looking for these things to build redundancy, value, authenticity, and ownership:
+
+- Transparency and acknowledgement of personal ownership.
+- Export and import, with reliable file types.
+- Networking between different digital platforms.
+- Sharing with other people, but options for privacy.
+- Ability to have multiple non-intertwined accounts.
+- Control over the speed and shape of the stream, or other media structures.
+- Ability to edit and delete, or otherwise acceptance of ephemerality.
+
+![](https://d2w9rnfcy7mm78.cloudfront.net/416340/large_6c504ee83c273fb68cc8315b81109327.png)
+
+I value Pinboard and Are.na immensely for the ease at which I can export my information (and thus my identities) into well-established document formats. A PDF is not made of stone but it is not made of sand either. Ease of download allows us to plug things in to other platforms and build redundancy.
+
+Instapaper and Pinboard are great examples of effective networking redundancy too: my Instapaper favs can get saved to my Pinboard; my Pinboard bookmarks can be tweeted. Centralization is an issue with behemoths the size of Facebook, but Pinboard and Instapaper celebrate moderate size and an ability to connect their services to others, creating redundancy. They are both sandcastles, but the sandcastles now have bridges and blueprints for other castles.
+
+Note that, for their fully-fleshed versions, Pinboard, Are.na, and Instapaper are all paid services. When you don’t pay for something, you are not the consumer the service is catering to. I do love Twitter, but I definitely have to keep a wary eye on it. Pay for good stuff, people.
+
+An effective semi-permanent space should be a network. Keeping some of this network to yourself—your own webpage, your own hard drive—is beneficial and allows you to display your media identity exactly as you desire. But there is resiliency in the networking abilities of large services too. Use both.
+
+Mentioned earlier is that for memes to persist they need both redundancy and value. I’m focusing on the former because, well, the latter is up to your and your tastes. We as cultures and subcultures need to choose what is valuable and give it forms such that we can pass it on when our sandcastles fall apart. This is a pretty natural process.
+
+I have yet to see an online platform create an effective non-R-C display as default. I was optimistic when [Ello](http://ello.co)  rolled out, given their desire to transform the typical social network, but they stuck with The Stream. I really believe Are.na could do it, but they haven’t. I am keeping my ear to the ground for projects such as [The Consortium for Slower Internet](http://www.slowerinternet.com/index.html) to see what comes out, and might have some projects of my own in the future.
+
+By cherishing the listed attributes in external platforms, carefully curating and valuing our digital furniture, and creating redundancy across the web, we can seek to build meaningful digital spaces with value, resiliency, and access. We should accept our needs for separate identities and redundancy in digital things. Bring digital content down to human time scales and make copies of what is valuable; the network will carry what’s needed into the future. The stream will continue to roar on, and we should respect that our sandcastles will be washed away. Until then, let’s make them the best they can be.
+
+-
+details:
+
+The Netherlands, 2015.
+
+-
+tags:
+-
