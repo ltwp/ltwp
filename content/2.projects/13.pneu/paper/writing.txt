@@ -1,4 +1,4 @@
-name: Pneumatic Architecture Introduction & Process
+name: Pneumatic Architecture
 -
 description:
 
@@ -104,15 +104,15 @@ In most cases, especially more off-the-cuff calculations, we can neglect the wei
 
 Some typical notation follows. For my design project, I used standard US units of feet, inches, inches of water or mercury (for pressure), and pounds of force.
 
-$p$ for pressure.
-$v$ for velocity.
-$\rho$ for fluid density.
-$D$ for material density.
-$T$ for tensile force.
-$R$ will typically be the radius of some designated shape.
-$g$ will be the gravity of earth at the surface.
-$L$ is a context-dependent length (often unit length).
-$A$ is a context-dependent area (often unit area).
+$$p$$ for pressure.
+$$v$$ for velocity.
+$$\rho$$ for fluid density.
+$$D$$ for material density.
+$$T$$ for tensile force.
+$$R$$ will typically be the radius of some designated shape.
+$$g$$ will be the gravity of earth at the surface.
+$$L$$ is a context-dependent length (often unit length).
+$$A$$ is a context-dependent area (often unit area).
 
 Other symbols will be defined as necessary.
 
@@ -138,25 +138,25 @@ Now we can see that, under the natural assumption that tension is equal on eithe
 
 $$ T\sin{\alpha} = \frac{F_p}{2} $$
 
-With $\alpha$ small (gentle curves, large radii), $T$ is much larger than $F_p$, which mathematically validates how PS can be made quite rigid with very low values of internal pressurization.
+With $$\alpha$$ small (gentle curves, large radii), $$T$$ is much larger than $$F_p$$, which mathematically validates how PS can be made quite rigid with very low values of internal pressurization.
 
-With $R$ as radius of a circumscribing circle of an equilateral polygon with $n$ sides of length $L$, it is easy to find that
+With $$R$$ as radius of a circumscribing circle of an equilateral polygon with $$n$$ sides of length $$L$$, it is easy to find that
 
 $$ R = \frac{L}{2} \frac{1}{\sin (\pi/n)} $$
 
-As $n \rightarrow \infty$ and with $C \approx n*L$, the shape approaches a circle (the natural shape to get equal tension across the membrane). Using the $\alpha$ as defined above (exterior angle), this equation corresponds to
+As $$n \rightarrow \infty$$ and with $$C \approx n*L$$, the shape approaches a circle (the natural shape to get equal tension across the membrane). Using the $$\alpha$$ as defined above (exterior angle), this equation corresponds to
 
 $$ R = \frac{L}{2} \frac{1}{\sin (\alpha / 2)} $$
 
-It now becomes evident why $\alpha \neq 0$ necessarily.
+It now becomes evident why $$\alpha \neq 0$$ necessarily.
 
-A common equation valid wherever you know the exact radii of curvature ($R_1$ and $R_2$ along the primary directions) at a point is the Laplace Equation, which is [derivable in multiple ways](https://s3.amazonaws.com/arena-attachments/421126/0d72a6d444b587069329b7501f7938a0.pdf). The minimum energy argument is perhaps easiest to follow and tells us that
+A common equation valid wherever you know the exact radii of curvature ($$R_1$$ and $$R_2$$ along the primary directions) at a point is the Laplace Equation, which is [derivable in multiple ways](https://s3.amazonaws.com/arena-attachments/421126/0d72a6d444b587069329b7501f7938a0.pdf). The minimum energy argument is perhaps easiest to follow and tells us that
 
 $$p = \sigma (\frac{1}{R_1} + \frac{1}{R_2}) $$
 
-That is, the pressure differential $p$ across our membrance varies with strain force $\sigma$ and our principle curvatures $R_1$ and $R_2$ at a point.
+That is, the pressure differential $$p$$ across our membrance varies with strain force $$\sigma$$ and our principle curvatures $$R_1$$ and $$R_2$$ at a point.
 
-With lightweight nylon materials, most tensile force calculations are effective enough approximations without accounting for weight. With heavier PVC fabrics, continuous $g$ forces should be added in the FBD and integrated over the length of the surface. Good estimates of these values on simple geometries can be found in the appendices of Herzog's book.
+With lightweight nylon materials, most tensile force calculations are effective enough approximations without accounting for weight. With heavier PVC fabrics, continuous $$g$$ forces should be added in the FBD and integrated over the length of the surface. Good estimates of these values on simple geometries can be found in the appendices of Herzog's book.
 
 #### Solid Mechanics of Pneumatics
 
@@ -164,17 +164,17 @@ I recommend Crandall et. al.'s *An Introduction to Mechanics of Solids* for a se
 
 Solid materials deform under force until either equilibrium or breaking. Woven fabrics assume form only in tension (just as a rope becomes taught under tension, and a formless pile under compression),  and as they are normally found in sheets of thickness negligible compared to their length and width, are assumed two-dimensional for our purposes.
 
-*Strain,* $\epsilon$, is the relative stretch of a material, where $\epsilon = \frac{\Delta L}{L}$ where L is the length (and generalizes to higher dimensions in vector form). This is a unitless measurement that reflects physical deformation when a force is applied.
+*Strain,* $$\epsilon$$, is the relative stretch of a material, where $$\epsilon = \frac{\Delta L}{L}$$ where L is the length (and generalizes to higher dimensions in vector form). This is a unitless measurement that reflects physical deformation when a force is applied.
 
-*Stress,* $\sigma = E\epsilon$ is a measure of internal forces between particles (i.e. a solid material being under tension), where $E$ is Young's Modulus of Elasticity. Stress is in units of force/area, so that $F_{\text{stress}} = A  \sigma$
+*Stress,* $$\sigma = E\epsilon$$ is a measure of internal forces between particles (i.e. a solid material being under tension), where $$E$$ is Young's Modulus of Elasticity. Stress is in units of force/area, so that $$F_{\text{stress}} = A  \sigma$$
 
-$E$ is dependent on the type and shape of material in question and should be looked up in tables as necessary. For thin ripstop nylon, $E=4$ GPa or about $580$ kpsi is a decent estimate according to the [Fabric Architecture’s Specifier’s Guide](https://s3.amazonaws.com/arena-attachments/421127/733d66fb89aa2ba60c0f7cbe485dad76.pdf).
+$$E$$ is dependent on the type and shape of material in question and should be looked up in tables as necessary. For thin ripstop nylon, $$E=4$$ GPa or about $$580$$ kpsi is a decent estimate according to the [Fabric Architecture’s Specifier’s Guide](https://s3.amazonaws.com/arena-attachments/421127/733d66fb89aa2ba60c0f7cbe485dad76.pdf).
 
 With this, we typically see
 
 $$ F = A  \sigma= AE\frac{\Delta L}{L} = k \Delta L $$
 
-where $k = \frac{AE}{L}$ is a relative stiffness of a material. The above is called Hooke's Law and is the form for a generalized "spring"—where the longer it is deformed ($\Delta L$), the more force it exerts to return to its original shape. All materials have breaking points, of course, and these can be obtained from material spec sheets as necessary.
+where $$k = \frac{AE}{L}$$ is a relative stiffness of a material. The above is called Hooke's Law and is the form for a generalized "spring"—where the longer it is deformed ($$\Delta L$$), the more force it exerts to return to its original shape. All materials have breaking points, of course, and these can be obtained from material spec sheets as necessary.
 
 In general, for pneumatic structures, the pressure and tension values are well below what would cause the nylon to rip. However, the small holes put in fabric by the needle when sewn introduce weak points. As visible from my own informal testing and conversations with Pneuhaus, most rips of fabric happen just along seams. Not the seam itself (which is reinforced with the thread used), but just adjacent to the seam, where there is a drastic change in material properties and stress.
 
@@ -189,17 +189,17 @@ Many PS are designed for environments that will expose them to dynamic loads, fo
 ![](https://d2w9rnfcy7mm78.cloudfront.net/421088/large_fa14f8adff292ce1c94e95042ce49a7d.jpeg)
 _Scan from Dent's book._
 
-The critical detail to avoid _folding_ of a membrane under wind (likely the most common external effect) is that the internal pressure $p_i$ needs to remain larger than the external pressure $p_e$ which is the combination of atmospheric pressure $p_0$ and dynamic pressure $p_{dyn}$.
+The critical detail to avoid _folding_ of a membrane under wind (likely the most common external effect) is that the internal pressure $$p_i$$ needs to remain larger than the external pressure $$p_e$$ which is the combination of atmospheric pressure $$p_0$$ and dynamic pressure $$p_{dyn}$$.
 
 $$ p_i \geq p_e = p_0 + p_{dyn} $$
 
 This condition is just to maintain structural form. Once a fold is introduced, it can significantly affect the tension of the fabric near the fold and the structure might have partial or total collapse. (This effect can be put to use,  as often seen in the form of inflatable tube men one often sees outside car dealerships, where instability of the inflated form is by design.)
 
-Recall too that for an isothermal environment (temperature constant) with relatively constant flow of air through, $PV = C$, where C is a constant (as derived from the Ideal Gas Law).
+Recall too that for an isothermal environment (temperature constant) with relatively constant flow of air through, $$PV = C$$, where C is a constant (as derived from the Ideal Gas Law).
 
 Cedric Price’s 1971 _Air Structures_ more accurately details interior pressure of membranes for structure when the weight of the gas might be meaningful.
 
-One of our first assumptions was that pressure inside a PS was uniform. Thus, even if our geometry is as simple as two overlapping spheres with different radii, one or the other will be "over-inflated" or "under-inflated". The two spheres have radii $R_1$ and $R_2$ where $R_1 \neq R_2$, but must share one pressure $p_i$.
+One of our first assumptions was that pressure inside a PS was uniform. Thus, even if our geometry is as simple as two overlapping spheres with different radii, one or the other will be "over-inflated" or "under-inflated". The two spheres have radii $$R_1$$ and $$R_2$$ where $$R_1 \neq R_2$$, but must share one pressure $$p_i$$.
 
 To avoid ripping, tension in the membrane must at least be continuous (if not simply uniform). Thus, seams that join forms of different radii/size/geometry are often put exactly in a place of finding a shared tension. The designer would be good to implement well-constructed seams, reinforced construction, or some stretch in these transition areas to allow for some asymmetric pulling between geometric forms.
 
@@ -231,13 +231,13 @@ FEA in this context is concerned with small deformations caused by external forc
 
 ####Direct Stiffness Method
 
-![](http://imgur.com/R1Nv0Ve,3rqSXRp,7r619WL,BHqv9MV,tgcDwNT,kPWus39,ob5ttN2#2)
+![](http://i.imgur.com/7r619WL.jpg)
 
-The Direct Stiffness Method is the simplest and most common model for FEA, and treats all surfaces as simple springs using Hooke's Law ($F=k\Delta L$ and higher-dimensional equivalents in matrix form) for all elements. Once a geometry is broken into small units, called *simplices,* we couple their respective force-deformation equations together. This is because any two abutting finite elements must have complimentary displacements. One node belongs to multiple elements; when that node moves, the equations of all attached elements must be solved.
+The Direct Stiffness Method is the simplest and most common model for FEA, and treats all surfaces as simple springs using Hooke's Law ($$F=k\Delta L$$ and higher-dimensional equivalents in matrix form) for all elements. Once a geometry is broken into small units, called *simplices,* we couple their respective force-deformation equations together. This is because any two abutting finite elements must have complimentary displacements. One node belongs to multiple elements; when that node moves, the equations of all attached elements must be solved.
 
-In the direct stiffness method, this set of coupled deformation equations can be put in matrix form $$\textbf{P} = \textbf{KU}$$ where $\textbf{K}$ contains relationships stiffness values for the material, $\textbf{U}$ is a matrix of nodal displacements, and $\textbf{P}$ are pressure forces. This is simply a meshed matrix form of Hooke's Law, as seen above.
+In the direct stiffness method, this set of coupled deformation equations can be put in matrix form $$\textbf{P} = \textbf{KU}$$ where $$\textbf{K}$$ contains relationships stiffness values for the material, $$\textbf{U}$$ is a matrix of nodal displacements, and $$\textbf{P}$$ are pressure forces. This is simply a meshed matrix form of Hooke's Law, as seen above.
 
-By solving this equation we find our nodal displacements $\textbf{U}$. For the gaps between nodes, we use some choice of _interpolation functions_ to assign displacement measurements.
+By solving this equation we find our nodal displacements $$\textbf{U}$$. For the gaps between nodes, we use some choice of _interpolation functions_ to assign displacement measurements.
 
 #### The Minimum Potential Energy / Virtual Work Method
 
@@ -245,11 +245,11 @@ For a unit volume, the internal energy held by strain is
 
 $$U_o = \frac{1}{2}\sigma \epsilon$$
 
-By seeking to minimize the system potential energy $\Pi$, we can find a steady-state set of displacement values for our mesh.
+By seeking to minimize the system potential energy $$\Pi$$, we can find a steady-state set of displacement values for our mesh.
 
 $$\Pi = \text{strain energy} + \text{work from external forces}$$
 
-$$\Pi =  \int_V \! U_0 \, \mathrm{d}V - \int_V \! u*F \, \mathrm{d}V$$ where $u$ is a vector of nodal displacements. With this notation, $\epsilon = \frac{u}{L}$. By finding the expressions where $$\frac{\mathrm{d}\Pi}{\mathrm{d}u_i}  = 0$$ we obtain a set of equations and we can solve for displacements $u_i$ that provide the minimum $\Pi(u_i)$ of our system. Boundary conditions can be introduced by numerical solving packages.
+$$\Pi =  \int_V \! U_0 \, \mathrm{d}V - \int_V \! u*F \, \mathrm{d}V$$ where $$u$$ is a vector of nodal displacements. With this notation, $$\epsilon = \frac{u}{L}$$. By finding the expressions where $$\frac{\mathrm{d}\Pi}{\mathrm{d}u_i}  = 0$$ we obtain a set of equations and we can solve for displacements $$u_i$$ that provide the minimum $$\Pi(u_i)$$ of our system. Boundary conditions can be introduced by numerical solving packages.
 
 #### And More
 
@@ -263,9 +263,9 @@ We neglect the weight of the elements.
 
 ![](http://i.imgur.com/BHqv9MV.jpg)
 
-I will walk through an elementary example of direct-stiffness FEM in 2D for illustrative purposes. Let us start with an assumption of 4 elements connected with 5 nodes, the two at ends being fixed.  Label the edges $A$, $B$, $C$, $D$. $L_e$, $L_g$, $P$, and $E$ are known values. We neglect the weight of the elements.
+I will walk through an elementary example of direct-stiffness FEM in 2D for illustrative purposes. Let us start with an assumption of 4 elements connected with 5 nodes, the two at ends being fixed.  Label the edges $$A$$, $$B$$, $$C$$, $$D$$. $$L_e$$, $$L_g$$, $$P$$, and $$E$$ are known values. We neglect the weight of the elements.
 
-We can find, via free body diagram at equilibrium at node 2, where $F_P = P*L_e$, using $L_e$ as an area unit in 2D, $$ \sum F_x = 0 = T_B\cos{\beta_2} - T_A\cos{\beta_2}$$ so $T_A=T_B$ and analogously, $T_A=T_B=T_C=T_D=T$. Our bubble's tension is uniform, as is anticipatable. Again from node 2 we see
+We can find, via free body diagram at equilibrium at node 2, where $$F_P = P*L_e$$, using $$L_e$$ as an area unit in 2D, $$ \sum F_x = 0 = T_B\cos{\beta_2} - T_A\cos{\beta_2}$$ so $$T_A=T_B$$ and analogously, $$T_A=T_B=T_C=T_D=T$$. Our bubble's tension is uniform, as is anticipatable. Again from node 2 we see
 
 $$\sum F_y = 0 = PL_e - T_A\sin{\beta_2} - T_B\sin{\beta_2}$$
 
@@ -273,11 +273,11 @@ which gives us
 
 $$ T=\frac{PL_e}{2\sin{\beta_1}} = \frac{PL_e}{2\sin{\beta_2}}$$
 
-And so we see $\beta_1 = \beta_2$, and from other nodes that $\beta_1 = \beta_2 = \beta_3 = \beta$. This makes sense—we intuitively know that spherical forms are the lowest-energy shapes possible for tensile membranes (this is why bubbles are spherical).
+And so we see $$\beta_1 = \beta_2$$, and from other nodes that $$\beta_1 = \beta_2 = \beta_3 = \beta$$. This makes sense—we intuitively know that spherical forms are the lowest-energy shapes possible for tensile membranes (this is why bubbles are spherical).
 
-We can also recognize from our solid mechanics knowledge that $$T_A=L_e\sigma = L_eE\epsilon = \frac{L_e E u_A}{L_e} = Eu_A$$ where $u_i$ is the displacement (stretch) of element $i$. As all elements share the same tension $T$, so too do they all share the same strain value $u$. $T=Eu$.
+We can also recognize from our solid mechanics knowledge that $$T_A=L_e\sigma = L_eE\epsilon = \frac{L_e E u_A}{L_e} = Eu_A$$ where $$u_i$$ is the displacement (stretch) of element $$i$$. As all elements share the same tension $$T$$, so too do they all share the same strain value $$u$$. $$T=Eu$$.
 
-Now we seek to solve for our unknowns, the angles (as described by $\beta$) and displacement $u$. We start with an assumption of left-right symmetry. If we let $x_i$ be the x-position of node $i$, this means $x_3 = L_g/2$, $\gamma_1 = \gamma_5 =\gamma$.
+Now we seek to solve for our unknowns, the angles (as described by $$\beta$$) and displacement $$u$$. We start with an assumption of left-right symmetry. If we let $$x_i$$ be the x-position of node $$i$$, this means $$x_3 = L_g/2$$, $$\gamma_1 = \gamma_5 =\gamma$$.
 
 Now, using our fixed boundary conditions, we find
 
@@ -331,7 +331,7 @@ _Buying ripstop nylon at Lorraine Fabrics._
 
 ### Blowers
 
-The interior pressure of your bubble is almost entirely dependent on the strength of your blower. At full inflation, the interior pressure is a bit less than the dynamic pressure: $$\frac{1}{2}\rho v^2$$ where $\rho$ is air density and $v$ is your blower velocity.
+The interior pressure of your bubble is almost entirely dependent on the strength of your blower. At full inflation, the interior pressure is a bit less than the dynamic pressure: $$\frac{1}{2}\rho v^2$$ where $$\rho$$ is air density and $$v$$ is your blower velocity.
 
 The reduction is due to leakage in your bubble. A bubble with no leaks does not need continuous inflation, but these are rare to come by and hard to make. My bubble, with numerous small holes at the intersections of my seams, turned out to be much leakier than I anticipated.
 

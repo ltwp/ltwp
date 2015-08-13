@@ -47,6 +47,12 @@ h2{
   font-family: 'Helvetica',sans-serif;
 }
 
+h3,h4{
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+}
+
 p{
   margin: 20px 0px;
 }
@@ -108,27 +114,6 @@ blockquote{
   border-left: solid 1px #ddd;
   padding-left: 10px;
   color: black;
-  font-style: italic;
-}
-
-/* To use in Project Titles */
-h3{
-  font-size: 35px;
-  line-height: 40px;
-  font-weight: bold;
-  font-family: 'Helvetica',sans-serif;
-  xtext-transform: uppercase;
-  text-decoration: none;
-}
-
-/*
-h3:after{
-  content: "→";
-  text-transform: none;
-}
-*/
-
-h3:hover{
   font-style: italic;
 }
 
