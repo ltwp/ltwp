@@ -99,6 +99,17 @@ a:hover{
   text-align: left;
   font-size: 18px;
 }
+#writing_column img{
+  width: 100%;
+}
+
+blockquote{
+  margin-left: 10px;
+  border-left: solid 1px #ddd;
+  padding-left: 10px;
+  color: black;
+  font-style: italic;
+}
 
 /* To use in Project Titles */
 h3{

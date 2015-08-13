@@ -1,0 +1,392 @@
+name: Pneumatic Architecture Introduction & Process
+-
+description:
+
+## INTRO
+### Preface
+
+Welcome to my report on Pneumatic Architecture. This project was made at Brown University over the course of a semester in an independent study in the School of Engineering, under Dr Christopher Bull. The goals for this document are as follows:
+
+1. Clearly defining what a pneumatic structure is.
+2. Providing a list of critical considerations when designing a pneumatic structure (PS).
+3. Addressing some methods for answering these considerations.
+4. Providing guidance to creating your own small-scale Pneumatic Structure.
+
+This document is not comprehensive whatsoever and only touches on the surface of larger engineering complications that can arise when constructing pneumatic architecture. I simply hope to provide a good entry-point for the non-technical hobbyist, and to include good references.
+
+I would like to thank Brown University and Dr Bull for their support, as well as Samuel Lee (class of 2015) and [Pneuhaus](http://pneuha.us), a local Rhode Island company specializing in pneumatics, for their guidance and help in developing a pneumatic structure.
+
+### What is Pneumatic Architecture?
+
+![](http://40.media.tumblr.com/d4f694d09e8479b90c924304a35785fb/tumblr_mq4936BvGU1rkla8lo7_1280.jpg)
+_[Tomas Saraceno: Poetic Cosmos of the Breath](http://tomassaraceno.com/projects/poetic-cosmos-of-the-breath/)_
+
+Pneumatic architecture is a field of study focusing on human-scale inflated architectural forms. There are many other names that might apply to similar structures—tensile structures, air-supported architecture, inflatables, etc. All of these names can apply, but they carry different connotations. My focus here is on pneumatic structures, and I will off-handedly refer to them as _bubbles_.
+
+A Pneumatic Structure (PS) is a constructed form that derives its rigidity from captured pressurized gas. The term “Pneumatic Structures” encompasses constructions such as inflatable play areas for children (“bouncey castles”), as well as covered tennis courts or swimming pools in winter months. When deflated, PS have little rigidity and become loose piles of fabric. When inflated, they attain a preconceived form and respond dynamically to outside forces, such as wind, rain, and snow, to keep their form. The inflation, usually by means of a blower or fan, pushes air into the closed fabric forms to create a pressure differential across the material membrane, with a higher dynamic pressure inside the form. This creates a tensile force across the membrane. This tensile force unfolds the fabric until the form is found.
+
+![](http://i.imgur.com/nHYT8e0.jpg)
+_My bubble mid-blow-up._
+
+To restate, a PS an inflated membrane experiencing purely tensile forces. Due to scale and costs, air is usually the choice of inflating gas. There are two major types of PS: Single-membrane and double-membrane. Much of the physics of the two cases boils down to the same principles, but the two types drive dramatically different architectural forms.
+
+Single-membrane structures use the *interior* of the bubble as the active, usable space. To enter a single-membrane PS, a person must cross through a threshold, across which there is the pressure differential. This often requires some kind of an airlock.
+
+Double-membrane structures use pressurized cells as walls, ceilings, and supports. A person inside a double-membrane is not enclosed within a pressurized space, but is enclosed *by* pressurized spaces.
+
+![](http://i.imgur.com/R1Nv0Ve.jpg)
+
+In this document, I focus on analysis construction of a single-membrane structure. Many principles will be relevant to double-membrane constructions, but I limit myself for the sake of scope of this independent study.
+
+### A Very Brief History
+
+>The history of structural engineering can be regarded as a history of man’s pursuit of ever lighter structures.
+>- Mamoru Kawaguchi in _Light Structures - Structures of Light_, Horst Berger 2005.
+
+It is difficult to trace the path of pneumatic architecture through history as it consists of a set of problems that arise in many different fields.
+
+Tensile structures, or buildings with wall elements largely in a state of tension, are a larger denomination of buildings, of which PS are a subset. Crucially however, they do not necessitate a pressure differential across the membrane.
+
+Frei Otto, a German architect and forefather of modern tensile structures, gives a brief history of pneumatic structures in the introduction to Vol. 1 of his seminal 1973 work _Tensile Structures_. He posits that the sail is likely mankind’s first pneumatic structure (albeit not a closed shape). Evolution has given rise to some naturally-occurring pneumatic structures in the animal kingdom. The puffer fish uses water to inflate its elastic stomach to a large, intimidating shape. The Portuguese Man O’ War floats atop the ocean using an inflated bladder. Beyond these examples, biologically-inspired designs and architectural arrangements continue to inspire. Throughout history man has built tensile structures for himself (such as a tent or tarp) and inflatables are a natural extension, following developments such as the hot air balloon in the 18th century.
+
+It is around the World Wars that most foundational pneumatics research was done, beginning with the engineer Frederick William Lanchester in the U.K. during the late 19th and early 20th centuries (see _Principles of Pneumatic Architecture_, Roger Dent, 1972). Thomas Herzog, in his 1977 handbook _Pneumatic Structures_, explains how large-scale rollout of pneumatic architecture occurred in military contexts just after WWII and was furthered mostly in the United States and Germany as either architectural novelty or utilitarian convenience in the 1950s. Specifically, Otto’s [Institute for Lightweight Structures](http://www.uni-stuttgart.de/ilek/) at the University of Stuttgart was an energizing force.
+
+![](http://i.imgur.com/iCpUVbw.jpg)
+_Radome scan from Herzog’s_ Pneumatic Structures _book._
+
+Radomes ("radar" + "dome") were pivotal in application of inflated bubbles as well just after the second World War, as they provided radar instrumentation inexpensive protection from the elements and do not interfere with radio waves. As Dent details, their development in the 1940s provided grounding for much further research.
+
+![](http://www.columbia.edu/cu/gsapp/BT/DOMES/OSAKA/2709-35.jpg)
+_Image via [Osaka '70 Gallery](http://www.columbia.edu/cu/gsapp/BT/DOMES/OSAKA/images.html)_
+
+Pneumatic structures were frequently deployed at World Fairs from the 1960s through 1980s, most notably at Expo ’70 in Osaka, Japan. Here, the USA Pavilion was designed by the engineer David H. Geiger. One of the first uses for PS in this context was the 1958 Brussels Pan Am bubble.
+
+Outside of pavilion and display purposes, PS continue to be used in military settings, temporary housing, and occasional industrial uses when their speed, ease, and low-material construction outweighs their rigidity and longevity.
+
+### Contemporary Work
+
+The Institute for Lightweight Structures (ILS) has continued to work for many years on progressing the development and execution of tensile structures, those pneumatic and not, and continues to do so independently of Otto’s recent death in March 2015.
+
+![](http://i.imgur.com/hIxfTjY.jpg)
+_Structure by Gernot Minke, scan from Herzog’s book._
+
+A doctoral student of Otto’s, Gernot Minke is a well-known architect known for both his inflated structures and naturalistic, environmentally sensitive designs.
+
+Another contemporary is Horst Berger, who helped Geiger from 1968 to 1970 to create the U.S. Pavilion in Osaka (according to a [profile in STRUCTURE Magazine](https://s3.amazonaws.com/arena-attachments/421124/633c1a25990f13e4a64333744868dac0.pdf). He is also a graduate of the ILS and still active, and is perhaps best known for designing the tensile roof of the Denver airport. Berger’s work is less often inflated but almost universally consists of tensile structures.
+
+![](http://static1.squarespace.com/static/532dd96ae4b0b7a4666a7f32/532ddd38e4b0ff70f47a4e73/54010698e4b0200553197fa6/1409353378299/MylarWedding03resized.jpg?format=1000w)
+_Image via Pneuhaus._
+
+Of importance to this report is Pneuhaus, a contemporary Providence, RI-based  design collective that specializes in pneumatic structures. I am both friends and collaborates with Matt, Augie, Hunter, and Levi and they have helped inform a lot of this research, especially in physical construction process. Their work is exactly at human scale—somewhere between industrial object and architecture—and crosses boundaries between engineering, architecture, landscape, interiors, furniture, and art.
+
+At least one more contemporary experience-based pneumatic company exists, [Architects of Air](http://www.core77.com/posts/20109/Architects-of-Airs-Luminaria-Inflatable-Chromatic-Catacombs).
+
+On the utilitarian end, [Concrete Canvas Shelters](http://www.concretecanvas.com), as an example, sells concrete-impregnated membranes. After inflation, the structure can be wetted and then will harden into a concrete shell, able to support itself without constant applied pneumatic pressure. With simple machines or some manpower, these can be constructed in under and hour and usable within a day after drying.
+
+![](http://s3files.core77.com/blog/images/2013/09/ark-nova-01.jpg)
+_Image via [Core77](http://www.core77.com/posts/25625/the-ark-nova-japans-traveling-inflatable-concert-hall-25625)._
+
+Following the 2011 Japanese Earthquake, a structure designed by famous sculptor Anish Kapoor has been touring as a mobile, easily-constructed concert venue to celebrate Japanese culture and mourn the national loss.
+
+Although there seems to be little current academic research on the topic of pneumatic structures, the upkeep of the ILS and these examples of existing companies serve to show the broad appeal of application, utility, and aesthetics of pneumatic construction.
+
+## PNEUMATIC ENGINEERING
+
+### Fundamental Issues & Questions
+
+At the core of PS research are a few questions. What geometries are both appropriate and feasible, using air-filled membranes as structure-providing elements? For the structure to be in equilibrium, what are the stresses and strains? What materials must be used?
+
+These questions frame most of the analysis in this paper. Intertwined with them is the fundamental consideration of level of fidelity in analysis. We will start at the largest-scale: physical mechanics of the structure as a whole and simple relationships of tension, pressure, and so forth. These calculations become either more difficult or less precise with complicated geometries, and advanced techniques must be used.
+
+Finite Element Analysis allows for the stress/strain analysis of nearly any shape and material, but it is infeasible to do without sophisticated computing software such as Dassault Systemes’ ABAQUS. I will give an introduction into the theory of Finite Element Analysis and demonstrate how to do a simple example by hand, but for difficult cases the user should consult someone with FEA experience.
+
+In most cases, especially more off-the-cuff calculations, we can neglect the weight of the material. In comparison to tensile forces and normal external forces, the weight of typical nylons is so small that this neglect does not affect us much. Material weight is typically not too difficult to reintroduce if necessary, however, and should be in the case of PVC fabric and other heavy weaves.
+
+Some typical notation follows. For my design project, I used standard US units of feet, inches, inches of water or mercury (for pressure), and pounds of force.
+
+$p$ for pressure.
+$v$ for velocity.
+$\rho$ for fluid density.
+$D$ for material density.
+$T$ for tensile force.
+$R$ will typically be the radius of some designated shape.
+$g$ will be the gravity of earth at the surface.
+$L$ is a context-dependent length (often unit length).
+$A$ is a context-dependent area (often unit area).
+
+Other symbols will be defined as necessary.
+
+### Physics of Pneumatics
+
+The main physical focus in PS engineering is tensile forces across the membrane. The dominant force is that caused by pressure differential between the interior and exterior of the bubble.
+
+One of our key assumptions is that within a bubble our pressure is uniform. This is to serve as a reminder that this paper focuses on single-membrane structures and we assume temperature uniform throughout. (Considering temperature differences within a bubble and between the inside and outside of a bubble can lead to structures with some uplift due to warm air's rising—see pp105 in Dent’s _Principles of Pneumatic Architecture_). The location of the blower will lead to regions of slightly higher pressures than others inside the bubble, but by pointing the blower into the center of a large volume of the structure, effects of fluttering and deflation can be minimized.
+
+#### Simple Membrane Tension
+
+![](http://i.imgur.com/3rqSXRp.jpg)
+
+Our first investigation is at a point on the surface of an inflated bubble, where the tensile forces and pressure force, which always acts normal to the surface, balance each other out.
+
+If we make two small assumptions however, we find ourselves in a bind. Let the pressure force be perpendicular to the surface, as one might expect, and let us neglect weight of the fabric. Thus we end up with a free-body diagram (FBD) as above. But the forces in this diagram can never lead to steady-state—but of course we know a bubble can inflate to a stable form.
+
+We need to account for curvature in the material and amend our FBD slightly:
+
+![](http://i.imgur.com/tgcDwNT.jpg)
+
+Now we can see that, under the natural assumption that tension is equal on either sides of our point,
+
+$$ T\sin{\alpha} = \frac{F_p}{2} $$
+
+With $\alpha$ small (gentle curves, large radii), $T$ is much larger than $F_p$, which mathematically validates how PS can be made quite rigid with very low values of internal pressurization.
+
+With $R$ as radius of a circumscribing circle of an equilateral polygon with $n$ sides of length $L$, it is easy to find that
+
+$$ R = \frac{L}{2} \frac{1}{\sin (\pi/n)} $$
+
+As $n \rightarrow \infty$ and with $C \approx n*L$, the shape approaches a circle (the natural shape to get equal tension across the membrane). Using the $\alpha$ as defined above (exterior angle), this equation corresponds to
+
+$$ R = \frac{L}{2} \frac{1}{\sin (\alpha / 2)} $$
+
+It now becomes evident why $\alpha \neq 0$ necessarily.
+
+A common equation valid wherever you know the exact radii of curvature ($R_1$ and $R_2$ along the primary directions) at a point is the Laplace Equation, which is [derivable in multiple ways](https://s3.amazonaws.com/arena-attachments/421126/0d72a6d444b587069329b7501f7938a0.pdf). The minimum energy argument is perhaps easiest to follow and tells us that
+
+$$p = \sigma (\frac{1}{R_1} + \frac{1}{R_2}) $$
+
+That is, the pressure differential $p$ across our membrance varies with strain force $\sigma$ and our principle curvatures $R_1$ and $R_2$ at a point.
+
+With lightweight nylon materials, most tensile force calculations are effective enough approximations without accounting for weight. With heavier PVC fabrics, continuous $g$ forces should be added in the FBD and integrated over the length of the surface. Good estimates of these values on simple geometries can be found in the appendices of Herzog's book.
+
+#### Solid Mechanics of Pneumatics
+
+I recommend Crandall et. al.'s *An Introduction to Mechanics of Solids* for a secure introduction to the field of solid mechanics. For our purposes here I seek just to introduce stress and strain as one might consider when building a pneumatic structure.
+
+Solid materials deform under force until either equilibrium or breaking. Woven fabrics assume form only in tension (just as a rope becomes taught under tension, and a formless pile under compression),  and as they are normally found in sheets of thickness negligible compared to their length and width, are assumed two-dimensional for our purposes.
+
+*Strain,* $\epsilon$, is the relative stretch of a material, where $\epsilon = \frac{\Delta L}{L}$ where L is the length (and generalizes to higher dimensions in vector form). This is a unitless measurement that reflects physical deformation when a force is applied.
+
+*Stress,* $\sigma = E\epsilon$ is a measure of internal forces between particles (i.e. a solid material being under tension), where $E$ is Young's Modulus of Elasticity. Stress is in units of force/area, so that $F_{\text{stress}} = A  \sigma$
+
+$E$ is dependent on the type and shape of material in question and should be looked up in tables as necessary. For thin ripstop nylon, $E=4$ GPa or about $580$ kpsi is a decent estimate according to the [Fabric Architecture’s Specifier’s Guide](https://s3.amazonaws.com/arena-attachments/421127/733d66fb89aa2ba60c0f7cbe485dad76.pdf).
+
+With this, we typically see
+
+$$ F = A  \sigma= AE\frac{\Delta L}{L} = k \Delta L $$
+
+where $k = \frac{AE}{L}$ is a relative stiffness of a material. The above is called Hooke's Law and is the form for a generalized "spring"—where the longer it is deformed ($\Delta L$), the more force it exerts to return to its original shape. All materials have breaking points, of course, and these can be obtained from material spec sheets as necessary.
+
+In general, for pneumatic structures, the pressure and tension values are well below what would cause the nylon to rip. However, the small holes put in fabric by the needle when sewn introduce weak points. As visible from my own informal testing and conversations with Pneuhaus, most rips of fabric happen just along seams. Not the seam itself (which is reinforced with the thread used), but just adjacent to the seam, where there is a drastic change in material properties and stress.
+
+![](https://i.imgur.com/PsXW8Nl.jpg)
+
+Equating tension with stress force allows one to make predictions about deformations and internal pressures in a PS using these trivial equations. Quick 2D calculations can help verifys simple designs, and can be extended to 3D as necessary. Avoid twisting and pulling fabric, when possible, as it introduces additional complications.
+
+### Dynamic Loading & Inflation
+
+Many PS are designed for environments that will expose them to dynamic loads, for instance bubbles out-of-doors will experiene wind, rain, and snow stresses.
+
+![](https://d2w9rnfcy7mm78.cloudfront.net/421088/large_fa14f8adff292ce1c94e95042ce49a7d.jpeg)
+_Scan from Dent's book._
+
+The critical detail to avoid _folding_ of a membrane under wind (likely the most common external effect) is that the internal pressure $p_i$ needs to remain larger than the external pressure $p_e$ which is the combination of atmospheric pressure $p_0$ and dynamic pressure $p_{dyn}$.
+
+$$ p_i \geq p_e = p_0 + p_{dyn} $$
+
+This condition is just to maintain structural form. Once a fold is introduced, it can significantly affect the tension of the fabric near the fold and the structure might have partial or total collapse. (This effect can be put to use,  as often seen in the form of inflatable tube men one often sees outside car dealerships, where instability of the inflated form is by design.)
+
+Recall too that for an isothermal environment (temperature constant) with relatively constant flow of air through, $PV = C$, where C is a constant (as derived from the Ideal Gas Law).
+
+Cedric Price’s 1971 _Air Structures_ more accurately details interior pressure of membranes for structure when the weight of the gas might be meaningful.
+
+One of our first assumptions was that pressure inside a PS was uniform. Thus, even if our geometry is as simple as two overlapping spheres with different radii, one or the other will be "over-inflated" or "under-inflated". The two spheres have radii $R_1$ and $R_2$ where $R_1 \neq R_2$, but must share one pressure $p_i$.
+
+To avoid ripping, tension in the membrane must at least be continuous (if not simply uniform). Thus, seams that join forms of different radii/size/geometry are often put exactly in a place of finding a shared tension. The designer would be good to implement well-constructed seams, reinforced construction, or some stretch in these transition areas to allow for some asymmetric pulling between geometric forms.
+
+### Inflation
+
+Calculating the inflation process (from deflated zero pressure differential across membrane to inflated steady-state) is difficult, and many different initial conditions lead to the same inflated form. In other words, initial (non-inflated) conditions are not unique with regards to the pressurized (pre-stretch) and inflated (post-stretch) forms created. This poses difficulty for computational solvers (which frequently need uniquely deterministic systems) and we do not yet have a good solution.
+
+Pneuhaus has developed an effective workflow that allows for the fact that the change in dimensions between pressurized and inflated forms—the difference being accounting for fabric stress, to be detailed in the FEA section—is negligible when compared to the typical scale of pneumatic structures (barely fractions of an inch for most stretching).
+
+Using the common 3D surface modeling program, Rhinocerous, they first create a flat mesh. This can be helped with the refined mesh-making plugin Weaverbird. With this mesh, an internal pressure can be added using a geometry/physics engine, namely [Kangaroo](http://www.food4rhino.com/project/kangaroo?ufh). This process assumes a very stretchy fabric but gives a natural layout for cutting patterns and finding inflated forms. Once this form is fixed by "baking" it out of Grasshopper and into Rhinocerous, it can be used for renderings and pattern-making, with non-stretchy fabric assumed (as nylon stretches very little at typical pneumatic pressures). Through this process we properly envision shapes made via inflation and plan the construction of their deflated forms.
+
+![](https://i.imgur.com/dmBG2Z5.png)
+_I learned some Rhino over the semester to help envision my "Igloo."_
+
+After this “baking” I suggest bringing the geometry into view for FEA, whether done by hand or, more likely, via careful exporting from Rhinocerous, into computer programs such as Dassault Systemes’ ABAQUS SIMULIA package. With this, we can calculate the final small stretches and strains in the fabric, factoring in the pressure differential.
+
+### Introduction to Finite Element Analysis
+
+Finite Element Analysis (FEA) and the Finite Element Method (FEM, by which FEA is performed) in solid mechanics are sets of techniques for calculating stresses caused by small deformations. Tensile structures have long been viewed through an FEA lens, after Otto proposed analysis of infinitesimally small square “membrane elements” in his 1973 books _Tensile Structures, Vol. 1 & 2_.
+
+![](https://d2w9rnfcy7mm78.cloudfront.net/421082/large_9798e8ef8b3ae1e460d3fc76d2a53258.jpg)
+_Scan from Rao's_ The Finite Element Method in Engineering.
+
+FEA consists of breaking a continuous surface (that has, in theory, a continuous stress distribution over it) into discrete “elements.” We reduce an infinite-dimensional problem (that would be solved by some likely complicated and often unsolvable integral analysis) into a finite degrees of freedom that can be solved via a collection of algebraic or simple differential equations.
+
+We call the array of elements our _mesh_. We can increase the density of our mesh for more accuracy in areas with steep gradient in our variable of choice. For us, the variable is stress, calculated via strain. By tracking the movement of our finite elements, we can calulate system strain and stress distributions. Accuracy (as these are approximate, numeric solutions) can be increased via denser or better-positioned meshes and varying interpolation functions between nodes.
+
+FEA in this context is concerned with small deformations caused by external forces on an otherwise fixed geometry. A steel beam maintains rigidity without accounting for external forces, but a PS does not—it is precisely the interior pressurization that is giving the form both its rigid shape _and_ its strain deformation. As such, we only turn to FEA once most of the geometry has been determined. In other words, we should know the shape of our bubble before calculating the small stresses caused by stretching in the membrane. This fits well with the inflation workflow developed by Pneuhaus, which separates a pressurized shape from the fully inflated "steady-state," the latter of which accounts for material stretch.
+
+####Direct Stiffness Method
+
+![](http://imgur.com/R1Nv0Ve,3rqSXRp,7r619WL,BHqv9MV,tgcDwNT,kPWus39,ob5ttN2#2)
+
+The Direct Stiffness Method is the simplest and most common model for FEA, and treats all surfaces as simple springs using Hooke's Law ($F=k\Delta L$ and higher-dimensional equivalents in matrix form) for all elements. Once a geometry is broken into small units, called *simplices,* we couple their respective force-deformation equations together. This is because any two abutting finite elements must have complimentary displacements. One node belongs to multiple elements; when that node moves, the equations of all attached elements must be solved.
+
+In the direct stiffness method, this set of coupled deformation equations can be put in matrix form $$\textbf{P} = \textbf{KU}$$ where $\textbf{K}$ contains relationships stiffness values for the material, $\textbf{U}$ is a matrix of nodal displacements, and $\textbf{P}$ are pressure forces. This is simply a meshed matrix form of Hooke's Law, as seen above.
+
+By solving this equation we find our nodal displacements $\textbf{U}$. For the gaps between nodes, we use some choice of _interpolation functions_ to assign displacement measurements.
+
+#### The Minimum Potential Energy / Virtual Work Method
+
+For a unit volume, the internal energy held by strain is
+
+$$U_o = \frac{1}{2}\sigma \epsilon$$
+
+By seeking to minimize the system potential energy $\Pi$, we can find a steady-state set of displacement values for our mesh.
+
+$$\Pi = \text{strain energy} + \text{work from external forces}$$
+
+$$\Pi =  \int_V \! U_0 \, \mathrm{d}V - \int_V \! u*F \, \mathrm{d}V$$ where $u$ is a vector of nodal displacements. With this notation, $\epsilon = \frac{u}{L}$. By finding the expressions where $$\frac{\mathrm{d}\Pi}{\mathrm{d}u_i}  = 0$$ we obtain a set of equations and we can solve for displacements $u_i$ that provide the minimum $\Pi(u_i)$ of our system. Boundary conditions can be introduced by numerical solving packages.
+
+#### And More
+
+These are two extremely brief introductions to FEA methods—they can each be elaborated upon given certain types of systems or constraints. The Rayleigh-Ritz technique, for example, uses a set of  "trial" functions for interpolation and allows optimization of those functions to solve the set of equations, in direct-stiffness or virtual work methods. For quality introductions to FEA, I recommend Singiresu S. Rao’s text, _The Finite Element Method in Engineering_.
+
+For more on details of implementation techniques for FEA in inflatable structures specifically, see Bonet et. al. “Finite element analysis of air supported membrane structures, 2000. Oden and Kubitza set an early precedent for the delicate space between 2D and 3D FEM that is required for inflated membranes in their 1967 [Numerical Analysis of Nonlinear Pneumatic Structures](https://s3.amazonaws.com/arena-attachments/421129/d1c38f22aad4ce7ee6add71e2738357d.pdf).
+
+### Hand-Made FEA Examples
+
+We neglect the weight of the elements.
+
+![](http://i.imgur.com/BHqv9MV.jpg)
+
+I will walk through an elementary example of direct-stiffness FEM in 2D for illustrative purposes. Let us start with an assumption of 4 elements connected with 5 nodes, the two at ends being fixed.  Label the edges $A$, $B$, $C$, $D$. $L_e$, $L_g$, $P$, and $E$ are known values. We neglect the weight of the elements.
+
+We can find, via free body diagram at equilibrium at node 2, where $F_P = P*L_e$, using $L_e$ as an area unit in 2D, $$ \sum F_x = 0 = T_B\cos{\beta_2} - T_A\cos{\beta_2}$$ so $T_A=T_B$ and analogously, $T_A=T_B=T_C=T_D=T$. Our bubble's tension is uniform, as is anticipatable. Again from node 2 we see
+
+$$\sum F_y = 0 = PL_e - T_A\sin{\beta_2} - T_B\sin{\beta_2}$$
+
+which gives us
+
+$$ T=\frac{PL_e}{2\sin{\beta_1}} = \frac{PL_e}{2\sin{\beta_2}}$$
+
+And so we see $\beta_1 = \beta_2$, and from other nodes that $\beta_1 = \beta_2 = \beta_3 = \beta$. This makes sense—we intuitively know that spherical forms are the lowest-energy shapes possible for tensile membranes (this is why bubbles are spherical).
+
+We can also recognize from our solid mechanics knowledge that $$T_A=L_e\sigma = L_eE\epsilon = \frac{L_e E u_A}{L_e} = Eu_A$$ where $u_i$ is the displacement (stretch) of element $i$. As all elements share the same tension $T$, so too do they all share the same strain value $u$. $T=Eu$.
+
+Now we seek to solve for our unknowns, the angles (as described by $\beta$) and displacement $u$. We start with an assumption of left-right symmetry. If we let $x_i$ be the x-position of node $i$, this means $x_3 = L_g/2$, $\gamma_1 = \gamma_5 =\gamma$.
+
+Now, using our fixed boundary conditions, we find
+
+$$(L_e + u)\cos(\gamma) + (L_e + u)\cos(\gamma-2\beta) = \frac{L_g}{2}$$
+
+We also know
+
+$$ 2\gamma + 3(\pi - 2\beta) = 2\pi$$
+
+These are our two constitutive equations. Now, knowing that $$u = \frac{PL_e}{2E\sin{\beta}}$$ we can reduce our system to two variables and solve (by linearization or using a numerical solver like __FindRoot[]__ in Wolfram Mathematica).
+
+Because of the small number of elements, I did this all analytically and using trigonometric functions. In a large system, everything is linearized and solved computationally.
+
+## PNEUMATIC DESIGN & CONSTRUCTION
+
+>A geometry can be formed pneumatically when spheres with steadily changing radius can be included, the centre points of which lie along a curve and when at least one parallel of latitude of the generating sphere rests on the whole length of the membrane.
+> -Frei Otto
+
+As aforementioned, the sphere is the most natural pneumatic shape. It is isotropic and uniformly tensioned. Other round forms are natural to work with as well: cylinders, rounded polyhedra, etc. Creating a PS silhouette by layering and combining of gently rounded forms brings low risk of tear or pinching in the material as differences in tension are navigated.
+
+>The objective is to find a geometric form for the structure which satisfies the functional requirements of the building while conforming to a prescribed pattern of force flow in perfect equilibrium.
+>-Horst Berger (pp63)
+
+Much of existing pneumatic architecture is influenced by its umbrella term, tensile structures, with architects like Horst Berger, Frei Otto, and more playing between tensioned forms both closed and open. Tent designs, seeking to be effectively strong, light, and simple to construct, can also be effectively included as motivation and inspiration material with inflated forms. A recent experimental project close to home in Providence was the [RISD Tent Studio](http://risdtentstudio.tumblr.com).
+
+A factor yet to be mentioned is anchoring. PS can lift off the ground with a small breeze and regularly need to be attached firmly to the ground. Herzog's book includes numerous details in this realm in section 6. My own project includes stitch-reinforced holes in the bottom of the floor through which small stakes can be run, the air loss through which is negligible.
+
+![](http://i.imgur.com/kPWus39.jpg)
+_Door flaps closed, then pulled open._
+
+Paths of entry and exit are of crucial importance and should be designed to seal shut when not being used. In large structures, revolving doors are popular, but ensuring fabric strength at attachment to a rigid door frame can be difficult. In my own design I had a round entry port with two overlapping fabric flaps. The interior pressure pushes the two flaps into one another and gives an effective seal. Pneuhaus has used rounded entry ports that have magnets to hold themselves closed with magnet seals.
+
+![](http://static1.squarespace.com/static/532dd96ae4b0b7a4666a7f32/541b3da0e4b0ea4658886de1/541f5ccce4b0a6db3137bbde/1411352612405/IMG_8487.JPG)
+_Image by [Pneuhaus](http://www.pneuha.us/rgbubble) in their RGBubble._
+
+All of these considerations add to the experience of entering and using the bubble. Color regimes, as evident in the above image, can give a cool or aggressive atmosphere, entryways can be sudden or (as with my "igloo" design) elongated. Nylon can be made more or less permeable to light, entryways can be ubiquitous or singular.
+
+Being inside a pneumatic structure tends to be a sensory-deprivation experience: limited light and color, awash in white noise from the blowers—these transformative spaces can be accentuated and tuned based on these crucial human design considerations. The singular process of "blowing up" a bubble allows for a lot of flexibility and creativity in the details of the space itself.
+
+### Material Buying & Layout
+
+Common for most PS are using lightweight ripstop nylon and PVC fabric. In my project I used 1.9oz (meansing 1.9oz per square yard) nylon, but using more heavy-duty PVC for floor surfaces is common. This fabric can be 4 or 5 times the weight of nylon. Nylon has very little stretch in the two directions of weave but some along the diagonal, and most PVC has 2-way stretch. For commercial and long-term installation, pneumatic structures must go through an approval process with the local fire marshall. For this reason, fire-retardant fabrics and fire-retardation processes are desirable. Most stock nylon is not already fire-resistant but can be made so through a chemical spray process. For recreational purposes, standard nylon that can be bought in bulk at local fabric stores (such as Lorraine fabrics in Providence, Rhode Island) is effective, durable, and rip-resistant. More exacting details on fabric UV-sensitivity, protective covering, translucency, and tensile strengths can be found in sources such as [Fabric Architecture Mag](http://fabricarchitecturemag.com/articles/rv1009_f1_inflatable.html).
+
+![](http://i.imgur.com/V45BhIZ.jpg)
+_Friends sitting inside my bubble._
+
+Standard rolls come 4.5 feet wide and fabric bought by the yard, in the USA. My bubble (a 3/4 sphere with 6' radius and 7' entry tube) took approximately 350 sq feet of fabric. Effectively fitting your pattern can make it so scraps are small—my process yielded about 40 sq feet of scraps in small dimensions. Nylon is regularly about 3usd per yard and PVC about 7usd.
+
+![](https://d2w9rnfcy7mm78.cloudfront.net/421097/large_252f3262a8dea329cb8580b2098105c8.jpg)
+_Buying ripstop nylon at Lorraine Fabrics._
+
+### Blowers
+
+The interior pressure of your bubble is almost entirely dependent on the strength of your blower. At full inflation, the interior pressure is a bit less than the dynamic pressure: $$\frac{1}{2}\rho v^2$$ where $\rho$ is air density and $v$ is your blower velocity.
+
+The reduction is due to leakage in your bubble. A bubble with no leaks does not need continuous inflation, but these are rare to come by and hard to make. My bubble, with numerous small holes at the intersections of my seams, turned out to be much leakier than I anticipated.
+
+I began with a Foshan Shunde 600 CFM (cubic feet per minute) blower with a nearly 60mph blow speed. It couldn’t inflate the full volume of my bubble; I had too many leaks. I could have patched the small holes with scraps of nylon, but as I was in a pinch, instead I borrowed an 1600 CFM [Shopvac blower](https://www.shopvac.com/wet-dry-vacs/vac-details.aspx?vacId=267&vacSKU=103-01-10) from Pneuhaus, with an output speed of about 25mph. So my interior pressure was less, but I had the volume of air necessary to fully inflate.
+
+Choosing the right blower is difficult for these reasons. It is not likely, but a blower can be too strong and cause ripping or deformation/instability in your bubble as well.
+
+I was completely shooting in the dark here, but simple calculations about leak speed, blower speed, and blower CFM can do you well. I also recommend the PDFs listed on the [New York Blower company website](http://nyb.com/eng_letters.asp).
+
+### Cutting & Sewing Process
+
+Fabric cutting and sewing is the vast majority of construction time for a pneumatic structure.
+
+It is best, for consistency, to create a "jig" or cutting template for your shapes, especially with many repeated shapes. In my design, I needed 60 3.5'-edge equilateral triangles. I made this shape out of hard cardboard. For each triangle, I could pull the fabric taught to this shape and cut along the edges.
+
+For heavier, reinforced fabrics, using a sharp utility knife is effective. For lighter fabrics (like 1.9oz Nylon), the material is more likely to cut and drag with a ragged edge. For these cuts, I recommend using a soldering iron on high-heat (if your template material is non-flammable) or a sharp pair of heavy shears. I found it useful to pin my fabric to my template before each cut to keep it in place, and the pin holes have a negligible effect on the leak rates of the structure.
+
+![](http://i.imgur.com/YbBhmzn.jpg)
+_Your author removing pins from the triangle._
+
+When sewing, use a small pointed needle for best penetration of the nylon. When going with the weave, using a straight stitch. When not, use a zig-zag weave to permit for stretch. I used exclusively zig-zag stitches as most of my seams were the conjoining of two non-oriented pieces of fabric.
+
+![](http://i.imgur.com/ob5ttN2.jpg)
+
+When possible, one of the best seam styles to use is the "Double Sewn Folded Seam"  (DSF Seam) as diagrammed above and in some books. This makes for a virtually airtight seam but is only possible when two pieces of fabric meet.
+
+Again I used pins on a large cardboard sheet to prepare my DSF seams before moving to the sewing machine, but Pneuhaus recommends using a soldering iron (at lower temperature than for cutting, around 500°F) to "stick" the nylon together at small points before sewing. Basting tape can also help keep pieces together in this workflow.
+
+DSF seams required about a half an inch of extra fabric on the edge of each cut. Cuts that go with the weave of the fabric are easiest to fold and work with as they keep more tension without stretching as you pull taught.
+
+Points where more than two seams intersect can be tricky and require forethought to account for directions of all the material and how to deal with excess or defecit of material. These points can be difficult to make effectively airtight. In my own strucure, most points of 5 or 6 pieces of fabric meeting are not airtight seams but rather open holes that comprise the majority of my leak rate in the structure. Holes of concern can be sewn over with more fabric if need-be.
+
+![](https://d2w9rnfcy7mm78.cloudfront.net/421102/large_45ff27540638ca48b9372515e7e5efd3.jpg)
+_My first "pentagon" piece. Note small hole in center._
+
+Nylon can be ironed at low heat and this can be an effective technique for giving it a natural bend or shape.
+
+In terms of process of sewing, I have two recommendations: work in rings out from a central point (allowing you to have all finished construction on one side of your working seam at all times, which is relevant given the shape of most sewing machines with a closed right side), and make your "sealing" seam your last. Your final seam should "close" the interior space. Once this is closed (aside from a small entryway), work on interior seams is nearly impossible and it can be difficult to turn your bubble inside-out. For my project, I built the entirety of the dome, with entryway tube, and then the floor separately. The final seam was the connection of these two, sealing off the dome. Thus, for each, it was easy to work on seams far from the open edges, before the final circumferential floor seam.
+
+## Conclusion
+
+Pneumatic structures caught my attention for their defining properties: stable, volume-defining forms that seemingly come out of nothing. They are exciting to experience and allow for vast creativity in form. In addition, they pose a unique set of engineering considerations, melding pneumatics, fluids, solids, physical mechanics, finite element analysis, civil engineering, human design, and spatial design. I hope this document proves an effective soft introduction into the set of physics and considerations when making your own bubble.
+
+![](https://d2w9rnfcy7mm78.cloudfront.net/421110/large_4bbb3dd38887c960ddd758f4a080632a.jpg)
+_Me in my bubble._
+
+I would like to thank my advisor for this independent study, Dr Chris Bull in the School of Engineering at Brown University for his excitement, support, and flexibility. Pneuhaus—August Lehrecke, Hunter Blackwell, Levi Bedall, and Matt Mueller—have been incredibly helpful and communicative throughout the entire process. Sam Lee (Civil Engineering 2015) and Dr Martin Maxey (Division of Applied Mathematics) have been helpful as I navigate more technical questions. In addion, thanks to my friends Logan Barnes, Daniel Keliher, Ariana Lee, Emma Moore, and Nathan Zack for helping me with construction or just getting me through the stressful process of making my bubble. I enormously appreciate Alexander Hadik's willingness and helpfulness in letting me inflate the bubble in his back yard at a social event and in collecting additional blowers. And finally, thanks to the Dean of the College at Brown University for their financial support via the [Dean's Discretionary Grant](http://www.brown.edu/academics/college/undergraduate-research/deans-discretionary-grants), without which my bubble would have not come to fruition.
+
+Please send any thoughts, criticism, or ideas to lukas@brown.edu. You can see some mixed-media materials collected on [are.na/lukas-wp/pneu](http://are.na/lukas-wp/pneu). Written mostly on [stackedit](http://stackedit.io). Thanks for reading.
+
+-
+details:
+
+Providence, RI. May 2015.
+
+-
+tags:
+-
