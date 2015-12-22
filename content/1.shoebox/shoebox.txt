@@ -14,12 +14,7 @@ This site is made with [Stacey](http://staceyapp.com).
 
 Some Of My Friends:
 
-[Josef Plecha](http://josefplecha.com), [Wintercheck Factory](http://wintercheckfactory.com), [Jordan Beard](http://jordanbeard.com), [Kevin Hu](http://kevinzenghu.com), [Brandon Evans](http://brandonevans.ca), [Work-Shop](http://work-shop.ws), [Gary Kulak](http://garykulak.com/home.html), [Bro-LUG](http://brolug.weebly.com), [Alex Saeedy](http://ajsaeedy.net), [Nick Gray](http://nickgray.net), [Catherine Schmidt](http://www.cath.land), [Adriana Gallo](http://www.adriana-gallo.com), [Elizabeth Goodspeed](http://www.elizabethgoodspeed.com), [Ryan Flomerfelt](http://ryancan.build), [Alex Hadik](http://www.alexhadik.com), [Tim Zarki](http://zarki.net), [Milan K-S](http://milanks.com), [Gavin Atkinson](http://gav.space), [Ian Francis Robinson](http://ianfrancis.cc), [Ben Snell](http://ben-snell.com), [Atelier Boris Bally](http://borisbally.com), [Pneuhaus](http://pneuha.us), [Elizabeth Meiklejohn](http://elizabethmeiklejohn.com), [Thicket](http://thisisthicket.net), [Richard Fishman](http://richard-fishman.com), [Allison Schloss](http://bigfoot.tumblr.com), [Pierie Korostoff](http://pieriekorostoff.com), [Layla May Ehsan](http://laylamayehsan.com), [Nathan Zack](http://nathanzack.net), [Tristan Rodman](http://tristanrodman.com), [Peter Bussigel](http://bussigel.com), [Polina Godz](http://polinagodz.net), [Íñigo López Vázquez](http://ilvz.net), [Michael H. Stewart](http://www.strangesympathies.com), [Erik Frobom](http://erikandallhisthings.tumblr.com), [Jacob Sysak](http://jqsk.tumblr.com).
-
-
----
-
-Good Content: [Things](http://thingsmagazine.net), [Trivium](http://chneukirchen.org/trivium), [You Might Find Yourself](http://youmightfindyourself.com),  [Three Word Phrase](http://threewordphrase.com), [Pieratt](http://blog.pieratt.com)/[Gimmick Book](http://gimmickbook.com), [Words For Young Men](http://wordsforyoungmen.tumblr.com), [Freunde von Freunden](http://www.freundevonfreunden.com), [Jacob Bijani](http://jacobbijani.com), [Justin Ouellette](http://jstn.cc), [Luke Crawford](http://tlvx.net), [bit-player](http://bit-player.org), [Ronen V](http://ronenv.com).
+[Josef Plecha](http://josefplecha.com), [Wintercheck Factory](http://wintercheckfactory.com), [Jordan Beard](http://jordanbeard.com), [Kevin Hu](http://kevinzenghu.com), [Brandon Evans](http://brandonevans.ca), [Work-Shop](http://work-shop.ws), [Gary Kulak](http://garykulak.com/home.html), [Bro-LUG](http://brolug.weebly.com), [Alex Saeedy](http://ajsaeedy.net), [Nick Gray](http://nickgray.net), [Catherine Schmidt](http://www.cath.land), [Adriana Gallo](http://www.adriana-gallo.com), [Elizabeth Goodspeed](http://www.elizabethgoodspeed.com), [Ryan Flomerfelt](http://ryancan.build), [Alex Hadik](http://www.alexhadik.com), [Tim Zarki](http://zarki.net), [Milan K-S](http://milanks.com), [Gavin Atkinson](http://gav.space), [Ian Francis Robinson](http://ianfrancis.cc), [Ben Snell](http://ben-snell.com), [Atelier Boris Bally](http://borisbally.com), [Pneuhaus](http://pneuha.us), [Elizabeth Meiklejohn](http://elizabethmeiklejohn.com), [Thicket](http://thisisthicket.net), [Richard Fishman](http://richard-fishman.com), [Allison Schloss](http://bigfoot.tumblr.com), [Pierie Korostoff](http://pieriekorostoff.com), [Layla May Ehsan](http://laylamayehsan.com), [Nathan Zack](http://nathanzack.net), [Tristan Rodman](http://tristanrodman.com), [Peter Bussigel](http://bussigel.com), [Polina Godz](http://polinagodz.net), [Íñigo López Vázquez](http://ilvz.net), [Michael H. Stewart](http://www.strangesympathies.com), [Erik Frobom](http://erikandallhisthings.tumblr.com), [Jacob Sysak](http://jqsk.tumblr.com), [Max Fowler](http://maxhfowler.com/about/), [Ronen V](http://ronenv.com).
 
 ---
 
@@ -48,20 +43,9 @@ I enjoy collecting quotes. These are important to me:
 ---
 Some of my favorite things:
 
-<p class="left">
-- <a href="http://robertogreco.tumblr.com/post/91780365373/kevin-buist-posted-this-image-to-twitter-with-the">Institutional Critique</a> <br />
-- <a href="http://blog.acehotel.com/post/368283600/solid-advice">Advice from Lucien who is six</a> <br />
-- <a href="http://www.ltwp.net/stuff/lego_is.txt">The LEGO Life</a> by Jon Palmer of zemi.net <br />
-- <a href="http://blog.pieratt.com/post/91764716730">David Lynch on Film</a> <br />
-- <a href="http://photomichaelwolf.com/#bastard-chairs/1">Bastard Chairs</a> <br />
-- <a href="http://youhavebeenheresometime.blogspot.nl/search/label/portrait%20of%20a%20man">Portrait of Man</a> <br />
-- <a href="https://vimeo.com/36167291">Street Typography</a> <br />
-- <a href="http://www.paglen.com/?l=work&s=nonfunctional&i=8">Nonfunctional Satellites</a> <br />
-- <a href="http://www.rotring.com/en/mechanical-pencils/290-rotring-600-mechanical-pencil-3501178523096.html">Rotring 600</a><br />
-- <a href="http://www.freundevonfreunden.com/workplaces/azuma-makoto/">FvF: Azuma Makoto</a><br />
-- <a href="http://www.dailydot.com/opinion/how-to-live-like-a-king-thor-harris/">How To Live Like A King For Very Little</a><br />
-- <a href="http://www.amazon.com/Learning-Las-Vegas-Forgotten-Architectural/dp/026272006X/ref=sr_1_1?ie=UTF8&qid=1438592170&sr=8-1&keywords=learning+from+las+vegas">Learning From Las Vegas</a><br />
+[Institutional Critique](http://robertogreco.tumblr.com/post/91780365373/kevin-buist-posted-this-image-to-twitter-with-the), [Advice from Lucien who is six](http://blog.acehotel.com/post/368283600/solid-advice), [The Lego Life by Jon Palmer](http://www.ltwp.net/stuff/lego_is.txt), [David Lynch on Film](http://blog.pieratt.com/post/91764716730), [Michael Wolf: Bastard Chairs](http://photomichaelwolf.com/#bastard-chairs/1),
+[Street Typography](https://vimeo.com/36167291), [Nonfunctional Satellites](http://www.paglen.com/?l=work&s=nonfunctional&i=8), [Azuma Makoto](http://www.freundevonfreunden.com/workplaces/azuma-makoto/), [How to Live Like a King for Very Little](http://www.dailydot.com/opinion/how-to-live-like-a-king-thor-harris/), [Learning from Las Vegas](http://www.amazon.com/Learning-Las-Vegas-Forgotten-Architectural/dp/026272006X/ref=sr_1_1?ie=UTF8&qid=1438592170&sr=8-1&keywords=learning+from+las+vegas), [On Borrowing Everything](http://www.metafilter.com/65284/Collect-em-all#1862024), [@retsoor](http://twitter.com/retsoor), [Miles Davis on LCD Soundsystem](https://www.youtube.com/watch?v=huEtJw7pfLk&list=LLYkfaW6SbW1FpMe1ZEgx50Q&index=53), [FLCL](https://en.wikipedia.org/wiki/FLCL), [Jordan Wolfson Bumper Stickers](http://www.jordanwolfson.org/bump-stickers.html).
 
-</p>
+If you like LEGO, some of my favorite builders are [nnenn](https://www.flickr.com/photos/nnenn), [Travis Kunce](http://www.brickshelf.com/cgi-bin/gallery.cgi?m=elkane), [Ken-Tucky](http://ken-tucky.jp/LEGO/works-e.html), [Phil Painter](http://www.brickshelf.com/cgi-bin/gallery.cgi?m=mealy-mouthed), [Soren Roberts](https://www.flickr.com/photos/bricklovinfreakboy).
 
----
+-

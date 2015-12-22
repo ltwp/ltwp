@@ -16,6 +16,10 @@ Originally modeled after [Brian Evenson](http://bombmagazine.org/article/1000191
 
 An HTML poem originally published in the now-defunkt Recess Journal. Thanks to Kate Groetzinger and Koji Yamamoto for letting me break their web platform. Spring 2014.
 
+## STEAM
+
+Various small reports and thoughts exist in [STEAM Catalogues](http://steamwith.us/catalogue.html) 1-4.
+
 -
 oneline:
 -

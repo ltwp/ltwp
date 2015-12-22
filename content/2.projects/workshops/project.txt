@@ -6,21 +6,23 @@ description:
 
 ## Workshops I've Run:
 
-__LEGO As A Creative Tool__ at [A Better World By Design](http://www.abetterworldbydesign.com) 2013. This was the first student-designed workshop at their conference ever! Focus on the creative process, through LEGO bricks.
+__LEGO As A Creative Tool__ at [A Better World By Design](http://www.abetterworldbydesign.com) (ABWxD) 2013. This was the first student-designed workshop at their conference ever! Focus on the creative process, through LEGO bricks.
 
-__Introduction to Arduino__ via Brown STEAM, hosted by the Brown Design Workshop on November 9, 2013.
+__Introduction to Arduino__ via Brown STEAM, November 9 2013. Hosted by the Brown Design Workshop.
 
-__LEGO As A Creative Tool__ as an inaugural event at [Boston University's EPIC](http://www.bu.edu/eng/current-students/epic/) on March 1, 2014. Collaboration with Gavin Atkinson.
+__LEGO As A Creative Tool__ as an inaugural event at [Boston University's EPIC](http://www.bu.edu/eng/current-students/epic/), March 1, 2014. Collaboration with Gavin Atkinson.
 
-__[George Hart Sculpture Workshop](http://www.browndailyherald.com/2014/03/07/steam-lecture-examines-connection-math-arts/)__ in March 6, 2014. I brought [George Hart](http://www.georgehart.com) to campus for a lecture and "sculpture barn raising," sponsored by Brown STEAM, the Brown Division of Applied Mathematics, and Brown School of Engineering. Together an interdisciplinary group of undergrads and grad students built a sculpture which was installed in the Barus-Holley Engineering building.
+__[George Hart Sculpture Workshop](http://www.browndailyherald.com/2014/03/07/steam-lecture-examines-connection-math-arts/)__ on March 6, 2014. I brought [George Hart](http://www.georgehart.com) to campus for a lecture and "sculpture barn raising," sponsored by Brown STEAM, the Brown Division of Applied Mathematics, and Brown School of Engineering. Together an interdisciplinary group of undergrads and grad students built a sculpture which was installed in the Barus-Holley Engineering building.
 
 __LEGO As A Creative Tool__ at [AS220 Youth](http://youth.as220.org) on May 10, 2014. A slightly modified curriculum to focus on storytelling. Collaboration with Gavin Atkinson and Max Farnham.
 
-__[LEGO: The Quantum of Construction](http://www.abetterworldbydesign.com/workshops/#p8597)__ at [A Better World By Design](http://www.abetterworldbydesign.com) 2014. This curriculum was an introduction to the LEGO hobby and many possibilities for the medium. Collaboration with Gavin Atkinson.
+__[LEGO: The Quantum of Construction](http://www.abetterworldbydesign.com/workshops/#p8597)__ at ABWxD 2014. This curriculum was an introduction to the LEGO hobby and many possibilities for the medium. Collaboration with Gavin Atkinson.
+
+__Speaking in Brick__ at ABWxD 2015. My final LEGO workshop at ABWxD with Gavin Atkinson, where we focus on affordances of tools or languages through our favorite medium.
 
 ## Workshops I've Attended:
 
-__[Brown Workshop: Integrating Dynamics and Stochastics](http://www.dam.brown.edu/people/lipshutz/workshop.html)__, November 7 2014, at Brown University in Providence, RI.
+__[Brown Workshop: Integrating Dynamics and Stochastics](http://www.dam.brown.edu/people/lipshutz/workshop.html)__, November 7 2014, at Brown University.
 
 __[Getting Started with PDEs](http://www.as.huji.ac.il/pdes)__, September 3-9, 2015, at the Hebrew University in Jerusalem, Israel.
 -
