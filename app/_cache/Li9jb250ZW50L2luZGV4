@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>Lukas Theodore WinklerPrins</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+    <script>
+
+        $(document).ready(function(){
+
+        });
+
+    </script>
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <style>
+
+        *{}
+
+        body{
+            font-family: "Inconsolata", Serif;
+        }
+
+        .box{
+            width: 99%;
+            height: 99%;
+            border: 2px solid black;
+
+            margin: 1% auto;
+        }
+
+        </style>
+    </head>
+    <body>
+
+<div class="box"></div>
+<div class="box"></div>
+<div class="box"></div>
+
+    </body>
+</html>
+
+<!-- Stacey(2.3.0): c83ee72d029ef5c6e6d1bc1be02f5817 -->
