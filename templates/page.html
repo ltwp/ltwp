@@ -17,37 +17,18 @@
       <hr>
       :navigation
       <div id="content" class="col eight">
-        <p class="date col one">@date</p>
+        <p class="date col one">&para;</p>
         <div class="description col six">
           <h2 class="col six"><a href="@root_path">@title</a></h2>
+          :images
           @content
+          :pdfs
         </div>
-        <hr>
-        <p id="project-count" class="col one"><em>&#8470;</em> @index/@siblings_count</p>
-        <p id="gallery-count" class="col one">
-          <em>&#8470;</em> <span>1/1</span>
-        </p>
-        <div id="gallery-navigation" class="col three">
-          <p><a href="#" id="next-image">Next image</a> <em>&rarr;</em></p>
-          <p><a href="#" id="previous-image">Previous image</a> <em>&larr;</em></p>
-        </div>
-        <div class="col four">
-          if $siblings do
-            :next-page
-            :previous-page
-          endif
-        </div>
-        :media
       </div>
       <hr>
       <p id="footer" class="col six">&copy; Copyright @name @current_year <a class="atom-rss" href="@root_path/?/feed/">RSS</a><br>
         <em>Content managed by <a href="http://www.staceyapp.com">stacey</a></em></p>
     </div>
-    <script type="text/javascript" charset="utf-8">
-      document.getElementsByTagName('body')[0].className += ' js-enabled';
-    </script>
     <script src="@root_path/public/docs/js/jquery-1.3.2.js" type="text/javascript" charset="utf-8"></script>
-    <script src="@root_path/public/docs/js/gallery.js" type="text/javascript" charset="utf-8"></script>
-    <script src="@root_path/public/docs/js/init-gallery.js" type="text/javascript" charset="utf-8"></script>
   </body>
 </html>
