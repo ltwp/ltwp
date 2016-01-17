@@ -1,0 +1,80 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  width: 100%;
+  xbackground-image: -webkit-linear-gradient(top, #ffffff,#000000);
+  font-family: 'PT Serif', serif;
+  text-align: left;
+  line-height: 200%;
+  font-size: 16px;
+  color: black;
+}
+a{
+  color: black;
+  border-bottom: 2px solid black;
+  padding-bottom: 2px;
+  text-decoration: none;
+}
+
+img{
+  max-width: 600px;
+  padding: 15px;
+}
+
+.label{
+  font-size: 18px;
+  margin-left: -20px;
+  margin-top: 50px;
+}
+
+/* FRAME */
+#top, #bottom, #left, #right {
+background-color: black;
+position: fixed;
+z-index: 999;
+visibility: hidden;
+}
+#left, #right {
+top: 15px;
+bottom: 15px;
+width: 5px;
+}
+#left {
+left: 15px;
+}
+#right {
+right: 15px;
+}
+#top {
+left: 15px;
+right: 15px;
+top: 15px;
+height: 5px;
+}
+#bottom {
+left: 15px;
+right: 15px;
+bottom: 15px;
+height: 5px;
+}
+
+.block{
+  width: 60vw;
+  margin: 40vh auto;
+  min-height: 60vh; /* gotta edit this */
+}
+
+.in-progress{
+  color: grey;
+  text-decoration: line-through;
+}
+
+.project-description{
+  text-indent: 40px;
+  color: #444;
+  font-size: 13px;
+  margin-bottom: 15px;
+}
