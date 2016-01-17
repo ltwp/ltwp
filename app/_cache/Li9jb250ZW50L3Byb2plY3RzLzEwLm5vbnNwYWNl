@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <title>Lukas Theodore WinklerPrins</title>
+    <meta name="keyword" content="researcher, mathematics, applied mathematics, apma, brown university, brown, lukas, winklerprins, winkler prins, research,">
+    <meta name="description" content="Lukas WinklerPrins, Technical Research">
+    <meta name="viewport" content="width=device-width">
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+
+    
+  </head>
+  <body>
+    <!-- Color Frame, thx brrybnds.com -->
+    <div id="top"></div>
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="bottom"></div>
+
+    <!-- Blocks -->
+    <div class="block">
+      <div class="label">non-space</div>
+      Providence, RI, 2014<br /><br />
+
+      <p>In Fall 2014, <a href="http://main.bradtroemel.com/">Brad Troemel</a> came and spoke in Providence through the Creative Mind Initiative. He told stories of being an undergrad at SAIC, where students would push all the furniture out of their apartments and hold small shows of their friends' artwork. I was enamored with this idea, and had a number of friends who were artists or designers.</p>
+
+<p>In November, I found myself in possession of a pair of keys that unlocked an empty apartment. With the help of my friends Elizabeth Goodspeed, Polina Godz, Jordan Beard, and Nathan Zack, we threw a one-night, pop-up, 12-artist show.</p>
+
+    </div>
+
+    
+      <div class="block">
+        
+          <img src="./content/projects/10.nonspace/4.jpg" /><br /><br />
+        
+          <img src="./content/projects/10.nonspace/3.jpg" /><br /><br />
+        
+          <img src="./content/projects/10.nonspace/2.jpg" /><br /><br />
+        
+          <img src="./content/projects/10.nonspace/0.jpg" /><br /><br />
+        
+      </div>
+    
+
+    <div class="block">
+      <p>Thanks to Alice Taranto, Savannah Berkley, Rachel Haberstroh, Zack Korol-Gold, Danny Sobor, Lukas Eigler-Harding, Yeon Hak Ryoo, Julie Mennone, Nic Schulman, Wes Sanders, Steven Dowd, Milan Koerner-Safrata, and my fellow organizers for being patient and making an awesome night. And thank you to The College Hill Independent for the press.</p>
+
+    </div>
+
+    <span class="scaffolding">nonspace [12]</span>
+
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="link_color.js"></script>
+  </body>
+</html>
+
+<!-- Stacey(2.3.0): 2608d82c6815f870516a611409e07f99 -->

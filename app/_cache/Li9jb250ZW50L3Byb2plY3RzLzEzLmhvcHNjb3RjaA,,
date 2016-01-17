@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <title>Lukas Theodore WinklerPrins</title>
+    <meta name="keyword" content="researcher, mathematics, applied mathematics, apma, brown university, brown, lukas, winklerprins, winkler prins, research,">
+    <meta name="description" content="Lukas WinklerPrins, Technical Research">
+    <meta name="viewport" content="width=device-width">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700|PT+Serif' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+
+    
+    <meta http-equiv="refresh" content="0; URL=http://playhopscotch.net">
+    
+  </head>
+  <body>
+    <!-- Color Frame, thx brrybnds.com -->
+    <div id="top"></div>
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="bottom"></div>
+
+    <!-- Blocks -->
+    <div class="block">
+      <div class="label">Hopscotch</div>
+      Providence, RI, 2015<br /><br />
+
+      
+    </div>
+
+    
+
+    <div class="block">
+      
+    </div>
+
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="link_color.js"></script>
+  </body>
+</html>
+
+<!-- Stacey(2.3.0): ac37869d3d951090ea9193f3c93ec43a -->

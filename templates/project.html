@@ -1,37 +1,35 @@
 <html>
   <head>
     :top_matter
+
+    if @external_link do
+    <meta http-equiv="refresh" content="0; URL=@external_link">
+    endif
   </head>
   <body>
     :frame
 
     <!-- Blocks -->
     <div class="block">
-      <div class="label">Pneumatic Igloo</div>
-      Providence RI, May 2015<br /><br />
+      <div class="label">@name</div>
+      @location, @year<br /><br />
 
-      During the 2014-2015 school year, Brown STEAM started collaborating with local company Pneuhaus, developing a plan to commission a large-scale bubble for the student group to use as a flexible and transportable programming space.
-
-In the planning and research phases of this project, I found myself excited about the technical details of pneumatic structures:
+      @words1
     </div>
+
+    if $images do
+      <div class="block">
+        foreach $images do
+          <img src="@url" /><br /><br />
+        endforeach
+      </div>
+    endif
+
     <div class="block">
-      <img src="http://ltwp.net/content/2.projects/13.pneu/5.JPG" />
-      <img src="http://ltwp.net/content/2.projects/13.pneu/4.JPG" />
-      <img src="http://ltwp.net/content/2.projects/13.pneu/3.JPG" />
+      @words2
     </div>
-    <div class="block">
-      During the 2014-2015 school year, Brown STEAM started collaborating with local company Pneuhaus, developing a plan to commission a large-scale bubble for the student group to use as a flexible and transportable programming space.
 
-In the planning and research phases of this project, I found myself excited about the technical details of pneumatic structures: the engineering details, as well as physical construction. I took this interest to Dr Chris Bull in the School of Engineering and developed an independent study for me to study Pneumatic Architecture.
-
-The semester consisted of a crash-course in solid mechanics, pneumatic engineering, and finite element methods. All that before actually sitting down and designing, then constructing, my own inflatable pneumatic structure.
-
-I call my structure the "igloo." It is a 2/3rds sphere in the form of a geodesic dome, made out of 1.9oz ripstop Nylon.
-
-Please watch an inflation video!.
-
-Big thanks to Pneuhaus, Dr Bull, Alex Hadik, and many other friends for their help and support over the course of this project.
-</div>
+    <span class="scaffolding">@slug [@index]</span>
 
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="link_color.js"></script>

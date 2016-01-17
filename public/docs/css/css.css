@@ -5,10 +5,9 @@
 
 body{
   width: 100%;
-  xbackground-image: -webkit-linear-gradient(top, #ffffff,#000000);
   font-family: 'PT Serif', serif;
   text-align: left;
-  line-height: 200%;
+  line-height: 175%;
   font-size: 16px;
   color: black;
 }
@@ -18,16 +17,47 @@ a{
   padding-bottom: 2px;
   text-decoration: none;
 }
+p{
+  margin: 20px 0px;
+}
 
 img{
   max-width: 600px;
-  padding: 15px;
+  margin: 20px 0px;
 }
 
 .label{
-  font-size: 18px;
+  font-size: 23px;
   margin-left: -20px;
   margin-top: 50px;
+  line-height: 35px;
+}
+
+.block{
+  width: 60vw;
+  margin: 40vh auto;
+  min-height: 35vh; 
+}
+
+.project-description{
+  margin-left: 40px;
+  color: #444;
+  font-size: 13px;
+  margin-bottom: 25px;
+  margin-top: 10px;
+}
+
+.project-name{
+  font-size: 20px;
+}
+
+.extra{
+  margin-left: 40px;
+}
+
+.scaffolding{
+  font-family: Courier, monospace;
+  color: #444;
 }
 
 /* FRAME */
@@ -59,22 +89,4 @@ left: 15px;
 right: 15px;
 bottom: 15px;
 height: 5px;
-}
-
-.block{
-  width: 60vw;
-  margin: 40vh auto;
-  min-height: 60vh; /* gotta edit this */
-}
-
-.in-progress{
-  color: grey;
-  text-decoration: line-through;
-}
-
-.project-description{
-  text-indent: 40px;
-  color: #444;
-  font-size: 13px;
-  margin-bottom: 15px;
 }

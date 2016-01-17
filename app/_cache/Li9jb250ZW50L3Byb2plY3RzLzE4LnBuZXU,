@@ -1,0 +1,66 @@
+<html>
+  <head>
+    <title>Lukas Theodore WinklerPrins</title>
+    <meta name="keyword" content="researcher, mathematics, applied mathematics, apma, brown university, brown, lukas, winklerprins, winkler prins, research,">
+    <meta name="description" content="Lukas WinklerPrins, Technical Research">
+    <meta name="viewport" content="width=device-width">
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+
+    
+  </head>
+  <body>
+    <!-- Color Frame, thx brrybnds.com -->
+    <div id="top"></div>
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="bottom"></div>
+
+    <!-- Blocks -->
+    <div class="block">
+      <div class="label">Pneumatic Igloo</div>
+      Providence, RI, 2015<br /><br />
+
+      <p>During the 2014-2015 school year, <a href="http://steamwith.us">Brown STEAM</a> started collaborating with local company <a href="http://pneuha.us">Pneuhaus</a>, developing a plan to commission a large-scale bubble for the student group to use as a flexible and transportable programming space.</p>
+
+<p>In the planning and research phases of this project, I found myself excited about the technical details of pneumatic structures.</p>
+
+    </div>
+
+    
+      <div class="block">
+        
+          <img src="./content/projects/18.pneu/5.JPG" /><br /><br />
+        
+          <img src="./content/projects/18.pneu/4.JPG" /><br /><br />
+        
+          <img src="./content/projects/18.pneu/3.jpg" /><br /><br />
+        
+          <img src="./content/projects/18.pneu/2.jpeg" /><br /><br />
+        
+          <img src="./content/projects/18.pneu/1.PNG" /><br /><br />
+        
+      </div>
+    
+
+    <div class="block">
+      <p>I took this interest to Dr Chris Bull in the School of Engineering and developed an independent study for me to study Pneumatic Architecture.</p>
+
+<p>The semester consisted of a crash-course in solid mechanics, pneumatic engineering, and finite element methods. All that before actually sitting down and designing, then constructing, my own inflatable pneumatic structure.</p>
+
+<p>I call my structure the "igloo." It is a 2/3rds sphere in the form of a geodesic dome, made out of 1.9oz ripstop Nylon.</p>
+
+<p>Please watch an <a href="https://vimeo.com/144995572">inflation video</a>!.</p>
+
+<p>Big thanks to Pneuhaus, Dr Bull, Alex Hadik, and many other friends for their help and support over the course of this project.</p>
+
+    </div>
+
+    <span class="scaffolding">pneu [4]</span>
+
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="link_color.js"></script>
+  </body>
+</html>
+
+<!-- Stacey(2.3.0): 2608d82c6815f870516a611409e07f99 -->
