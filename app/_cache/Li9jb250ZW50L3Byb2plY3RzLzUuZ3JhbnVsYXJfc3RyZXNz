@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <title>Lukas Theodore WinklerPrins</title>
+    <meta name="keyword" content="researcher, mathematics, applied mathematics, apma, brown university, brown, lukas, winklerprins, winkler prins, research,">
+    <meta name="description" content="Lukas WinklerPrins, Technical Research">
+    <meta name="viewport" content="width=device-width">
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+
+    
+  </head>
+  <body>
+    <!-- Color Frame, thx brrybnds.com -->
+    <div id="top"></div>
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="bottom"></div>
+
+    <!-- Blocks -->
+    <div class="block">
+      <div class="label">Stress Analysis in Particulate Flows</div>
+      Providence, RI, 2013<br /><br />
+
+      <p>I met Dr Martin Maxey early in my career at Brown, and during the summer between my Sophomore and Junior years he took me under his wing. We investigated shapes and properties of "stress chains" as granular (or particulate) fluids are pushed, with varying stress profiles (Couette vs Poiseille flow).</p>
+
+<p>My work consisted of translating Java into MATLAB code, writing original, optimized MATLAB code for simulation, visualization, and data accumulation. We made headway in visualizing how stress-chains change with time and in establishing the long-tailed nature in particulate stress distributions.</p>
+
+    </div>
+
+    
+      <div class="block">
+        
+          <img src="./content/projects/5.granular_stress/20_stresslines_perspective.png" /><br /><br />
+        
+          <img src="./content/projects/5.granular_stress/particles.png" /><br /><br />
+        
+      </div>
+    
+
+    <div class="block">
+      <p>NSF Award 1133106</p>
+
+    </div>
+
+    <span class="scaffolding">granular_stress [17]</span>
+
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="link_color.js"></script>
+  </body>
+</html>
+
+<!-- Stacey(2.3.0): 842b18f7a0276a19537df885df07e84a -->

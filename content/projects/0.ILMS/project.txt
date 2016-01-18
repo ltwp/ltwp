@@ -1,18 +1,20 @@
-name: 
+name: I Love My Scanner
 -
 words1:
 
-
+In 2008, I moved away from home into a tiny room and quickly realized I was quite a packrat. In attempt to keep this at bay, I started scanning things as a way to remember them and let myself throw them out. I created a tumblr, “I Love My Scanner,” to document all of my scans, as a cathartic act. 
 -
 words2: 
 
+It was featured in a [Tumblr Tuesday](http://staff.tumblr.com/post/171361070/tumblr-tuesday) post early on and gained some attention.
 
+The blog is now-deleted, in another act of trying to get rid of excess in my life. But I still scan. 
 -
-year: 
+year: 2008
 -
-location: 
+location: Michigan
 -
-description: 
+description: Scanning my drawers. 
 -
 visible: 
 -

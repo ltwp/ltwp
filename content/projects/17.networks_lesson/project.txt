@@ -1,4 +1,4 @@
-name: 
+name: Networks & Synchronicity
 -
 words1:
 
@@ -8,13 +8,13 @@ words2:
 
 
 -
-year: 
+year: 2015
 -
 location: 
 -
-description: 
+description: Introduction to network dynamics.
 -
-visible: 
+visible: y
 -
-external_link: 
+external_link: http://ltwp.net/networks/
 -

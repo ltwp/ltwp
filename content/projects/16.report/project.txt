@@ -1,4 +1,4 @@
-name: 
+name: A Report on Bottle Caps
 -
 words1:
 
@@ -8,13 +8,13 @@ words2:
 
 
 -
-year: 
+year: 2015
 -
 location: 
 -
-description: 
+description: Some words on college and friends and beer. 
 -
-visible: 
+visible: y
 -
-external_link: 
+external_link: http://alternativecommencement.tumblr.com/post/115119244973/a-report-on-bottle-caps-lukas-winklerprins
 -

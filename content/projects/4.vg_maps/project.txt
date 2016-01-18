@@ -1,20 +1,22 @@
-name: 
+name: Video Game Maps
 -
 words1:
 
+For Christina Connett’s Spring 2013 class “Visual Narratives in Cartography” at RISD, I wrote about the construction of identity in depicted video game spaces through their mapping choices. 
 
+You can read the essay at [ltwp.net/stuff/vg_cartography.pdf](http://ltwp.net/stuff/vg_cartography.pdf). 
 -
 words2: 
 
 
 -
-year: 
+year: 2013
 -
-location: 
+location: Providence, RI
 -
-description: 
+description: Place & space & identity in video games.
 -
-visible: 
+visible: y
 -
 external_link: 
 -

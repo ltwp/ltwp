@@ -1,18 +1,18 @@
-name: 
+name: Oak & Steel Table
 -
 words1:
 
-
+I studied sculpture under [Gary Kulak](http://garykulak.com/home.html) at Cranbrook Kingswood for a couple years in high school. My senior studio project was a large side table made of oak and steel. Through this process I refined by love for wood- and metal-working. 
 -
 words2: 
 
 
 -
-year: 
+year: 2010
 -
-location: 
+location: Michigan
 -
-description: 
+description: Introductory craft exercise. 
 -
 visible: 
 -

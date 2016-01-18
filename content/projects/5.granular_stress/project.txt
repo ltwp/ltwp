@@ -1,20 +1,22 @@
-name: 
+name: Stress Analysis in Particulate Flows
 -
 words1:
 
+I met Dr Martin Maxey early in my career at Brown, and during the summer between my Sophomore and Junior years he took me under his wing. We investigated shapes and properties of "stress chains" as granular (or particulate) fluids are pushed, with varying stress profiles (Couette vs Poiseille flow).
 
+My work consisted of translating Java into MATLAB code, writing original, optimized MATLAB code for simulation, visualization, and data accumulation. We made headway in visualizing how stress-chains change with time and in establishing the long-tailed nature in particulate stress distributions.
 -
 words2: 
 
-
+NSF Award 1133106
 -
-year: 
+year: 2013
 -
-location: 
+location: Providence, RI
 -
-description: 
+description: Understanding granular stress chains. 
 -
-visible: 
+visible: y
 -
 external_link: 
 -

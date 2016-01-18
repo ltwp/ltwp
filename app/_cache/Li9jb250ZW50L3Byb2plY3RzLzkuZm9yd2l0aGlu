@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <title>Lukas Theodore WinklerPrins</title>
+    <meta name="keyword" content="researcher, mathematics, applied mathematics, apma, brown university, brown, lukas, winklerprins, winkler prins, research,">
+    <meta name="description" content="Lukas WinklerPrins, Technical Research">
+    <meta name="viewport" content="width=device-width">
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+
+    
+  </head>
+  <body>
+    <!-- Color Frame, thx brrybnds.com -->
+    <div id="top"></div>
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="bottom"></div>
+
+    <!-- Blocks -->
+    <div class="block">
+      <div class="label">HTML Output</div>
+      Providence, RI, 2014<br /><br />
+
+      <p>I had the pleasure of taking <a href="http://htmloutput.risd.gd/">HTML Output</a> in RISD's Graphic Design department under John Caserta. We spent the semester investigating the messy corners and crazy possibilities of the web browser.</p>
+
+<p>My experiments focused on scrolling as a gesture of interaction and defaults built into standard web formats. My knowledge of javascript put me near the front of the ship when making a tool to turn the website into a printable book at the push of a button, too, but this effort was largely driven by the amazing Evan Brooks. I also got to interview a designer I admire, <a href="http://pieratt.com">Ben Pieratt</a>.</p>
+
+    </div>
+
+    
+      <div class="block">
+        
+          <img src="./content/projects/9.forwithin/Screen Shot 2014-04-14 at 10.29.04 p.PNG" /><br /><br />
+        
+          <img src="./content/projects/9.forwithin/Screen Shot 2014-04-01 at 11.21.53 a.PNG" /><br /><br />
+        
+          <img src="./content/projects/9.forwithin/Screen Shot 2014-03-07-at-4.50.10-p.png" /><br /><br />
+        
+      </div>
+    
+
+    <div class="block">
+      
+    </div>
+
+    <span class="scaffolding">forwithin [13]</span>
+
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="link_color.js"></script>
+  </body>
+</html>
+
+<!-- Stacey(2.3.0): 842b18f7a0276a19537df885df07e84a -->

@@ -1,0 +1,24 @@
+name: KinderSTEAM
+-
+words1:
+
+In Spring 2013 I helped found Brown STEAM alongside Hanna McPhee and Michelle Site. I poured myself into the project, but a year later I still found a key aspect lacking. We were focusing only at blending the disciplines at the collegiate level; for thorough change to happen, we had to go further down the pedagogical ladder. Kindly connected by Aaron Horowitz, I reached out to the Jewish Community Day School of Rhode Island.
+
+With the help of their staff (especially Adam Tilove, Sari Guttin, and Jamie Faith Woods), and collaborators Ian Gonsher (Brown Engineering), Jennifer Kwack (RISD TLAD '14), and Ingrid Lange (RISD ID '16), we kick-started a teaching effort to get Brown and RISD students into the K-5 environment. Students propose lessons and activities, and we work closely with the JCDSRI faculty to develop effective interdisciplinary opportunities.
+
+Ingrid later took over the project and it was named KinderSTEAM. The project continues today, helping created STEAM-minded future generations.
+-
+words2: 
+
+
+-
+year: 2014
+-
+location: Providence, RI
+-
+description: Making K-5 teaching more interdisciplinary.
+-
+visible: 
+-
+external_link: 
+-

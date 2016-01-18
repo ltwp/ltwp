@@ -1,4 +1,4 @@
-name: Playful Spaces RISD Museum Tour
+name: RISD Museum Tour: Playful Spaces
 -
 words1:
 

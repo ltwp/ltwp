@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
     <!--favicon -->
   </head>
   <body>
@@ -24,7 +25,7 @@
     <div class="block">
       
             
-      <div class="label">Recently: <a href="./?/projects/playful_spaces/">Playful Spaces RISD Museum Tour</a></div>
+      <div class="label">Recently: <a href="./?/projects/playful_spaces/">RISD Museum Tour: Playful Spaces</a></div>
       
         <img src="./content/projects/21.playful_spaces/1.jpg" /><br />
       
@@ -44,7 +45,7 @@
           
             
 
-              <div class="project-name">2015 - <a href="./?/projects/playful_spaces/">Playful Spaces RISD Museum Tour</a> 
+              <div class="project-name">2015 - <a href="./?/projects/playful_spaces/">RISD Museum Tour: Playful Spaces</a>
 
                 <div class="project-description">Frame-breaking museum tour.</div>
               </div>
@@ -52,12 +53,26 @@
             
           
             
-          
+
+              <div class="project-name">2015 - <a href="./?/projects/slug_paragraphs/">Paragraphs From the House of Slugs</a>
+
+                <div class="project-description">Reflections on a house and its inhabitants.</div>
+              </div>
+              
             
           
             
 
-              <div class="project-name">2015 - <a href="./?/projects/pneu/">Pneumatic Igloo</a> 
+              <div class="project-name">2015 - <a href="./?/projects/functional_graphs/">Polynomial Graphs on Finite Fields</a>
+
+                <div class="project-description">Small-scale graph generation & isomorphism investigation.</div>
+              </div>
+              
+            
+          
+            
+
+              <div class="project-name">2015 - <a href="./?/projects/pneu/">Pneumatic Igloo</a>
 
                 <div class="project-description">Intro to inflatable architecture.</div>
               </div>
@@ -65,16 +80,37 @@
             
           
             
-          
+
+              <div class="project-name">2015 - <a href="./?/projects/networks_lesson/">Networks & Synchronicity</a>
+
+                <div class="project-description">Introduction to network dynamics.</div>
+              </div>
+              
             
           
+            
+
+              <div class="project-name">2015 - <a href="./?/projects/report/">A Report on Bottle Caps</a>
+
+                <div class="project-description">Some words on college and friends and beer.</div>
+              </div>
+              
             
           
             
           
             
 
-              <div class="project-name">2015 - <a href="./?/projects/hopscotch/">Hopscotch</a> 
+              <div class="project-name">2015 - <a href="./?/projects/jumping/">Thanks for watching.</a>
+
+                <div class="project-description">Performed cleansing.</div>
+              </div>
+              
+            
+          
+            
+
+              <div class="project-name">2016 - <a href="./?/projects/hopscotch/">Hopscotch</a>
 
                 <div class="project-description">A brand and pair of overalls.</div>
               </div>
@@ -82,14 +118,30 @@
             
           
             
+
+              <div class="project-name">2015 - <a href="./?/projects/sapma/">Studio Applied Math</a>
+
+                <div class="project-description">Treating the math classroom like an atelier.</div>
+              </div>
+              
+            
           
             
           
             
 
-              <div class="project-name">2014 - <a href="./?/projects/nonspace/">non-space</a> 
+              <div class="project-name">2014 - <a href="./?/projects/nonspace/">non-space</a>
 
                 <div class="project-description">Ephemeral art show.</div>
+              </div>
+              
+            
+          
+            
+
+              <div class="project-name">2014 - <a href="./?/projects/forwithin/">HTML Output</a>
+
+                <div class="project-description">Experiments in the browser.</div>
               </div>
               
             
@@ -99,11 +151,30 @@
             
           
             
-          
+
+              <div class="project-name">2013 - <a href="./?/projects/tactile_math/">Tactile Math</a>
+
+                <div class="project-description">Making math easier to play with.</div>
+              </div>
+              
             
           
             
+
+              <div class="project-name">2013 - <a href="./?/projects/granular_stress/">Stress Analysis in Particulate Flows</a>
+
+                <div class="project-description">Understanding granular stress chains.</div>
+              </div>
+              
+            
           
+            
+
+              <div class="project-name">2013 - <a href="./?/projects/vg_maps/">Video Game Maps</a>
+
+                <div class="project-description">Place & space & identity in video games.</div>
+              </div>
+              
             
           
             
@@ -161,4 +232,4 @@
   </body>
 </html>
 
-<!-- Stacey(2.3.0): 1902cad10e7adb4edccce837b0533932 -->
+<!-- Stacey(2.3.0): 842b18f7a0276a19537df885df07e84a -->

@@ -1,20 +1,22 @@
-name: 
+name: HTML Output
 -
 words1:
 
+I had the pleasure of taking [HTML Output](http://htmloutput.risd.gd/) in RISD's Graphic Design department under John Caserta. We spent the semester investigating the messy corners and crazy possibilities of the web browser.
 
+My experiments focused on scrolling as a gesture of interaction and defaults built into standard web formats. My knowledge of javascript put me near the front of the ship when making a tool to turn the website into a printable book at the push of a button, too, but this effort was largely driven by the amazing Evan Brooks. I also got to interview a designer I admire, [Ben Pieratt](http://pieratt.com). 
 -
 words2: 
 
 
 -
-year: 
+year: 2014
 -
-location: 
+location: Providence, RI
 -
-description: 
+description: Experiments in the browser. 
 -
-visible: 
+visible: y
 -
 external_link: 
 -

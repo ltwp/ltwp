@@ -1,20 +1,28 @@
-name: 
+name: Tactile Math
 -
 words1:
 
+"Tactile Math" was an independent study in the Brown arts department, with advisor [Richard Fishman](http://www.richard-fishman.com/).
 
+I examined methods for making math education and communication better than the current systems, focusing on visual and tactile representation methods.
+
+Some of the questions I was asking: can mathematical thinking be taught without cumbersome notation? Why do we have the notation we do? What does it mean to understand a concept? What are effective ways of communicated complex ideas, especially in multimodal methods?
+
+The independent study was open-ended but yielded fruit. I was able to put a lot of conscious effort into learning how to best communicate mathematics (avoid notation, focus on process) and translate ideas between notation and visuals. In addition, I formed some opinions on what needs to be done to reform elementary math education.
 -
 words2: 
 
+For the "Language of Abstraction" collage, topics present: calculus, elementary fluid mechanics, elementary statistics, elementary chemistry, category theory, homotopy theory, dynamic programming, mock objects, viscous flows, logic, systems engineering. Credit to Alex Czulak, Hawk Weisman, Max Kaplan, Martin Maxey, Nic Schumann, Jacob Sysak, Dmitry Vagner (and myself).
 
+Many of the ideas formulated in the study were implemented into STEAM projects and Studio Applied Math (see its project page).
 -
-year: 
+year: 2013
 -
-location: 
+location: Providence, RI
 -
-description: 
+description: Making math easier to play with.
 -
-visible: 
+visible: y
 -
 external_link: 
 -

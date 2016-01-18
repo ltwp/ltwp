@@ -4,7 +4,7 @@
     <meta name="keyword" content="researcher, mathematics, applied mathematics, apma, brown university, brown, lukas, winklerprins, winkler prins, research,">
     <meta name="description" content="Lukas WinklerPrins, Technical Research">
     <meta name="viewport" content="width=device-width">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700|PT+Serif' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
 
     
@@ -32,9 +32,11 @@
       
     </div>
 
+    <span class="scaffolding">hopscotch [9]</span>
+
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="link_color.js"></script>
   </body>
 </html>
 
-<!-- Stacey(2.3.0): ac37869d3d951090ea9193f3c93ec43a -->
+<!-- Stacey(2.3.0): 1ed38245919602cf7bfd24ad0963a460 -->

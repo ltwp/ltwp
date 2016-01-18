@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
 
     
   </head>
@@ -59,8 +60,8 @@
     <span class="scaffolding">pneu [4]</span>
 
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="link_color.js"></script>
+<script src="./public/docs/js/link_color.js"></script>
   </body>
 </html>
 
-<!-- Stacey(2.3.0): 9267c02b9db9043487d831769971b7bc -->
+<!-- Stacey(2.3.0): fe75d7145ca718b02726be1f61d57f12 -->

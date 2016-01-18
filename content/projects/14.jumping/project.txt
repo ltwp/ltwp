@@ -1,4 +1,4 @@
-name: 
+name: Thanks for watching.
 -
 words1:
 
@@ -8,13 +8,13 @@ words2:
 
 
 -
-year: 
+year: 2015
 -
 location: 
 -
-description: 
+description: Performed cleansing. 
 -
-visible: 
+visible: y
 -
-external_link: 
+external_link: https://vimeo.com/152009073
 -
