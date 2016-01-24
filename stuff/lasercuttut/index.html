@@ -1,0 +1,310 @@
+<html>
+    <head>
+        <title>Brown Design Workshop STEAMStudio Laser Cutter Tutorial</title>
+        <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
+        <script>
+
+            $(document).ready(function(){
+
+            });
+
+        </script>
+        <style>
+            *{
+                margin: 0;
+                padding: 0;
+            }
+
+            body{
+                font-family: 'Vollkorn', serif;
+                font-size: 15pt;
+                text-align: left;
+                background-color: #dddfdd;
+            }
+            #container{
+                width: 700px;
+                margin: 0 auto;
+                margin-top: 5%;
+                margin-bottom: 5%;
+            }
+            p{
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+            h1{
+                font-weight: bold;
+                font-size: 30pt;
+                text-align: center;
+            }
+            h3{
+                font-size: 10pt;
+                text-align: center;
+                font-style: italic;
+                padding-bottom: 15px;
+            }
+            h2{
+                font-size: 25px;
+                font-weight: bold;
+                text-align: left;
+                margin-top: 40px;
+            }
+            .img_box{
+                width: 700px;
+                text-align: center;
+            }
+            img{
+                padding: 15px;
+            }
+
+            strong{
+                text-decoration: underline;
+            }
+
+        </style>
+    </head>
+    <body>
+
+        <div id="container">
+
+            <h1>Brown Design Workshop STEAMStudio Laser Cutter Tutorial</h1>
+            <h3>Lukas WinklerPrins<br />March 2014</h3>
+
+            <p>
+                Welcome to the laser cutting tutorial! This is a simple walkthrough to the <a href="http://www.ulsinc.com/products/pls675/">Universal 75 Watt Laser Cutter</a> in the <a href="http://brown.edu/research/projects/design-workshop/about-us">Brown Design Workshop</a>.<br />
+                This is a powerful and expensive tool, so be careful and good to it! It is also an enormously flexible tool&mdash;good to keep around.
+            </p>
+            <hr />
+            <h2>What can this machine do?</h2>
+            <p>
+                The laser cutter is meant to make clean, exact cuts on a variety of materials. Currently the machine takes a programmed path out of Adobe Illustrator, so as you prepare documents make sure they can be opened in this software. Other common software is CorelDRAW or AutoCAD. SolidWorks can also export to readable files, i.e. .dwg files.
+            </p>
+            <p>
+                There are three types of "cuts" the laser cutter can make: vector cuts, vector score, and raster etch. <br /><br />
+                Read <a href="http://www.customink.com/help_center/raster-vs-vector-art/">here</a> for the difference between vector and raster.
+            </p>
+            <p>
+                <strong>Vector Cut</strong> takes the laser on a super-thin path to cut all the way through the material.<br />
+                <strong>Vector Score</strong> does the same, along an exact geometric path, but does not cut all the way through the material. It "scores" the surface.<br />
+                <strong>Raster Etch</strong> is a different process. This is used for engraving into the material, to darken or "hollow out" the surface of the material. Instead of following a set path, the printer will act like an inkjet printer and go down, row by row, shooting little dots to cover an area.
+            </p>
+            <p>
+                The type of cut is determined by the power, speed, and pulses per inch (PPI) settings on the laser cutter, and these depend on what material you are cutting. For a peek into what kinds of things are good to laser cut, follow <a href="http://tinyurl.com/lasercutrecs">this link</a>. In short: any paper product (paper, cardboard, hardwood, MDF, plywood, etc), acrylic, non-synthetic fabrics.
+            </p>
+            <p>
+                Some things <strong>NOT</strong> to cut: most plastics, metal, nylon, styrofoam, foamcore.
+            </p>
+
+            <hr />
+            <h2>Preparing In Illustrator</h2>
+            <p>
+                You will have to bring the pattern you want to cut, ideally in Adobe Illustrator format (.ai) but others are possible, to the computer attached to the laser cutter, either via USB or email. Open it in Illustrator and follow the following steps to prepare for cutting ("printing").
+            </p>
+            <p>
+                Once in Illustrator, make two initial checks: that the sizes of your pieces are accurate (can be done by bringing up the rulers with Ctrl-R) and that you are in RGB color mode (NOT CMYK). This can be done under the File menu. If your document is in CMYK, make a new document in RGB and copy paste your content over, then adjust the colors.
+            </p>
+            <div class="img_box">
+                <img src="color_mode.gif" />
+            </div>
+            <p>
+                Now, you should decide which lines will be vector cut, vector scored, and which areas will be raster etched. Make the vector cut lines pure RGB red (R=255, G=0, B=0), line width 0.0001pt. The line width option is under "stroke" with the pen tool (P). Make vector score lines pure RGB blue (R=0, G=0, B=255), line width 0.0001pt. Make raster etch areas black (R=255, G=255, B=255). These settings can be slightly different in some contexts, but the colors Red, Blue, Black are easiest.
+            </p>
+            <div class="img_box">
+                <img src="ai_settings.gif" />
+            </div>
+            <h3>Selecting lines, changing the color, and selecting the line width.</h3>
+
+            <hr />
+            <h2>In the Print Dialogue &amp; Laser Cutting Software</h2>
+            <p>
+                In Illustrator, hit Print. In the print menu, most everything should default to what you need. The printer as PL56.75. Set the media to Defined By Driver, and placement on the print bed to the lower left corner by clicking the bottom left corner of the small 9-dot grid under 'Options'. Occasionally this will not work, and you will have to click the upper left box instead.
+            </p>
+            <div class="img_box">
+                <img src="print_dialogue.gif" />
+                <img src="printer_software.gif" />
+            </div>
+            <h3>Going through the print dialogue and to the laser cutter software (UCP).</h3>
+            <p>
+                Now, open up the laser cutter software called UCP either through the start button or from the quick-launch apps arrow in the lower right (it is marked by a small red diamond). The second above GIF is what it looks like.
+            </p>
+            <p>
+                From there, make sure your drawing has come into the software correctly! What you see on the screen is exactly what the laser will cut on the bed&mdash;the drawing should be in the upper left of the UCP screen if you want your cut to be in the upper left of the cutter bed. The colors should have come in as well. If you drew a line red, make sure UCP reads it as red (same applies for blue, green, etc)! Non-recognized colors will appear black in UCP.
+            </p>
+            <p>
+                Next we will set the speed, power, and PPI for your material. Click "Settings" in the UCP software. Then, using values found at <a href="http://tinyurl.com/lasercutrecs">this link</a> or on a reference card, kept in an index file box near the computer, enter in the corresponding Power, Speed, PPI for the material and type of cut you want. For red to be a vector cut, click red and enter its values, then hit "Set". The same for any other color: if you want blue to be a vector score, click blue, enter values for your color and vector scoring, and hit "Set". Once all your values are input, click "Apply" and "OK".
+            </p>
+            <div class="img_box">
+                <img src="entering_settings.gif" />
+            </div>
+            <h3>Putting in 1/8th Masonite vector cut settings to the color red.</h3>
+            <p>
+                That is it for digital preparation! We will now get the cutter ready before hitting that big green "&#9654;" to cut.
+            </p>
+            <hr />
+            <h2>Preparing the Lens</h2>
+            <p>
+                The first thing to do, mechanically, is to <strong>CLEAN THE LENS</strong>! The lens is expensive to replace and easy to take care of.
+            </p>
+            <p>
+                To clean the lens, open the top of the laser cutter and find the carriage. The machine should be off. It does not damage the machine to move it around the x-y plane of the cutting surface. Unscrew the three screws (keep them nearby!) and take out the lens with mirror; it should slide out easily.
+            </p>
+            <p>
+                Open the top drawer of the cabinet next to the cutter&mdash;inside you will find pink liquid labeled cleaning fluid. Any one of the small bottles works. For both the lens top, lens underside, and mirror, the procedure is the same: drip some some cleaning fluid onto the surface, wait anywhere between a few seconds and a few minutes (depending on how dirty the lens is), then using Q-tips in the same drawer, <strong>ROLL</strong> (don't DRAG) the top of the Q-tip over the surface, picking up the liquid. Do this a few times, using as many Q-tips as necessary. A typical lens clearning requires 3 or 4.
+            </p>
+
+
+            <div class="img_box">
+                <img src="lens_clean.gif" />
+            </div>
+            <h3>Unscrewing the lens from the carriage and cleaning it.</h3>
+            <div class="img_box">
+                <img src="screw_back_in.gif" />
+            </div>
+            <h3>Screwing the lens and mirror back into the carriage.</h3>
+
+            <p>
+                A clean lens should be fully translucent and free from any dark marks, any cloudyness. Once a lens develops a black scab, is it often too late to save&mdash;so please work out any dark spots immediately! It can take a while.
+            </p>
+            <p>
+                Also: it is good practice to clean the lens before cutting. Cleaning the lens afterwards has the danger of rapidly cooling the hot lens with the liquid to the point of it cracking.
+            </p>
+            <p>
+                To replace the lens, simply side the lens-mirror cartridge back into the carriage and replace the screws.
+            </p>
+
+            <hr />
+            <h2>Preparing the Bed</h2>
+            <p>
+                In the BDW there are two beds (the block of hex lattice metal that the laser cuts on), one for Acrylic (clearly labeled "ACRYLIC ONLY") and one for everything else. It should be self-explanatory which one to use! The reason these are separated is that acrylic is cut at very high powers, low speeds, and high PPI. In other words, the Acrylic bed is going to get beat up very quickly.
+            </p>
+            <p>
+                The <strong>most important thing</strong> to check when looking at the bed is now even it is. It is no problem for the bed to be cut or dirty, but it should be level. If it is not, it might be time to repalce the hex lattice and this requires talking to BDW Staff or Monitors to order and replace.
+            </p>
+
+            <div class="img_box">
+                <img src="change_bed.gif" />
+            </div>
+            <h3>Pulling the bed out.</h3>
+            <p>
+                Changing the bed is quite easy. With the laser off, open the front panel to the machine, and slide the bed out. The other bed is normally on the shelf undernear the laser cutter.
+            </p>
+            <p>
+                When you put a bed into the machine, notice that the bed rests on 4 small pegs (one in each corner). The upper left peg should be pushed all the way into the square in the upper left of the surface that the bed sits on. Hopefully this GIF makes it clearer:
+            </p>
+
+
+            <p>
+                The next most important thing about changing the bed is to make sure that the ventilation shaft is fully flush against the back wall of the machine. This shaft can be adjusted by two small knobs on either side of the back of the bed. I recommend pulling the "tube" back, putting the bed into the machine, and then reaching through the sides and loosening the screws, pulling the tube out until flush, then tightening the screws.
+            </p>
+            <div class="img_box">
+                <img src="vent_tube.gif" />
+                <img src="put_bed_in.gif" />
+            </div>
+            <h3>Adjusting the vent. Push the back left peg fully into the "nook" created for it.</h3>
+            <p>
+                This is not an airtight seal, but good vacuum quality is essential. The machine pulls air down through the bed, which pulls any flames and smoke from the laser down, away from the lens! It then pulls this smoke out into the ventilation system.
+            </p>
+
+            <hr />
+            <h2>Turning On the Machines</h2>
+            <p>
+                Alright! Let's turn this stuff on. Firstly, the vacuum:
+            </p>
+            <div class="img_box">
+                <img src="vacuum_on.gif" />
+            </div>
+            <h3>Turning the vacuum on (pulling out), and then off (pushing in).</h3>
+            <p>
+                Then, go through the door into the storage room and turn the compressor on. It will be loud. The small red tab should be vertical for on, horizontal for off. It should go up to about 45psi.
+            </p>
+            <div class="img_box">
+                <img src="where_is_compressor.gif" />
+            </div>
+            <h3>Finding the compressor.</h3>
+            <div class="img_box">
+                <img src="compressor_on.gif" />
+            </div>
+            <h3>Turning the compressor on (vertical), and then off (horizontal).</h3>
+            <p>
+                With those two machines on, you should hear and feel suction in the laser cutter bed area. Now turn on the laser cutter.
+            </p>
+            <div class="img_box">
+                <img src="laser_on.gif" />
+            </div>
+            <h3>A small switch on the right side turns the laser cutter on.</h3>
+            <p>
+                Find a small gauge on the left side of the laser cutter. It should go up to 30psi for proper suction with vacuum and compressor.
+            </p>
+            <div class="img_box">
+                <img src="pressure_gauge.gif" />
+            </div>
+            <h3>The bed suction gauge location. It should be at 30psi.</h3>
+
+            <hr />
+            <h2>Focusing & Placing Material</h2>
+            <p>
+                Now we will focus the lens. This means making sure the top of the material is the right distance away from the tip of the laser carriage cone. Press the "focus" button on the machine (this can also be done via software).
+            </p>
+            <div class="img_box">
+                <img src="focus_button.gif" />
+            </div>
+            <h3>The focus button on the laser cutter.</h3>
+            <p>
+                The carriage will go near the upper left of the bed. You can use the direction pad on the laser cutter machine to move the bed up and down vertically, with the left and right buttons changing the increment by which you will raise or lower the bed.
+            </p>
+            <p>
+                Slide your piece of material on to the bed. Or, if it doesn't fit, lower the bed enough until it can fit. Get a "focus jig" (or so I call it) from the gutters of the laser cutter and place it on the surface of the material such that the small notch is directly beneath the carriage. The fit should be snug, so that the jig cannot move up or down.
+            </p>
+            <div class="img_box">
+                <img src="focus.gif" />
+            </div>
+            <h3>Getting a very snug fit by raising the bed until the carriage fits just into the notch.</h3>
+
+            <p>
+                Raise the bed until the carriage fits perfectly into the notch. Remove the "focus jig" and hit the back button (&#8617;) on the laser cutter console.
+            </p>
+            <p>
+                <strong>A NOTE ON BENT/WARPED/BUMPY MATERIAL:</strong> Don't cut them. It's that simple. As you cut more, you will gain more intuition with when you can get a piece that is bent or uneven to cut well, but it is difficult. The laser carriage height will be the same throughout the bed , but the quality of the cut will depend on the distance from that cone tip to the surface of the material.
+            </p>
+            <div class="img_box">
+                <img width="500" src="top_of_material.png" />
+            </div>
+            <h3>Focusing the lens puts the thinnest point of the laser at the top surface.</h3>
+            <p>
+                Even when focused, the laser is set to cut the top surface of your material. The underside of very thick (1/2" or thicker) materials will have a rougher cut than the top.
+            </p>
+            <p>
+                With your material on the bed and the laser focused, we are ready to cut! One more consideration:
+            </p>
+
+            <hr />
+            <h2>Cutting Path &amp; Fumes</h2>
+            <p>
+                Say your material has a few uneven elements... For instance, a friend of mine was laser cutting a piece of wood that had four bolts in it. With the exception of the bolt at each corner, the surface was perfectly even. We wanted to make sure that the cut would not bring the carriage to hit any of the bolts. If you open up the laser cutter lid entirely and then press go (the big green &#9654; button in the laser cutter software), then the machine will run the exact path it will follow for the cut without actually cutting! This is useful because the cut path is <strong>totally arbitrary</strong>. The machine does raster before vector, but where it starts or ends is relatively unpredictable. I recommend running this test path and adjusting as necessary before running the cut with the lid closed.
+            </p>
+            <p>
+                With everything taken into account, you are ready to cut! Press the &#9654; button and watch the laser cutter come to life. The pause button on the machine is more of a hard STOP than an actual pausing&mdash;it is not possible to resume from where you paused.
+            </p>
+            <p>
+                If you are cutting acrylic, give the cutter area some time to ventilate before you open the lid&mdash;there are some nasty fumes in there.
+            </p>
+            <p>
+                Congrats on using the laser cutter! Some final notes...
+            </p>
+
+            <hr />
+            <h2>Fire Procedures</h2>
+            <p>
+                Small flare-ups during your cut are common, and you should make sure the flames are pulled away from the lens (if not, check that suction is working or reduce your power). But sometimes things catch on fire (paper and cardboard are the most likely). When this happens:<br />
+                <strong>1. Close off the vacuum</strong>. This is a small black piece of metal that slides down to shut-off pull to the ventilation system. This makes sure no sparks end up flying through the building and finding something else flammable.<br />
+                <strong>2. Smother the material</strong>. Open the lid and toss a piece of scrap lying nearby (especially wood or acrylic) on top of your material.<br />
+                <strong>3. If the fire is still going, get a fire extinguisher</strong>. There is one in the main BDW area on the wall next to the Fluid Dynamics lab door, and hopefully soon there will be one in the Fab Lab proper. Spraying this on the machine will damage it, but better that than your fire getting out of control.
+            </p>
+            <hr />
+            <h2>Shut-down</h2>
+            <p>
+                Shut-down for the laser cutter is very easy: go to each part in reverse order. Turn off the cutter, compressor, then vacuum. Log off of the computer. You can leave the bed in the machine. Tidy up the surrounding area, throw any small scraps in the trash and but large scraps next to the cutter for others to use.
+            </p>
+        </div>
+    </body>
+</html>
