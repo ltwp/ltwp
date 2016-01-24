@@ -7,10 +7,6 @@ I am interested in understanding complex systems through transdisciplinary resea
 
 					[[WORK]]
 
-2016: Design Fellow
-	The Design Office (thedesignoffice.org)
-	Javascript development and portfolio development (see my website). 
-
 2013-2016: Monitor, Manager, and Development Coordinator
 	Brown Design Workshop (brown.edu/go/bdw)
 	Managed group of ~35 student monitors.
@@ -32,9 +28,14 @@ I am interested in understanding complex systems through transdisciplinary resea
 	NSF Grant 1133106 at Brown University
 	Focus on understanding propogation of stress chains in particulate fluid flows.
 
+2012: Web Dev & Statistics Analysis
+	CSF (communitysystemsfoundation.org)
+	Developed interactive website for U.N. Millenium Development Goals. 
+	Analysis of country program statistical methods 
 
 	
 					[[EDUCATION]]
+
 2015: Bachelors of Science from Brown University
 	in the Division of Applied Mathematics
 	With focus on fluids mechanics and math pedagogy. 
@@ -54,17 +55,17 @@ I like networks, fluids, mathematical modeling, physics, art, fashion, architect
 
 2013-2016: RISD Museum Guild Member
 	Created and implemented educational tours
-	Extensive use of the museum’s permanent collection. 
+	Extensive use of the museum permanent collection. 
 
-Between 2013 and 2015, I’ve run various workshops about design & creativity (and LEGO) for Richard Fishman, AS220, A Better World By Design, and the Boston University EPIC (often alongside Gavin Atkinson). 
+Between 2013 and 2015, I have run various workshops about design & creativity (and LEGO) for Richard Fishman, AS220, A Better World By Design, and the Boston University EPIC (often alongside Gavin Atkinson). 
 
 2013: Co-founded Brown STEAM (steamwith.us)
 	Initiated what is now the KinderSTEAM: integrative K-5 teaching.
 	Brought in sculptor/mathematician George Hart for a workshop & lecture. 
 
-I’ve also attended the following workshops:
-	2014 “Workshop on Integrating Dynamics and Stochastics” at Brown University
-	2015 “Getting Started with PDEs” at the Israel Institute for Advanced Study
+I have also attended the following workshops:
+	2014 Workshop on Integrating Dynamics and Stochastics at Brown University
+	2015 Getting Started with PDEs at the Israel Institute for Advanced Study
 
 
 
@@ -77,5 +78,5 @@ I’ve also attended the following workshops:
 - Experience in Mathematica, LaTeX. 
 - Experience in Adobe IA & PS, Figma, Rhinoceros. 
 - Excellent written & oral communication skills.
-- Well-versed in proper documentation and research, both “hard” and “soft.” 
+- Well-versed in proper documentation and research of many kinds.  
 - Very comfortable publicly speaking, developing and giving educational lessons. 
