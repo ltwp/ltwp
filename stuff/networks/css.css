@@ -1,0 +1,182 @@
+*{
+  font-size: 12pt;
+  color: #333332;
+}
+
+h1,h2,h3{
+  font-family: Helvetica, sans-serif;
+  line-height: 110%;
+  margin: 40px 0px;
+  font-weight: bold;
+  clear: both;
+}
+h1{
+  font-size: 50pt;
+  color: #cc0000;
+}
+h2{
+  font-size: 40pt;
+}
+h3{
+  color: #555;
+  font-size: 20pt;
+}
+
+
+body{
+  position: relative;
+  width: 100%;
+  text-align: center;
+  font-family: Vollkorn, serif;
+  background-color: white;
+  line-height: 150%;
+}
+
+p{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: left;
+  clear: both;
+}
+
+.two_col{
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
+  height: auto;
+  text-align: left;
+  clear: both;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: block;
+}
+.two_col .leftc{
+  width: 45%;
+  float: left;
+}
+.two_col .rightc{
+  margin-left: 10%;
+  width: 45%;
+  float: right;
+}
+
+a{
+  text-decoration: none;
+  color: #cc0000;
+}
+
+a:hover{
+  color: inherit;
+}
+
+comment{
+  position: absolute;
+  max-width: 15%;
+  text-indent: 0;
+  right: 82%;
+  font-size: 14pt;
+  background-color: #FCF6CF;
+  padding: 5px;
+  line-height: 150%;
+  text-align: left;
+  cursor: pointer;
+  margin-top: -5px;
+  margin-bottom: 30px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+definition{
+  font-weight: bold;
+}
+
+action{
+  color: #ff7073;
+  font-size: 14pt;
+  clear: both;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: block;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.media{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  height: auto;
+  text-align: center;
+  clear: both;
+}
+.media img{
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 5px;
+  border: dotted 1px #333332;
+}
+.media #chart{
+  padding: 5px;
+  border: dotted 1px #333332;
+}
+
+.caption{
+  margin-top: 0px;
+  margin-bottom: 30px;
+  font-size: 10pt;
+  color: #666;
+  text-align: center;
+}
+
+img{
+}
+
+/* STUFF FOR INTERACTIVE GRAPH */
+.node {
+  fill: #000;
+  cursor: crosshair;
+}
+
+.node_selected {
+  fill: #ff7f0e;
+  stroke: #ff7f0e;
+}
+
+.drag_line {
+  stroke: #999;
+  stroke-width: 5;
+  pointer-events: none;
+}
+
+.drag_line_hidden {
+  stroke: #999;
+  stroke-width: 0;
+  pointer-events: none;
+}
+
+.link {
+  stroke: #999;
+  stroke-width: 5;
+  cursor: crosshair;
+}
+
+.link_selected {
+  stroke: #ff7f0e;
+}
+
+/* EXTRA DEETS */
+
+em{
+  font-style: italic;
+  color: inherit;
+}
+
+strong{
+  font-weight: bold;
+}
