@@ -1,20 +1,20 @@
-name: 
+name: Rockinet Project
 -
 words1:
 
-
+Freshman year I was a freshman in [Northwestern's McCormick](http://www.mccormick.northwestern.edu/), and the  sequence included two design/build projects for local clients. The second prompt, for my group of 4, was to help the music department launch a clarinet as the opening sequence for a documentary. 
 -
 words2: 
 
 
 -
-year: 
+year: 2012
 -
-location: 
+location: Evanston, IL
 -
-description: 
+description: Freshman design project in amateur rocketry. 
 -
 visible: 
 -
-external_link: 
+external_link: https://vimeo.com/43905610
 -

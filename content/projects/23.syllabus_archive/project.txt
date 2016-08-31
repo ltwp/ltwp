@@ -1,0 +1,20 @@
+name: Syllabus Archive
+-
+words1:
+
+
+-
+words2: 
+
+
+-
+year: 2016
+-
+location: Providence, RI
+-
+description: Trying to make structures and sequences of knowledge more public. 
+-
+visible: 
+-
+external_link: https://www.are.na/lukas-wp/syllabus-archive
+-

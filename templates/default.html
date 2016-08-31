@@ -1,0 +1,19 @@
+<html>
+  <head>
+    :top_matter
+
+    if @external_link do
+    <meta http-equiv="refresh" content="0; URL=@external_link">
+    endif
+  </head>
+  <body>
+    :frame
+
+    <!-- Blocks -->
+    <div class="block">
+      @content
+    </div>
+
+    :scripts
+  </body>
+</html>

@@ -1,13 +1,26 @@
 <html>
   <head>
     <title>Lukas Theodore WinklerPrins</title>
+<meta charset="UTF-8">
     <meta name="keyword" content="researcher, mathematics, applied mathematics, apma, brown university, brown, lukas, winklerprins, winkler prins, research,">
-    <meta name="description" content="Lukas WinklerPrins, Technical Research">
+    <meta name="description" content="Lukas WinklerPrins, Technical Researcher and Designer">
     <meta name="viewport" content="width=device-width">
     <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
     <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+
     <!--favicon -->
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-46980305-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
   </head>
   <body>
     <!-- Color Frame, thx brrybnds.com -->
@@ -18,218 +31,169 @@
 
     <!-- Blocks -->
     <div class="block">
-      <div class="label"><a href="mailto:lukas@ltwp.net">Lukas</a>: researcher, or something.<br />Managing the <a href="http://brown.edu/go/bdw">BDW</a> and doing projects &#8595;<br /></div>
+      <div class="label">Lukas (<a href="mailto:lukas@ltwp.net">✉</a>), mathematician × designer × researcher.</div>
+      <div class="label">Keep scrolling for work. ⤵</div>
     </div>
 
 
+    <!--
+
+if y do
+<div class="block">
+<div class="label"><a href="./?/projects/hopscotch/">Hopscotch</a></div>
+
+<img src="./content/projects/14.hopscotch/7.JPG" /><br />
+
+
+<p><a href="http://playhopscotch.net">Hopscotch</a> is an overalls brand by myself and <a href="http://nathanzack.net">Nathan Zack</a>. We've been learning how to design garments and present the brand as a web, photography, and design project.</p>
+
+</div>
+endif
+
+-->
+
+
     <div class="block">
-      
-            
-      <div class="label">Recently: <a href="./?/projects/playful_spaces/">RISD Museum Tour: Playful Spaces</a></div>
-      
-        <img src="./content/projects/21.playful_spaces/1.jpg" /><br />
-      
-
-      <p>A tour at the RISD Museum highlighting unseen structural elements of the museum, such as lighting systems, exhibit design, architectural details. Accessible and inspiring discussion of museum experience <em>as</em> designed object.</p>
-
-
-                                                                                                                                    
-      
-    </div>
-
-
-    <div class="block">
-      <div class="label">Projects Archive:</div>
+      <div class="label">Projects:</div>
       <p>
         
-          
-            
-
-              <div class="project-name">2015 - <a href="./?/projects/playful_spaces/">RISD Museum Tour: Playful Spaces</a>
-
-                <div class="project-description">Frame-breaking museum tour.</div>
-              </div>
-              
-            
-          
-            
-
-              <div class="project-name">2015 - <a href="./?/projects/slug_paragraphs/">Paragraphs From the House of Slugs</a>
-
-                <div class="project-description">Reflections on a house and its inhabitants.</div>
-              </div>
-              
-            
-          
-            
-
-              <div class="project-name">2015 - <a href="./?/projects/functional_graphs/">Polynomial Graphs on Finite Fields</a>
-
-                <div class="project-description">Small-scale graph generation & isomorphism investigation.</div>
-              </div>
-              
-            
-          
-            
-
-              <div class="project-name">2015 - <a href="./?/projects/pneu/">Pneumatic Igloo</a>
-
-                <div class="project-description">Intro to inflatable architecture.</div>
-              </div>
-              
-            
-          
-            
-
-              <div class="project-name">2015 - <a href="./?/projects/networks_lesson/">Networks & Synchronicity</a>
-
-                <div class="project-description">Introduction to network dynamics.</div>
-              </div>
-              
-            
-          
-            
-
-              <div class="project-name">2015 - <a href="./?/projects/report/">A Report on Bottle Caps</a>
-
-                <div class="project-description">Some words on college and friends and beer.</div>
-              </div>
-              
-            
-          
-            
-          
-            
-
-              <div class="project-name">2015 - <a href="./?/projects/jumping/">Thanks for watching.</a>
-
-                <div class="project-description">Performed cleansing.</div>
-              </div>
-              
-            
-          
-            
-
-              <div class="project-name">2015 - <a href="./?/projects/hopscotch/">Hopscotch</a>
-
-                <div class="project-description">A brand and pair of overalls.</div>
-              </div>
-              
-            
-          
-            
-
-              <div class="project-name">2015 - <a href="./?/projects/sapma/">Studio Applied Math</a>
-
-                <div class="project-description">Treating the math classroom like an atelier.</div>
-              </div>
-              
-            
-          
-            
-          
-            
-
-              <div class="project-name">2014 - <a href="./?/projects/nonspace/">non-space</a>
-
-                <div class="project-description">Ephemeral art show.</div>
-              </div>
-              
-            
-          
-            
-
-              <div class="project-name">2014 - <a href="./?/projects/forwithin/">HTML Output</a>
-
-                <div class="project-description">Experiments in the browser.</div>
-              </div>
-              
-            
-          
-            
-          
-            
-          
-            
-
-              <div class="project-name">2013 - <a href="./?/projects/tactile_math/">Tactile Math</a>
-
-                <div class="project-description">Making math easier to play with.</div>
-              </div>
-              
-            
-          
-            
-
-              <div class="project-name">2013 - <a href="./?/projects/granular_stress/">Stress Analysis in Particulate Flows</a>
-
-                <div class="project-description">Understanding granular stress chains.</div>
-              </div>
-              
-            
-          
-            
-
-              <div class="project-name">2013 - <a href="./?/projects/vg_maps/">Video Game Maps</a>
-
-                <div class="project-description">Place & space & identity in video games.</div>
-              </div>
-              
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
         
+        
+      
+        
+      
+        
+      <div><a class="project-name" href="./?/projects/babybindery/">
+        Babybindery ↗ </a>
+
+        <div class="project-description">Jekyll add-on to facilitate Web-to-Print workflow for templated content.</div>
+      </div>
+      
+        
+      
+        
+      <div><a class="project-name" href="./?/projects/syllabus_archive/">
+        Syllabus Archive ↗ </a>
+
+        <div class="project-description">Trying to make structures and sequences of knowledge more public.</div>
+      </div>
+      
+        
+      <div><a class="project-name" href="./?/projects/playful_spaces/">
+        RISD Museum Tour: Playful Spaces ↗ </a>
+
+        <div class="project-description">Frame-breaking museum tour.</div>
+      </div>
+      
+        
+      
+        
+      <div><a class="project-name" href="./?/projects/functional_graphs/">
+        Polynomial Graphs on Finite Fields </a>
+
+        <div class="project-description">Small-scale graph generation & isomorphism investigation.</div>
+      </div>
+      
+        
+      <div><a class="project-name" href="./?/projects/pneu/">
+        Pneumatic Igloo </a>
+
+        <div class="project-description">Intro to inflatable architecture.</div>
+      </div>
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      <div><a class="project-name" href="./?/projects/hopscotch/">
+        Hopscotch ↗ </a>
+
+        <div class="project-description">A brand and pair of overalls.</div>
+      </div>
+      
+        
+      <div><a class="project-name" href="./?/projects/sapma/">
+        Studio Applied Math </a>
+
+        <div class="project-description">Treating the math classroom like an atelier.</div>
+      </div>
+      
+        
+      <div><a class="project-name" href="./?/projects/nonspace/">
+        non-space </a>
+
+        <div class="project-description">Ephemeral art show.</div>
+      </div>
+      
+        
+      
+        
+      
+        
+      
+        
+      <div><a class="project-name" href="./?/projects/bus_loops/">
+        Return Maps & Chaos in 2-Bus Loop </a>
+
+        <div class="project-description">Finding chaos in a two-agent system.</div>
+      </div>
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
       </p>
 
-      <div class="label">Quick R&eacute;sum&eacute;:</div>
-        <p>TA in Brown's <a href="http://www.brown.edu/academics/applied-mathematics/">Divison of Applied Math</a></p>
-        <p>Technical Researcher at <a href="http://thicketlabs.com">Thicket Labs</a></p>
-        <p>Assistant to Richard Fishman for <a href="http://www.iebrown.com/">ie/Brown Creativity MBA Workshops</a></p>
-        <p>NSF Grant on particulate fluid flows with <a href="http://www.brown.edu/academics/applied-mathematics/martin-maxey">Martin Maxey</a></p>
-        <p>Development for <a href="http://www.communitysystemsfoundation.org/">CSF</a></p>
+    <div class="label">Quick R&eacute;sum&eacute;:</div>
+    <p>Currently Design Fellow at the <a href="http://browndesignworkshop.org">Brown Design Workshop</a>. Interested in infrastructure, art, pedagogy.</p>
 
     </div>
-    <div class="block">
+  <div class="block">
+    <div class="label">About Me</div>
+    <p><a href="http://are.na/lukas-wp">are.na/lukas-wp</a> (ambient research)</p>
 
-      <div class="label">Some Friends</div>
-        <p><a href="http://josefplecha.com">Josef Plecha</a>, <a href="http://wintercheckfactory.com">Wintercheck Factory</a>, <a href="http://jordibeard.com">Jordan Beard</a>, <a href="http://kevinzenghu.com">Kevin Hu</a>, <a href="http://brandonevans.ca">Brandon Evans</a>, <a href="http://workshopri.com">Work-Shop</a>, <a href="http://garykulak.com">Gary Kulak</a>, <a href="http://ajsaeedy.net">Alex Saeedy</a>, <a href="http://nickgray.net">Nick Gray</a>, <a href="http://cath.land">Catherine Leigh Schmidt</a>, <a href="http://adriana-gallo.com">Adriana Gallo</a>, <a href="http://sarahpease.com">Sarah Pease</a>, <a href="http://elizabethgoodspeed.com">Elizabeth Goodspeed</a>, <a href="http://ryancan.build">Ryan Flomerfelt</a>, <a href="http://alexhadik.com">Alex Hadik</a>, <a href="http://zarki.net">Tim Zarki</a>, <a href="http://milanks.com">Milan K-S</a>, <a href="http://gav.space">Gavin Atkinson</a>, <a href="http://ianfrancis.cc">Ian Francis Robinson</a>, <a href="http://ben-snell.com">Ben Snell</a>, <a href="http://pneuha.us">Pneuhaus</a>, <a href="http://elizabethmeiklejohn.com/">Elizabeth Meiklejohn</a>, <a href="http://pieriekorostoff.com/">Pierie Korostoff</a>, <a href="http://laylamayehsan.com/">Layla May Ehsan</a>, <a href="http://nathanzack.net/">Nathan Zack</a>, <a href="http://tristanrodman.com/">Tristan Rodman</a>, <a href="http://bussigel.com/">Peter Bussigel</a>, <a href="http://polinagodz.net/">Polina Godz</a>, <a href="http://www.ilvz.net/">&Iacute;&ntilde;igo L&oacute;pez V&aacute;zquez</a>, <a href="http://strangesympathies.com/">Michael H. Stewart</a>, <a href="http://erikandallhisthings.tumblr.com/">Erik Frobom</a>, <a href="http://jqsk.tumblr.com/">Jacob Sysak</a>, <a href="http://maxhfowler.com/about/">Max Fowler</a>, <a href="http://ronenv.com/">Ronen V</a>, <a href="http://www.ingridlange.com/">Ingrid Lange</a>, <a href="http://kylegiddon.com/">Kyle Giddon</a>, <a href="http://www.tyabe.com/">Tya Abe</a>, <a href="http://www.evanfinkle.com/">Evan Finkle</a>.</p>
+<p><a href="http://blog.ltwp.net">blog.ltwp.net</a> (process blogging)</p>
 
-      <div class="label">Extra Stuff</div>
-      <p>The best way to get to know me is to look at my <a href="http://are.na/lukas-wp">Are.na</a>.</p>
+<p><a href="http://github.com/ltwp">github.com/ltwp</a> (code)</p>
 
-      <p>I was a coordinator for <a href="http://brickworld.us">Brickworld Chicago</a> in 2012 and 2013, and a studio assistant at <a href="http://borisbally.com">Boris Bally</a> for 4 months in 2014. </p>
+<p><a href="http://ltwp.net/stuff/resume.txt">r&eacute;sum&eacute;.txt</a> / <a href="http://ltwp.net/stuff/cv.txt">cv.txt</a></p>
 
-      <p>I've run workshops about LEGO and creativity with Gavin Atkinson three times at <a href="http://www.abetterworldbydesign.com/">A Better World by Design</a>, as well as at <a href="http://as220.org">AS220</a> and the <a href="http://www.bu.edu/eng/current-students/epic/">BU EPIC</a>.</p>
+<p><a href="http://ltwp.net/stuff/friends.txt">friends.txt</a> / <a href="http://ltwp.net/stuff/worth_a_visit.txt">worth_a_visit.txt</a></p>
 
-      <p>I've attended...</p> 
-      <p class="extra"><a href="http://www.dam.brown.edu/people/lipshutz/workshop.html">Fall 2014 Workshop on Integrating Dynamics and Stochastics at Brown University</a></p>
-      <p class="extra"><a href="http://www.as.huji.ac.il/pdes">Summer 2015 Getting Started with PDEs Workshop at the Israel Institute for Advanced Study</a></p>
+  </div>
 
-      <p>In college I...</p>
-      <p class="extra">helped expand the <a href="http://steamwith.us">student STEAM effort</a> beyond RISD (spearheading what is now <a href="http://steamwith.us/kinderSTEAM.html">KinderSTEAM</a> and a <a href="http://www.browndailyherald.com/2014/03/07/steam-lecture-examines-connection-math-arts/">George Hart workshop</a>).</p>
-      <p class="extra">was a founding member of the <a href="http://brown.edu/go/bdw">BDW.</a></p>
-      <p class="extra">was a member of the <a href="http://risdmuseum.org">RISD Museum Guild</a> for three years.</p>
-      <p class="extra">started and ran <a href="http://risdposters.tumblr.com/">RISD Posters</a> with my friend Elizabeth Goodspeed.</p>
+  <div class="block">
+    <p>Site made with <a href="http://staceyapp.com">Stacey</a>.</p>
 
-      <p>Last updated 2016-01-17T11:49:51+11:00.<br />
-      Site made with <a href="http://staceyapp.com">Stacey</a>.<br />
-      &#10047; &#9697; &#10047;</p>
+<p>&#10047; &#9697; &#10047;</p>
 
-<!--<div class="label">Shows</div>
-      Fall 2013: "ALL OF THE WORDS I NEVER SAID TO YOU," painting, Physics Art Show, Providence, RI.-->
+  </div>
 
-    </div>
+  <!--<div class="label">Shows</div>
+Fall 2013: "ALL OF THE WORDS I NEVER SAID TO YOU," painting, Physics Art Show, Providence, RI.-->
 
-    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="./public/docs/js/link_color.js"></script>
   </body>
 </html>
 
-<!-- Stacey(2.3.0): a561bdd563f6ff666fe766ffc1f2cce0 -->
+<!-- Stacey(2.3.0): f39229f2ad623a4d71be6249a4087b95 -->

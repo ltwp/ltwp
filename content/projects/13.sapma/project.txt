@@ -1,0 +1,28 @@
+name: Studio Applied Math
+-
+words1:
+
+For nearly as long as I can remember, I have enjoyed mathematics, but have been frustrated at how I have been taught. Already in high school I started reading documents on progressive math pedagogy, thinking about what we can do better to keep kids inspired by the field.
+
+_Studio Applied Math: Topics in Emergent Behavior_ is a response to these thoughts. Together with my friend Mara Freilich and a team of other Brown University undergraduates, we planned and executed an experimental math classroom. We did this through the Brown CRC's Group Independent Study Project (GISP) program, a rigorous method for creating student-directed college course curricula.
+
+Our class sought to investigate "Emergent Behavior," an exciting but ill-defined area of research that encapsulates work being done in Math, Applied Math, Physics, Engineering, Computer Science, and many fields beyond those quantitative sciences. And we sought to do so with a classroom structure that borrowed from the "studio" style of arts and design classrooms, with flexible, collaborative, open-ended, self-directed projects, instead of the typical problem sets and exams.
+
+The class was a success, overall, but faced challenges throughout that we learned and grew from. You can follow the history of the class and read more on the [website/blog](http://studioapma.tumblr.com/).
+-
+words2: 
+
+Thanks to Dr Bjorn Sandstone and the Brown CRC for their support. 
+
+A lot of my thoughts came out of a prior independent study I did on alternative mathematics education methods, called [Tactile Math](http://ltwp.net/projects/tactile_math/).
+-
+year: 2015
+-
+location: Brown University
+-
+description: Treating the math classroom like an atelier. 
+-
+visible: y
+-
+external_link: 
+-

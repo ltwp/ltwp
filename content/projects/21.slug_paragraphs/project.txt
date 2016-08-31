@@ -1,0 +1,22 @@
+name: Paragraphs From the House of Slugs
+-
+words1:
+
+I spent 5 weeks in Summer 2015 living in a big, old, empty house in the Netherlands. I wrote a few paragraphs every day on my experiences, my thoughts, my family, and the house. 
+
+I worked and reworked the paragraphs to summarize my surreal and lonely summer. The result was published in [Clerestory Arts](http://www.clerestoryarts.com/) v.53 n.02. 
+-
+words2: 
+
+
+-
+year: 2015
+-
+location: Netherlands
+-
+description: Reflections on a house and its inhabitants. 
+-
+visible: 
+-
+external_link: 
+-

@@ -1,18 +1,18 @@
-name: 
+name: Conversation & Space
 -
 words1:
 
-
+An experiment to make an interactive, scrolling poem. You can read it at [ltwp.net/stuff/conversation_space](http://ltwp.net/stuff/conversation_space/). Scroll slowly! 
 -
 words2: 
 
-
+First published in Recess, a now-defunct student journal at Brown/RISD. 
 -
-year: 
+year: 2014
 -
-location: 
+location: Providence, RI
 -
-description: 
+description: Poem in HTML.
 -
 visible: 
 -

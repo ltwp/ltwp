@@ -14,16 +14,25 @@ body{
 a{
   color: black;
   border-bottom: 2px solid black;
-  padding-bottom: 2px;
+  padding-bottom: 1px;
   text-decoration: none;
 }
 p{
   margin: 20px 0px;
 }
-
 img{
   max-width: 600px;
   margin: 20px 0px;
+}
+
+blockquote{
+  padding-left: 10px;
+  border-left: 1px solid black;
+  margin-left: 10px;
+}
+
+::selection{
+  background: #f0830f; /*#0066ff;*/
 }
 
 .label{
@@ -36,7 +45,11 @@ img{
 .block{
   width: 60vw;
   margin: 40vh auto;
-  min-height: 35vh; 
+  min-height: 35vh;
+}
+
+.block img{
+  width: 100%;
 }
 
 .project-description{
@@ -49,6 +62,7 @@ img{
 
 .project-name{
   font-size: 20px;
+  line-height: 200%;
 }
 
 .extra{

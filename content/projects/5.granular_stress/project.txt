@@ -16,7 +16,7 @@ location: Providence, RI
 -
 description: Understanding granular stress chains. 
 -
-visible: y
+visible: 
 -
 external_link: 
 -

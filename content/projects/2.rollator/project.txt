@@ -1,18 +1,18 @@
-name: 
+name: Carbon Curve Rollator
 -
 words1:
 
-
+Freshman year I was a freshman in [Northwestern's McCormick](http://www.mccormick.northwestern.edu/), and the  sequence included two design/build projects for local clients. The first prompt, for my group of 4, was to build a light-weight and aesthetically exciting rollator. 
 -
 words2: 
 
-
+This was my first hands-on experience with iterative prototyping and carbon fiber layups. Thanks to my groupmates and professors Carmichael and Olson. 
 -
-year: 
+year: 2012
 -
-location: 
+location: Evanston, IL
 -
-description: 
+description: Freshman design project with carbon fiber. 
 -
 visible: 
 -

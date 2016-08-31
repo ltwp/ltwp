@@ -1,0 +1,29 @@
+<html>
+  <head>
+    :top_matter
+    <!--favicon -->
+  </head>
+  <body>
+    :frame
+
+    <div class="block">
+      <div class="label">@name</div>
+      <p>
+        get "/projects" do
+          foreach $children do
+
+              <div class="project-name">
+                <a href="@url">@name if @external_link do ↗ endif</a>
+
+                <div class="project-description">@description @year.</div>
+              </div>
+
+          endforeach
+        end
+      </p>
+
+    </div>
+
+    :scripts
+  </body>
+</html>

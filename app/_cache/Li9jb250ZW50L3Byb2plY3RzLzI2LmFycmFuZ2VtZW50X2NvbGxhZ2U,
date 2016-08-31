@@ -1,0 +1,94 @@
+<html>
+  <head>
+    <title>Lukas Theodore WinklerPrins</title>
+    <meta name="keyword" content="researcher, mathematics, applied mathematics, apma, brown university, brown, lukas, winklerprins, winkler prins, research,">
+    <meta name="description" content="Lukas WinklerPrins, Technical Research">
+    <meta name="viewport" content="width=device-width">
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+
+    
+  </head>
+  <body>
+    <!-- Color Frame, thx brrybnds.com -->
+    <div id="top"></div>
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="bottom"></div>
+
+    <!-- Blocks -->
+    <div class="block">
+      <div class="label">Arrangement Collage</div>
+      Arlington, VA, 2016<br /><br />
+
+      <p>The internet is messy and large, made up of text, embedded media, arcane plug-ins, Adobe Flash, lurking APIs, and piles of disconnected libraries. But the true native media of the internet is the HTML Document Object Model (DOM)—also shared with XHTML and XML documents. The affordances of this media naturally push towards text and image (more, now, with HTML5 advances). Image and text, always in rectangles.</p>
+
+<p>The DOM model is built on rectangles, arranged with respect to each other or the bounding box of your browser window. Rectangular paragraphs, rectangular images, rectangular videos—rectangles as far as the eye can see. Anything that doesn’t look rectilinear is usually just fooling you; strip the CSS and it’s just a pile of blocks (perhaps just tilted and stretched, or the corners shaved off).</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/JKDOM.SVG/2000px-JKDOM.SVG.png" alt="Wikimedia-sourced HTML DOM - https://en.wikipedia.org/wiki/Document_Object_Model#/media/File:JKDOM.SVG"></p>
+
+<p>This model has substantial unspoken effects, informing much of what web-based media can be and what web-native media looks like. As an online culture, we’ve grown accustomed to block-based interfaces—most classically a “feed” or a “grid”. Imagine the Tumblr dashboard as an example of the former, and NYTimes homepage for the latter. Stacks and arrays of rectangles are ubiquitous online, two canonical forms of the arrangement of blocks that comprises any HTML-based webpage. A webpage that doesn’t look or feel rectilinear stands out, and makes a statement. Nonlinear, non-blocky interfaces appear, whether carefully hidden HTML or in Flash or creative SVG use, but to some extent they are fighting against <a href="http://frankchimero.com/writing/the-webs-grain/">the grain</a>.</p>
+
+<p>What we’ve grown accustomed to, thanks to the ubiquitous and endless feeds and grids of various media platforms, is increasing lack of coherence between blocks presented adjacent to one another. On NYTimes, at least you know two adjacent blocks are vetted by the same news source—in your tumblr dashboard, a peer-reviewed journal article can sit immediately adjacent to an anonymously submitted shitpost.</p>
+
+<p>Rapid context-switching between small media bites is an every-minute experience in digital media landscapes. In an arrangement of blocks, each can carry its own context, source, truth, emotion, narrative, meaning, slant. It’s almost startling how easily we can digest a lot of it—“The Culture,” as designer <a href="http://www.itsnicethat.com/features/bob-gill-interview">Bob Gill negatively calls it</a>. I posit we can navigate these media streams not because we can effectively rapidly jump contexts, but because we interpolate narratives and cohesion between DOM blocks, between contexts. Adjacency implies connection.</p>
+
+<blockquote>
+  <p>Consequently [an image reproduction] becomes itself the reference point for other images. The meaning of an image is changed according to what one sees immediately beside it or what comes immediately after it. (Ways Of Seeing, John Berger)</p>
+</blockquote>
+
+<p>Fredric Jameson claims that contemporary articulations of postmodernism value combinations of objects without synthesis in a formal sense. That is, acts of adjacency, simultaneous arrangement, <em>are</em> acts of synthesis, even between unrelated objects.</p>
+
+<p><img src="http://67.media.tumblr.com/2a1492983de94afca4090e0620340fe9/tumblr_nzdedbPv1p1v1c8sjo1_1280.jpg" alt="Zach Korol-Gold: Bono iPod http://thisismy.website/post/135212463041/bono-ipod"></p>
+
+<p>Look at nearly any white-cube show of contemporary sculpture and you’ll see this is not a new idea. Selection and arrangement of objects—often found or folk objects—is an ongoing trend, trusting the viewer to construct narrative or meaning based on the interplay of formal object qualities, cultural connotations or history, context, and experiential or phenomenological value.</p>
+
+<p>In an age of both physical and digital overabundance in the Western world, creation of new media from scratch requires robust justification, but acts of synthesis and archiving are all the more valuable. Making sense of the deluge is already a primary role. The classical curator—as composer  of narratives and arranger of objects in space—is being absorbed into that of the artist, as arrangement gains precedence as practice itself. The viewer, increasingly adept at constructing a contextual narrative within any adjacency, is along for the ride.</p>
+
+<p>It is natural that this curatorial sensibility hits the HTML DOM head-on. Some might consider their art to be their <a href="http://hyperallergic.com/66038/the-teen-girl-tumblr-aesthetic/">tumblr streams</a>, their <a href="http://www.thewhitereview.org/features/scroll-skim-stare/">personal sites</a>—full of feeds and grids, or a more unified, but ongoing, collection of block-based <a href="http://thenewinquiry.com/essays/athletic-aesthetics/">digital artistic output</a>. HTML is, in many ways, perfectly built for object arrangement: a blank, endless canvas of the web, copy-paste composition, and an intuitive visual structure. So long as you like rectangles.</p>
+
+<p><img src="http://i0.wp.com/www.wanderingbears.co.uk/wp-content/uploads/2016/02/Untitled-5.jpg?w=1300" alt="Wandering Bears Interview with Charles Negre &amp; Thomas Rousset http://www.wanderingbears.co.uk/164-on-the-equator-charles-negre-thomas-rousset/"></p>
+
+<p>Enter what I call the “Arrangement Collage”—a way of finding artistic value in block-based, transcontextual compositions of, ostensibly, found media.</p>
+
+<p>Early formalized forms of the art collage used the intrigue and power in composing elements pulled from diverse sources. Meaning constructed by selection, editing, and combination. But the arrangement collage does less work for the viewer: elements are kept fully intact rather than trimmed and blended; the composition often mitigates interaction between the components, celebrating adjacency in the rawest sense. (Elements of the arrangement collage also arise in vaporwave aesthetics.)</p>
+
+<blockquote>
+  <p>When the historical avant-garde used valorized cultural objects such as the <em>Mona Lisa</em> or a violin, it profaned, overpowered, and destroyed them before going on to aestheticize them. In contrast, contemporary art uses mass-cultural things virtually intact. (On The New, Boris Groys)</p>
+</blockquote>
+
+<p>The arrangement collage, while easy to construct in print (especially with digital tools), is truly native to the web, in which all objects are level rectangles, context-switching is the norm, and media to compose with is bountiful.</p>
+
+<p>Approaching your feeds as arrangement collage makes earnest the connections we see between adjacent media. Chance compositions, compiled in your tumblr dashboard, act as discrete paintings, and can be thought of as composed just for you, based on who you choose to follow.</p>
+
+<p>Platforms such as <a href="http://to.be">to.be</a>, <a href="http://newhive.com/">newhive</a>, and <a href="https://amb-1.com/">AMB-1</a> indicate, beyond passive construction in streams, desire for arrangement collage composition tools.</p>
+
+<p>Artists and designers are increasingly grappling with the arrangement collage, too. For example:</p>
+
+<p><img src="https://d2w9rnfcy7mm78.cloudfront.net/7985/original_froggie.png" alt="Froggie by Charles Broskoski http://charlesbroskoski.com/_/view.php?id=combos"></p>
+
+<p><img src="http://martinesyms.com/wp-content/uploads/MK_3.jpg" alt="Martine Syms: Misdirected Kiss http://martinesyms.com/misdirected-kiss/"></p>
+
+<p><img src="http://hypebeast.com/image/2016/02/kanye-west-fall-out-of-heaven-fml-the-dream-bon-iver-travis-scott-0.jpg" alt="The Life of Pablo Album Art"></p>
+
+<p>Just as collage has always made use of text, so, too, can arrangement collage—frequently turning text into graphic due to context removal. The work featured here is contemporary, happening now, and edges of this type of work have yet to be fleshed out. The goal of this essay is not to prescribe or justify the work I am calling an “arrangement collage,” but rather to declare it as a type, explore where I think it comes from, and implore its further experimentation.</p>
+
+<p>Digital collection is only growing, in practice and necessity, and while HTML is maturing, the DOM model isn’t going anywhere soon. The arrangement collage—native to these affordances—is a fledgling tool for constructing meaning in today’s unique digital landscape.</p>
+
+    </div>
+
+    
+
+    <div class="block">
+      
+    </div>
+
+    <span class="scaffolding">arrangement_collage [1]</span>
+
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="./public/docs/js/link_color.js"></script>
+  </body>
+</html>
+
+<!-- Stacey(2.3.0): 975e150058f17555f608248d87fb7f6d -->

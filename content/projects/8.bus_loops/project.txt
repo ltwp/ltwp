@@ -1,20 +1,22 @@
-name: 
+name: Return Maps & Chaos in 2-Bus Loop
 -
 words1:
 
+In Spring 2014 I took a class about chaos and nonlinear dynamics with Dr John Gemmer. As a final project, I sought to recreate the results from Nagatani’s 2006 paper “Chaos control and schedule of shuttle buses.” 
 
+With little documentation of his code, I recreated a system in MATLAB and found my own results. Read the paper at [ltwp.net/stuff/return_maps.pdf](http://ltwp.net/stuff/return_maps.pdf). 
 -
 words2: 
 
-
+My investigation showed that headway behavior takes a finite set of canonical forms, but more investigation is needed to make sure the types I delineate are actually all discrete. 
 -
-year: 
+year: 2014
 -
-location: 
+location: Providence, RI
 -
-description: 
+description: Finding chaos in a two-agent system. 
 -
-visible: 
+visible: y
 -
 external_link: 
 -

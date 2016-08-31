@@ -1,0 +1,31 @@
+name: Pneumatic Igloo
+-
+words1:
+
+During the 2014-2015 school year, [Brown STEAM](http://steamwith.us) started collaborating with local company [Pneuhaus](http://pneuha.us), developing a plan to commission a large-scale bubble for the student group to use as a flexible and transportable programming space.
+
+In the planning and research phases of this project, I found myself excited about the technical details of pneumatic structures.
+-
+words2: 
+
+I took this interest to Dr Chris Bull in the School of Engineering and developed an independent study for me to study Pneumatic Architecture.
+
+The semester consisted of a crash-course in solid mechanics, pneumatic engineering, and finite element methods. All that before actually sitting down and designing, then constructing, my own inflatable pneumatic structure.
+
+I call my structure the "igloo." It is a 2/3rds sphere in the form of a geodesic dome, made out of 1.9oz ripstop Nylon.
+
+Please watch an [inflation video](https://vimeo.com/144995572)! You can also see some documents and process in this [arena channel](https://www.are.na/lukas-wp/engn1971-isp-in-pneumatic-architecture).
+
+Big thanks to Pneuhaus, Dr Bull, Alex Hadik, and many other friends for their help and support over the course of this project.
+-
+year: 2015
+-
+location: Providence, RI
+-
+description: Intro to inflatable architecture. 
+-
+visible: 
+-
+external_link: 
+-
+ref_link: 

@@ -1,0 +1,20 @@
+name: Sunday School
+-
+words1:
+
+
+-
+words2: 
+
+
+-
+year: 2016
+-
+location: Internet. 
+-
+description: Decentralized generalized "reading group" framework, with Ed. 
+-
+visible: 
+-
+external_link: https://github.com/sunday-school
+-

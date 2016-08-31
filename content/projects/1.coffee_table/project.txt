@@ -10,7 +10,7 @@ words2:
 -
 year: 2010
 -
-location: Michigan
+location: Bloomfield Hills, MI
 -
 description: Introductory craft exercise. 
 -

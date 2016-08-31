@@ -16,7 +16,7 @@ location: Providence, RI
 -
 description: Experiments in the browser. 
 -
-visible: y
+visible: 
 -
 external_link: 
 -

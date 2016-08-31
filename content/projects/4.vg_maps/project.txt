@@ -16,7 +16,7 @@ location: Providence, RI
 -
 description: Place & space & identity in video games.
 -
-visible: y
+visible: 
 -
 external_link: 
 -

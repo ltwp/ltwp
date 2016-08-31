@@ -1,0 +1,16 @@
+short_description: —mathematics × design × research.
+-
+quick: 
+
+Moving to LA. Recently Fellow at [The Design Office](http://thedesignoffice.org/) and Manager at [The BDW](http://www.browndesignworkshop.org/). 
+-
+get_to_know_me: 
+[are.na/lukas-wp](http://are.na/lukas-wp)
+
+I'm interested in math modeling, pedagogy, and art. 
+-
+end:
+Site made with <a href="http://staceyapp.com">Stacey</a>, set in PT Serif. 
+
+&#10047; &#9697; &#10047;
+-

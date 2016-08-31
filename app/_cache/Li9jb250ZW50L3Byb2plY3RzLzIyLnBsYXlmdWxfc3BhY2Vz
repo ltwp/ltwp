@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>Lukas Theodore WinklerPrins</title>
+    <meta name="keyword" content="researcher, mathematics, applied mathematics, apma, brown university, brown, lukas, winklerprins, winkler prins, research,">
+    <meta name="description" content="Lukas WinklerPrins, Technical Research">
+    <meta name="viewport" content="width=device-width">
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+    <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+
+    
+    <meta http-equiv="refresh" content="0; URL=http://risdmuseum.org/events/1011_2015_11_15_art_shots_playful_space">
+    
+  </head>
+  <body>
+    <!-- Color Frame, thx brrybnds.com -->
+    <div id="top"></div>
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="bottom"></div>
+
+    <!-- Blocks -->
+    <div class="block">
+      <div class="label">RISD Museum Tour: Playful Spaces</div>
+      Providence, RI, 2015<br /><br />
+
+      <p>A tour at the RISD Museum highlighting unseen structural elements of the museum, such as lighting systems, exhibit design, architectural details. Accessible and inspiring discussion of museum experience <em>as</em> designed object.</p>
+
+    </div>
+
+    
+      <div class="block">
+        
+          <img src="./content/projects/22.playful_spaces/1.jpg" /><br /><br />
+        
+      </div>
+    
+
+    <div class="block">
+      
+    </div>
+
+    <span class="scaffolding">playful_spaces [5]</span>
+
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="./public/docs/js/link_color.js"></script>
+  </body>
+</html>
+
+<!-- Stacey(2.3.0): f75443eceea72641fb9c5627d583faf9 -->

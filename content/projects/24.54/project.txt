@@ -1,0 +1,23 @@
+name: $54
+-
+words1:
+
+My friends Kristen Wentrcek and Andrew Zebulon organized a show, [NYCxSkymall](http://wintercheckfactory.com/projects/5-nycxskymall), an "exhibition of design solutions for problems that don't exist," and invited me to contribute. 
+
+3-hour intended performance, cut short due to travel issues. Watch a [video of $54 on vimeo here](https://vimeo.com/177604584). 
+
+-
+words2: 
+
+See also some [Core77 coverage](http://www.core77.com//posts/52989/NYCxSKYMALL-Presents-Design-Solutions-for-Problems-that-Dont-Exist) of the event. Thanks Kristen and Andrew for organizing, Chris Bull for being supportive, and my friends for attending! 
+-
+year: 2016
+-
+location: Brooklyn, NY
+-
+description: Durational performance on loss of utility in construction. 
+-
+visible: y
+-
+external_link: 
+-

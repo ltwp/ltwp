@@ -1,0 +1,21 @@
+name: Babybindery
+-
+words1:
+
+
+
+-
+words2: 
+
+
+-
+year: 2016
+-
+location: Providence, RI
+-
+description: Web-to-print workflow for templated Jekyll content.
+-
+visible: y
+-
+external_link: http://thedesignoffice.github.io/babybindery/
+-

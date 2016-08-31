@@ -22,7 +22,7 @@ location: Providence, RI
 -
 description: Making math easier to play with.
 -
-visible: y
+visible: 
 -
 external_link: 
 -
