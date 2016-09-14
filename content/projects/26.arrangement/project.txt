@@ -15,5 +15,7 @@ description: Essay on internet-native collage.
 -
 visible: 
 -
+writing: yes
+-
 external_link: 
 -

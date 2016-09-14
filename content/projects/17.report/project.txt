@@ -16,5 +16,7 @@ description: Some words on college and friends and beer.
 -
 visible: 
 -
+writing: yes
+-
 external_link: http://alternativecommencement.tumblr.com/post/115119244973/a-report-on-bottle-caps-lukas-winklerprins
 -

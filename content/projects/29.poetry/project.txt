@@ -2,9 +2,7 @@ name: Poetry
 -
 words1:
 
-I write some poetry. Perhaps it is my attention span, but I tend towards terse, small-form poetry, minimal or concrete. I like Aram Saroyan. 
 
-I post my [poetry on my pinboard](http://pinboard.in/u:lukas). 
 -
 words2: 
 
@@ -14,9 +12,11 @@ year: 2016
 -
 location: Various.
 -
-description: Scribblings. 
+description: Scribblings. I like concrete and minimal work. 
 -
 visible: 
 -
-external_link: 
+writing: yes
+-
+external_link: http://pinboard.in/u:lukas
 -

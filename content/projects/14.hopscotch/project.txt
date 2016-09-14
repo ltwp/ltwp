@@ -16,7 +16,9 @@ description: A brand and pair of overalls.
 -
 visible: y
 -
+portfolio: yes
+-
 external_link: http://playhopscotch.net
 -
-featured: y
+featured: 
 -

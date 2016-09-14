@@ -17,5 +17,7 @@ description: Web-to-print workflow for templated Jekyll content.
 -
 visible: y
 -
+portfolio: yes
+-
 external_link: http://thedesignoffice.github.io/babybindery/
 -

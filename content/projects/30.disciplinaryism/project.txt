@@ -1,0 +1,21 @@
+name: Disciplinaryism (STEAM)
+-
+words1:
+
+-
+words2: 
+
+
+-
+year: 2016
+-
+location: Providence, RI
+-
+description: Essay on academic disciplines and 21st-century epistemologies. 
+-
+visible: yes
+-
+writing: yes
+-
+external_link: http://steamwith.us/content/catalogue/five/#DISCIPLINARYISM
+-

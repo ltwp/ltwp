@@ -18,5 +18,7 @@ description: Reflections on a house and its inhabitants.
 -
 visible: 
 -
+writing: yes
+-
 external_link: 
 -
