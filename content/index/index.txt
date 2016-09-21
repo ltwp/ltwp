@@ -1,8 +1,10 @@
 short_description: —mathematics × design × research.
 -
-quick: 
+currently: 
 
-Moving to LA. Recently Fellow at [The Design Office](http://thedesignoffice.org/) and Manager at [The BDW](http://www.browndesignworkshop.org/). 
+Settling in Los Angeles. [Standard Library](https://standard-library.com/) and [Learning Gardens](http://learning-gardens.co/) and writing. 
+
+See the [Projects Archive](http://ltwp.net/projects/). 
 -
 get_to_know_me: 
 [are.na/lukas-wp](http://are.na/lukas-wp)

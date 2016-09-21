@@ -1,4 +1,4 @@
-name: Sunday School
+name: Learning Gardens
 -
 words1:
 
@@ -12,9 +12,9 @@ year: 2016
 -
 location: Internet. 
 -
-description: Decentralized generalized "reading group" framework, with Ed. 
+description: Meta Organization for learning groups. With Ed. 
 -
 visible: 
 -
-external_link: https://github.com/sunday-school
+external_link: http://learning-gardens.co
 -

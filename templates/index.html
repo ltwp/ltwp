@@ -20,7 +20,7 @@
     <!-- Blocks -->
     <div class="block">
       <div class="label">Lukas@short_description</div>
-      <div class="label">Keep scrolling for work. ⤵</div>
+      <div class="label">Keep scrolling... ⤵</div>
     </div>
 
 
@@ -43,36 +43,39 @@ end
 
 
     <div class="block">
-      <div class="label">Projects:</div>
-      <p>
-        get "/projects" do
-        foreach $children do
-        if @visible do
+      <!--
+<div class="label">Projects:</div>
+<p>
+get "/projects" do
+foreach $children do
+if @visible do
 
-      <div><a class="project-name" href="@url">
-        @name if @external_link do ⤴ endif</a>
+<div><a class="project-name" href="@url">
+@name if @external_link do ⤴ endif</a>
 
-        <div class="project-description">@description</div>
-      </div>
+<div class="project-description">@description</div>
+</div>
 
-      endif
-      endforeach
-      end
-      </p>
+endif
+endforeach
+end
+</p>
+-->
 
-    <div class="label">Quick R&eacute;sum&eacute;:</div>
-    <p>@quick</p>
+      <div class="label">Currently:</div>
+      <p>@currently</p>
 
     </div>
-  <div class="block">
-    <div class="label">About Me</div>
-    @get_to_know_me
-  </div>
 
-  <div class="block">
-    @end
-  </div>
+    <div class="block">
+      <div class="label">About Me</div>
+      @get_to_know_me
+    </div>
 
-  :scripts
+    <div class="block">
+      @end
+    </div>
+
+    :scripts
   </body>
 </html>
