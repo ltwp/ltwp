@@ -1,15 +1,15 @@
-short_description: —mathematics × design × research.
+short_description: —mathematics × research × urbanism
 -
 currently: 
 
-Settling in Los Angeles. [Standard Library](https://standard-library.com/) and [Learning Gardens](http://learning-gardens.co/) and writing. 
+Research/strategy at [Standard Library](https://standard-library.com/), growing [Learning Gardens](http://learning-gardens.co), and other projects. 
 
-See the [Projects Archive](http://ltwp.net/projects/). 
+I live in Los Angeles. 
 -
 get_to_know_me: 
 [are.na/lukas-wp](http://are.na/lukas-wp)
 
-I'm interested in math modeling, pedagogy, and art. 
+email me - lukas @ this domain. 
 -
 end:
 Site made with <a href="http://staceyapp.com">Stacey</a>, set in PT Serif. 
