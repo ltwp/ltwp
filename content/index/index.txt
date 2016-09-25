@@ -1,15 +1,19 @@
-short_description: —mathematics × research × urbanism
+short_description: <a href="mailto:lukas@ltwp.net">Lukas</a>—researcher & otherwise. 
 -
 currently: 
 
-Research/strategy at [Standard Library](https://standard-library.com/), growing [Learning Gardens](http://learning-gardens.co), and other projects. 
+Research + strategy at [Standard Library](https://standard-library.com/).
 
-I live in Los Angeles. 
+Growing [Learning Gardens](http://learning-gardens.co).
+
+A few other projects in the wings.
 -
 get_to_know_me: 
 [are.na/lukas-wp](http://are.na/lukas-wp)
 
-email me - lukas @ this domain. 
+mathematics × aesthetics × landscapes × education
+
+I live in Los Angeles. 
 -
 end:
 Site made with <a href="http://staceyapp.com">Stacey</a>, set in PT Serif. 

@@ -31,14 +31,14 @@
 
     <!-- Blocks -->
     <div class="block">
-      <div class="label">Lukas (<a href="mailto:lukas@ltwp.net">✉</a>), mathematician × designer × researcher.</div>
-      <div class="label">Keep scrolling for work. ⤵</div>
+      <div class="label"><a href="mailto:lukas@ltwp.net">Lukas</a>—researcher & otherwise.</div>
+      <div class="label">Keep scrolling... ⤵</div>
     </div>
 
 
     <!--
 
-if y do
+if  do
 <div class="block">
 <div class="label"><a href="./?/projects/hopscotch/">Hopscotch</a></div>
 
@@ -54,146 +54,149 @@ endif
 
 
     <div class="block">
-      <div class="label">Projects:</div>
-      <p>
-        
-        
-        
-      
-        
-      
-        
-      <div><a class="project-name" href="./?/projects/babybindery/">
-        Babybindery ↗ </a>
+      <!--
+<div class="label">Projects:</div>
+<p>
 
-        <div class="project-description">Jekyll add-on to facilitate Web-to-Print workflow for templated content.</div>
-      </div>
-      
-        
-      
-        
-      <div><a class="project-name" href="./?/projects/syllabus_archive/">
-        Syllabus Archive ↗ </a>
 
-        <div class="project-description">Trying to make structures and sequences of knowledge more public.</div>
-      </div>
-      
-        
-      <div><a class="project-name" href="./?/projects/playful_spaces/">
-        RISD Museum Tour: Playful Spaces ↗ </a>
 
-        <div class="project-description">Frame-breaking museum tour.</div>
-      </div>
-      
-        
-      
-        
-      <div><a class="project-name" href="./?/projects/functional_graphs/">
-        Polynomial Graphs on Finite Fields </a>
 
-        <div class="project-description">Small-scale graph generation & isomorphism investigation.</div>
-      </div>
-      
-        
-      <div><a class="project-name" href="./?/projects/pneu/">
-        Pneumatic Igloo </a>
 
-        <div class="project-description">Intro to inflatable architecture.</div>
-      </div>
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      <div><a class="project-name" href="./?/projects/hopscotch/">
-        Hopscotch ↗ </a>
+<div><a class="project-name" href="./?/projects/disciplinaryism/">
+Disciplinaryism (STEAM) ⤴ </a>
 
-        <div class="project-description">A brand and pair of overalls.</div>
-      </div>
-      
-        
-      <div><a class="project-name" href="./?/projects/sapma/">
-        Studio Applied Math </a>
+<div class="project-description">Essay on academic disciplines and 21st-century epistemologies.</div>
+</div>
 
-        <div class="project-description">Treating the math classroom like an atelier.</div>
-      </div>
-      
-        
-      <div><a class="project-name" href="./?/projects/nonspace/">
-        non-space </a>
 
-        <div class="project-description">Ephemeral art show.</div>
-      </div>
-      
-        
-      
-        
-      
-        
-      
-        
-      <div><a class="project-name" href="./?/projects/bus_loops/">
-        Return Maps & Chaos in 2-Bus Loop </a>
 
-        <div class="project-description">Finding chaos in a two-agent system.</div>
-      </div>
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-      
-      </p>
 
-    <div class="label">Quick R&eacute;sum&eacute;:</div>
-    <p>Currently Design Fellow at the <a href="http://browndesignworkshop.org">Brown Design Workshop</a>. Interested in infrastructure, art, pedagogy.</p>
+<div><a class="project-name" href="./?/projects/reflecting_forward/">
+Reflecting Forward ⤴ </a>
+
+<div class="project-description">Young grads discussing early-stage creative careers.</div>
+</div>
+
+
+
+
+
+
+<div><a class="project-name" href="./?/projects/babybindery/">
+Babybindery ⤴ </a>
+
+<div class="project-description">Web-to-print workflow for templated Jekyll content.</div>
+</div>
+
+
+<div><a class="project-name" href="./?/projects/54/">
+$54 </a>
+
+<div class="project-description">Durational performance on loss of utility in construction.</div>
+</div>
+
+
+
+
+
+
+
+
+<div><a class="project-name" href="./?/projects/functional_graphs/">
+Polynomial Graphs on Finite Fields </a>
+
+<div class="project-description">Small-scale graph generation & isomorphism investigation.</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div><a class="project-name" href="./?/projects/hopscotch/">
+Hopscotch ⤴ </a>
+
+<div class="project-description">A brand and pair of overalls.</div>
+</div>
+
+
+<div><a class="project-name" href="./?/projects/sapma/">
+Studio Applied Math </a>
+
+<div class="project-description">Treating the math classroom like an atelier.</div>
+</div>
+
+
+<div><a class="project-name" href="./?/projects/nonspace/">
+non-space </a>
+
+<div class="project-description">Ephemeral art show.</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+-->
+
+      <div class="label">Currently:</div>
+      <p><p>Research + strategy at <a href="https://standard-library.com/">Standard Library</a>.</p>
+
+<p>Growing <a href="http://learning-gardens.co">Learning Gardens</a>.</p>
+
+<p>A few other projects in the wings.</p>
+</p>
 
     </div>
-  <div class="block">
-    <div class="label">About Me</div>
-    <p><a href="http://are.na/lukas-wp">are.na/lukas-wp</a> (ambient research)</p>
 
-<p><a href="http://blog.ltwp.net">blog.ltwp.net</a> (process blogging)</p>
+    <div class="block">
+      <div class="label">About Me</div>
+      <p><a href="http://are.na/lukas-wp">are.na/lukas-wp</a></p>
 
-<p><a href="http://github.com/ltwp">github.com/ltwp</a> (code)</p>
+<p>mathematics × aesthetics × landscapes × education</p>
 
-<p><a href="http://ltwp.net/stuff/resume.txt">r&eacute;sum&eacute;.txt</a> / <a href="http://ltwp.net/stuff/cv.txt">cv.txt</a></p>
+<p>I live in Los Angeles.</p>
 
-<p><a href="http://ltwp.net/stuff/friends.txt">friends.txt</a> / <a href="http://ltwp.net/stuff/worth_a_visit.txt">worth_a_visit.txt</a></p>
+    </div>
 
-  </div>
-
-  <div class="block">
-    <p>Site made with <a href="http://staceyapp.com">Stacey</a>.</p>
+    <div class="block">
+      <p>Site made with <a href="http://staceyapp.com">Stacey</a>, set in PT Serif.</p>
 
 <p>&#10047; &#9697; &#10047;</p>
 
-  </div>
+    </div>
 
-  <!--<div class="label">Shows</div>
-Fall 2013: "ALL OF THE WORDS I NEVER SAID TO YOU," painting, Physics Art Show, Providence, RI.-->
-
-
-  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="./public/docs/js/link_color.js"></script>
   </body>
 </html>
 
-<!-- Stacey(2.3.0): f39229f2ad623a4d71be6249a4087b95 -->
+<!-- Stacey(2.3.0): fd623a90aa3d7162311e5f8abd0bc176 -->
