@@ -12,24 +12,30 @@
     <!-- Blocks -->
     <div class="block">
       <div class="label">@name</div>
+      if @meta do
       <div class="project-description">
-        @location, @year
+        @meta
       </div>
+      endif
 
+      if @words1 do
       @words1
+      endif
     </div>
 
     if $images do
-      <div class="block">
-        foreach $images do
-          <img src="@url" /><br /><br />
-        endforeach
-      </div>
+    <div class="block">
+      foreach $images do
+      <img src="@url" /><br /><br />
+      endforeach
+    </div>
     endif
 
+    if @words2 do
     <div class="block">
       @words2
     </div>
+    endif
 
     <span class="scaffolding">@slug [@index]</span>
 
