@@ -58,7 +58,8 @@
       </div>
 
       <div class="block">
-        <p>Site made with <a href="http://staceyapp.com">Stacey</a> &#10047; &#9697; &#10047;</p>
+        <p>Site made with <a href="http://staceyapp.com">Stacey</a><br /> 
+&#10047; &#9697; &#10047;</p>
 
       </div>
     </div>
@@ -67,4 +68,4 @@
   </body>
 </html>
 
-<!-- Stacey(2.3.0): 958d36551c67e3f59776a3ebef123dee -->
+<!-- Stacey(2.3.0): 9fda7f6884c3a83c36bc39e4b19a2870 -->

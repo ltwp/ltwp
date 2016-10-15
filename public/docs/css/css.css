@@ -8,6 +8,7 @@ body{
   width: 100%;
   line-height: 165%;
   color: black;
+  background-color: white;
 }
 
 a{
@@ -15,6 +16,10 @@ a{
   border-bottom: 1px solid blue;
   padding-bottom: 1px;
   text-decoration: none;
+}
+a:hover{
+  color: white;
+  background-color: blue;
 }
 
 h1{
