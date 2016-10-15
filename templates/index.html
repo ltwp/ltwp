@@ -1,7 +1,7 @@
 <html>
   <head>
+    <title>@name</title>
     :top_matter
-    <!--favicon -->
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -11,71 +11,34 @@
 
       ga('create', 'UA-46980305-1', 'auto');
       ga('send', 'pageview');
-
     </script>
   </head>
   <body>
+
     :frame
 
-    <!-- Blocks -->
-    <div class="block">
-      <div class="label">@short_description</div>
-      <div class="label">Keep scrolling... ⤵</div>
+    <div id="container">
+
+      <!-- Blocks -->
+      <div class="block">
+        <h1>
+          @b0
+        </h1>
+      </div>
+
+      <div class="block">
+        @b1
+      </div>
+
+      <div class="block">
+        @b2
+      </div>
+
+      <div class="block">
+        @b3
+      </div>
     </div>
 
-
-    <!--
-get "/projects" do
-foreach $children do
-if @featured do
-<div class="block">
-<div class="label"><a href="@url">@name</a></div>
-foreach $images[:1] do
-<img src="@url" /><br />
-endforeach
-
-@words1
-</div>
-endif
-endforeach
-end
--->
-
-
-    <div class="block">
-      <!--
-<div class="label">Projects:</div>
-<p>
-get "/projects" do
-foreach $children do
-if @visible do
-
-<div><a class="project-name" href="@url">
-@name if @external_link do ⤴ endif</a>
-
-<div class="project-description">@description</div>
-</div>
-
-endif
-endforeach
-end
-</p>
--->
-
-      <div class="label">Currently:</div>
-      <p>@currently</p>
-
-    </div>
-
-    <div class="block">
-      <div class="label">About Me</div>
-      @get_to_know_me
-    </div>
-
-    <div class="block">
-      @end
-    </div>
-
-    :scripts
+    :link_color
   </body>
 </html>

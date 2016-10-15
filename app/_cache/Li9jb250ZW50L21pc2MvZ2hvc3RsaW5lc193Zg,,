@@ -1,0 +1,98 @@
+<html>
+  <head>
+    <title>ghostlines_wf</title>
+    <meta charset="UTF-8">
+<meta name="keyword" content="lukas, winklerprins, winkler prins, research,">
+<meta name="description" content="Lukas WinklerPrins—math, pedagogy, landscape research.">
+<meta name="viewport" content="width=device-width">
+<!--    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'> -->
+<link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+
+  </head>
+  <body>
+    <!-- Color Frame, thx Amardeep at brrybnds.com -->
+    <div id="top"></div>
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="bottom"></div>
+
+
+    <div id="container">
+      <div class="block">
+
+        <h1>
+          <a href="./?/misc/ghostlines_wf/">ghostlines_wf</a>
+        </h1>
+
+        
+        <h1>
+          Ghostlines Features & Issues Workflow
+        </h1>
+        
+        
+        <code>September 26, 2016</code>
+        
+
+        <p>How we’ll use Trello to sequence potential feature additions, and github Projects to enable implementation and bug issues.</p>
+
+<h2>Starting from: A Feature Idea</h2>
+
+<p>If you (or anyone) has an idea for a new feature—with any level of specificity—go into the trello board and add a new card under the “Feature Requests” list.</p>
+
+<p><img src="http://ltwp.net/stuff/gl/new_feature.gif" alt=""></p>
+
+<p>Please preface the idea with the name of who thought of it!</p>
+
+<p>Then, in the description of the card, add a date (approximate) and any more granular description, if necessary.</p>
+
+<p><img src="http://ltwp.net/stuff/gl/edit_feature.gif" alt=""></p>
+
+<p>On a ~weekly (and ongoing, via Slack) basis, potential features will be prioritized, and then refined. This may require them being broken into multiple components, and will also depend on user feedback and research into how a feature might be used.</p>
+
+<p><img src="http://ltwp.net/stuff/gl/prioritizing.gif" alt=""></p>
+
+<p>Once a particular feature is slated for <strong>implementation</strong>, we move it to the “Sent to Github Project” list and start a <a href="https://github.com/ghostlines/ghostlines-robofont/projects">project in the ghostlines repo</a> on github. At this stage, a feature should include:</p>
+
+<ol>
+<li>A reason for its existence, and goal for what it enables.</li>
+<li>One or two user stories, or use cases—i.e. “what steps do you imagine a user taking that involve this feature?”</li>
+<li>Notes on UI.</li>
+<li>Implementation advice—i.e. how it interfaces with existing code. </li>
+</ol>
+
+<p>Within a project, there are 4 columns of progress:</p>
+
+<p><img src="http://ltwp.net/stuff/gl/columns.png" alt=""></p>
+
+<p>Individual steps should then be filed as Issues. You can add an issue to a project column by clicking the far-right “+” and dragging it over.</p>
+
+<p><img src="http://ltwp.net/stuff/gl/issue_column.gif" alt=""></p>
+
+<p>They’ll move through the columns as anticipated, and upon “For Review” should be announced in Slack #ghostlines so others can take a peek.</p>
+
+<h2>Starting from: Issue Filed</h2>
+
+<p>Issues and bugs filed on github are already on github! They won’t go through the staging/triaging phase as ideas that start in Trello (though they might be feature requests in disguise—in which case they will be internalized for research).</p>
+
+<p>In general, small issues can be addressed simply as-such. Larger issues should be brought into github Projects, factored into discrete steps, then worked through the “Backlog,” “In-Progress,” “For Review,” and “Done” columns sequence, before being archived.</p>
+
+<h2>Closing Thoughts</h2>
+
+<p>Feedback from people—ad-hoc via email, twitter, etc—will be manually added to Trello or Github issues by Lukas on a weekly basis.</p>
+
+<p>Discussion about prioritization and details of steps can be discussed in Slack! #ghostlines</p>
+
+
+        
+
+      </div>
+    </div>
+
+    <script src="./public/docs/js/link_color.js"></script>
+  </body>
+</html>
+
+<!-- Stacey(2.3.0): f347bbb3e43187ad78732d38cf3ccdad -->

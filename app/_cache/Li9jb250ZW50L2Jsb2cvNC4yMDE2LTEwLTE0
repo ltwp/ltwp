@@ -1,0 +1,69 @@
+<html>
+  <head>
+    <title>2016-10-14</title>
+    <meta charset="UTF-8">
+<meta name="keyword" content="lukas, winklerprins, winkler prins, research,">
+<meta name="description" content="Lukas WinklerPrins—math, pedagogy, landscape research.">
+<meta name="viewport" content="width=device-width">
+<!--    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'> -->
+<link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+
+  </head>
+  <body>
+    <!-- Color Frame, thx Amardeep at brrybnds.com -->
+    <div id="top"></div>
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="bottom"></div>
+
+
+    <div id="container">
+      <div class="block">
+
+        <h1>
+          <a href="./?/blog/2016-10-14/">2016-10-14</a>
+        </h1>
+        <p>I grew up the son of a geographer, and as such have an appreciation for maps. However anachronistic you may think, mapping hasn't gone anywhere. Tool suites and services are in full swing from <a href="https://www.mapbox.com/">map-making</a> to <a href="http://www.terrapattern.com/">visual geographic searching</a> to <a href="https://www.planet.com/">pioneering satellite imagery</a>. Google even has <a href="https://terrabella.google.com/">its own initiative, Terra Bella</a> after acquiring Skybox Imaging.</p>
+
+<p>Of course, geography isn't cartography. Geography is the study of land and its use—and these services aren't just providing maps—they're making maps easier to make, analyze, quantify, and mobilize. Often for the sake of supply chain management, geopolitical security, and critical cartography.</p>
+
+<p>Since being in LA, land use has been on the brain. Many cities I've visited I can parameterize in terms of other cities—Washington, DC : Baltimore :: Boston : Providence, for instance. Antwerp felt like a tiny instance of an Amsterdam-Paris lovechild. Chicago can be seen as a mishmash of New York and Detroit. But Los Angeles broke my pre-existing set of basis vectors. I have to add some dimension to my classification system to fit Los Angeles in.</p>
+
+<p>LA's urban topology coupled with its fascinating freeway infrastructure and <a href="https://en.wikipedia.org/wiki/Diamond_Valley_Lake">absurd relationship with water</a> bring urban design and landscape planning into full view as I walk, bike, and drive around.</p>
+
+<p><a href="http://www.bigmapblog.com/maps/map05/UHYCvctoGOZUeuag.jpg">Here's a huge map of the 1920 Los Angeles Electric Railway system</a>. Anyone who's lived in LA, or, like me, is furiously motoring around to find an apartment to inhabit, will recognize that not all of neighborhood names still apply.</p>
+
+<p>The one that stood out most was that Los Feliz is now definitively south of the LA River—it's between Downtown and Hollywood. How does a neighborhood move?</p>
+
+<p>Well, it's the name that moved. <a href="http://www.latimes.com/local/great-reads/la-me-los-feliz-20130507-dto-htmlstory.html">Pronunciation too</a>. (Uninformed linguistic speculation: the "so cal" accent is midwest + Spanish mish-mashed?) The <a href="https://www.lfia.org/RegPages/History.shtml">1903 Geological Survey Map here</a> indicates that Los Feliz was indeed West of the LA River. The original deed indicates so as well. As best I can tell, Los Feliz wasn't annexed into the City of Los Angeles proper until 1910—so you'd hope by 1920 the naming would have settled somewhat. Is it a one-off error, or was there some naming switcheroo around 1920 that has since reversed?</p>
+
+<p>That's as far as my hunt will go today. Perhaps I can call someone up tomorrow, or maybe I'll let it sit there. There's too much online; at some point you have too many open tabs going nowhere and need to call it at that.</p>
+
+<p>Figuring out what to prioritize and what to let slide long been difficult for me, and is always in flux. I'm not sure if that's because of who I am, or because of my age, or otherwise. I've recently settled on saying my three chief interests are "education, mathematics, and landscape" in no particular order, and this feels good for now. Something between those three, with a specter behind them of "art." But more on that another day.</p>
+
+<p>For now, I'm trying to prioritize going for more walks and bike rides so as to be in the landscape. And boy, does LA do <a href="http://clui.org/">analysis</a> of <a href="http://laforum.org/">land</a> <a href="http://lmlab.org/about/">use</a>. I also finally got the <a href="http://playhopscotch.net">Hopscotch</a> sewing machine fixed, so I patched up a couple pairs of pants and my messenger bag. Gratifying to spend an afternoon doing physical work.</p>
+
+
+        
+        <br /><br />
+        <strong>Internet Topology:</strong><br />
+        <p>https://www.youtube.com/watch?v=Hrr3dp7zRQY (Ryo Fukui - Scenery 1976)</p>
+
+<p>https://medium.com/mosquito-ridge/postcapitalism-and-the-city-6dda80bc201d#.31bqeudk5 (Postcapitalism and the City)</p>
+
+<p>http://writersalmanac.publicradio.org/index.php?date=2013/10/14 (O Sweet Spontaneous by ee cummings)</p>
+
+
+        
+
+      </div>
+    </div>
+
+    <script src="./public/docs/js/link_color.js"></script>
+  </body>
+</html>
+
+<!-- Stacey(2.3.0): 15b130b416510d66b7f0f62fd3623520 -->

@@ -1,15 +1,15 @@
 <html>
   <head>
     <title>Lukas Theodore WinklerPrins</title>
-<meta charset="UTF-8">
-    <meta name="keyword" content="researcher, mathematics, applied mathematics, apma, brown university, brown, lukas, winklerprins, winkler prins, research,">
-    <meta name="description" content="Lukas WinklerPrins">
-    <meta name="viewport" content="width=device-width">
-    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
-    <link rel="shortcut icon" href="./public/images/favicon.ico" type="image/x-icon" />
+    <meta charset="UTF-8">
+<meta name="keyword" content="lukas, winklerprins, winkler prins, research,">
+<meta name="description" content="Lukas WinklerPrins—math, pedagogy, landscape research.">
+<meta name="viewport" content="width=device-width">
+<!--    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'> -->
+<link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 
-    <!--favicon -->
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -19,66 +19,52 @@
 
       ga('create', 'UA-46980305-1', 'auto');
       ga('send', 'pageview');
-
     </script>
   </head>
   <body>
-    <!-- Color Frame, thx brrybnds.com -->
+
+    <!-- Color Frame, thx Amardeep at brrybnds.com -->
     <div id="top"></div>
     <div id="left"></div>
     <div id="right"></div>
     <div id="bottom"></div>
 
-    <!-- Blocks -->
-    <div class="block">
-      <div class="label"><a href="mailto:lukas@ltwp.net">Lukas</a>—research + fabrication.</div>
-      <div class="label">Keep scrolling... ⤵</div>
-    </div>
 
+    <div id="container">
 
-    <!--
+      <!-- Blocks -->
+      <div class="block">
+        <h1>
+          <a href="mailto:lukas@ltwp.net">Lukas</a> — research + fabrication.
+        </h1>
+      </div>
 
--->
-
-
-    <div class="block">
-      <!--
-<div class="label">Projects:</div>
-<p>
-
-</p>
--->
-
-      <div class="label">Currently:</div>
-      <p><p>Project Management at <a href="https://standard-library.com/">Standard Library</a>.</p>
+      <div class="block">
+        <p>Project Management at <a href="https://standard-library.com/">Standard Library</a>.</p>
 
 <p>Growing <a href="http://learning-gardens.co">Learning Gardens</a>.</p>
 
 <p>A few other projects in the wings.</p>
-</p>
 
-    </div>
+      </div>
 
-    <div class="block">
-      <div class="label">About Me</div>
-      <p><a href="http://are.na/lukas-wp">are.na/lukas-wp</a></p>
+      <div class="block">
+        <p><a href="http://ltwp.net/?/blog">blog</a> / <a href="http://are.na/lukas-wp">are.na/lukas-wp</a></p>
 
 <p>mathematics × landscapes × education</p>
 
 <p>I live in Los Angeles.</p>
 
+      </div>
+
+      <div class="block">
+        <p>Site made with <a href="http://staceyapp.com">Stacey</a> &#10047; &#9697; &#10047;</p>
+
+      </div>
     </div>
 
-    <div class="block">
-      <p>Site made with <a href="http://staceyapp.com">Stacey</a>, set in PT Serif.</p>
-
-<p>&#10047; &#9697; &#10047;</p>
-
-    </div>
-
-    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="./public/docs/js/link_color.js"></script>
+    <script src="./public/docs/js/link_color.js"></script>
   </body>
 </html>
 
-<!-- Stacey(2.3.0): eff89a9e0428a6b0c074195da12e052e -->
+<!-- Stacey(2.3.0): 958d36551c67e3f59776a3ebef123dee -->

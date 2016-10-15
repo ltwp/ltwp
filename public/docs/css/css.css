@@ -1,106 +1,104 @@
 *{
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
 body{
+  font-family: 'Menlo','Courier',monospace;
   width: 100%;
-  font-family: 'PT Serif', serif;
-  text-align: left;
-  line-height: 175%;
-  font-size: 16px;
+  line-height: 165%;
   color: black;
 }
+
 a{
-  color: black;
-  border-bottom: 2px solid black;
+  color: blue;
+  border-bottom: 1px solid blue;
   padding-bottom: 1px;
   text-decoration: none;
 }
-p{
+
+h1{
   margin: 20px 0px;
-}
-img{
-  max-width: 600px;
-  margin: 20px 0px;
+  font-size: 16pt;
+  line-height: 180%;
 }
 
-blockquote{
-  padding-left: 10px;
-  border-left: 1px solid black;
-  margin-left: 10px;
+h2{
+  font-weight: bold;
+  font-size: 14pt;
+}
+h3{
+  text-decoration: underline;
+  font-size: 13pt;
 }
 
 ::selection{
-  background: #f0830f; /*#0066ff;*/
+  background: #ccffee; /*#0066ff;*/
 }
 
-.label{
-  font-size: 23px;
-  margin-left: -20px;
-  margin-top: 50px;
-  line-height: 35px;
+#container{
+  width: 60%;
+  max-width: 600px;
+  margin-left: 20%;
 }
-
-.block{
-  width: 60vw;
-  margin: 40vh auto;
-  min-height: 35vh;
-}
-
-.block img{
+#container img{
   width: 100%;
 }
 
-.project-description{
-  margin-left: 40px;
-  color: #444;
-  font-size: 13px;
-  margin-bottom: 25px;
-  margin-top: 10px;
+.block{
+  margin-top: 15vh;
+  margin-bottom: 5vh;
 }
 
-.project-name{
-  font-size: 20px;
-  line-height: 200%;
+p{
+  margin: 20px 0px;
 }
 
-.extra{
-  margin-left: 40px;
+strong{
+  font-weight: bold;
 }
 
-.scaffolding{
-  font-family: Courier, monospace;
-  color: #444;
+em{
+  font-style: italic;
+}
+
+blockquote{
+  border-left: 2px solid black;
+  padding-left: 5px;
+}
+
+code{
+  background-color: #ccc;
+  padding: 5px;
 }
 
 /* FRAME */
 #top, #bottom, #left, #right {
-background-color: black;
-position: fixed;
-z-index: 999;
-visibility: hidden;
+  background-color: black;
+  position: fixed;
+  z-index: 999;
+  visibility: hidden;
 }
 #left, #right {
-top: 15px;
-bottom: 15px;
-width: 5px;
+  top: 15px;
+  bottom: 15px;
+  width: 5px;
 }
 #left {
-left: 15px;
+  left: 15px;
 }
 #right {
-right: 15px;
+  right: 15px;
 }
 #top {
-left: 15px;
-right: 15px;
-top: 15px;
-height: 5px;
+  left: 15px;
+  right: 15px;
+  top: 15px;
+  height: 5px;
 }
 #bottom {
-left: 15px;
-right: 15px;
-bottom: 15px;
-height: 5px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+  height: 5px;
 }

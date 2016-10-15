@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <title>@slug</title>
+    :top_matter
+
+  </head>
+  <body>
+    :frame
+
+    <div id="container">
+      <div class="block">
+
+        <h1>
+          <a href="@url">@slug</a>
+        </h1>
+
+        if @name do
+        <h1>
+          @name
+        </h1>
+        endif
+        if @meta do
+        <code>@meta</code>
+        endif
+
+        @content
+
+        if @links do
+        <br /><br />
+        <strong>Internet Topology:</strong><br />
+        @links
+
+        endif
+
+      </div>
+    </div>
+
+    :link_color
+  </body>
+</html>

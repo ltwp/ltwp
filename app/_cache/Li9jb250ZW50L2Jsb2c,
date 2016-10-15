@@ -2,68 +2,35 @@
 <html>
   <head>
     <title>Lukas' Blog</title>
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
-    <link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css" />
     <meta charset="UTF-8">
-    <script>
-
-      $(document).ready(function(){
-
-      });
-
-    </script>
-
-    <style>
-
-      *{
-        margin: 0;
-        padding: 0;
-      }
-
-      body{
-        font-family: 'Courier',monospace;
-        width: 100%;
-        line-height: 130%;
-      }
-
-      #container{
-        width: 60%;
-        max-width: 600px;
-        margin-left: 20%;
-      }
-      #container img{
-        width: 100%;
-      }
-
-      .post{
-        margin-top: 15vh;
-        margin-bottom: 5vh;
-      }
-
-      p{
-        margin: 20px 0px;
-      }
-
-      strong{
-        font-weight: bold;
-      }
+<meta name="keyword" content="lukas, winklerprins, winkler prins, research,">
+<meta name="description" content="Lukas WinklerPrins—math, pedagogy, landscape research.">
+<meta name="viewport" content="width=device-width">
+<!--    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'> -->
+<link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css" />
+<link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 
 
-    </style>
   </head>
   <body>
 
+    <!-- Color Frame, thx Amardeep at brrybnds.com -->
+    <div id="top"></div>
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="bottom"></div>
+
+
     <div id="container">
 
-      <p>
-        <br />
+      <h1>
         <p><a href="http://ltwp.net">Lukas</a>' Blog<br />lukas@ltwp.net</p>
 
-      </p>
+      </h1>
 
             
-      <div class="post">
+      <div class="block">
 
         <a href="./?/blog/2016-10-14/">2016-10-14 ↗</a>
         <br /><br />
@@ -102,7 +69,7 @@
       </div>
 
       
-      <div class="post">
+      <div class="block">
 
         <a href="./?/blog/2016-10-09/">2016-10-09 ↗</a>
         <br /><br />
@@ -142,7 +109,7 @@
       </div>
 
       
-      <div class="post">
+      <div class="block">
 
         <a href="./?/blog/2016-10-02/">2016-10-02 ↗</a>
         <br /><br />
@@ -166,7 +133,7 @@
       </div>
 
       
-      <div class="post">
+      <div class="block">
 
         <a href="./?/blog/2016-09-21/">2016-09-21 ↗</a>
         <br /><br />
@@ -192,7 +159,7 @@
       </div>
 
       
-      <div class="post">
+      <div class="block">
 
         <a href="./?/blog/2016-09-18/">2016-09-18 ↗</a>
         <br /><br />
@@ -233,9 +200,8 @@ http://www1.udel.edu/art/rmarquez/678/kosuth_teachingtolearn.pdf</p>
 
     </div>
 
-
-
+    <script src="./public/docs/js/link_color.js"></script>
   </body>
 </html>
 
-<!-- Stacey(2.3.0): 9f87323cc78ef79043c3c4f2d3d695e6 -->
+<!-- Stacey(2.3.0): 958d36551c67e3f59776a3ebef123dee -->
