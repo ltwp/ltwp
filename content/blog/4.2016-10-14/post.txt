@@ -1,10 +1,10 @@
 content: 
 
-I grew up the son of a geographer, and as such have an appreciation for maps. However anachronistic you may think, mapping hasn't gone anywhere. Tool suites and services are in full swing from [map-making](https://www.mapbox.com/) to [visual geographic searching](http://www.terrapattern.com/) to [pioneering satellite imagery](https://www.planet.com/). Google even has [its own initiative, Terra Bella](https://terrabella.google.com/) after acquiring Skybox Imaging. 
+I grew up the son of a geographer, who regularly pointed my eyes towards map and the landscape around me. However anachronistic you may think, mapping hasn't gone anywhere. Tool suites and services are in full swing from [map-making](https://www.mapbox.com/) to [visual geographic searching](http://www.terrapattern.com/) to [pioneering satellite imagery](https://www.planet.com/). Google even has [its own initiative](https://terrabella.google.com/) after acquiring Skybox Imaging. 
 
-Of course, geography isn't cartography. Geography is the study of land and its use—and these services aren't just providing maps—they're making maps easier to make, analyze, quantify, and mobilize. Often for the sake of supply chain management, geopolitical security, and critical cartography. 
+Of course, geography isn't cartography. Geography is the study of land and its use, not just representations of it. These services aren't just providing maps either—they're making maps easier to make, analyze, quantify, and mobilize for geographic ends; often towards supply chain management, geopolitical security, and critical cartography. 
 
-Since being in LA, land use has been on the brain. Many cities I've visited I can parameterize in terms of other cities—Washington, DC : Baltimore :: Boston : Providence, for instance. Antwerp felt like a tiny instance of an Amsterdam-Paris lovechild. Chicago can be seen as a mishmash of New York and Detroit. But Los Angeles broke my pre-existing set of basis vectors. I have to add some dimension to my classification system to fit Los Angeles in.
+Since being in LA, land use has been on the brain. Many cities can be parameterized in terms of other cities—Washington, DC : Baltimore :: Boston : Providence, for instance. Antwerp felt like a tiny instance of an Amsterdam-Paris lovechild. Chicago can be seen as a mishmash of New York and Detroit. But Los Angeles broke my pre-existing set of basis vectors. I have to add some dimension to my classification system to fit Los Angeles into my framework.
 
 LA's urban topology coupled with its fascinating freeway infrastructure and [absurd relationship with water](https://en.wikipedia.org/wiki/Diamond_Valley_Lake) bring urban design and landscape planning into full view as I walk, bike, and drive around. 
 
@@ -12,11 +12,13 @@ LA's urban topology coupled with its fascinating freeway infrastructure and [abs
 
 The one that stood out most was that Los Feliz is now definitively south of the LA River—it's between Downtown and Hollywood. How does a neighborhood move? 
 
-Well, it's the name that moved. [Pronunciation too](http://www.latimes.com/local/great-reads/la-me-los-feliz-20130507-dto-htmlstory.html). (Uninformed linguistic speculation: the "so cal" accent is midwest + Spanish mish-mashed?) The [1903 Geological Survey Map here](https://www.lfia.org/RegPages/History.shtml) indicates that Los Feliz was indeed West of the LA River. The original deed indicates so as well. As best I can tell, Los Feliz wasn't annexed into the City of Los Angeles proper until 1910—so you'd hope by 1920 the naming would have settled somewhat. Is it a one-off error, or was there some naming switcheroo around 1920 that has since reversed? 
+Well, it's the name that moved. [Pronunciation of 'Los Feliz'](http://www.latimes.com/local/great-reads/la-me-los-feliz-20130507-dto-htmlstory.html) along with it. (Uninformed linguistic speculation: the "so cal" accent is midwest + Spanish mish-mashed?) 
+
+The [1903 Geological Survey Map here](https://www.lfia.org/RegPages/History.shtml) indicates that Los Feliz was indeed West of the LA River. The original deed indicates so as well. As best I can tell, Los Feliz wasn't annexed into the City of Los Angeles proper until 1910—so you'd hope by 1920 the naming would have settled somewhat. Is it a one-off error, or was there some naming switcheroo around 1920 that has since reversed? 
 
 That's as far as my hunt will go today. Perhaps I can call someone up tomorrow, or maybe I'll let it sit there. There's too much online; at some point you have too many open tabs going nowhere and need to call it at that. 
 
-Figuring out what to prioritize and what to let slide long been difficult for me, and is always in flux. I'm not sure if that's because of who I am, or because of my age, or otherwise. I've recently settled on saying my three chief interests are "education, mathematics, and landscape" in no particular order, and this feels good for now. Something between those three, with a specter behind them of "art." But more on that another day. 
+Figuring out what to prioritize and what to let slide long been difficult for me, and is always in flux. I'm not sure if that's because of who I am, or because of my age, or otherwise. I've recently settled on saying my three chief interests are "education, mathematics, and landscape" in no particular order, and this feels good for now. The specter behind all three is "art," but more on that another day. 
 
 For now, I'm trying to prioritize going for more walks and bike rides so as to be in the landscape. And boy, does LA do [analysis](http://clui.org/) of [land](http://laforum.org/) [use](http://lmlab.org/about/). I also finally got the [Hopscotch](http://playhopscotch.net) sewing machine fixed, so I patched up a couple pairs of pants and my messenger bag. Gratifying to spend an afternoon doing physical work. 
 
@@ -24,9 +26,7 @@ For now, I'm trying to prioritize going for more walks and bike rides so as to b
 -
 links:
 
-https://www.youtube.com/watch?v=Hrr3dp7zRQY (Ryo Fukui - Scenery 1976)
-
-https://medium.com/mosquito-ridge/postcapitalism-and-the-city-6dda80bc201d#.31bqeudk5 (Postcapitalism and the City)
-
-http://writersalmanac.publicradio.org/index.php?date=2013/10/14 (O Sweet Spontaneous by ee cummings)
+* [Ryo Fukui - Scenery 1976](https://www.youtube.com/watch?v=Hrr3dp7zRQY)
+* [Postcapitalism and the City](https://medium.com/mosquito-ridge/postcapitalism-and-the-city-6dda80bc201d#.31bqeudk5)
+* [O Sweet Spontaneous by ee cummings](http://writersalmanac.publicradio.org/index.php?date=2013/10/14)
 -

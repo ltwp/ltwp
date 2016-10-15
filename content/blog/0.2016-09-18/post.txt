@@ -23,7 +23,7 @@ But I think about blogging. I love collecting images and links very much, and bl
 -
 links:
 
-http://mysterylibrary.org/
-http://www.nytimes.com/2016/03/20/magazine/the-secrets-of-the-wave-pilots.html
-http://www1.udel.edu/art/rmarquez/678/kosuth_teachingtolearn.pdf
+* [Mystery Library](http://mysterylibrary.org/)
+* [Secrets of the Wave Pilots](http://www.nytimes.com/2016/03/20/magazine/the-secrets-of-the-wave-pilots.html)
+* [Kosuth: Teaching to Learn](http://www1.udel.edu/art/rmarquez/678/kosuth_teachingtolearn.pdf)
 -
