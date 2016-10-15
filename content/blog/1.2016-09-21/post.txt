@@ -1,0 +1,18 @@
+content:
+
+I'm a huge proponent of the website ARE.NA. On a few occasions I've had to [explain to friends](https://www.are.na/charles-broskoski/how-do-you-describe-are-na-at-a-party) what exactly ARE.NA is. 
+
+In 2010 Randall Munroe at XKCD proposed a [map of online communities](https://xkcd.com/802/)—an interesting posit of online topography. ARE.NA, to me, then, is a tool for articulating internet [topology](https://en.wikipedia.org/wiki/Network_topology). "Blocks" of digital media are arranged and correlated by a loose community in a non-hierarchical network. XKCD's topography focused on communities and public discourse, thereby spatializing people and discussion. ARE.NA seeks to suss out relationships in the discretized digital landscape—finding interrelated ideas and following rabbit-holes of thoughts. XKCD's map drew lines between language and in-groups; ARE.NA forges connections between online media. 
+
+Of course they are inseparable. Language is media. Thanks to reverse-image search and good computer vision, we can move from word-to-image and [image-to-word](http://projectnaptha.com/) easier than ever before. 
+
+Especially with today's digital climate, it's nearly impossible—or perhaps meaningless—to produce work without, too, talking about it: introducing it to a public. This is something scientists seem often to forget, especially in the esoteric corners of quantitative science, where a paper might have a readership in the single-digits. Is this meaningful work if nobody reads it? 
+
+You probably know how to get people to read something you make, but you don't want to employ all the strategies clickbait companies pursue. You think better of your audience. It's tough out there. 
+
+The internet is many things. It's a network—eponymously—to be traversed, an ocean to be surfed, and, increasingly, a war  of nations to be politicized. Don't forget to do a little [online homesteading](http://www.frankchimero.com/writing/homesteading-2014/), or, as I like to call it, "tending to [your] digital garden." Support a platform like ARE.NA, or Pinboard, that makes it easy to download everything in the case of the platform's inevitable death. 
+
+On the topic of gardens, my friend Édouard and I have been slowly working towards something at learning-gardens.co, and suddenly a few others have joined on. We're interested in supporting and encouraging self-started learning groups. Come chat. 
+
+I'm feeling somewhat pulled thin these days. I'm still looking for jobs, looking for apartments, looking for a sense of self in the vast parking lot of Los Angeles. I wish I had better terms with which to describe myself—I'm not a mathematician, I'm not a designer, I'm not a writer—I'm not much except myself. Nor do I want to be any of those things anyway. I guess I just wish I could say I was something. Perhaps an internet topologist. 
+-

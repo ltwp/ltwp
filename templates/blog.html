@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>@name</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css" />
+    <meta charset="UTF-8">
+    <script>
+
+      $(document).ready(function(){
+
+      });
+
+    </script>
+
+    <style>
+
+      *{
+        margin: 0;
+        padding: 0;
+      }
+
+      body{
+        font-family: 'Courier',monospace;
+        width: 100%;
+        line-height: 130%;
+      }
+
+      #container{
+        width: 60%;
+        max-width: 600px;
+        margin-left: 20%;
+      }
+      #container img{
+        width: 100%;
+      }
+
+      .post{
+        margin-top: 15vh;
+        margin-bottom: 5vh;
+      }
+
+      p{
+        margin: 20px 0px;
+      }
+
+      strong{
+        font-weight: bold;
+      }
+
+
+    </style>
+  </head>
+  <body>
+
+    <div id="container">
+
+      <p>
+        <br />
+        @top
+      </p>
+
+      get "/blog" do
+      foreach $children do
+
+      <div class="post">
+
+        <a href="@url">@slug ↗</a>
+        <br /><br />
+        @content
+
+        if @links do
+        <br /><br />
+        <strong>Internet Topology:</strong><br />
+        @links
+
+        endif
+
+      </div>
+
+      endforeach
+      end
+
+    </div>
+
+
+
+  </body>
+</html>

@@ -1,0 +1,58 @@
+name: Ghostlines Features & Issues Workflow
+-
+words1:
+
+How we’ll use Trello to sequence potential feature additions, and github Projects to enable implementation and bug issues. 
+
+## Starting from: A Feature Idea
+
+If you (or anyone) has an idea for a new feature—with any level of specificity—go into the trello board and add a new card under the “Feature Requests” list. 
+
+![](http://ltwp.net/stuff/gl/new_feature.gif)
+
+Please preface the idea with the name of who thought of it! 
+
+Then, in the description of the card, add a date (approximate) and any more granular description, if necessary. 
+
+![](http://ltwp.net/stuff/gl/edit_feature.gif)
+
+On a ~weekly (and ongoing, via Slack) basis, potential features will be prioritized, and then refined. This may require them being broken into multiple components, and will also depend on user feedback and research into how a feature might be used. 
+
+![](http://ltwp.net/stuff/gl/prioritizing.gif)
+
+Once a particular feature is slated for __implementation__, we move it to the “Sent to Github Project” list and start a [project in the ghostlines repo](https://github.com/ghostlines/ghostlines-robofont/projects) on github. At this stage, a feature should include:
+
+1. A reason for its existence, and goal for what it enables.
+2. One or two user stories, or use cases—i.e. “what steps do you imagine a user taking that involve this feature?”
+3. Notes on UI.
+4. Implementation advice—i.e. how it interfaces with existing code. 
+
+Within a project, there are 4 columns of progress:
+
+![](http://ltwp.net/stuff/gl/columns.png)
+
+Individual steps should then be filed as Issues. You can add an issue to a project column by clicking the far-right “+” and dragging it over. 
+
+![](http://ltwp.net/stuff/gl/issue_column.gif)
+
+They’ll move through the columns as anticipated, and upon “For Review” should be announced in Slack #ghostlines so others can take a peek. 
+
+## Starting from: Issue Filed
+
+Issues and bugs filed on github are already on github! They won’t go through the staging/triaging phase as ideas that start in Trello (though they might be feature requests in disguise—in which case they will be internalized for research). 
+
+In general, small issues can be addressed simply as-such. Larger issues should be brought into github Projects, factored into discrete steps, then worked through the “Backlog,” “In-Progress,” “For Review,” and “Done” columns sequence, before being archived. 
+
+## Closing Thoughts
+
+Feedback from people—ad-hoc via email, twitter, etc—will be manually added to Trello or Github issues by Lukas on a weekly basis. 
+
+Discussion about prioritization and details of steps can be discussed in Slack! #ghostlines
+
+-
+words2: 
+
+
+-
+meta: September 26, 2016
+-
