@@ -10,6 +10,9 @@
 <link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css" />
 <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 
   </head>
@@ -30,6 +33,20 @@
       </h1>
 
             
+      <div class="block">
+
+        <a href="./?/blog/test/">test ↗</a>
+        <br /><br />
+        <p>$$ \frac{2}{\sin(x)} $$</p>
+
+<p>mathjax test</p>
+
+
+        
+
+      </div>
+
+      
       <div class="block">
 
         <a href="./?/blog/2016-10-14/">2016-10-14 ↗</a>
@@ -127,7 +144,7 @@
 
 <p>I wonder if there could be more art that engages with wind as an object of interest. Or if I could afford to gain a keener interest in sailing. Wind is so slippery, it evades that inevitable commodification of material art. But land art and conceptual art are linked in that often it is the fact of the posit that stands for the thing more than the realization; most land art will be talked about far more than looked-at. <a href="http://greg.org/archive/2016/09/09/double_double.html">Sturtevant played this game well</a>.</p>
 
-<p>Los Angeles has ignited the urbanist in me. It's a city that forces me to rethink the parameters by which I evaluate a city. I'm excited by the places where wind, rock, and water have rammed into concrete, power lines, human flesh. The LA river has been tamed and feels near-death. The mountains are ever-present but  midcentury bungalows are perched on top.</p>
+<p>Los Angeles has ignited the urbanist in me. I'm excited by the places where wind, rock, and water have rammed into concrete, power lines, human flesh. The LA river has been tamed and feels near-death. The mountains are ever-present but  midcentury bungalows are perched on top.</p>
 
 <p>I'm glad Joshua Tree is a protected national park, but I also think the surrealism would almost be amplified if people were living amongst the rocks, bewildered that infrastructure can carry that far, considering what else might have been done with that scrappy plot of desert dirt.</p>
 
@@ -170,45 +187,6 @@
       </div>
 
       
-      <div class="block">
-
-        <a href="./?/blog/2016-09-18/">2016-09-18 ↗</a>
-        <br /><br />
-        <p>I quit tumblr in June and don't miss it.</p>
-
-<p>I've been trying to remove "queues" from my life. In 2015 I deleted some extremely long-standing lists of movies to watch &amp; books to read. Both were hundreds long. It was liberating; they were weighty and I felt guilt whenever I wasn't working through them. Pursuing interests shouldn't feel like a checklist. I quit the tumblr dashboard in 2014—unfollowing everyone, and just manually checking the few tumblrs I care about—and started to enjoy tumblr again. I quit RSS in 2015.</p>
-
-<p>It's tough on a media like twitter, where the streams are more fine-grained and I want to follow many more. Twitter requires a comfort with simply "surfing" the stream—or, as <a href="http://morgane.com/">Morgane</a> would say, "stand-up paddleboarding" the stream. I can't treat the twitter feed as a queue to read through—it's too noisy and disjointed. It makes me worry I have attention issues. I just poke around the top of my algorithmically sorted timeline and hope that was enough.</p>
-
-<p>Just yesterday I quit Instapaper, one of my long-standing favorite web services. I love Instapaper, and might go back to it if I do a lot of text-based research (its full-text search is wonderful!) but for now, it was another long queue of articles I wanted to read "eventually." Eventually meant never.</p>
-
-<p>In this vein of surfing, if I come across something on the web and I want to read it, I either have to read it on the spot, or distinctly schedule time to read it. It's my application of this "Eisenhower Planning Matrix":</p>
-
-<p><img src="https://d2w9rnfcy7mm78.cloudfront.net/660895/large_db94888af2365abbe2234d62c339e6f2.jpg" alt=""></p>
-
-<p>Clearly this means first deciding that reading said online thing is "important." Which is a step I need to practice for my general sanity and productivity.</p>
-
-<p>On Friday I went surfing for the second time in my life. What an amazing way to unplug—no phone out in the saltwater!—and slow down, tune into nature. You see a wave and you have to go for it. Delaying too much will mean you have a bum day on the waves.</p>
-
-<p>You go out, celebrate what you get while you're there, and then you go home. No regrets on the waves you aren't catching when you're having a post-surf burrito.</p>
-
-<p>But I think about blogging. I love collecting images and links very much, and blogs like <a href="http://chneukirchen.org/trivium/">Trivium</a> and <a href="http://kottke.org">Kottke</a> have inspired me for years. I wonder if I could curate a readership, or if this is the kind of thing for Tiny Letter. I wonder if I would rather be surfing.</p>
-
-
-                <br /><br />
-        <strong>Internet Topology:</strong><br />
-        <ul>
-<li><a href="http://mysterylibrary.org/">Mystery Library</a></li>
-<li><a href="http://www.nytimes.com/2016/03/20/magazine/the-secrets-of-the-wave-pilots.html">Secrets of the Wave Pilots</a></li>
-<li><a href="http://www1.udel.edu/art/rmarquez/678/kosuth_teachingtolearn.pdf">Kosuth: Teaching to Learn</a></li>
-</ul>
-
-
-        
-
-      </div>
-
-      
       
 
     </div>
@@ -217,4 +195,4 @@
   </body>
 </html>
 
-<!-- Stacey(2.3.0): c26046c7464d74c8f4cfa4f27127aecb -->
+<!-- Stacey(2.3.0): faf3ef4994a8c9453b9717ab4ce2d95d -->

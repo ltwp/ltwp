@@ -1,6 +1,6 @@
 name: Lukas Theodore WinklerPrins
 -
-b0: <a href="mailto:lukas@ltwp.net">Lukas</a> — research + fabrication.
+b0: <a href="mailto:lukas@ltwp.net">Lukas</a> does research in Los Angeles. 
 -
 b1:
 
@@ -8,16 +8,12 @@ Project Management at [Standard Library](https://standard-library.com/).
 
 Growing [Learning Gardens](http://learning-gardens.co).
 
-A few other projects in the wings.
+mathematics × landscapes × education
 -
 b2: 
 [blog](http://ltwp.net/?/blog) / [are.na/lukas-wp](http://are.na/lukas-wp)
 
-mathematics × landscapes × education
-
-I live in Los Angeles. 
--
-b3:
-Site made with [Stacey](http://staceyapp.com)<br /> 
 &#10047; &#9697; &#10047;
+-
+b3: 
 -

@@ -35,7 +35,7 @@
       <!-- Blocks -->
       <div class="block">
         <h1>
-          <a href="mailto:lukas@ltwp.net">Lukas</a> — research + fabrication.
+          <a href="mailto:lukas@ltwp.net">Lukas</a> does research in Los Angeles.
         </h1>
       </div>
 
@@ -44,23 +44,19 @@
 
 <p>Growing <a href="http://learning-gardens.co">Learning Gardens</a>.</p>
 
-<p>A few other projects in the wings.</p>
+<p>mathematics × landscapes × education</p>
 
       </div>
 
       <div class="block">
         <p><a href="http://ltwp.net/?/blog">blog</a> / <a href="http://are.na/lukas-wp">are.na/lukas-wp</a></p>
 
-<p>mathematics × landscapes × education</p>
-
-<p>I live in Los Angeles.</p>
+<p>&#10047; &#9697; &#10047;</p>
 
       </div>
 
       <div class="block">
-        <p>Site made with <a href="http://staceyapp.com">Stacey</a><br /> 
-&#10047; &#9697; &#10047;</p>
-
+        
       </div>
     </div>
 
@@ -68,4 +64,4 @@
   </body>
 </html>
 
-<!-- Stacey(2.3.0): 9fda7f6884c3a83c36bc39e4b19a2870 -->
+<!-- Stacey(2.3.0): d10afd254d9689ab67f29f70c7173278 -->
