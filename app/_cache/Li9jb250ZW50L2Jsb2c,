@@ -35,22 +35,8 @@
             
       <div class="block">
 
-        <a href="./?/blog/test/">test ↗</a>
-        <br /><br />
-        <p>$$ \frac{2}{\sin(x)} $$</p>
-
-<p>mathjax test</p>
-
-
-        
-
-      </div>
-
-      
-      <div class="block">
-
         <a href="./?/blog/2016-10-14/">2016-10-14 ↗</a>
-        <br /><br />
+        <br />
         <p>I grew up the son of a geographer, who regularly pointed my eyes towards map and the landscape around me. However anachronistic you may think, mapping hasn't gone anywhere. Tool suites and services are in full swing from <a href="https://www.mapbox.com/">map-making</a> to <a href="http://www.terrapattern.com/">visual geographic searching</a> to <a href="https://www.planet.com/">pioneering satellite imagery</a>. Google even has <a href="https://terrabella.google.com/">its own initiative</a> after acquiring Skybox Imaging.</p>
 
 <p>Of course, geography isn't cartography. Geography is the study of land and its use, not just representations of it. These services aren't just providing maps either—they're making maps easier to make, analyze, quantify, and mobilize for geographic ends; often towards supply chain management, geopolitical security, and critical cartography.</p>
@@ -74,7 +60,7 @@
 <p>For now, I'm trying to prioritize going for more walks and bike rides so as to be in the landscape. And boy, does LA do <a href="http://clui.org/">analysis</a> of <a href="http://laforum.org/">land</a> <a href="http://lmlab.org/about/">use</a>. I also finally got the <a href="http://playhopscotch.net">Hopscotch</a> sewing machine fixed, so I patched up a couple pairs of pants and my messenger bag. Gratifying to spend an afternoon doing physical work.</p>
 
 
-                <br /><br />
+                <br />
         <strong>Internet Topology:</strong><br />
         <ul>
 <li><a href="https://www.youtube.com/watch?v=Hrr3dp7zRQY">Ryo Fukui - Scenery 1976</a></li>
@@ -84,14 +70,14 @@
 
 
         
-
+        <br />
       </div>
 
       
       <div class="block">
 
         <a href="./?/blog/2016-10-09/">2016-10-09 ↗</a>
-        <br /><br />
+        <br />
         <p>I'm going to leave twitter. I have toyed with this idea for years, and vaguely attempted it a few times, but now it's necessary.</p>
 
 <p>It's amazing anyone gets anything done, to me. I just want to follow everything and consume everything I see. I can spend all day reading articles and books and watching things people recommend, only to end the day with some thoughts in my head and eyes pained by a long day at a screen.</p>
@@ -126,14 +112,14 @@
 
 
         
-
+        <br />
       </div>
 
       
       <div class="block">
 
         <a href="./?/blog/2016-10-02/">2016-10-02 ↗</a>
-        <br /><br />
+        <br />
         <p>I got back from Joshua Tree earlier today in a bit of a haze. Partly from a fun, loose weekend, but also because of the raw landscape between Joshua Tree and Los Angeles. Joshua Tree itself is surreal—truly geological in (spatial) scale and otherwise a charmingly weird desert outpost.</p>
 
 <p>Some time before coming West I read <a href="http://hauntedmachines.com/HowlingWind.html">this amazing Georgina Voss essay</a>. My interests in land use have been steadily growing, so mixing that with musings on alternative energy and tech mysticism totally got my goat. But I didn't internalize that it was all just East of LA.</p>
@@ -149,7 +135,7 @@
 <p>I'm glad Joshua Tree is a protected national park, but I also think the surrealism would almost be amplified if people were living amongst the rocks, bewildered that infrastructure can carry that far, considering what else might have been done with that scrappy plot of desert dirt.</p>
 
 
-                <br /><br />
+                <br />
         <strong>Internet Topology:</strong><br />
         <ul>
 <li><a href="http://inference-review.com">New Issue of Inference Review</a></li>
@@ -157,14 +143,14 @@
 
 
         
-
+        <br />
       </div>
 
       
       <div class="block">
 
         <a href="./?/blog/2016-09-21/">2016-09-21 ↗</a>
-        <br /><br />
+        <br />
         <p>I'm a huge proponent of the website ARE.NA. On a few occasions I've had to <a href="https://www.are.na/charles-broskoski/how-do-you-describe-are-na-at-a-party">explain to friends</a> what exactly ARE.NA is.</p>
 
 <p>In 2010 Randall Munroe at XKCD proposed a <a href="https://xkcd.com/802/">map of online communities</a>—an interesting posit of online topography. ARE.NA, to me, then, is a tool for articulating internet <a href="https://en.wikipedia.org/wiki/Network_topology">topology</a>. "Blocks" of digital media are arranged and correlated by a loose community in a non-hierarchical network. XKCD's topography focused on communities and public discourse, thereby spatializing people and discussion. ARE.NA seeks to suss out relationships in the discretized digital landscape—finding interrelated ideas and following rabbit-holes of thoughts. XKCD's map drew lines between language and in-groups; ARE.NA forges connections between online media.</p>
@@ -183,7 +169,97 @@
 
 
         
+        <br />
+      </div>
 
+      
+      <div class="block">
+
+        <a href="./?/blog/2016-09-20/">2016-09-20 ↗</a>
+        <br />
+        <h1>Arrangement Collage</h1>
+
+<p><code>note: this was an essay I worked on, sporadically, over Summer 2016. It's settled but never quite congealed to a finished form. Posted here for posterity.</code></p>
+
+<p>In 2015, Frank Chimero <a href="http://frankchimero.com/writing/the-webs-grain/">wrote on the “Grain” of the Web</a>, focusing on a web-native media that doesn’t try to fight the inherently rectangle-based HTML Document Object Model (DOM)—also shared with XML and XHTML. This remains true: any site that does not look rectilinear is usually just fooling you; strip the CSS and it’s just a pile of blocks. Perhaps tilted and stretched, or with the corners shaved off, but just a pile of blocks.</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/JKDOM.SVG/2000px-JKDOM.SVG.png" alt="Wikimedia-sourced HTML DOM - https://en.wikipedia.org/wiki/Document_Object_Model#/media/File:JKDOM.SVG"></p>
+
+<p>As McLuhan would have anticipated, this blocky model has substantial effects toward what web-native media looks like. Chimero documents this well. I’d like to add a psychological component, though, in that as an online culture, we’ve grown accustomed to block-based interfaces. We joke at Web 2.0’s desire to round over corners and balk at clunky Flash plugins; nonlinear, non-blocky interfaces are either salient or sore thumbs.</p>
+
+<p>Native internet users consume media through HTML interfaces at an astounding pace; simple rectangles frame a continuous deluge of multimedia updates. In an age of both physical and digital abundance in the Western world, creation of new media from scratch requires ample justification. Acts of synthesis, archiving, compression, and remix are valuable tools for leveraging information otherwise lost to the unsorted heap. These verbs are ways to construct something new from pre-existing media objects, or at least finding some narrative or meaning within them.</p>
+
+<p>For the internet audience, self-selected content is a necessary tactic for navigating the volume of information available on many web platforms. An explosion of digital “curation” caters to the desire, whether by user directly, tuned algorithms, or third-party human. This manifests when you select topics of interest on Quora and construct a twitter feed of only exactly the people you want. Going to a curated museum is now a relinquishing of control compared to typical digital art consumption, which comes mashed-up through various media platforms.</p>
+
+<p>Even with stream moderation, the modern media viewer is accustomed to lack of coherence between adjacent content blocks. In your tumblr dashboard, a peer-reviewed journal article can sit immediately above an anonymously submitted shitpost. We don’t blink. In an arrangement of DOM blocks, each bit of media similarly carries its own context, history, and qualia. I posit we can effectively navigate our feeds not because we can rapidly jump between the context captured by each DOM block, but rather because we interpolate narrative and construct cohesion. Adjacency implies connection and synthesis, or, in the words of John Berger:</p>
+
+<blockquote>
+  <p>[An image reproduction] becomes itself the reference point for other images. The meaning of an image is changed according to what one sees immediately beside it or what comes immediately after it. (<em>Ways Of Seeing</em>)</p>
+</blockquote>
+
+<p>Marius Watz, in a response on the New Aesthetic, writes on tumblr image culture: “Its art is juxtaposition: If we put this next to that and this other thing, surely a new understanding will emerge.” To be fair, there are uncountably many combinations that may be devoid of meaning—all I mean to point out is that a diptych is a third object, beyond the original two, with the possibility of value. Some find artistic practice in the form of a relentless <a href="http://thenewinquiry.com/essays/athletic-aesthetics/">stream of rectangles</a>. People go nuts over releases of image dumps from <a href="http://moodmail.org/">Moodmail</a> and <a href="http://www.jjjjound.com/">JJJJound</a>, and the <a href="http://lostimagedesk.com/">Lost Image Desk</a> is making professional practice of it.</p>
+
+<p><img src="http://67.media.tumblr.com/2a1492983de94afca4090e0620340fe9/tumblr_nzdedbPv1p1v1c8sjo1_1280.jpg" alt="Bono iPod by Zachary Korol-Gold and Andrew Alexander, 2014"></p>
+
+<p>(A scan of contemporary sculpture demonstrates that selection and arrangement of objects—often found or folk objects—is an ongoing trend. The viewer is trusted with finding meaning in the arrangement, selection, formal qualities, cultural context, and more in a relational tradition.)</p>
+
+<p>HTML is perfectly built for image adjacency—a blank and infinite canvas, empowered by right-click “Copy Image Address.” Our expansive tumblrs and pinterest boards act as collected and performed narratives, collages of found digital media.</p>
+
+<blockquote>
+  <p>[Traditional] collages, […] were probably laid out carefully, aided by facsimiles, white-out, and tape, existed alongside the book, rather than being subsumed or created through the process of publishing and distribution, as is often the case with internet ‘collage’. Computers conceal distance; their collage move consists of juxtaposing elements that might be stored hundreds or thousands of miles apart, giving an illusion of spatial continuity. (Seth Price, <em><a href="http://artfcity.com/2009/10/22/img-mgmt-teen-image/">Teen Image</a></em>)</p>
+</blockquote>
+
+<p>Traditional art collage used the intrigue and power in composing elements pulled from diverse sources. Meaning constructed by selection, editing, and combination. The HTML collage, however, is copy-pasted. What is the HTML-native collage?</p>
+
+<p><img src="https://d2w9rnfcy7mm78.cloudfront.net/7982/original_alt.png" alt="Alt by Charles Broskoski"></p>
+
+<p>I call it the “Arrangement Collage”—rectangular, transcontextual compositions of, ostensibly, found media. The arrangement collage does less work for the viewer than traditional collage: elements are kept fully intact rather than trimmed for blended. The composition often mitigates interaction between elements and instead celebrates raw adjacency.</p>
+
+<blockquote>
+  <p>When the historical avant-garde used valorized cultural objects such as the <em>Mona Lisa</em> or a violin, it profaned, overpowered, and destroyed them before going on to aestheticize them. In contrast, contemporary art uses mass-cultural things virtually intact. (Boris Groys, <em>On The New</em>)</p>
+</blockquote>
+
+<p>The arrangement collage, while easy to construct in print, is truly native to the web, in which all objects are, by default, level rectangles, context-switching is the norm, and media to compose with is bountiful.</p>
+
+<p><img src="http://i.imgur.com/HewxiKI.jpg" alt="JJJJound Screenshot"></p>
+
+<p>Our feeds, plentiful in the digital landscape, help populate the arrangement collage. Tumblr, ostensibly a micro-blogging site, is largely used for <a href="http://hyperallergic.com/66038/the-teen-girl-tumblr-aesthetic/">image collection</a>; FFFFound is build around a contextless stream of collected imagery (and as birthing the name for JJJJound, when Justin Saunders couldn’t get an account); and Buzzfeed publishes “articles” that are frankly just stacks of image macros. A proliferation of mindless image consumption <a href="http://www.itsnicethat.com/features/bob-gill-interview">concerns Bob Gill</a>.</p>
+
+<blockquote>
+  <p>There’s nothing original. ‘The Culture’ is the great mass of images and ideas which bombard us every day, and therefore shape the way we think visually. Only by recognising The Culture’s presence and its power, can designers move away from the clichés it promotes.</p>
+</blockquote>
+
+<p>Irrefutably, the images we consume affect how we think, and what we can imagine. Gill’s words should be considered, and the internet-native should stay aware of “the clichés” promoted. Gill encourages “first-hand” research, but this points at a cultural gap—there is no line between reality and the internet; “first-hand” research takes place on the social web. In-person discussion and close examination of physical objects can be romanticized, but it should not detract from the fact that meaningful discussion and critical consumption can happen in a digital landscape as well.</p>
+
+<p>Of deeper concern is the stripping of value from imagery in overabundance. Edition MK’s 2010 <em>DDDDoomed</em> (the name, I assume, another reference to FFFFound) gets at the kernel of this problem: Image Aggregators (“IAs”—such as JJJJound and other blogs), which typically present images contextless alongside hundreds of others, can strip imagery of its power. IAs do work that is weaker, semiotically, than traditional collage, and less organized than archiving (which is often a process of attaching or generating metadata, whereas IAs frequently remove it). Images that find political power within a context are reduced to purely aesthetic objects in the stream.</p>
+
+<blockquote>
+  <p>We [distance ourselves] from our critical faculties as we slide into models of passive spectatorship that reinforce our passivity by promoting a one-way mode of cultural consumption. […] Continuous over-stimulation leads to desensitisation. (Peter Buwert, “Defamiliarization, Brecht and Criticality in Graphic Design” in <em>Modes of Criticism 2: Critique of Method</em>)</p>
+</blockquote>
+
+<p>The arrangement collage might serve as a tool in this battle against desensitization. In Buwert’s essay, referenced above, he describes how Brecht’s famous defamiliarization of the theater encouraged “a condition of active critical spectatorship within the audience.” <em>DDDDoomed</em> is lamenting the supposed death of this critical spectator, replaced with the numb and passive viewer. Buwert is less concerned with context/lessness than Edition MK, and instead focuses on familiarity.</p>
+
+<p><img src="https://process.filepicker.io/AJdAgnqCST4iPtnUxiGtTz/rotate=deg:exif/rotate=deg:0/resize=width:960,fit:crop/output=format:jpg,compress:true,quality:95/https://d1qz9pzgo5wm5k.cloudfront.net/api/file/AqaYcXNRoCPLyVehNHqR" alt="Rollercoaster print sweater by Raf Simons"></p>
+
+<p>There are valiant efforts towards an inclusion of context and metadata with online imagery, but it is not built into the structure of the internet. Flickr and twitter use image covers to dissuade copy-pasting (circumnavigable by screen-shotting) and <a href="http://www.mediachain.io/">Mediachain</a> attempts to inextricably tie media to metadata using blockchain methods. As of writing, however, the JPG is not going anywhere, and the ease of downloading and re-uploading an image far surpasses digging to find its source. Entropy is not on our side, and Google’s reverse image search will never be quite fast or comprehensive enough to keep up.</p>
+
+<p>Walter Benjamin might lament the loss of contextual sensitivity, as it comes intertwined with a loss of “aura.” The authenticity that drives Benjamin’s aura is dependent on the idea of an original—which, in internet ecosystems, simply isn’t a relevant concept, as the original and reproduction can be identical both in themselves and conceivably in context. The arrangement collage can construct an internal aura and context regardless of future reproduction or repurposing, where the included images serve as referents to the others—even if the metadata of the .JPG is long gone. I believe the battle for context inclusion has been lost, but efforts to stimulate the viewer’s sense of familiarity can still bear fruit.</p>
+
+<p>A critical spectator is an active spectator, firstly. Thankfully, the barrier to entry for participating in digital image culture lowers by the day. If construction of streams—enabled by sites like tumblr—seems too passive, I think construction of collage engages the composer at a more intentional level. Easy-to-use platforms such as <a href="http://to.be">to.be</a>, <a href="http://newhive.com/">newhive</a>, and <a href="https://amb-1.com/">AMB-1</a> indicate desire for arrangement collage composition tools. It is partly the job of thoughtful, critical collagists-cum-spectators to construct collages “out of a messy array of found fragments” that shake a sense of familiarity amongst our banal streams.</p>
+
+<p><img src="http://i.imgur.com/f2o5JlS.jpg" alt="Example to.be field"></p>
+
+<p>When the means of production for collage are accessible to the viewer, “these narratives are encountered as just one way of viewing [the media], and the constructed and interpreted nature of reality is exposed” (Buwert in <em>Modes of Criticism 2</em>). With extremely low-barrier-to-entry tools, any collage that catches the viewers notice can be considered an opportunity to remix further. Even just the consideration of how a collage was collected prompts questions that create the critical spectator. The source of the images may be lost, but the ability for them to be reconsidered and repurposed again is further engaged. The arrangement collage, along with simple tools for their creation, can be celebrated and pushed as a tool for enabling creators and stirring image consumers out of their typical feeds, a jolt out of Gill’s “culture.”</p>
+
+<p>The arrangement collage can be in HTML proper or a common image file. If in HTML, it is simple to fragment a collage into individual images and text, and as an image, Windows Paint, Preview.app, and the aforementioned online services make decomposition trivial. The collages themselves thus become part of the churn of images on the internet, as can their components—all of it folded back into the image ecosystem, and the remix-curation loop comes full circle. It’s as close as we’ll come to dust-to-dust in digital objects.</p>
+
+<p>The arrangement collage is an internet-native and relatively democratized tool for people to weave personal narrative through a volume of imagery. As we wade through monotonous, contextless image collections, articulations of taste and statement might become harder to uncover. These discrete paintings are built for the web, and when approached seriously, can empower makers to inspire a critical spectator.</p>
+
+<p>You can view an ongoing collection of arrangement collages in <a href="https://www.are.na/lukas-wp/arrangement-collage">this are.na channel</a>.</p>
+
+
+        
+        <br />
       </div>
 
       
@@ -195,4 +271,4 @@
   </body>
 </html>
 
-<!-- Stacey(2.3.0): faf3ef4994a8c9453b9717ab4ce2d95d -->
+<!-- Stacey(2.3.0): a09a988cae905447910aabd8f2fd3f04 -->
