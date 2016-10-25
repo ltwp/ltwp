@@ -81,6 +81,16 @@ code{
   padding: 5px;
 }
 
+a.special_link{
+  color: red;
+  border-bottom: 1px solid red;
+  cursor: pointer;
+}
+a.special_link:hover{
+  color: white;
+  background-color: red;
+}
+
 
 /* FRAME */
 #top, #bottom, #left, #right {

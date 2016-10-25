@@ -9,6 +9,9 @@
 <link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css" />
 <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 
     <script>
@@ -64,4 +67,4 @@
   </body>
 </html>
 
-<!-- Stacey(2.3.0): d10afd254d9689ab67f29f70c7173278 -->
+<!-- Stacey(2.3.0): 503e96bcc769bcef4d134d8baf260c14 -->
