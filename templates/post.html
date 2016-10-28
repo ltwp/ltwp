@@ -11,7 +11,7 @@
       <div class="block">
 
         <h1>
-          <a href="@url">@slug</a>
+          <a class="special_link" href="@url">@slug</a>
         </h1>
 
         if @name do
@@ -22,6 +22,10 @@
         if @meta do
         <code>@meta</code>
         endif
+
+        foreach $images do
+        <img src="@url" />
+        endforeach
 
         @content
 

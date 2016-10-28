@@ -4,3 +4,14 @@ top:
 
 <a href="http://ltwp.net">Lukas</a>' Blog<br />lukas@ltwp.net
 -
+blogroll:
+
+My favs:
+
+<a href="http://gimmickbook.com/">Gimmickbook</a><br />
+<a href="http://www.youmightfindyourself.com/">YMFY</a><br />
+<a href="http://wordsforyoungmen.com/">Words for Young Men</a><br />
+<a href="http://bldgblog.com/">BLDGBLOG</a><br />
+<a href="http://chneukirchen.org/trivium/">Trivium</a>
+
+-

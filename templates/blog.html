@@ -38,6 +38,10 @@
       <div class="block">
 
         <a class="special_link" href="@url">@slug ↗</a><br />
+        foreach $images do
+        <img src="@url" />
+        endforeach
+
         @content
 
         if @links do
@@ -53,12 +57,7 @@
       end
 
       <div class="block" id="blogroll">
-        My favs:<br />
-        <a href="http://gimmickbook.com/">Gimmickbook</a><br />
-        <a href="http://www.youmightfindyourself.com/">YMFY</a><br />
-        <a href="http://wordsforyoungmen.com/">Words for Young Men</a><br />
-        <a href="http://bldgblog.com/">BLDGBLOG</a><br />
-        <a href="http://chneukirchen.org/trivium/">Trivium</a>
+        @blogroll
       </div>
 
       <div class="block" id="archive">
