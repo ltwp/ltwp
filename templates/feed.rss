@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Lukas' Blog Feed</title>
+<link>http://ltwp.net/blog/</link>
+<description>@description</description>
+
+get "/blog" do
+foreach $children do
+
+<item>
+<title>@slug</title>
+<description>New Post on: @on</description>
+<link>@url</link>
+<pubDate>@slug</pubDate>
+</item>
+
+endforeach
+end
+
+</channel>
+</rss>
