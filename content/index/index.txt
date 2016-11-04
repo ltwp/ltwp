@@ -9,6 +9,8 @@ Project Management at [Standard Library](https://standard-library.com/).
 Growing [Learning Gardens](http://learning-gardens.co).
 
 mathematics × landscapes × education
+
+(previously: [Hopscotch](http://playhopscotch.net) & [BDW](http://browndesignworkshop.org))
 -
 b2: 
 [blog](http://ltwp.net/blog) / [are.na/lukas-wp](http://are.na/lukas-wp)

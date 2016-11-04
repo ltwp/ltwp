@@ -1,0 +1,16 @@
+content:
+
+I made a little webpage called the [Ephemerality Institute](http://ephemerality.institute).
+
+As of now, it's just a list of recommended reading on transient, conceptual, and performance art, alongside an events ticker that I'll manually update. 
+
+I've been stewing on this project for a long time—since taking [Systems for Play](http://systemsforplay.com/) my senior year of college. It was a class focused on systems for [musical] performance, and it showed me how rich the world of performance could be. 
+
+I want to make a little internet corner to celebrate this immaterial art, which is so often stripped of institutional legitimacy because it can't exist as an investment object. At some point the words "Ephemerality Institute" popped into my head and I loved the oxymoronic nature. 
+
+Not sure where it will go, if anywhere. I'd love to organize some events, find spaces for performance, monetize the idea, etc. But I'm not sure I can make it a priority right now, or for the foreseeable future. Prioritizing is so much about saying no, and I have a proclivity to saying "yes" to too much. Gonna let this sit as a passive page for now, while I try to double-down on python and GIS. 
+-
+on: Ephemerality Institute
+-
+links: 
+-
