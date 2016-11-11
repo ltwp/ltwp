@@ -27,5 +27,5 @@ links:
 * [Secrets of the Wave Pilots](http://www.nytimes.com/2016/03/20/magazine/the-secrets-of-the-wave-pilots.html)
 * [Kosuth: Teaching to Learn](http://www1.udel.edu/art/rmarquez/678/kosuth_teachingtolearn.pdf)
 -
-on: Queues, surfing the internet, and surfing.
+on: Queues, surfing the internet, and surfing
 -
