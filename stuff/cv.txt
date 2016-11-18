@@ -3,7 +3,6 @@ Lukas WinklerPrins b.1992
 Paid Work:
 2016: Researcher + Project Manager @ Standard-Library (standard-library.com)
 2016: Tutor @ The Bright Mind (thebrightmind.com)
-2016: Design Fellow @ The Design Office (thedesignoffice.org)
 2015: Undergrad Teaching Assistant to Dr David Lipshutz, APMA0360
 2014-2015: Technical Researcher @ Thicket Labs (thicketlabs.com)
 2014: Technical Intern @ Community Systems Foundation / DataForAll NYC
@@ -15,6 +14,9 @@ Paid Work:
 2012: Product Representative @ Belly, Inc. 
 2011: Engineering Intern @ TURCK GmbH. 
 
+Fellowships:
+2016: Design Fellow @ The Design Office (thedesignoffice.org)
+
 Education:
 2015: Bachelors of Science from Brown University in the Division of Applied Mathematics
 2011: Graduated Cum Laude from Cranbrook Kingswood Upper School
@@ -25,6 +27,7 @@ Workshops:
 
 Shows:
 Spring 2016: NYCxSkymall. "$54" Performance. Brooklyn, NY. 
+Spring 2015: {sfp} Final Show. Providence, RI. 
 Fall 2014: non-space. Curated pop-up show in Providence, RI with 13 artists. 
 Fall 2013: Brown Physics Art Show. "ALL OF THE WORDS I NEVER SAID TO YOU" Acrylic and mixed-media. Providence, RI.
 
@@ -37,7 +40,7 @@ Publications:
 2014: "conversation & space" in Recess Journal
 2013: "Math As Craft" in STEAM Catalogue 1
 
-And my BLOG.
+And my BLOG at ltwp.net/blog
 
 Unpaid Experience:
 2014: Studio Assistant to Boris Bally (borisbally.com)
