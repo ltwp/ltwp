@@ -1,7 +1,0 @@
-content:
-
--
-on: Lane Medians. 
--
-links: 
--

@@ -13,6 +13,6 @@ My favs:
 <a href="http://wordsforyoungmen.com/">Words for Young Men</a><br />
 <a href="http://bldgblog.com/">BLDGBLOG</a><br />
 <a href="http://chneukirchen.org/trivium/">Trivium</a><br />
-<a href="http://bit-player.org/">Bit Player</a>
+<a href="http://bit-player.org/">Bit Player</a><br />
 
 -
