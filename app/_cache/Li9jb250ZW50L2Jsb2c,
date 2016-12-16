@@ -6,10 +6,11 @@
 <meta name="keyword" content="lukas, winklerprins, winkler prins, research,">
 <meta name="description" content="Lukas WinklerPrins—math, pedagogy, landscape research.">
 <meta name="viewport" content="width=device-width">
-<!--    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'> -->
+<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css" />
 <link rel="stylesheet" type="text/css" href="../public/docs/css/css.css" />
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
@@ -51,7 +52,7 @@
 
                   <div class="block">
 
-        <a class="special_link" href="../blog/2016-11-29/">2016-11-29 ↗</a><br />
+        <a class="special_link" hovcol="#ff0000" href="../blog/2016-11-29/">2016-11-29 ↗</a><br />
         
 
         <p>In the slosh of the past few months I've developed a newfound appreciation for rituals. I've always appreciated habit, but near the end of college many of my structured patterns dissolved, and it's only now, a year and a half later, that I'm rebuilding.</p>
@@ -99,7 +100,7 @@ Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learni
         <br />
       </div>      <div class="block">
 
-        <a class="special_link" href="../blog/2016-11-16/">2016-11-16 ↗</a><br />
+        <a class="special_link" hovcol="#ff0000" href="../blog/2016-11-16/">2016-11-16 ↗</a><br />
         
 
         <p>Driving South on the 110 last week, just beyond downtown Los Angeles, I turned to my left and saw a spread of bright lights floating in the dark sky. I did a double-take, and meditated on what they could be all the way home. My first guess was telecom poles in a loose formation of pairs running East-West. But the lights were too high-altitude. I seriously entertained the idea of UFOs, or some military flights tests.</p>
@@ -140,7 +141,7 @@ Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learni
         <br />
       </div>      <div class="block">
 
-        <a class="special_link" href="../blog/2016-11-09/">2016-11-09 ↗</a><br />
+        <a class="special_link" hovcol="#ff0000" href="../blog/2016-11-09/">2016-11-09 ↗</a><br />
                 <img src="../content/blog/8.2016-11-09/large_2317fc02b7e1658a35f285618a6fc156.jpg" />
         
 
@@ -176,7 +177,7 @@ Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learni
         <br />
       </div>      <div class="block">
 
-        <a class="special_link" href="../blog/2016-10-26/">2016-10-26 ↗</a><br />
+        <a class="special_link" hovcol="#ff0000" href="../blog/2016-10-26/">2016-10-26 ↗</a><br />
                 <img src="../content/blog/6.2016-10-26/ken_price_1994.jpg" />
         
 
@@ -217,7 +218,7 @@ Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learni
         <br />
       </div>      <div class="block">
 
-        <a class="special_link" href="../blog/2016-10-14/">2016-10-14 ↗</a><br />
+        <a class="special_link" hovcol="#ff0000" href="../blog/2016-10-14/">2016-10-14 ↗</a><br />
         
 
         <p>I grew up the son of a geographer, who regularly pointed my eyes towards map and the landscape around me. However anachronistic you may think, mapping hasn't gone anywhere. Tool suites and services are in full swing from <a href="https://www.mapbox.com/">map-making</a> to <a href="http://www.terrapattern.com/">visual geographic searching</a> to <a href="https://www.planet.com/">pioneering satellite imagery</a>. Google even has <a href="https://terrabella.google.com/">its own initiative</a> after acquiring Skybox Imaging.</p>
@@ -262,7 +263,7 @@ Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learni
 
 <p><a href="http://gimmickbook.com/">Gimmickbook</a><br />
 <a href="http://www.youmightfindyourself.com/">YMFY</a><br />
-<a href="http://wordsforyoungmen.com/">Words for Young Men</a><br />
+<a href="http://wordsforyoungmen.tumblr.com/">Words for Young Men</a><br />
 <a href="http://bldgblog.com/">BLDGBLOG</a><br />
 <a href="http://chneukirchen.org/trivium/">Trivium</a><br />
 <a href="http://bit-player.org/">Bit Player</a><br /></p>
@@ -270,22 +271,22 @@ Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learni
       </div>
 
       <div class="block" id="archive">
-                        <a class="special_link" href="../blog/2016-11-29/">2016-11-29 ↗</a> Surfing (and Learning Gardens)  <br />
-                <a class="special_link" href="../blog/2016-11-16/">2016-11-16 ↗</a> Dimensional Compression, Traffic, Chaos  <br />
-                <a class="special_link" href="../blog/2016-11-09/">2016-11-09 ↗</a> Trump, the Environment, Land Use, Heavy Headspace  <br />
-                <a class="special_link" href="../blog/2016-10-26/">2016-10-26 ↗</a> Transitions & Low-Margin Lifestyle  <br />
-                <a class="special_link" href="../blog/2016-10-14/">2016-10-14 ↗</a> New Geography, Los Feliz, Prioritization  <br />
-                <a class="special_link" href="../blog/2016-10-09/">2016-10-09 ↗</a> Leaving Twitter  <br />
-                <a class="special_link" href="../blog/2016-10-02/">2016-10-02 ↗</a> Manmade vs natural landscaping, conceptual art  <br />
-                <a class="special_link" href="../blog/2016-09-21/">2016-09-21 ↗</a> Internet topography and making publics  <br />
-                <a class="special_link" href="../blog/2016-09-20/">2016-09-20 ↗</a> HTML-native collage work  <br />
-                <a class="special_link" href="../blog/2016-09-18/">2016-09-18 ↗</a> Queues, surfing the internet, and surfing  <br />
+                        <a hovcol="#ff0000" class="special_link" href="../blog/2016-11-29/">2016-11-29 ↗</a> Surfing (and Learning Gardens)  <br />
+                <a hovcol="#ff0000" class="special_link" href="../blog/2016-11-16/">2016-11-16 ↗</a> Dimensional Compression, Traffic, Chaos  <br />
+                <a hovcol="#ff0000" class="special_link" href="../blog/2016-11-09/">2016-11-09 ↗</a> Trump, the Environment, Land Use, Heavy Headspace  <br />
+                <a hovcol="#ff0000" class="special_link" href="../blog/2016-10-26/">2016-10-26 ↗</a> Transitions & Low-Margin Lifestyle  <br />
+                <a hovcol="#ff0000" class="special_link" href="../blog/2016-10-14/">2016-10-14 ↗</a> New Geography, Los Feliz, Prioritization  <br />
+                <a hovcol="#ff0000" class="special_link" href="../blog/2016-10-09/">2016-10-09 ↗</a> Leaving Twitter  <br />
+                <a hovcol="#ff0000" class="special_link" href="../blog/2016-10-02/">2016-10-02 ↗</a> Manmade vs natural landscaping, conceptual art  <br />
+                <a hovcol="#ff0000" class="special_link" href="../blog/2016-09-21/">2016-09-21 ↗</a> Internet topography and making publics  <br />
+                <a hovcol="#ff0000" class="special_link" href="../blog/2016-09-20/">2016-09-20 ↗</a> HTML-native collage work  <br />
+                <a hovcol="#ff0000" class="special_link" href="../blog/2016-09-18/">2016-09-18 ↗</a> Queues, surfing the internet, and surfing  <br />
         
         
       </div>
 
       <div class="block">
-        <a class="special_link" href="../blog/feed.rss">RSS</a> | <a class="special_link" id="archive_link">Archive</a> | <a class="special_link" id="blogroll_link">Blogroll</a><br /><br />
+        <a hovcol="#ff0000" class="special_link" href="../blog/feed.rss">RSS</a> | <a hovcol="#ff0000" class="special_link" id="archive_link">Archive</a> | <a hovcol="#ff0000" class="special_link" id="blogroll_link">Blogroll</a><br /><br />
       </div>
 
     </div>
@@ -294,4 +295,4 @@ Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learni
   </body>
 </html>
 
-<!-- Stacey(2.3.0): a235096d0ecd52364ccf819e97edd2cf -->
+<!-- Stacey(2.3.0): 1f425e9cb07bdad82f4924bbf5489665 -->

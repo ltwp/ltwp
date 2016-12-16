@@ -4,7 +4,7 @@
 }
 
 body{
-  font-family: 'Menlo','Courier',monospace;
+  font-family: 'Work Sans','Menlo',monospace;
   width: 100%;
   line-height: 165%;
   color: black;
@@ -88,7 +88,6 @@ a.special_link{
 }
 a.special_link:hover{
   color: white;
-  background-color: red;
 }
 
 

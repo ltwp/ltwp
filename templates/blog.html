@@ -37,7 +37,7 @@
 
       <div class="block">
 
-        <a class="special_link" href="@url">@slug ↗</a><br />
+        <a class="special_link" hovcol="#ff0000" href="@url">@slug ↗</a><br />
         foreach $images do
         <img src="@url" />
         endforeach
@@ -63,13 +63,13 @@
       <div class="block" id="archive">
         get "/blog" do
         foreach $children do
-        <a class="special_link" href="@url">@slug ↗</a> if @on do @on endif <br />
+        <a hovcol="#ff0000" class="special_link" href="@url">@slug ↗</a> if @on do @on endif <br />
         endforeach
         end
       </div>
 
       <div class="block">
-        <a class="special_link" href="@root_path/blog/feed.rss">RSS</a> | <a class="special_link" id="archive_link">Archive</a> | <a class="special_link" id="blogroll_link">Blogroll</a><br /><br />
+        <a hovcol="#ff0000" class="special_link" href="@root_path/blog/feed.rss">RSS</a> | <a hovcol="#ff0000" class="special_link" id="archive_link">Archive</a> | <a hovcol="#ff0000" class="special_link" id="blogroll_link">Blogroll</a><br /><br />
       </div>
 
     </div>

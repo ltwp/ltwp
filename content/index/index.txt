@@ -6,14 +6,14 @@ b1:
 
 Project Management at [Standard Library](https://standard-library.com/).
 
-Growing [Learning Gardens](http://learning-gardens.co).
+Growing <a href="http://learning-gardens.co" hovcol="#76C865">Learning Gardens</a>.
 
 mathematics × landscapes × education
 
 (previously: [Hopscotch](http://playhopscotch.net) & [BDW](http://browndesignworkshop.org))
 -
 b2: 
-[blog](http://ltwp.net/blog) / [are.na/lukas-wp](http://are.na/lukas-wp)
+[ltwp.net/blog](http://ltwp.net/blog) / [are.na/lukas-wp](http://are.na/lukas-wp) / [github.com/ltwp](http://github.com/ltwp)
 
 &#10047; &#9697; &#10047;
 -

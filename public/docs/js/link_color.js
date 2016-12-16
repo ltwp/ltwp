@@ -1,5 +1,5 @@
 $("a").hover(function(){
-  /*
+    /*
 
   console.log("Link hover; changing color.");
   //var randomColor = Math.floor(Math.random()*16777215).toString(16);
@@ -24,4 +24,16 @@ $("a").hover(function(){
   $('#left').css("visibility","hidden");
   $('#right').css("visibility","hidden");
   $('#bottom').css("visibility","hidden"); */
+
+    //console.log($(this).attr("hovcol"));
+    var hovcol = $(this).attr("hovcol");
+    if(typeof hovcol != 'undefined'){
+        $(this).css("background-color",hovcol);
+        $(this).css("border-bottom","1px solid "+hovcol);
+    }else{
+        $(this).css("background-color","blue");
+    }
+},function(){
+    var linkcol = $(this).css("color");
+    $(this).css("background-color","transparent");
 });

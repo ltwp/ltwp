@@ -5,10 +5,12 @@
 <meta name="keyword" content="lukas, winklerprins, winkler prins, research,">
 <meta name="description" content="Lukas WinklerPrins—math, pedagogy, landscape research.">
 <meta name="viewport" content="width=device-width">
-<!--    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'> -->
+<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css" />
 <link rel="stylesheet" type="text/css" href="./public/docs/css/css.css" />
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="./public/docs/js/link_color.js"></script>
+
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
@@ -45,7 +47,7 @@
       <div class="block">
         <p>Project Management at <a href="https://standard-library.com/">Standard Library</a>.</p>
 
-<p>Growing <a href="http://learning-gardens.co">Learning Gardens</a>.</p>
+<p>Growing <a href="http://learning-gardens.co" hovcol="#76C865">Learning Gardens</a>.</p>
 
 <p>mathematics × landscapes × education</p>
 
@@ -54,7 +56,7 @@
       </div>
 
       <div class="block">
-        <p><a href="http://ltwp.net/blog">blog</a> / <a href="http://are.na/lukas-wp">are.na/lukas-wp</a></p>
+        <p><a href="http://ltwp.net/blog">ltwp.net/blog</a> / <a href="http://are.na/lukas-wp">are.na/lukas-wp</a> / <a href="http://github.com/ltwp">github.com/ltwp</a></p>
 
 <p>&#10047; &#9697; &#10047;</p>
 
@@ -69,4 +71,4 @@
   </body>
 </html>
 
-<!-- Stacey(2.3.0): a235096d0ecd52364ccf819e97edd2cf -->
+<!-- Stacey(2.3.0): 44335bdc08423e4d2a5a652b0563101c -->
