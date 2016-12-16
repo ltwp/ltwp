@@ -2,7 +2,7 @@ This document should be amended as you age.
 
 0. **Your values are implemented in action.** Act towards the things you value—generosity, empathy, kindness, energy, efficacy, avoiding excess, acceptance, sustainability, interestingness, etc. 
 
-1. **Do what you say you will**. The best way to start working in this direction is being very, very careful about what you say “yes” to.
+1. **Do what you say you will**. The best way to start working in this direction is being very, very careful about what you say “yes” to. Be liberal and gentle with saying “no”.
 
 2. **Seek out primary sources**, and be wary of secondary sources (even newspapers). Don’t read the science digest, read the science. If you can’t understand a primary source, this is a great learning opportunity. Study what you need to understand. 
     
@@ -16,6 +16,7 @@ This document should be amended as you age.
 
 6. **Take good care of your body and mind**, they need to last your entire life. This means both working them hard and allowing them to relax. 
 	6a. Don’t overeat. Eat good food. Sleep enough. Stretch. This is not a place for extremes, contrary to item number 3. 
+	6b. This also includes a judicious media diet. Don’t read it unless you think it will be good or important. 
 
 7. **Keep a beginner’s spirit** but don’t be afraid to fold inwards when necessary. 
 
