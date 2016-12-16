@@ -34,6 +34,7 @@ $("a").hover(function(){
         $(this).css("background-color","blue");
     }
 },function(){
-    var linkcol = $(this).css("color");
     $(this).css("background-color","transparent");
+    $(this).css("border-bottom","1px solid blue");
+    console.log('hey');
 });

@@ -1,123 +1,124 @@
 *{
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 body{
-  font-family: 'Work Sans','Menlo',monospace;
-  width: 100%;
-  line-height: 165%;
-  color: black;
-  background-color: white;
+    font-family: 'Work Sans','Menlo',monospace;
+    width: 100%;
+    line-height: 165%;
+    color: black;
+    background-color: white;
 }
 
 a{
-  color: blue;
-  border-bottom: 1px solid blue;
-  padding-bottom: 1px;
-  text-decoration: none;
+    color: blue;
+    border-bottom: 1px solid blue;
+    padding-bottom: 1px;
+    text-decoration: none;
 }
 a:hover{
-  color: white;
-  background-color: blue;
+    color: white;
+    background-color: blue;
 }
 
 h1{
-  margin: 20px 0px;
-  font-size: 16pt;
-  line-height: 180%;
+    margin: 20px 0px;
+    font-size: 16pt;
+    line-height: 180%;
 }
 
 h2{
-  font-weight: bold;
-  font-size: 14pt;
+    font-weight: bold;
+    font-size: 14pt;
 }
 h3{
-  text-decoration: underline;
-  font-size: 13pt;
+    text-decoration: underline;
+    font-size: 13pt;
 }
 
 ::selection{
-  background: #ccffee; /*#0066ff;*/
+    background: #ccffee; /*#0066ff;*/
 }
 
 ul{
-  list-style-type: disc;
+    list-style-type: disc;
 }
 
 #container{
-  width: 60%;
-  max-width: 600px;
-  margin-left: 20%;
+    width: 60%;
+    max-width: 600px;
+    margin-left: 20%;
 }
 #container img{
-  width: 100%;
+    width: 100%;
 }
 
 .block{
-  margin-top: 15vh;
-  margin-bottom: 5vh;
+    margin-top: 15vh;
+    margin-bottom: 5vh;
 }
 
 p{
-  margin: 20px 0px;
+    margin: 20px 0px;
 }
 
 strong{
-  font-weight: bold;
+    font-weight: bold;
 }
 
 em{
-  font-style: italic;
+    font-style: italic;
 }
 
 blockquote{
-  border-left: 2px solid black;
-  padding-left: 5px;
+    border-left: 2px solid black;
+    padding-left: 5px;
 }
 
 code{
-  background-color: #ccc;
-  padding: 5px;
+    background-color: #ccc;
+    padding: 5px;
 }
 
 a.special_link{
-  color: red;
-  border-bottom: 1px solid red;
-  cursor: pointer;
+    color: red;
+    border-bottom: 1px solid red;
+    cursor: pointer;
 }
 a.special_link:hover{
-  color: white;
+    color: white;
+    background-color: red;
 }
 
 
 /* FRAME */
 #top, #bottom, #left, #right {
-  background-color: black;
-  position: fixed;
-  z-index: 999;
-  visibility: hidden;
+    background-color: black;
+    position: fixed;
+    z-index: 999;
+    visibility: hidden;
 }
 #left, #right {
-  top: 15px;
-  bottom: 15px;
-  width: 5px;
+    top: 15px;
+    bottom: 15px;
+    width: 5px;
 }
 #left {
-  left: 15px;
+    left: 15px;
 }
 #right {
-  right: 15px;
+    right: 15px;
 }
 #top {
-  left: 15px;
-  right: 15px;
-  top: 15px;
-  height: 5px;
+    left: 15px;
+    right: 15px;
+    top: 15px;
+    height: 5px;
 }
 #bottom {
-  left: 15px;
-  right: 15px;
-  bottom: 15px;
-  height: 5px;
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+    height: 5px;
 }
