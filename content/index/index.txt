@@ -6,12 +6,10 @@ b1:
 
 mathematics × landscapes × education
 
+Growing <a href="http://learning-gardens.co" hovcol="#76C865">Learning Gardens</a> in the evenings. 
+
 -
 b2: 
-
-Researching at [Standard Library](https://standard-library.com/), tutoring math across LA. 
-
-Growing <a href="http://learning-gardens.co" hovcol="#76C865">Learning Gardens</a> in the evenings. 
 -
 b3: 
 [ltwp.net/blog](http://ltwp.net/blog) / [are.na/lukas-wp](http://are.na/lukas-wp) / [github.com/ltwp](http://github.com/ltwp)
