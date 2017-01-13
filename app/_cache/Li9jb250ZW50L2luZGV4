@@ -40,24 +40,23 @@
             <!-- Blocks -->
             <div class="block">
                 <h1>
-                    <a href="mailto:lukas@ltwp.net">Lukas</a> does research in Los Angeles.
+                    <a href="mailto:lukas@ltwp.net">Lukas</a> lives in Los Angeles.
                 </h1>
             </div>
 
             <div class="block">
-                <p>mathematics × landscapes × education</p>
+                <p><a href="http://ltwp.net/work">ltwp.net/work</a><br /><a href="http://ltwp.net/blog">ltwp.net/blog</a></p>
+
+<p><a href="http://learning-gardens.co" hovcol="#76C865">Learning Gardens</a></p>
 
             </div>
 
             <div class="block">
-                <p>Researching at <a href="https://standard-library.com/">Standard Library</a>, tutoring math across LA.</p>
-
-<p>Growing <a href="http://learning-gardens.co" hovcol="#76C865">Learning Gardens</a> in the evenings.</p>
-
+                
             </div>
 
             <div class="block">
-                <p><a href="http://ltwp.net/blog">ltwp.net/blog</a> / <a href="http://are.na/lukas-wp">are.na/lukas-wp</a> / <a href="http://github.com/ltwp">github.com/ltwp</a></p>
+                <p><a href="http://are.na/lukas-wp">are.na/lukas-wp</a><br /><a href="http://github.com/ltwp">github.com/ltwp</a></p>
 
 <p>&#10047; &#9697; &#10047;</p>
 
@@ -68,4 +67,4 @@
     </body>
 </html>
 
-<!-- Stacey(2.3.0): 7e279787b2a913530d49f865be0b152c -->
+<!-- Stacey(2.3.0): ac5e383d9448a05274b223f9e3488315 -->

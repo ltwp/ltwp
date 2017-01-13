@@ -1,18 +1,18 @@
-name: LTWP Résumé
+name: Work
 -
-b0: Previous Work
+b0: 
 -
 b1:
 
-I was a founding monitor at the [Brown Design Workshop](http://www.browndesignworkshop.org/) before becoming a manager and then the first dedicated staff member—the Development Coordinator. 
+[Hopscotch](http://playhopscotch.net)
 
-Along with [Nathan Zack](http://nathanzack.net), I co-founded [Hopscotch](http://playhopscotch.net), a small experiment in women's overalls.
-
-In Spring 2016 I [interviewed a bunch of my friends](http://ltwp.net/interviews/) on how they were starting their careers in creative fields. 
-
-I [performed my piece '$54'](https://vimeo.com/177604584) at NYCxSKYMALL, and a jumping [performance piece](https://vimeo.com/152009073) in 2015. 
+[Interviews Project](http://ltwp.net/interviews/)
 -
 b2: 
+
+['$54'](https://vimeo.com/177604584) at NYCxSKYMALL
+
+[jumping](https://vimeo.com/152009073)
 -
 b3: 
 -

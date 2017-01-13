@@ -1,18 +1,17 @@
 name: Lukas Theodore WinklerPrins
 -
-b0: <a href="mailto:lukas@ltwp.net">Lukas</a> does research in Los Angeles. 
+b0: <a href="mailto:lukas@ltwp.net">Lukas</a> lives in Los Angeles. 
 -
 b1:
 
-mathematics × landscapes × education
+[ltwp.net/work](http://ltwp.net/work)<br />[ltwp.net/blog](http://ltwp.net/blog)
 
-Growing <a href="http://learning-gardens.co" hovcol="#76C865">Learning Gardens</a> in the evenings. 
-
+<a href="http://learning-gardens.co" hovcol="#76C865">Learning Gardens</a>
 -
 b2: 
 -
 b3: 
-[ltwp.net/blog](http://ltwp.net/blog) / [are.na/lukas-wp](http://are.na/lukas-wp) / [github.com/ltwp](http://github.com/ltwp)
+[are.na/lukas-wp](http://are.na/lukas-wp)<br />[github.com/ltwp](http://github.com/ltwp)
 
 &#10047; &#9697; &#10047;
 -
