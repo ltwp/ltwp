@@ -4,15 +4,26 @@ b0:
 -
 b1:
 
-[Hopscotch](http://playhopscotch.net)
+Currently [Standard-Library](https://standard-library.com/) & teaching
 
-[Interviews Project](http://ltwp.net/interviews/)
+Previously: [BDW](http://browndesignworkshop.org/), [Thicket](http://thicketlabs.com/), [CSF](http://www.communitysystemsfoundation.org/)
+
 -
 b2: 
 
+Projects:
+
 ['$54'](https://vimeo.com/177604584) at NYCxSKYMALL
 
-[jumping](https://vimeo.com/152009073)
+[Jumping](https://vimeo.com/152009073)
+
+[Hopscotch](http://playhopscotch.net)
+
+[Interviews](http://ltwp.net/interviews/)
 -
 b3: 
+
+Writing:
+
+[Disciplinaryism](http://steamwith.us/content/catalogue/five/#DISCIPLINARYISM) in STEAM Catalogue 5
 -

@@ -4,6 +4,8 @@ b0: <a href="mailto:lukas@ltwp.net">Lukas</a> lives in Los Angeles.
 -
 b1:
 
+infrastructure, education, &c
+
 [ltwp.net/work](http://ltwp.net/work)<br />[ltwp.net/blog](http://ltwp.net/blog)
 
 <a href="http://learning-gardens.co" hovcol="#76C865">Learning Gardens</a>
