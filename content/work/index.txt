@@ -4,7 +4,7 @@ b0:
 -
 b1:
 
-Currently [Standard-Library](https://standard-library.com/) & teaching
+Currently [Standard Library](https://standard-library.com/), [Civic Projects](http://www.civicprojects.org/) & teaching
 
 Previously: [BDW](http://browndesignworkshop.org/), [Thicket](http://thicketlabs.com/), [CSF](http://www.communitysystemsfoundation.org/)
 

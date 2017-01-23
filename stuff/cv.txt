@@ -1,5 +1,7 @@
-Lukas Theodore WinklerPrins b.1992
+Lukas Theodore WinklerPrins 
+b.1992
 
+----------
 Paid Work:
 2016-2017: Organizer at Operation Organization
 2016-2017: Researcher + Project Manager @ Standard-Library (standard-library.com)
@@ -9,35 +11,43 @@ Paid Work:
 2014: Technical Intern @ Community Systems Foundation / DataForAll NYC
 2014: Assistant construction for Work-Shop RI
 2013-2014: Assistant to ie/Brown MBA Creativity workshops with Richard Fishman
-2013-2016: Monitor, Manager, Development Coordinator @ Brown Design Workshop (browndesignworkshop.org)
+2013-2016: Manager, Development Coordinator @ Brown Design Workshop (browndesignworkshop.org)
 2013: Fluids Research Assistant to Dr Martin Maxey, NSF Grant 1133106 at Brown
 2012: Technical Intern @ Community Systems Foundation / DevInfo NYC
 2012: Product Representative @ Belly, Inc. 
 2011: Engineering Intern @ TURCK GmbH. 
 
-Organizing Work:
-2016: Co-founded Learning Gardens. 
-2013: Co-founded Brown STEAM, acted as vice president. 
-2013: Founding monitor (and later first dedicated staff) at Brown Design Workshop.
-2012-2013: Sci-Fi Coordinator at Brickworld Chicago
+Mixed freelance web design/development and research. 
 
+----------
+Organizing Work:
+2016: Co-founded Learning Gardens (learning-gardens.co) 
+2013: Co-founded Brown STEAM (steamwith.us)
+2013: Founding monitor (and later first dedicated staff) at Brown Design Workshop
+2012-2013: Sci-Fi Coordinator at Brickworld Chicago convention
+
+----------
 Fellowships/Residencies:
 2016: Design Fellow @ The Design Office (thedesignoffice.org)
 
+----------
 Formal Education:
 2015: Bachelors of Science from Brown University in the Division of Applied Mathematics
 2011: Graduated Cum Laude from Cranbrook Kingswood Upper School
 
+----------
 Programs Attended:
 2015: Getting Started with PDEs @ Israel Institute for Advanced Study
 2014: Workshop on Integrating Dynamics and Stochastics @ Brown University
 
+----------
 Shows:
 Spring 2016: NYCxSkymall. "$54" Performance. Brooklyn, NY. 
 Spring 2015: {sfp} Final Show. "Community Dance" Performance. Providence, RI. 
 Fall 2014: non-space. Curated pop-up show in Providence, RI with 13 artists. 
 Fall 2013: Brown Physics Art Show. "ALL OF THE WORDS I NEVER SAID TO YOU" Acrylic and mixed-media. Providence, RI.
 
+----------
 Publications:
 2016: "Disciplinaryism" in STEAM Catalogue 5
 2015: "Paragraphs from the House of Slugs" in Clerestory Arts v.53 n.02
@@ -47,22 +57,26 @@ Publications:
 2014: "conversation & space" in Recess Journal
 2013: "Math As Craft" in STEAM Catalogue 1
 
-And my BLOG at ltwp.net/blog
+My BLOG at ltwp.net/blog
 
+----------
 Unpaid Experience:
 2014: Studio Assistant to Boris Bally (borisbally.com)
 2013-2015: RISD Museum Guild Member
 
+----------
 Press:
 2016: http://www.core77.com/posts/52989/NYCxSKYMALL-Presents-Design-Solutions-for-Problems-that-Dont-Exist
 2016: https://events.risd.edu/event/what_we_mean_when_we_say_critical_design_a_roundtable_on_design_future#.VydgNKMrLdS
 2013: http://makezine.com/2013/09/11/a-better-world-by-design-returns-to-providence-sept-27/
 2013: http://newsletter.convergenceri.com/stories/STEAM-powers-ahead-even-after-Maedas-departure,265
 
+----------
 Presentations & Workshops:
 2017: SIAM CSE "STEAM in Action: Social Modeling through Game Design"
+2016: "What We Mean When We Say Critical Design": A Roundtable on Design & Future at the Critical Design Critical Futures Symposium
 2016: Yale CEID "Space as Policy, Policy as Space"
-2014: Workshops at AS220, BWxD, BU EPIC: "Creativity and the Design Process through LEGO"
+2014-2015: Workshops at AS220, BWxD, BU EPIC: "Creativity and the Design Process through LEGO"
 
 
 

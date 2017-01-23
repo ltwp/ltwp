@@ -2,7 +2,7 @@ content:
 
 I've been stewing on infrastructure and abstraction. This is probably because I spent a few lovely, long days in Providence with my friend Nic around the holidays and these are the two broad topics we talk most about. In this post I'll try to untangle some thoughts. 
 
-Both infrastructure and abstraction are afforded by systems. That is, when dealing only with anecdotes or one-offs, they are not necessary. Both work only with scale. 
+Both infrastructure and abstraction are afforded by systems. That is, when dealing only with anecdotes or one-offs, they are not necessary. Both work only at scale. 
 
 I'm with [Saul Griffith](http://longnow.org/seminars/02015/sep/21/infrastructure-and-climate-change/) in thinking that infrastructural change is humankind's surest bet for establishing a new baseline in the midst of climate change. Physical infrastructure is one of the few touchpoints we have in building more intention and visibility into massive-scale patterns of consumption and use. Infrastructure is always engaged with entropy, stupidity, and necessity. Awareness of infrastructures, its mechanisms, and its interfaces with individuals is increasingly necessary to avoid or subvert exploitation and stagnation. 
 
@@ -29,6 +29,8 @@ I absolutely devoured Keller Easterling's [Extrastatecraft](https://www.amazon.c
 A major component of Smith and Easterling's arguments is the recognition of cultural norms and use as infrastructure—just one in flow rather than fixed as with physical infrastructure. 
 
 ![](https://i.imgur.com/h3SwRZp.jpg)
+
+_"Cultural Infrastructure"—yep, it's Ideology_
 
 Something I'm curious about is how to consider nomadic civilizations and their relationships with infrastructure. At first pass nomadism might seem "infrastructure-free," but of course traveling people need traversable landscapes, and patterns of use necessarily embed themselves in the land (often through livestock). 
 
