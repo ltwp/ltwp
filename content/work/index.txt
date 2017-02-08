@@ -17,7 +17,7 @@ Projects:
 
 [Jumping](https://vimeo.com/152009073)
 
-[Hopscotch](http://playhopscotch.net)
+[Hopscotch](http://playhopscotch.net) with [Nathan Zack](nathanzack.net)
 
 [Interviews](http://ltwp.net/interviews/)
 -
