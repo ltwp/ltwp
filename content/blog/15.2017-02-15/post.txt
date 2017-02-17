@@ -1,0 +1,43 @@
+content:
+
+# How do you measure the density of a network? 
+
+In a pure, unweighted network, I immediately think of the traditional density metric: ratio of realized edges over possible edges. We can also entertain more nuanced values, like number of nodes in [cliques](https://en.wikipedia.org/wiki/Clique_problem) over the total number of nodes. Even median path length is a decent measure of density. Possibilities expound when we have edge weights that represent "length" or some such. 
+
+But still, graph-theoretic networks can exist happily without worrying about spatial embedding. (Unless [you want to get into that in a very precise way](https://link.springer.com/chapter/10.1007/978-3-642-46908-4_6?no-access=true).) 
+
+I now work a bit each week at [Civic Projects](http://www.civicprojects.org/), a planning consulting firm, and we're working on a project right now that is all about overlapping networks in urban space. How does the network of bike paths commingle with the network of car-centric streets? How do networks of wayfinding systems intertwine with networks of lighting infrastructure? 
+
+These networks are much different from ones I was [used to in college](http://ltwp.net/networks/). They are inherently spatially embedded and human-centric. 
+
+Urban infrastructure networks also range widely in type. If we want to talk about the "network" of parking infrastructure, this is a blend of public street parking, parking lots, private lots, alleyways—but in the end, raw count of parking spots per unit area is a decently descriptive metric. Dense bicycle pathways networks are generally good, but node-based metrics aren't very good at capturing this, because they can collapse travel distances. Instead, we want something that captures the interconnectedness of travel times. In lighting, if we treat each source of light as a node in the network, some measure of bulk distance between elements helps grasp and what needs to be measured for best human use. 
+
+I'm coming around to three major types of urban networks. (Nothing novel here, just useful for classification.) 
+
+1. __Area-based networks__. These take form as static resources. Parking, special zones (e.g. school zones), sidewalk dining, shade, and so forth. 
+2. __Path-based networks__. Various transportation modes have networks of transit. These networks have intersections, but their experiential value is focused on the edges rather than nodes. 
+3. __Node-based networks__. These don't so much occupy area as they are represented by points of interaction. Lighting, wayfinding, gas stations, and trash receptacles all fall into this category. 
+
+Each of these necessitates a different strategy for density. 
+
+1. __Areal Densities__. How many of something per unit area? What proportion of a given area is given to a specific form? 
+2. __Path Network Densities__. This is, to my knowledge, a bit of uncharted territory. [Metro](https://www.metro.net/)'s Active Transportation Strategic Plan advocates for an average distance between parallel elements in a network. (In the case of roadways, this is comparable to the width of city blocks.) But in which direction should we measure? Do we integrate along the length of the block? Do we measure the largest possible diameter of each "block"? We could, also, resort to average network path length per unit area (e.g. "how many miles of bike path are there per square mile?"). 
+3. __Nodal Densities__. These are closer to typical graph-theoretic density measurements, but should tend towards accounting for edge lengths as well. How far apart are the nodes, on average? How far apart are they from their nearest neighbors, given some threshold of "nearest" or some kind of [partitioning](https://en.wikipedia.org/wiki/Voronoi_diagram)?
+
+Context-dependent answers are necessary to make effective, well-reasoned, and responsible metrics for these types. 
+
+_Why is any of this useful?_ 
+
+Lots of planners want rules-of-thumb when pitching concepts and making cost estimations. Infrastructure network statistics can also help codify best practices for urban design. 
+
+This is just a slew of thoughts at the moment. Would love to sink my teeth into some research. 
+
+-
+on: Network Density
+-
+links: 
+* [Salvaged: A Surf Film](https://vimeo.com/145255578)
+* [Anderson .Paak & The Free Nationals Tiny Desk Concert](http://www.npr.org/2016/08/12/489769830/anderson-paak-the-free-nationals-tiny-desk-concert)
+* [Virgil Abloh @ Columbia GSAPP](https://www.youtube.com/watch?v=nkMWMBsCd9k)
+* [Black MIDI](https://en.wikipedia.org/wiki/Black_MIDI)
+-
