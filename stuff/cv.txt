@@ -3,30 +3,29 @@ b.1992
 
 ----------
 Paid Work:
-2017: Intern @ Civic Projects
+2017: Intern @ Civic Projects (civicprojects.org)
 2016-2017: Organizer at Operation Organization
 2016-2017: Researcher + Project Manager @ Standard-Library (standard-library.com)
 2016-2017: Tutor @ The Bright Mind (thebrightmind.com)
-2015: Undergrad Teaching Assistant to Dr David Lipshutz, APMA0360
+2015: Teaching Assistant to Dr David Lipshutz, APMA0360
 2015-2016: Manager, Development Coordinator @ Brown Design Workshop
 2014-2016: Researcher & Strategist @ Thicket Labs (thicketlabs.com)
 2014: Technical Intern @ Community Systems Foundation / DataForAll NYC
 2014: Assistant Construction @ Work-Shop RI
 2013-2014: Assistant to Richard Fishman in Creativity workshops @ ie/Brown MBA
-2013-2015: Monitor @ Brown Design Workshop (browndesignworkshop.org)
+2013-2015: Founding Monitor @ Brown Design Workshop (browndesignworkshop.org)
 2013: Fluids Research Assistant to Dr Martin Maxey, NSF Grant 1133106 @ Brown University
 2012: Technical Intern @ Community Systems Foundation / DevInfo NYC
 2012: Product Representative @ Belly, Inc. 
 2011: Engineering Intern @ TURCK GmbH. 
 
-Mixed freelance web design/development and research. 
+Various freelance design, research, and strategy. 
 
 ----------
 Volunteer Work:
 2016: Co-founded Learning Gardens (learning-gardens.co) 
 2014: Studio Assistant to Boris Bally (borisbally.com)
 2013: Co-founded Brown STEAM (steamwith.us)
-2013: Founding monitor (and later first dedicated staff) at Brown Design Workshop
 2013-2015: RISD Museum Guild Member
 2012-2013: Sci-Fi Coordinator at Brickworld Chicago convention
 
@@ -41,7 +40,7 @@ Formal Education:
 
 ----------
 Programs Attended:
-2015: Getting Started with PDEs @ Israel Institute for Advanced Study
+2015: Getting Started with PDEs @ Israel Institute for Advanced Study (fully-funded)
 2014: Workshop on Integrating Dynamics and Stochastics @ Brown University
 
 ----------
@@ -53,7 +52,7 @@ Fall 2013: Brown Physics Art Show. "ALL OF THE WORDS I NEVER SAID TO YOU" Acryli
 
 ----------
 Publications:
-2017: "Math & Mysticism" on AVANT.org
+2017: "Math & Mysticism" on AVANT.org (forthcoming)
 2016: "Disciplinaryism" in STEAM Catalogue 5
 2015: "Paragraphs from the House of Slugs" in Clerestory Arts v.53 n.02
 2015: "A Report on Bottle Caps" in Alternative Commencement
@@ -73,7 +72,7 @@ Press:
 
 ----------
 Presentations & Workshops:
-2017: SIAM CSE "STEAM in Action: Social Modeling through Game Design"
+2017: SIAM CSE in Atlanta "STEAM in Action: Social Modeling through Game Design"
 2016: "What We Mean When We Say Critical Design": A Roundtable on Design & Future at the Critical Design Critical Futures Symposium
 2016: Yale CEID "Space as Policy, Policy as Space"
 2014-2015: Workshops at AS220, BWxD, BU EPIC: "Creativity and the Design Process through LEGO"

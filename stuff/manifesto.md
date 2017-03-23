@@ -6,11 +6,9 @@ This document should be amended as you age.
 
 2. **Seek out primary sources**, and be wary of secondary sources (even newspapers). Don’t read the science digest, read the science. If you can’t understand a primary source, this is a great learning opportunity. Study what you need to understand. 
     
-3. **Aim for a balanced life**. Don’t find balance by standing in the middle of everything—instead, hit the extremes and let them stabilize each other. (Some exceptions apply.) 
+3. **Aim for a balanced life**. Don’t find balance by standing in the middle of everything—instead, hit the extremes and let them stabilize each other. (Some exceptions apply.) Balance is active, not a static state. 
 
 4. **Always be sowing seeds**. Start projects and conversations. Ask yourself leading questions and learn new things relentlessly.
-	4a. The best way to do this, I believe, is to rigorously interact with people. Talk to them and start projects;  generate energy between yourselves. Go to events with your friends. Ask questions.
-	4b. You shouldn’t read without writing, nor observe without note-taking. Synthesis comes through making. 
 
 5. **Have a borrowing mindset**. Treat things and people with kindness and agility. Stay liquid and don’t buy until you’ve tried. Don’t get something until you’ll need it, and celebrate what you have. 
 
@@ -37,3 +35,7 @@ This document should be amended as you age.
 
 15. **Recognize the value in habits**. Build habits that work with your strengths and weaknesses and construct reflection time. Doing big things requires a lot of time—best achievable through regular scheduling.   
 	15a. Note the cost of context-switching! Block your time. 
+	
+16. You shouldn’t read without writing, nor observe without note-taking. **Synthesis comes through making.**
+
+17. **Do stuff with your friends.** That's what you have them for. Talk and start projects;  generate energy between yourselves. Go to events. Entertain questions.
