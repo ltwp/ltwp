@@ -3,8 +3,7 @@ name: Work
 b0: 
 -
 b1:
-
-Currently [Standard Library](https://standard-library.com/), [Civic Projects](http://www.civicprojects.org/) & teaching
+Currently: [Cactus Store](http://hotcactus.la/)
 
 Previously: [BDW](http://browndesignworkshop.org/), [Thicket](http://thicketlabs.com/), [CSF](http://www.communitysystemsfoundation.org/)
 
@@ -13,9 +12,11 @@ b2:
 
 Projects:
 
-[Ghostlines](http://ghostlines.pm) via [Standard Library](http://standard-library.com)
+[Ghostlines](http://ghostlines.pm) with [Standard Library](http://standard-library.com)
 
-['$54'](https://vimeo.com/177604584)
+[Baby Bindery](https://thedesignoffice.github.io/babybindery/) via [The Design Office](http://thedesignoffice.org/)
+
+['$54'](https://vimeo.com/177604584) at NYCxSKYMALL
 
 [Jumping](https://vimeo.com/152009073)
 
@@ -29,7 +30,9 @@ b3:
 
 Writing:
 
-Math & Mysticism (forthcoming)
+_Math & Mysticism_ (forthcoming on AVANT.ORG)
 
-[Disciplinaryism](http://steamwith.us/content/catalogue/five/#DISCIPLINARYISM) in STEAM Catalogue 5
+_[Disciplinaryism](http://steamwith.us/content/catalogue/five/#DISCIPLINARYISM)_ in STEAM Catalogue 5
+
+_Paragraphs from the House of Slugs_ in [Clerestory Arts](http://www.clerestoryarts.org/) 53.02
 -

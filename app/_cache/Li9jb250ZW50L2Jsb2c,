@@ -12,7 +12,7 @@
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 
 <script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
 
@@ -46,56 +46,110 @@
 
       <br />
       <h1>
-        <p><a href="http://ltwp.net">Lukas</a>' Blog<br />lukas@ltwp.net</p>
+        <p><a href="http://ltwp.net">Lukas</a>' Blog<br />lukas (at) ltwp.net</p>
 
       </h1>
 
                   <div class="block">
 
-        <a class="special_link" href="../blog/2016-12-21/">2016-12-21 ↗</a><br />
-                <img src="../content/blog/11.2016-12-21/large_448c412040fbd00ec67ea58f1744b5bf.jpg" />
+        <a class="special_link" href="../blog/2017-04-15/">2017-04-15 ↗</a><br />
         
 
-        <p><em>Stewart Brand's <a href="https://www.are.na/block/325214">Timescales of civilization</a> - from <a href="https://en.wikipedia.org/wiki/How_Buildings_Learn">How Buildings Learn</a></em></p>
+        <p><img src="https://d2w9rnfcy7mm78.cloudfront.net/424789/large_24267095aeea6422584d879f08a04620.jpg" alt="found image - https://www.are.na/block/424789"></p>
 
-<p><a href="http://www.e-flux.com/journal/77/76215/institutional-liberation/">Institutional Liberation</a> on e-flux hit me hard. It touches on public lack of identification with our institutions and the collective agency stripped from us by neoliberal-fueled individualism.</p>
+<p>It's an understatement to say I have broad interests, but two of the most consistent threads (going on a decade here...) are in mathematics and visual art.</p>
 
-<p>It made me ask, "what institutions do I identify with?" Which naturally lead to, "what is an institution, anyway?"</p>
+<p>When this comes up in party conversation, people often ask how the two are related, or if I do art-inspired math or math-inspired art. My response to the first is that they both deal with expression and beauty/truth through symbols and abstraction. Do I blend of the two? Nope.</p>
 
-<p>The denotation is an organization of people founded towards a shared purpose. An institution as crystallized ideology. This definition, however, fails to bring along the inertia and scale that the word "Institution" connotes. Institutions typically act on the "governance" and "culture" scales in Brand's breakdown above (the ordering of which I don't entirely agree with, but it's OK).</p>
+<p>But why not? I've struggled to articulate the "why" of my answer to the second question, but much if it stems from finding most math-cum-art projects lacking in depth.</p>
 
-<p>I suppose this is exactly the problem. Many institutions—think universities, large museums, ubiquitous multinationals, etc—are operating at a level of scale abstraction that makes them unintelligible and out-of-sync with the needs and desires of humans.</p>
+<p>A <a href="https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/">statistic analysis of Bob Ross' paintings</a>? Neat. But conceptually boring—Ross' paintings, while beautiful, don't have conceptual depth, and the statistics are vanilla.</p>
+
+<p>I think <a href="http://georgehart.com/">George Hart</a>'s sculptures are rad (I got one installed at Brown), and they're good visualizations of mathematical shapes. But the beauty of the geometries are bogged down by presentation as folk sculpture, and the pieces are static, without emotional charge.</p>
+
+<p><a href="http://www.nikkigraziano.com/index.php/project/found-functions/">Nikki Graziano's Found Functions</a> is a project that achieves something conceptually interesting as both math and art. The photographs are provocative, and the overlay excites further interpretation; the functions are simplistic but demonstrate a potential directness of mathematical modeling.</p>
+
+<p>Why, though, do I still judge these two things separately, rather than being able to intertwine their evaluation?</p>
+
+<p>I am finally rounding around to an answer to this question—why the two fields seem as difficult to blend effectively as oil and water. It comes back to the connection between the two—that they deal with expression through abstraction. The differing approaches to this abstraction, however, make blending difficult.</p>
+
+<p>Canonical abstract art deals with nonrepresentation, or at least non-literal representation. (Abstraction is a spectrum, but the requirement here is an intentional aesthetic of inaccurate or non-real representation.) In an art context, an abstractly realized element can be interpreted to stand-in for something else—something more concrete for the audience, lower on the ladder of abstraction, or something more broadly defined, up on the ladder, to capture broad ideas. ("The woman represents the artist's mother" vs "the woman represents womanhood".)</p>
+
+<p>The details of the implementation are generally taken as crucial: how does the line feel? what energy does this particular color field capture? what does this choice in plastic connote? Elements of visual art are necessarily instantiated in the world, and the details of that instantiation are interpreted by the viewer as key semiotic elements at play.</p>
+
+<p>TL;DR In canonical abstract art, unique details in the instantiation of formal elements are taken as crucial to the meaning and interpretation. Visual artists mine the richness of realized objects to create meaning.</p>
+
+<p>Math, however, moves in a nearly diametrically opposed direction. For a mathematician, there is a power in keeping forms in the abstract. The moment you draw a circle, it's an imperfect circle. But, if we refer to a circle only in its noninstantiated platonic form, it can remain perfect.</p>
+
+<p>As mathematical objects remain uninstantiated, they stay exactly as we made them to be. Instantiation allows for chance of the physical world to enter the process, but a mathematical proof can remain tidy and general in scope without. While lots of mathematical interest comes out of unique cases, these are generally still cases of uniqueness at a high level of abstraction.</p>
+
+<p>Instantiation of math objects brings it all crashing down to earth. When we take about the field, for example, Zmod7, we say <em>the</em> field rather than <em>a</em> field. If we actually collected a set of objects, and played out operations of the field with the objects, it would be <em>a</em> representation of <em>the</em> field. It might be a powerful learning tool, but it's an extra layer between our thinking and the object we'd actually like to manipulate. Instantiation of mathematical objects quickly feels trifling.</p>
+
+<p>Graziano's piece pleasantly aestheticizes the typographic form of the function, despite the actual parts of the function being pretty arbitrary. This is an important point to note, I think—<a href="https://en.wikipedia.org/wiki/Mathematical_notation">the notation</a> we use is exactly the intersection of unique instantiation and platonic form. As a reader, we consider the platonic form by virtue of reading an instantiated symbol. (The same goes for visual art! Mathematicians just don't acknowledge this much. Most everything is automatically typeset by LaTeX and the author focuses on proof, as if it exists in a cultural vacuum.  See also <a href="https://en.wikipedia.org/wiki/Ethnomathematics">Ethnomathematics</a>.)</p>
+
+<p>For a project to meaningfully engage with both math and visual art, it needs to respect both the richness in instantiated detail, as well as the power of noninstantiated abstraction. This is a thin, thin tightrope.</p>
+
+<p>For this reason, the "scores" of Fluxus and related movements are really engaging to me! They're like proofs, but for art-making. The power of the score is present to the reader, and the enaction of the piece serves as its context-dependent instantiation.</p>
+
+<p>What other dimensions of abstraction are there? What's the characteristic difference between abstraction and simplification? How does nonrepresentationalism play into the metaphysics of mathematics? More to entertain, always. For now, though, this dimension of instantiation serves well as the distinction between these two fields I love.</p>
+
+
+                <br />
+        <strong>Internet Topology:</strong><br />
+        <ul>
+<li><a href="https://en.wikipedia.org/wiki/Commonplace_book">Commonplace Book</a></li>
+<li><a href="https://sidewaysdictionary.com/#/">Sideways Dictionary</a></li>
+<li><a href="http://lateraloffice.com/filter/Work/RENEWING-THE-REMOTE-2015-16">Renewing The Remote (Lateral Office)</a></li>
+<li><a href="http://forum.savingplaces.org/act/pgl/atlas">Atlas of ReUrbanism</a></li>
+</ul>
+
+        
+
+        <br />
+      </div>      <div class="block">
+
+        <a class="special_link" href="../blog/2017-03-21/">2017-03-21 ↗</a><br />
+                <img src="../content/blog/16.2017-03-21/2017-03-20 14.50.45.jpg" />
+        
+
+        <p>When I tell my friends from college that I moved to Los Angeles, most of them ask why in the world I choose to stay in L.A.</p>
+
+<p>Coming off the East coast, an attraction to Los Angeles is not only unfashionable but also misunderstood. I've tried to <a href="http://ltwp.net/blog/2016-10-14/">touch on it before</a>, and here I'll crowdsource some help.</p>
+
+<p>It is difficult to capture the Los Angeles ethos in a photograph without falling to tropes or banality. Another strip mall? The mountains with palm trees in the foreground? The phenomenology of Los Angeles is woven from threads of of experience, rather than a patchwork of moments. It is the opposite of photogenic.</p>
+
+<p>In my eyes, New York City is an amazing city to visit. Take the subway, eat a bagel, go to a museum, see a friend (or five). But it can suck to live in New York between the demanding social scene and fewer and fewer square feet per person. Conversely, Los Angeles is lovely to live in—regular sunshine, diverse topography, cheap food—but it sucks to visit. Half of your visit will be spent on the freeway, going between urban cores. It's tough for a visit to have any cohesion; the moments are banal.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Los_Angeles_Plays_Itself">L.A. Plays Itself</a>, or, similarly, you play L.A. the way you want it. Geoff Manaugh captures some of this in his post <a href="http://bldgblog.com/2007/10/greater-los-angeles/">Greater Los Angeles</a>:</p>
 
 <blockquote>
-  <p>Nothing is possible without men, but nothing lasts without institutions. (Jean Monnet)</p>
+  <p>No matter what you do in L.A., your behavior is appropriate for the city. Los Angeles has no assumed correct mode of use. You can have fake breasts and drive a Ford Mustang – or you can grow a beard, weigh 300 pounds, and read Christian science fiction novels. Either way, you’re fine: that’s just how it works.</p>
 </blockquote>
 
-<p>Just as the termite colony needs its members to exist but also sacrifices swaths of its population in times of need, our institutions are made out of people yet might not always value the identities of those constituents. One actor in the institution might not understand how its actions contribute to the whole. You could call an institution an ideologically-driven <a href="http://www.ribbonfarm.com/2016/02/11/minimum-viable-superorganism/">superorganism</a>.</p>
+<p>Los Angeles, the <a href="http://news.aag.org/2013/03/los-angeles-the-improbably-sustainable-city/">Improbably Sustainable City</a>, makes no sense. I always felt like in the East Coast cities I know, the temperament of the city informs the stage on which you act. L.A. doesn't so much assert its own personality as much as it wears it with a wink while sitting in the seat next to you as you both watch the slow-motion apocalypse of Southern California.</p>
 
-<p>Now, again, which institutions do I identify with? I appreciate my alma mater but not enough to truly value its continued survival. (Schools like Black Mountain College, Cooper Union, and some of <a href="https://www.are.na/lukas-wp/experimental-schooling-institutions">these Experimental Schooling Institutions</a> are more inspiring to me.)</p>
-
-<p>In Providence, I loved making regular visits to the RISD Museum. As a student and then, after I graduated, volunteer, I had free entry. In the case of the larger museum, free entry can completely change how you interact with it; I was happy to swing by for 5 minutes on my walk into downtown just to see the wooden Buddha. There was no guilt about getting my money's worth or otherwise.</p>
-
-<p>Last year I gifted my mother a membership to the <a href="http://www.phillipscollection.org/">Phillips Collection</a> in DC—a smaller, private museum, and much-needed respite from the insanity of the nearby Smithsonians. She can go any time without extra charge and make it her own quieter space. If you have the opportunity to become a member at a local museum, I recommend you take it.</p>
-
-<p>In New York I love <a href="http://www.mmuseumm.com/">Mmuseumm</a>. The idea that a museum can be tiny, easy-to-access, and in-touch with its membership is unfortunately rare, as the big ones continue to grow and diffuse (think the MoMA, the Met, the Whitney) and the mid-size shrivels. Can we not renew a focus on approachable, small-to-medium-scale museums and, more broadly, institutions?</p>
-
-<p><a href="http://theartnewspaper.com/comment/comment/orhan-pamuk-s-manifesto-for-museums/">Orham Pamuk agrees</a>:</p>
+<p><br />
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/817162/large_0efbd6f10cdaa723b9942a4e5becd21b.png" alt="K-Hole Description of L.A.">
+<em><a href="http://khole.net/issues/05/">K-Hole's Capture of the Paradox of L.A.</a></em></p>
 
 <blockquote>
-  <p>It is imperative that museums become smaller, more orientated towards the individual and more economical. This is the only way that they can ever tell stories on a human scale. The great museums invite us to forget our humanity and to accept the state and its human masses. This is why there are millions, outside the West, who are frightened by museums. This is why museums are associated with governments.</p>
+  <p>A lot of people think L.A. is just eyesore after eyesore. Full of mini-malls, palm trees, and billboards. So what?</p>
 </blockquote>
 
-<p>I have yet to get a grasp on the museum scene in Los Angeles. The Broad is too fancy, the Getty too big, LACMA too stolid. I'd like to find a museum I love and make some institutional attachments.</p>
+<p>So says Ice Cube in this <a href="https://vimeo.com/37334022">short on L.A. and the Eames</a>. He's right—so what?</p>
+
+<p>"One man's eyesore is another man's paradise."</p>
+
+<p>The individualism of the defining characters of Los Angeles—the creation of one's own paradise—cannot last. The ability for the city to act as a partner in finding one's own, glinting in the sunlight, might persist.</p>
 
 
                 <br />
         <strong>Internet Topology:</strong><br />
         <ul>
-<li><a href="http://www.jkrishnamurti.org/krishnamurti-teachings/view-text.php?tid=51&amp;chid=66876">J. Krishnamurti on Education and the Significance of Life</a></li>
-<li><a href="https://www.youtube.com/watch?v=jNMt5BV_7MY">Mutual Attraction - Lost Tape</a></li>
-<li><a href="http://hotcactus.la/">Hot Cactus (Los Angeles)</a></li>
-<li><a href="https://earthengine.google.com/timelapse/">Google Earth Engine Timelapse</a></li>
+<li><a href="http://vicioustimes.com/">Vicious Times</a></li>
+<li><a href="https://www.youtube.com/watch?v=wUJ7qErI7ME">Day by Omar S</a></li>
+<li><a href="https://jedfieldwork.blogspot.com/2017/03/eight-ways-of-looking-at-landscape.html">Eight Ways of Looking At Landscape</a></li>
+<li><a href="https://github.com/nvbn/thefuck">thefuck (github)</a></li>
 </ul>
 
         
@@ -103,49 +157,55 @@
         <br />
       </div>      <div class="block">
 
-        <a class="special_link" href="../blog/2016-11-29/">2016-11-29 ↗</a><br />
+        <a class="special_link" href="../blog/2017-02-27/">2017-02-27 ↗</a><br />
         
 
-        <p>In the slosh of the past few months I've developed a newfound appreciation for rituals. I've always appreciated habit, but near the end of college many of my structured patterns dissolved, and it's only now, a year and a half later, that I'm rebuilding.</p>
+        <h1>How do you measure the density of a network?</h1>
 
-<p>The two new consistencies are daily meditation and regular surfing. Both have been emotional stabilizers as I've navigated the stresses of not having consistent places to sleep, jobs to work, or people to connect with. The only bad habit I've lapsed back into is abundant stress-eating. Alas.</p>
+<p>In a simple, unweighted <a href="https://en.wikipedia.org/wiki/Network_theory">network</a>, I immediately think of the traditional density metric: ratio of realized edges over possible edges. We can also entertain more nuanced values, like number of nodes in <a href="https://en.wikipedia.org/wiki/Clique_problem">cliques</a> over the total number of nodes. Even median path length is a decent measure of density. When we have edge weights that represent "length" or some such, possibilities expand.</p>
 
-<p>(I now, finally, have an apartment.)</p>
+<p>These graph-theoretic networks can exist happily without worrying about spatial embedding. (Unless <a href="https://link.springer.com/chapter/10.1007/978-3-642-46908-4_6?no-access=true">you want to get into that in a very precise way</a>.) The whole point of <a href="https://www.quantamagazine.org/20170105-graph-isomorphism-retraction/">graph isomorphism</a> is that we want to think of graphs as isomorphic regardless of how they are drawn.</p>
 
-<p>Surfing is truly wonderful. I've been a swimmer for as long as I can remember and grew to love the consistency of a chlorinated pool. Now the dynamics of the ocean are appreciated and I'm trying to tune in to the philosophy of the sport.</p>
+<p>I now spend some time each week at <a href="http://www.civicprojects.org/">Civic Projects</a>, a planning consulting firm. We're working on a project that is all about overlapping networks in urban space. How does the network of bike paths commingle with the network of car-centric streets? How do networks of wayfinding systems intertwine with networks of lighting infrastructure?</p>
 
-<p>There's some nasty machismo and territorialism out there, but largely surfing is an easy-going sport. (The defensiveness over beaches can be justified by a more and more crowded scene, but is discouraging as a beginner.) <a href="http://www.newyorker.com/magazine/1992/08/24/playing-docs-games-part-one">This New Yorker Piece on Surfing with 'Doc' Mark Renneker</a> goes deep and conveys well the patience necessary for surfing. Unless you're surfing on quick, small waves, much of the sport is patience. Patience in the weather and swell, patience in paddling out, in positioning, in timing.</p>
+<p>These networks are much different from ones I was <a href="http://ltwp.net/networks/">used to in college</a>. They are inherently spatially embedded and human-centric. Isomorphism doesn't matter: these are networks with anecdotal, instantiated importance.</p>
 
-<p>On a beach break especially (the less-predictable type of break), your position is never ideal. It's a neverending case of grass-is-greener. The folks on either side of you are catching better waves and the moment you get one, well, you aren't thinking about it, you're just riding it. There's a certain passivity the surfer has to nurture so as to not tire themselves out, chasing the best wave up-and-down the beach. The best wave is just the next one you  catch.</p>
+<p>Urban infrastructure networks also range widely in type. If we want to talk about the "network" of parking infrastructure, raw count of parking spots per unit area is a decently descriptive metric. Node-based metrics aren't very good at representing the density of, say, a bicycle path network, because these metrics can collapse travel distances. Instead, we want something that captures the travel times and interconnectedness. In lighting, if we treat each source of light as a node in the network, some measure of bulk distance between elements helps grasp and what needs to be measured for best human use.</p>
 
-<p>If you conceptualize surfing as a kind of wave-based dancing, then it is just as ephemeral a medium. (It's always been interesting to me that dancing has defied attempts at standardized archival notation systems.) Either you got the wave or you didn't, and this breeds an easy-going nature. I routinely feel guilty as I flail around and get in the path of more experienced surfers, but they rarely get angry.</p>
+<p>I'm coming around to three major types of urban networks. (Nothing novel here, just useful for classification.)</p>
 
-<p>Attention to the other surfers is important, but more is to keep your eyes on the waves. Too often do I get distracted trying to see others, or watch the beach, only to miss a great wave or get eaten up by one that snuck up on me. Distraction yields immediate repercussions.</p>
+<ol>
+<li><strong>Area-based networks</strong>. These take form as static resources. Parking, special zones (e.g. school zones), shade, and so forth. </li>
+<li><strong>Path-based networks</strong>. These networks have intersections, but their experiential value emphasizes transit along edges rather than action at nodes. Travel paths populate this category. </li>
+<li><strong>Node-based networks</strong>. These represent points of interaction. Lighting, gas stations, and wayfinding, all fall into this category. </li>
+</ol>
 
-<p>A few years ago I read <a href="http://www.freundevonfreunden.com/workplaces/azuma-makoto/">this FvF interview with Azuma Mokoto</a> and his reasoning for why he worked with flowers alone has stuck with me profoundly.</p>
+<p>Each of these necessitates a different strategy for density.</p>
 
-<blockquote>
-  <p>I guess I am not interested in things that will leave something behind. Flowers are not forever, they last for a certain amount of time and that thought feeds my creativity. It’s very different from, for example, catching a moment in a photograph. It is more about meeting this particular flower with this particular feeling and the fact that I meet this flower in a particular moment, that is what fascinates me and that is why I think I use flowers as my medium of choice.</p>
-</blockquote>
+<ol>
+<li><strong>Areal Densities</strong>. How many of something per unit area? What proportion of a given area is given to a specific form? </li>
+<li><strong>Path Network Densities</strong>. This is, to my knowledge, a bit of uncharted territory. <a href="https://www.metro.net/">Metro</a>'s Active Transportation Strategic Plan advocates for an average distance between parallel elements in a network. (In the case of roadways, this is comparable to the width of city blocks.) But in which direction should we measure? Do we integrate along the length of the block? Do we measure the largest possible diameter of each "block"? We could, also, resort to average network path length per unit area (e.g. "how many miles of bike path are there per square mile?"). </li>
+<li><strong>Nodal Densities</strong>. These are closer to typical graph-theoretic density measurements, but should tend towards accounting for edge lengths as well. How far apart are the nodes, on average? How far apart are they from their nearest neighbors, given some threshold of "nearest" or some kind of <a href="https://en.wikipedia.org/wiki/Voronoi_diagram">partitioning</a>?</li>
+</ol>
 
-<p>In a time of exploitating the art object as capital investment and mass consumerism, I joyously get behind ephemeral work. Surfing is an art that exists in the moment and memory alone—surf photography only flirts with what it actually looks and feels like on the waves. (<a href="http://acidsurfing.com/">Acid Surfing</a> has some lovely creative photo work, though, cutting through the ranks of the <a href="https://www.surfersjournal.com/">established</a> <a href="http://www.surfermag.com/">publications</a>).</p>
+<p>Context-dependent answers are necessary to make effective, well-reasoned, and responsible metrics for these types. And sometimes, a particular street feature doesn't fit neatly into one category. Trash cans, for instance—we want to consider both an areal density, but also think carefully about the causes for litter—maybe line-of-sight to a receptacle—which falls more into a path density representation. We might need to explore metrics of both forms to make an intelligent decision regarding a proposed system.</p>
 
-<p>And, ultimately, you are in the ocean. This morning, sitting on my board, two dolphins swam past, maybe only 30 feet away. I've seen fish, rays, and various oceanic birds. These animals, the ebb-and-flow of Angelinos, alongside the fog, winds, and tides all build towards a broader appreciation of the patterns of this planet.</p>
+<p><em>Why is any of this useful?</em></p>
 
-<p>On the worst possible day, surfing gives me some exercise and sunshine. On the ideal day, there's a mix of adrenaline and relaxation; a meditative celebration of whatever fleeting waves I can find; and a oneness with all others in the ocean with me.</p>
+<p>Lots of planners want rules-of-thumb when pitching concepts and making cost estimations. Infrastructure network statistics can also help codify best practices for urban design.</p>
 
-<p>Let me know if you are in Southern California, and we can give it a go.</p>
+<p>Lots more research required in this area.</p>
 
-<p>Postscript:
-Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learning-gardens.html">got a feature on the Are.na blog</a>. Big honor and impetus to reinvest in building momentum and resources.</p>
+<p>(colophon: I am now at <a href="https://www.siam.org/meetings/cse17/">SIAM CSE 2017</a> to run a workshop on social systems modeling, through the Broader Engagement program. Brain getting back into math mode.)</p>
 
 
                 <br />
         <strong>Internet Topology:</strong><br />
         <ul>
-<li><a href="http://booktwo.org/notebook/big-data-no-thanks/">Big Data, No Thanks</a></li>
-<li><a href="https://www.youtube.com/watch?v=cFT30ClRBdg">Potential by Quentin Miller</a></li>
-<li><a href="https://placesjournal.org/article/landscape-migration/">Landscape Migration: Environmental Design in the Anthropocene</a></li>
+<li><a href="https://vimeo.com/145255578">Salvaged: A Surf Film</a></li>
+<li><a href="http://www.npr.org/2016/08/12/489769830/anderson-paak-the-free-nationals-tiny-desk-concert">Anderson .Paak &amp; The Free Nationals Tiny Desk Concert</a></li>
+<li><a href="https://www.youtube.com/watch?v=nkMWMBsCd9k">Virgil Abloh @ Columbia GSAPP</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Black_MIDI">Black MIDI</a></li>
 </ul>
 
         
@@ -153,40 +213,38 @@ Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learni
         <br />
       </div>      <div class="block">
 
-        <a class="special_link" href="../blog/2016-11-16/">2016-11-16 ↗</a><br />
+        <a class="special_link" href="../blog/2017-02-09/">2017-02-09 ↗</a><br />
         
 
-        <p>Driving South on the 110 last week, just beyond downtown Los Angeles, I turned to my left and saw a spread of bright lights floating in the dark sky. I did a double-take, and meditated on what they could be all the way home. My first guess was telecom poles in a loose formation of pairs running East-West. But the lights were too high-altitude. I seriously entertained the idea of UFOs, or some military flights tests.</p>
+        <p><img src="http://www.landezine.com/wp-content/uploads/2016/02/lyon-playground-BASE-19.jpg" alt="">
+<em><a href="http://www.landezine.com/index.php/2016/02/the-rampart-wave-by-base/lyon-playground-base-19/">The Rampant Wave</a> playground.</em></p>
 
-<p>I saw it again tonight, and thanks light from the supermoon, it was clear that the lights actually belong to civilian airplanes. Given LAX's major runways run East-West, I realized these are <a href="http://webtrak5.bksv.com/lax4">incoming flights and planes in holding patterns</a>.</p>
+<p>I've started using the phrase "infrastructural moments" to label certain human experiences in the landscape. Infrastructure is all around us but is designed to go unnoticed; infrastructure shouldn't have "moments" as much as it enables timelines. But</p>
 
-<p>Los Angeles is a city designed to be enjoyed by car, but it's fun to think of cities that are fun by airplane. I always thrill when landing in Washington Reagan, where I always feel like you get to fly a little <em>too</em> close to the Pentagon. If you're stuck in a holding pattern for hours over Los Angeles, I imagined you can parse the various grids and the topology that disturbs them, the dotting of bright urban centers woven throughout. The flight pattern provides a structured window through which to see the city.</p>
+<p>There are specific instances of friction in systems which cause "moments" and reveal the infrastructure underneath. Is most often a negative friction—an annoyance, or something that doesn't happen as expected—but can range towards neutral or joyful too.</p>
 
-<p>I was reminded of a <a href="http://risdmuseum.org/art_design/objects/6116_underlay_for_the_new_york_birdcage_imaginary_architecture">Friedrich St. Florian drawing in the RISD Museum's permanent collection</a>, <em>Underlay for the New York Birdcage - Imaginary Architecture</em>:</p>
+<p>We expect our roads to be smooth, our streetlamps to function, our water to come out of the faucet. When we encounter an unanticipated road hazard, a dark street, and a gap in our water service, these are <em>infrastructural moments</em> that can trigger deep engagement with our infrastructure space.</p>
 
-<p><img src="https://i.imgur.com/IpLnsla.jpg" alt="Underlay for the New York Birdcage - Imaginary Architecture"></p>
+<p>I have collected some instantiations of "<a href="https://www.are.na/lukas-wp/guerrilla-urbanism">guerilla urbanism</a>," which are very much examples of infrastructural moments. When individuals take the agency to seed-bomb an otherwise untended highway divider, it is a moment of recognition of the structures that are designed to maintain that space. Graffiti artists quickly learn the processes by which graffiti is erased or left.</p>
 
-<p>Florian condenses the temporal variable of incoming NY-area flights into a static document, constructing imagined spaces out of flight traffic patterns. This is a graph in a canonical sense; a visualized dynamic by chosen variables. There just happens to be a map of New York City underlying the whole thing.</p>
+<p>Skateboarders are constantly mining urban infrastructure towards repurposing. Can this ADA-compliant ramp become my launching point? Can I get a ride in between police beat cycles? Skateboarding becomes a continuum of infrastructural moments, which informs an overhaul in outlook. Walk around a city with a skateboarder, and you won't see curbs as just curbs any more. Skateboarding is an entire approach to the built environment.</p>
 
-<p>Junior year of college I wrote <a href="http://ltwp.net/stuff/return_maps.pdf">a paper on chaotic patterns in distance between two buses in a closed loop</a>. It was a basic invocation of chaos out of an extremely simplified traffic scenario, and as I traverse Los Angeles I think a lot about traffic flow modeling.</p>
+<p><img src="https://i.imgur.com/GKnmaNi.jpg" alt=""></p>
 
-<p>Traffic can be modeled like a granular fluid flow much of the time, but the key differences that makes it difficult, naturally, are that there are encoded social norms to driving. For example, the left lane is used for longer distances and higher speeds while trucks going 55mph stick in the right lane. All of this has to be built into your model if you want to achieve some level of realism. I think some traffic modeling will be the first application of my newfound python skills. I've just about finished <a href="https://learnpythonthehardway.org/book/">the book</a> and am getting tired of the author's condescending tone.</p>
+<p>I walk East on Beverly Boulevard to work downtown. After a bridge over Glendale, Beverly becomes 1st St. On the Eastern side of the bridge, there's an on-ramp squeezed between some low-lying office buildings and the road. You can only access the ramp from an awkward turn at the intersection underneath the bridge. It's a very high-visibility place, but hard to access. In my 2+ months of doing this walk, there's been an old corvette with a flat tire on this ramp. Despite the parking spots along this ramp are labeled as 2-hour parking, the corvette has never had a ticket. Whether intentional or not, the owner seems to have found a gap in parking enforcement patterns. This is an infrastructural moment.</p>
 
-<p>In an introductory nonlinear dynamics course, the first mention of "chaotic" dynamics often comes alongside the idea of a <a href="http://geoffboeing.com/2015/03/chaos-theory-logistic-map/">Poincaré Plot</a>, which, just as Florian's drawing, condenses multiple points of temporal data into a few visualized spatial dimensions.</p>
+<p>Another example: the ramp between the 110 South and 105 going West has a <a href="https://en.wikipedia.org/wiki/Ramp_meter">rate-limiting light</a>. I approached the light one evening and saw it on at a distance, but no cars in the queue. As I neared, the light turned off completely; the flow was sparse enough that the light was no longer necessary. Did the power go out? Did I trigger something? What conditions turn the light off (it can't be manual, I would think)? I was present at the moment of an infrastructural adjustment—this is an infrastructural moment.</p>
 
-<p>My attraction to fluids has always been fueled by the richness of their complexity—vast typologies of behavior out of just a few parameters for adjustment. We use visuals as our best attempt at learning from slices of the vast spatio-temporal spaces of these dynamics.</p>
-
-<p>I excitedly picked up <a href="http://store.bgc.bard.edu/the-islands-of-benoit-mandelbrot-fractals-chaos-and-the-materiality-of-thinking-edited-by-nina-samuel/">The Islands of Benoît Mandelbrot: Fractals, Chaos, and the Materiality of Thinking</a> about two years ago and recently revisited. It's still fun to look through, but unfortunately the book falls a bit flat of its audacious title.</p>
-
-<p>The authors and editor take an art-historic approach to Mandelbrot's early computer visualizations of fractals, which is a lovely perspective on top of the technical value of the drawings. But, they fail to do enough mathematics themselves to recognize which of the images are truly important and which aren't for the field of math. The juiciness of the narrative—on computer imaging made early steps against logical proofs—loses some momentum to their trying too hard to say that the images mean something. <a href="http://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering">Strogatz' book</a> would have done them well.</p>
+<p>What other forms do infrastructural moments take? In what other contexts to they inform dispositions (ala the skateboarder)? Are there fundamental differences in moments of sublimity, frustration, and utility? How beneficial is it for these moments to be more common, more reflective?</p>
 
 
                 <br />
         <strong>Internet Topology:</strong><br />
         <ul>
-<li><a href="https://www.youtube.com/watch?v=4QtyFU-fEOw">(Baby) Don't Do This To Me by Timeless Legend</a></li>
-<li><a href="http://carloscartama.com/PERMANENT-VACATION-2-0">PERMANENT VACATION</a></li>
-<li><a href="http://averyreview.com/issues/issue-19/google-mapping-the-spiral-jetty">Land Art in the Age of Remote Sensing</a></li>
+<li><a href="http://www.zwirnerandwirth.com/exhibitions/2004/0904Burden/samson.html">Chris Burden: Samson</a></li>
+<li><a href="https://www.youtube.com/watch?v=L_LwQr8TaJU">Mouth to Match by Gull</a></li>
+<li><a href="https://ecotonemagazine.org/fiction/on-the-study-of-physics-in-preschool-classrooms-pedagogy-and-lesson-planning/">On the Study of Physics in Preschool Classrooms: Pedagogy and Lesson Planning by Matthew Schultz</a></li>
+<li><a href="https://xkcd.com/1796/">Personal Focus Knob (xkcd)</a></li>
 </ul>
 
         
@@ -194,77 +252,17 @@ Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learni
         <br />
       </div>      <div class="block">
 
-        <a class="special_link" href="../blog/2016-11-09/">2016-11-09 ↗</a><br />
-                <img src="../content/blog/8.2016-11-09/large_2317fc02b7e1658a35f285618a6fc156.jpg" />
+        <a class="special_link" href="../blog/2017-02-07/">2017-02-07 ↗</a><br />
         
 
-        <p><em><a href="http://thediagram.com/16_5/mapof.html">MAP OF&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ILLINOIS CORNFIELD</a> on DIAGRAM 16.5</em></p>
+        <p><img src="https://avatars1.githubusercontent.com/u/19245137?v=3&amp;s=200" alt=""></p>
 
-<p>DIAGRAM is wonderful, and this image seems timely. Finding ways to portray and generate empathy around America's heartland seems more necessary than ever.</p>
+<p>We launched the <a href="https://www.kickstarter.com/projects/learningardens/learning-gardens-reader-launch">Learning Gardens Kickstarter</a> a week and a half ago and immediately blew through our goal. Floored to be a part of such an exciting project. Read some <a href="http://learning-gardens.co/2017/02/06/kickstarter.html">campaign updates</a> on our little blog.</p>
 
-<p>It's a dark time to be an American. As much as it was foreseeable, I really didn't want to believe Trump would win. <a href="http://qz.com/833859/with-trump-as-president-china-will-be-the-worlds-biggest-champion-of-fighting-climate-change/">Quartz Summarizes the environmental implications briefly</a>, noting that with Trump as the figurehead, America has lost its energy leadership position internationally, and has become addled domestically. It wasn't looking bright anyway, and now it's downright apocalyptic. <a href="https://www.greatagain.gov/policy/energy-independence.html">Trump's Energy Policy</a> reads like an 8th-grade short-response essay, and not even a good one at that.</p>
+<p>The Kickstarter money is building towards Learning Gardens microgrants—monetary support for groups and self-initiated non-institutional education experiments. Basically, the grants I wish I could apply for.</p>
 
-<p>Environmental, climate, and land-use issues seem like my battlefield of choice because it's here that my voice is needed. As a straight white atheistic man with an American passport, it's not my face that needs to represent America in the 21st century. While I need to do my part on-the-ground, I can leverage my technical background and demographic most in science and policy. I want to do all I can to counteract my violent filling of space.</p>
+<p>I'll be seeking ways to give more time to Learning Gardens in the future. There is so much research we could do—into effective group organization, online community management, pedagogy in the age of the web—and so little time I can give when I'm only scraping by as-is. Perhaps we can find a supportive residency or such.</p>
 
-<p>There aren't excuses for anything less. Is my life and work oriented towards civic benefit? Am I critical not only of myself, but also at least a few layers of abstraction above and below me? Am I amplifying voices who need it, rather than my own? Don't forget, too, that <a href="https://www.cs.utexas.edu/~field/holzer/truisms.txt">ANY SURPLUS IS IMMORAL (thanks, Jenny)</a>. And, in one of the most striking reads of recent history, there's only so much <a href="http://thebaffler.com/blog/laurie-penny-self-care">self-care you can justify</a>, too.</p>
-
-<p>"Youth is wasted on the young," they say, and I've been trying to make that not true for myself. Youth, though, does bring a weight—our interests and habits at a young age reverberate long through life. As someone without burning desires, I've struggled to commit myself to things out of fear that I'll trap myself for too long. I've been pretty paralyzed for years. Time to commit.</p>
-
-<p>How are you feeling? If you are in LA or on the internet and need a hug, a burrito, or a conversation, let me know. We're together in this revolt.</p>
-
-<p>If you want a playlist for diving into what I'll call a "heavy headspace" (deep ambient?), I recommend: <a href="https://www.youtube.com/watch?v=59BIX16RSkU">Selfless State by So Inagawa</a>, <a href="https://www.youtube.com/watch?v=KqmA5GDBdWM">Broken by Roberto Rodriguez</a>, <a href="https://www.youtube.com/watch?v=J1V5AyscLAI">LOVE by James Booth</a>, and then <a href="https://www.youtube.com/watch?v=1LtsjqgF6fw">Nuit Sonores by Floating Points</a>. Go for a long drive or walk.</p>
-
-
-                <br />
-        <strong>Internet Topology:</strong><br />
-        <ul>
-<li><a href="https://vimeo.com/134541936">Solar Forecast: 1972-2015</a></li>
-<li><a href="https://thecreativeindependent.com/people/kim-drew-on-being-accountable-to-yourself-and-to-others/">Kim Drew on The Creative Independent</a></li>
-<li><a href="http://migrantjournal.com/">Migrant Journal</a></li>
-<li><a href="http://themapisnot.com/issue-iii-arizona">Territory Issue III: Arizona</a></li>
-<li><a href="https://www.happyassassin.net/2016/11/04/i-dont-like-computers/">I Don't Like Computers</a></li>
-</ul>
-
-        
-
-        <br />
-      </div>      <div class="block">
-
-        <a class="special_link" href="../blog/2016-10-26/">2016-10-26 ↗</a><br />
-                <img src="../content/blog/6.2016-10-26/ken_price_1994.jpg" />
-        
-
-        <p><em>Car Plunge</em> - Ken Price, 1994</p>
-
-<p>There's a short concrete tunnel—an underpass, I guess—if you're on the 105 West and <a href="https://www.google.com/maps/place/33%C2%B055'52.5%22N+118%C2%B021'55.7%22W/@33.931243,-118.3676517,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d33.931243!4d-118.365463">take the exit for the 405 South to Long Beach</a>. It takes maybe 15 seconds to drive through at 65mph, and is sheltered enough to make the radio turn to static.</p>
-
-<p>These days, in the car, I'm often listening to the radio. I quit spotify when I wanted to trim costs on my life, and now I just watch youtube if I ever want to listen to something. <a href="http://www.jazzandblues.org/index.aspx/">The radio</a> remains a lovely way to tune into the local culture and find some surprise.</p>
-
-<p>I've been taking this exit a lot as I drive between Los Angeles and Manhattan Beach, where I'm staying by the generosity of a friend's family. (I'm slowly, slowly saving up for a security deposit to move into LA proper.) The few seconds of static are always a warm welcome, despite the blaring tunnel lights that accompany them: it's a reminder that I'm listening to the radio, that this music is flying through the air to me with careful frequency modulations, and when the audio fades back in, it's all the more appreciated.</p>
-
-<p>I gave the graduation speech at my high school and started the speech, more or less, with this quote:</p>
-
-<p><code>For a long time it seemed to me that life was about to begin, but there was always some obstacle in the way, something to be gotten through first, some unfinished business, time to still be served, a debt to be paid. Then life would begin. At last it dawned on me that these obstacles were my life.</code></p>
-
-<p>Five years later and still pertinent. I've been putting off a lot until I get an apartment—but the catch 22 is that I can't afford an apartment until I get my shit together anyway. Instead, I'm nurturing the ability to do a little laptop work from anywhere and am happy with the driver's seat of my Dad's Subaru as the most consistent home I have. Just like with the tunnel, sometimes a transition should be celebrated as a thing itself.</p>
-
-<p>My life is pretty low-margin right now. I have some lists around of art I'd love to buy and restaurants I'd like to try, but none of that can be justified when my money needs to go towards groceries, gas, and some new socks. I think I'll be really happy when I can buy a surfboard, but really I'm thankful for how much simpler things feel when I rule out all unnecessary purchases.</p>
-
-<p><img src="https://d2w9rnfcy7mm78.cloudfront.net/654263/large_a2e587be5e313884d5981af65d0c5821.jpg" alt="There Is No Such Thing As Ethical Consumption Under Capitalism">
-<em>From <a href="https://www.are.na/lukas-wp/communist-memes">this memes channel</a>.</em></p>
-
-<p>Margins on everything seem pretty slim, when you factor in externalities. My gasoline is subsidized by the smog I'm tossing into the valleys, burritos by underpaid line-cooks, my laptop by suicidal working conditions in Chinese factories. Gosh, I have a hard time justifying doing or using almost anything under late-stage capitalism.</p>
-
-<p>The goal is to do good on this. Do work I can morally justify, that helps negotiate some of the deluge of negative externalities. To be in transition and enjoy it, holding out for nothing.</p>
-
-
-                <br />
-        <strong>Internet Topology:</strong><br />
-        <ul>
-<li><a href="https://placesjournal.org/article/designing-indian-country/">Designing Indian Country</a></li>
-<li><a href="https://www.are.na/lukas-wp/minimal-lifestyle">My 'Minimal Lifestyle' channel</a></li>
-<li><a href="https://soundcloud.com/opia-official/shadow-dances">Shadow Dances by Opia</a></li>
-</ul>
 
         
 
@@ -277,16 +275,21 @@ Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learni
 
 <p><a href="http://gimmickbook.com/">Gimmickbook</a><br />
 <a href="http://www.youmightfindyourself.com/">YMFY</a><br />
-<a href="http://wordsforyoungmen.tumblr.com/">Words for Young Men</a><br />
 <a href="http://bldgblog.com/">BLDGBLOG</a><br />
 <a href="http://chneukirchen.org/trivium/">Trivium</a><br />
 <a href="http://bit-player.org/">Bit Player</a><br />
-<a href="http://kottke.org/">Kottke</a><br /></p>
+<a href="http://www.ribbonfarm.com/">Ribbonfarm</a><br /></p>
 
       </div>
 
       <div class="block" id="archive">
-                        <a class="special_link" href="../blog/2016-12-21/">2016-12-21 ↗</a> Institutional Scales & Museums  <br />
+                        <a class="special_link" href="../blog/2017-04-15/">2017-04-15 ↗</a> Math vs Visual Art  <br />
+                <a class="special_link" href="../blog/2017-03-21/">2017-03-21 ↗</a> Los Angeles Phenomenology  <br />
+                <a class="special_link" href="../blog/2017-02-27/">2017-02-27 ↗</a> Network Density  <br />
+                <a class="special_link" href="../blog/2017-02-09/">2017-02-09 ↗</a> Infrastructural Moments  <br />
+                <a class="special_link" href="../blog/2017-02-07/">2017-02-07 ↗</a> Learning Gardens Kickstarter  <br />
+                <a class="special_link" href="../blog/2017-01-15/">2017-01-15 ↗</a> Infrastructure as Intersection of Abstraction & Humanity  <br />
+                <a class="special_link" href="../blog/2016-12-21/">2016-12-21 ↗</a> Institutional Scales & Museums  <br />
                 <a class="special_link" href="../blog/2016-11-29/">2016-11-29 ↗</a> Surfing (and Learning Gardens)  <br />
                 <a class="special_link" href="../blog/2016-11-16/">2016-11-16 ↗</a> Dimensional Compression, Traffic, Chaos  <br />
                 <a class="special_link" href="../blog/2016-11-09/">2016-11-09 ↗</a> Trump, the Environment, Land Use, Heavy Headspace  <br />
@@ -310,4 +313,4 @@ Learning Gardens <a href="https://www.are.na/blog/case%20study/2016/11/16/learni
   </body>
 </html>
 
-<!-- Stacey(2.3.0): d3fb0cd2fddb2585a7391e14e22e4c68 -->
+<!-- Stacey(2.3.0): 6bfef86896c57d03e95bc17f701513b3 -->

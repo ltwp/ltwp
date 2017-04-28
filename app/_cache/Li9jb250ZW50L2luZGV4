@@ -11,7 +11,7 @@
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 
 <script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
         <script src="./public/docs/js/link_color.js"></script>
@@ -40,7 +40,7 @@
             <!-- Blocks -->
             <div class="block">
                 <h1>
-                    <a href="mailto:lukas@ltwp.net">Lukas</a> lives in Los Angeles.
+                    Lukas lives in Los Angeles.
                 </h1>
             </div>
 
@@ -58,6 +58,8 @@
             <div class="block">
                 <p><a href="http://are.na/lukas-wp">are.na/lukas-wp</a><br /><a href="http://github.com/ltwp">github.com/ltwp</a></p>
 
+<p>lukas (at) ltwp.net</p>
+
 <p>&#10047; &#9697; &#10047;</p>
 
             </div>
@@ -67,4 +69,4 @@
     </body>
 </html>
 
-<!-- Stacey(2.3.0): ac5e383d9448a05274b223f9e3488315 -->
+<!-- Stacey(2.3.0): 6bfef86896c57d03e95bc17f701513b3 -->

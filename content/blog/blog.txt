@@ -2,7 +2,7 @@ name: Lukas' Blog
 -
 top:
 
-<a href="http://ltwp.net">Lukas</a>' Blog<br />lukas@ltwp.net
+<a href="http://ltwp.net">Lukas</a>' Blog<br />lukas (at) ltwp.net
 -
 blogroll:
 

@@ -1,0 +1,95 @@
+<html>
+  <head>
+    <title>2017-04-15</title>
+    <meta charset="UTF-8">
+<meta name="keyword" content="lukas, winklerprins, winkler prins, research,">
+<meta name="description" content="Lukas WinklerPrins—math, pedagogy, landscape research.">
+<meta name="viewport" content="width=device-width">
+<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css" />
+<link rel="stylesheet" type="text/css" href="../../public/docs/css/css.css" />
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
+  </head>
+  <body>
+    <!-- Color Frame, thx Amardeep at brrybnds.com -->
+    <div id="top"></div>
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="bottom"></div>
+
+
+    <div id="container">
+      <div class="block">
+
+        <h1>
+          <a class="special_link" href="../../blog/2017-04-15/">2017-04-15</a>
+        </h1>
+
+        
+        
+
+        
+
+        <p>It's an understatement to say I have broad interests, but two of the most consistent threads (going on a decade here...) are in mathematics and visual art.</p>
+
+<p>When this comes up in party conversation, people often ask how the two are related, or if I do art-inspired math or math-inspired art. My response to the first is that they both deal with expression and beauty/truth through symbols and abstraction. Do I blend of the two? Nope.</p>
+
+<p>But why not? I've struggled to articulate the "why" of my answer to the second question, but much if it stems from finding most math-cum-art projects lacking in depth.</p>
+
+<p>A <a href="https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/">statistic analysis of Bob Ross' paintings</a>? Neat. But conceptually boring—Ross' paintings, while beautiful, don't have conceptual depth, and the statistics are vanilla.</p>
+
+<p>I think <a href="http://georgehart.com/">George Hart</a>'s sculptures are rad (I got one installed at Brown), and they're good visualizations of mathematical shapes. But the beauty of the geometries are bogged down by presentation as folk sculpture, and the pieces are static, without emotional charge.</p>
+
+<p><a href="http://www.nikkigraziano.com/index.php/project/found-functions/">Nikki Graziano's Found Functions</a> is a project that achieves something conceptually interesting as both math and art. The photographs are provocative, and the overlay excites further interpretation; the functions are simplistic but demonstrate a potential directness of mathematical modeling.</p>
+
+<p>Why, though, do I still judge these two things separately, rather than being able to intertwine their evaluation?</p>
+
+<p>I am finally rounding around to an answer to this question—why the two fields seem as difficult to blend effectively as oil and water. It comes back to the connection between the two—that they deal with expression through abstraction. The differing approaches to this abstraction, however, make blending difficult.</p>
+
+<p>Canonical abstract art deals with nonrepresentation, or at least non-literal representation. (Abstraction is a spectrum, but the requirement here is an intentional aesthetic of inaccurate or non-real representation.) In an art context, an abstractly realized element can be interpreted to stand-in for something else—something more concrete for the audience, lower on the ladder of abstraction, or something more broadly defined, up on the ladder, to capture broad ideas. ("The woman represents the artist's mother" vs "the woman represents womanhood".)</p>
+
+<p>The details of the implementation are generally taken as crucial: how does the line feel? what energy does this particular color field capture? what does this choice in plastic connote? Elements of visual art are necessarily instantiated in the world, and the details of that instantiation are interpreted by the viewer as key semiotic elements at play.</p>
+
+<p>TL;DR In canonical abstract art, unique details in the instantiation of formal elements are taken as crucial to the meaning and interpretation. Visual artists mine the richness of realized objects to create meaning.</p>
+
+<p>Math, however, moves in a nearly diametrically opposed direction. For a mathematician, there is a power in keeping forms in the abstract. The moment you draw a circle, it's an imperfect circle. But, if we refer to a circle only in its noninstantiated platonic form, it can remain perfect.</p>
+
+<p>As mathematical objects remain uninstantiated, they stay exactly as we made them to be. Instantiation allows for chance of the physical world to enter the process, but a mathematical proof can remain tidy and general in scope without. While lots of mathematical interest comes out of unique cases, these are generally still cases of uniqueness at a high level of abstraction.</p>
+
+<p>Instantiation of math objects brings it all crashing down to earth. When we take about the field, for example, Zmod7, we say <em>the</em> field rather than <em>a</em> field. If we actually collected a set of objects, and played out operations of the field with the objects, it would be <em>a</em> representation of <em>the</em> field. It might be a powerful learning tool, but it's an extra layer between our thinking and the object we'd actually like to manipulate. Instantiation of mathematical objects quickly feels trifling.</p>
+
+<p>Graziano's piece pleasantly aestheticizes the typographic form of the function, despite the actual parts of the function being pretty arbitrary. This is an important point to note, I think—<a href="https://en.wikipedia.org/wiki/Mathematical_notation">the notation</a> we use is exactly the intersection of unique instantiation and platonic form. As a reader, we consider the platonic form by virtue of reading an instantiated symbol. (The same goes for visual art! Mathematicians just don't acknowledge this much. Most everything is automatically typeset by LaTeX and the author focuses on proof, as if it exists in a cultural vacuum.  See also <a href="https://en.wikipedia.org/wiki/Ethnomathematics">Ethnomathematics</a>.)</p>
+
+<p>For a project to meaningfully engage with both math and visual art, it needs to respect both the richness in instantiated detail, as well as the power of noninstantiated abstraction. This is a thin, thin tightrope.</p>
+
+<p>For this reason, the "scores" of Fluxus and related movements are really engaging to me! They're like proofs, but for art-making. The power of the score is present to the reader, and the enaction of the piece serves as its context-dependent instantiation.</p>
+
+<p>What other dimensions of abstraction are there? What's the characteristic difference between abstraction and simplification? How does nonrepresentationalism play into the metaphysics of mathematics? More to entertain, always. For now, though, this dimension of instantiation serves well as the distinction between these two fields I love.</p>
+
+
+        
+        <br /><br />
+        <strong>Internet Topology:</strong><br />
+        <ul>
+<li><a href="https://en.wikipedia.org/wiki/Commonplace_book">Commonplace Book</a></li>
+<li><a href="https://sidewaysdictionary.com/#/">Sideways Dictionary</a></li>
+<li><a href="http://lateraloffice.com/filter/Work/RENEWING-THE-REMOTE-2015-16">Renewing The Remote (Lateral Office)</a>
+http://forum.savingplaces.org/act/pgl/atlas</li>
+</ul>
+
+
+        
+
+      </div>
+    </div>
+
+  </body>
+</html>
+
+<!-- Stacey(2.3.0): 5c095167a5bdc0ff8fef564b4580fcf9 -->
