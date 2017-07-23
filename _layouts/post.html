@@ -3,6 +3,22 @@
     <title>{{ post.title }}</title>
     {% include top_matter.html %}
 
+    <style>
+      #archive,#blogroll{
+        display: none;
+      }
+    </style>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $("#archive_link").click(function(){
+          $("#archive").toggle(500);
+        });
+        $("#blogroll_link").click(function(){
+          $("#blogroll").toggle(500);
+        });
+      });
+    </script>
+
   </head>
   <body>
 
@@ -10,31 +26,25 @@
       <div class="block">
 
         <h1>
-          <a class="special_link" href="@url">@slug</a>
+          <a class="special_link" href="{{ post.url }}">{{ post.date }}</a>
         </h1>
 
-        if @name do
-        <h1>
-          @name
-        </h1>
-        endif
-        if @meta do
-        <code>@meta</code>
-        endif
+        {{ content }}
 
-        foreach $images do
-        <img src="@url" />
-        endforeach
+      </div>
 
-        {{ content }}}}
+      <div class="block" id="blogroll">
+        {% include blogroll.html %}
+      </div>
 
-        if @links do
-        <br /><br />
-        <strong>Internet Topology:</strong><br />
-        @links
+      <div class="block" id="archive">
+        {% for post in site.posts %}
+          <a class="special_link" href="{{ post.url }}">{{ post.date }} ↗</a> {{ post.short }}<br />
+        {% endfor %}
+      </div>
 
-        endif
-
+      <div class="block">
+        <a class="special_link" id="archive_link">Archive</a> | <a class="special_link" id="blogroll_link">Blogroll</a><br /><br />
       </div>
     </div>
 
