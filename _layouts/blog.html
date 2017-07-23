@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>@name</title>
-    :top_matter
+    <title>{{ page.title }}</title>
+    {% include top_matter.html %}
 
     <style>
       #archive,#blogroll{
@@ -23,13 +23,11 @@
   </head>
   <body>
 
-    :frame
-
     <div id="container">
 
       <br />
       <h1>
-        @top
+        {{ page.title }}
       </h1>
 
       get "/blog" do
