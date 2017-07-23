@@ -26,11 +26,19 @@
       <div class="block">
 
         <h1>
-          <a class="special_link" href="{{ post.url }}">{{ post.date }}</a>
+          <a href="{{ site.url }}">&larr; LTWP</a>
+        </h1>
+
+        <h1>
+          <a class="special_link" href="{{ page.url }}">{{ page.date | date: "%Y-%m-%d" }}</a>
         </h1>
 
         {{ content }}
 
+      </div>
+
+      <div class="block">
+        <a class="special_link" id="archive_link">Archive</a> | <a class="special_link" id="blogroll_link">Blogroll</a><br /><br />
       </div>
 
       <div class="block" id="blogroll">
@@ -39,12 +47,8 @@
 
       <div class="block" id="archive">
         {% for post in site.posts %}
-          <a class="special_link" href="{{ post.url }}">{{ post.date }} ↗</a> {{ post.short }}<br />
+          <a class="special_link" href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} ↗</a> {{ post.short }}<br />
         {% endfor %}
-      </div>
-
-      <div class="block">
-        <a class="special_link" id="archive_link">Archive</a> | <a class="special_link" id="blogroll_link">Blogroll</a><br /><br />
       </div>
     </div>
 
