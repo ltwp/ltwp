@@ -3,22 +3,6 @@
     <title>{{ post.title }}</title>
     {% include top_matter.html %}
 
-    <style>
-      #archive,#blogroll{
-        display: none;
-      }
-    </style>
-    <script type="text/javascript">
-      $(document).ready(function(){
-        $("#archive_link").click(function(){
-          $("#archive").toggle(500);
-        });
-        $("#blogroll_link").click(function(){
-          $("#blogroll").toggle(500);
-        });
-      });
-    </script>
-
   </head>
   <body>
 
@@ -37,17 +21,6 @@
 
       </div>
 
-      <div class="block">
-        <a class="special_link" id="archive_link">Archive</a> | <a class="special_link" id="blogroll_link">Blogroll</a><br /><br />
-      </div>
-
-      <div class="block" id="blogroll">
-        {% include blogroll.html %}
-      </div>
-
-      <div class="block" id="archive">
-        {% include archive.html %}
-      </div>
     </div>
 
   </body>
