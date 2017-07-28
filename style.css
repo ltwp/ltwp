@@ -5,7 +5,8 @@
 }
 
 body{
-    font-family: 'Work Sans',sans-serif;
+    /*font-family: 'Work Sans',sans-serif;*/
+    font-family: 'Lab Mono', monospace;
     width: 100%;
     line-height: 165%;
     color: black;
@@ -24,18 +25,12 @@ a:hover{
 }
 
 h1{
-    margin: 20px 0px;
-    font-size: 16pt;
-    line-height: 180%;
+    font-weight: bold;
+    text-transform: capitalize;
 }
 
 h2{
     font-weight: bold;
-    font-size: 14pt;
-}
-h3{
-    text-decoration: underline;
-    font-size: 13pt;
 }
 
 ::selection{
