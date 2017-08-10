@@ -78,8 +78,7 @@ Hoxton Hotel Bar
 Cafe de Engelbewaarder
 
 - - - Brussels - - -
-Frites Flagé
-[foam]
+Tulibris
 Royal Botanical Gardens
 
 - - - Durham - - -
@@ -120,3 +119,7 @@ Burrito Express
 - - - London - - -
 Borough Market
 Luca (restaurant)
+
+- - - Philadelphia - - -
+Barnes Collection
+Spruce Hill Bird Sanctuary
