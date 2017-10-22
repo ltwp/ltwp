@@ -3,10 +3,8 @@ Travel Recs:
 - - - NYC - - -
 mast books
 minca ramen
-green fingers
 mmuseumm
 burger joint (le parker meridien)
-east village social
 McNally Jackson Picture Room
 
 - - - Brooklyn - - -
@@ -41,7 +39,7 @@ National Botanical Garden
 
 - - - Chicago - - -
 Art Institute
-Museum of Contemporary Art
+Poetry Foundation
 
 - - - San Francisco - - -
 william stout architectural books
@@ -105,12 +103,17 @@ Farewell Books
 Stellina
 Marfa Burrito
 
-- - - Los Angeles - - -
+- - - LA (East) - - -
 Cactus Store
 Gigi's Café
+Tacozone (at Vons on Alvarado, North of Sunset)
+Baroo
+1642 (bar)
+
+- - - LA (West) - - -
 Center for Land Use Interpretation
-Tacozone (at Vons on Alvarado)
 Marciano Art Fdn.
+Gjusta
 
 - - - Pasadena - - -
 Huntington Gardens

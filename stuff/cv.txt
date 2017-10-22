@@ -2,10 +2,10 @@ Lukas Theodore WinklerPrins
 b.1992
 
 ----------
-Paid Work:
-2017: Math Fellow @ Renaissance Arts Academy (renarts.org)
+Work:
+2017-present: Math Fellow @ Renaissance Arts Academy (renarts.org)
 2017: Assistant Tour Manager @ OPIA
-2017: Intern @ Help Limited / The Cactus Store (help.limited / hotcactus.la)
+2017: Intern @ The Cactus Store (hotcactus.la)
 2017: Intern @ Civic Projects (civicprojects.org)
 2016: Organizer @ Operation Organization
 2016-2017: Researcher + Strategist @ Standard-Library (standard-library.com)
@@ -25,10 +25,10 @@ Various freelance research, strategy, design, and fabrication.
 
 ----------
 Volunteer Work:
-2016-ongoing: Co-founder @ Learning Gardens (learning-gardens.co) 
+2016-2017: Co-founder @ Learning Gardens (learning-gardens.co) 
 2014: Studio Assistant @ Atelier Boris Bally (borisbally.com)
 2013-2014: Co-founder @ Brown STEAM (steamwith.us)
-2013-2015: RISD Museum Guild Member
+2013-2015: Guild Member / Docent @ RISD Museum
 2012-2013: Sci-Fi Coordinator @ Brickworld Chicago (brickworld.us)
 2011: Engineering Intern @ TURCK GmbH. 
 
@@ -45,6 +45,10 @@ Formal Education:
 Programs Attended:
 2015: Getting Started with PDEs @ Israel Institute for Advanced Study (fully-funded)
 2014: Workshop on Integrating Dynamics and Stochastics @ Brown University
+
+----------
+Memberships:
+2016-present: Brown Design Workshop Advisory Board
 
 ----------
 Shows:
@@ -75,10 +79,8 @@ Press:
 
 ----------
 Presentations & Workshops:
-2017: SIAM CSE in Atlanta "STEAM in Action: Social Modeling through Game Design"
-2016: "What We Mean When We Say Critical Design": A Roundtable on Design & Future at the Critical Design Critical Futures Symposium
-2016: Yale CEID "Space as Policy, Policy as Space"
-2014-2015: Workshops at AS220, BWxD, BU EPIC with Gavin Atkinson: "Creativity and the Design Process through LEGO"
-
-
+2017: "STEAM in Action: Social Modeling through Game Design" @ SIAM CTE (Atlanta, GA)
+2016: "What We Mean When We Say Critical Design": A Roundtable on Design & Future @ Critical Design, Critical Futures Symposium (Providence, RI)
+2016: "Space as Policy, Policy as Space" @ Yale CEID (New Haven, CT)
+2014-2015: "Creativity and the Design Process through LEGO" workshops with Gavin Atkinson @ AS220, BWxD, BU EPIC
 

@@ -18,7 +18,7 @@ This document should be amended as you age.
 
 7. **Keep a beginner’s spirit** but don’t be afraid to fold inwards when necessary. 
 
-8. **Make it easy to make good actions**, and do not dwell in previous ones; just apply learned lessons to those ahead. Think slowly and act quickly. 
+8. **Make it easy to act well**, and do not dwell in previous actions; just apply learned lessons to those ahead. Think slowly and act quickly. 
 
 9. **Work towards an experimental reality**. Push edges of what you think about and how you think about it. Break rules when necessary. Use your life as n=1. 
 
