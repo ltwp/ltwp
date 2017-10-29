@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>{{ site.title }}</title>
+        <title>{{ site.title }}{% if page.title %} | {{page.title}} {% endif %}</title>
         {% include top_matter.html %}
     </head>
     <body>
