@@ -28,6 +28,7 @@ Ada Books
 Athenaeum
 AS220
 Red Fez
+north
 
 - - - DC - - -
 oyamel
@@ -109,6 +110,7 @@ Gigi's Café
 Tacozone (at Vons on Alvarado, North of Sunset)
 Baroo
 1642 (bar)
+Sunset Beer
 
 - - - LA (West) - - -
 Center for Land Use Interpretation
@@ -126,6 +128,7 @@ Luca (restaurant)
 - - - Philadelphia - - -
 Barnes Collection
 Spruce Hill Bird Sanctuary
+Ulises book store
 
 - - - San Diego - - -
 The Crack Shack

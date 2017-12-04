@@ -25,6 +25,7 @@ Various freelance research, strategy, design, and fabrication.
 
 ----------
 Volunteer Work:
+2017–present: Advisor for RenArts Water Science group.
 2016-2017: Co-founder @ Learning Gardens (learning-gardens.co) 
 2014: Studio Assistant @ Atelier Boris Bally (borisbally.com)
 2013-2014: Co-founder @ Brown STEAM (steamwith.us)
@@ -64,7 +65,7 @@ Publications:
 2015: "Paragraphs from the House of Slugs" in Clerestory Arts v.53 n.02
 2015: "A Report on Bottle Caps" in Alternative Commencement
 2014: "Why Do We Teach Math So Badly?" on Deb Mills-Scofield's Blog
-2014: HTML Output book
+2014: HTML Output with John Caserta
 2014: "conversation & space" in Recess Journal
 2013: "Math As Craft" in STEAM Catalogue 1
 
@@ -79,7 +80,7 @@ Press:
 
 ----------
 Presentations & Workshops:
-2017: "STEAM in Action: Social Modeling through Game Design" @ SIAM CTE (Atlanta, GA)
+2017: "STEAM in Action: Social Modeling through Game Design" @ SIAM CSE (Atlanta, GA)
 2016: "What We Mean When We Say Critical Design": A Roundtable on Design & Future @ Critical Design, Critical Futures Symposium (Providence, RI)
 2016: "Space as Policy, Policy as Space" @ Yale CEID (New Haven, CT)
 2014-2015: "Creativity and the Design Process through LEGO" workshops with Gavin Atkinson @ AS220, BWxD, BU EPIC
