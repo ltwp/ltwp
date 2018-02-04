@@ -6,15 +6,7 @@ minca ramen
 mmuseumm
 burger joint (le parker meridien)
 McNally Jackson Picture Room
-
-- - - Brooklyn - - -
-Flowers for All Occasions
-Output (club) 
 Friends & Lovers
-Mountain Province Coffee
-
-- - - Queens - - -
-Bel Aire Diner
 Noguchi Museum
 
 - - - New Orleans - - -
@@ -47,7 +39,6 @@ william stout architectural books
 saigon sandwich (tenderloin)
 cheese board (berkeley)
 boba guys
-sf0 game
 
 - - - Berlin - - -
 do you read me?!
@@ -80,6 +71,10 @@ Cafe de Engelbewaarder
 Tulibris
 Royal Botanical Gardens
 
+- - - Christchurch - - -
+Botanical Gardens
+Taylors Mistake (beach)
+
 - - - Durham - - -
 Duke Gardens
 Cocoa and Cinnamon
@@ -108,9 +103,10 @@ Marfa Burrito
 Cactus Store
 Gigi's Café
 Tacozone (at Vons on Alvarado, North of Sunset)
-Baroo
 1642 (bar)
 Sunset Beer
+Stories Cafe
+Alias Books
 
 - - - LA (West) - - -
 Center for Land Use Interpretation
