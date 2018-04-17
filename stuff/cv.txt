@@ -39,7 +39,7 @@ Fellowships/Residencies:
 
 ----------
 Formal Education:
-2020: (in-progress) Masters of Science, Civil Engineering - University of California, Berkeley 
+2020: (expected) Masters of Science, Civil Engineering - University of California, Berkeley 
 2015: Bachelors of Science, Division of Applied Mathematics - Brown University
 2011: Diploma Cum Laude from Cranbrook Kingswood Upper School
 
@@ -81,7 +81,7 @@ Press:
 
 ----------
 Presentations & Workshops:
-2018: (Tentative) "Radical Pedagogy & Architecture" @ Free School of Architecture (Los Angeles, CA)
+2018: (expected) "Radical Pedagogy & Architecture" @ Free School of Architecture (Los Angeles, CA)
 2017: "STEAM in Action: Social Modeling through Game Design" @ SIAM CSE (Atlanta, GA)
 2016: "What We Mean When We Say Critical Design": A Roundtable on Design & Future @ Critical Design, Critical Futures Symposium (Providence, RI)
 2016: "Space as Policy, Policy as Space" @ Yale CEID (New Haven, CT)
