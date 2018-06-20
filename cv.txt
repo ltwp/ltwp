@@ -12,12 +12,11 @@ Work:
 2016-2017: Tutor @ The Bright Mind (thebrightmind.com)
 2015: Teaching Assistant to Dr David Lipshutz, APMA0360
 2015-2016: Manager, Development Coordinator @ Brown Design Workshop
-2014-2016: Researcher & Strategist @ Thicket Labs (thicketlabs.com)
+2014: Researcher & Strategist @ Thicket Labs (thicketlabs.com)
 2014: Technical Intern @ Community Systems Foundation / DataForAll NYC
-2014: Assistant Construction @ Work-Shop RI
 2013-2014: Assistant to Richard Fishman in Creativity workshops @ ie/Brown MBA Program
 2013-2015: Founding Monitor @ Brown Design Workshop (browndesignworkshop.org)
-2013: Fluids Research Assistant to Dr Martin Maxey, NSF Grant 1133106 @ Brown University
+2013: Research Assistant to Dr Martin Maxey, NSF Grant 1133106 @ Brown University
 2012: Product Representative @ Belly, Inc. 
 2012: Technical Intern @ Community Systems Foundation / DevInfo NYC
 
@@ -81,7 +80,7 @@ Press:
 
 ----------
 Presentations & Workshops:
-2018: (expected) "Radical Pedagogy & Architecture" @ Free School of Architecture (Los Angeles, CA)
+2018: "Spaces of Community Learning" @ Free School of Architecture (Los Angeles, CA)
 2017: "STEAM in Action: Social Modeling through Game Design" @ SIAM CSE (Atlanta, GA)
 2016: "What We Mean When We Say Critical Design": A Roundtable on Design & Future @ Critical Design, Critical Futures Symposium (Providence, RI)
 2016: "Space as Policy, Policy as Space" @ Yale CEID (New Haven, CT)
