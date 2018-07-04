@@ -1,12 +1,10 @@
 *{
     margin: 0;
     padding: 0;
-    /*cursor: crosshair;*/
 }
 
 body{
-    /*font-family: 'Work Sans',sans-serif;*/
-    font-family: 'Lab Mono', monospace;
+    font-family: 'Arial', sans-serif;
     width: 100%;
     line-height: 165%;
     color: black;
@@ -75,14 +73,4 @@ blockquote{
 code{
     background-color: #ccc;
     padding: 5px;
-}
-
-a.special_link{
-    color: red;
-    border-bottom: 1px solid red;
-    cursor: pointer;
-}
-a.special_link:hover{
-    color: white;
-    background-color: red;
 }
