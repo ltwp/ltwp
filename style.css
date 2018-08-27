@@ -31,6 +31,10 @@ h2{
     font-weight: bold;
 }
 
+.title{
+    border-bottom: 1px solid black;
+}
+
 ::selection{
     background: #ccffee; /*#0066ff;*/
 }
