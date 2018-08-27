@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>{{ site.title }}{% if page.title %} | {{page.title}} {% endif %}</title>
+        {% include top_matter.html %}
+    </head>
+    <body>
+
+        <div id="container">
+
+            <!-- Blocks -->
+            <div class="block">
+                {{ content }}
+            </div>
+
+        </div>
+    </body>
+</html>
