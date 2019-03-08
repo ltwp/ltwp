@@ -7,19 +7,21 @@ body{
     font-family: 'Arial', sans-serif;
     width: 100%;
     line-height: 165%;
-    color: black;
-    background-color: white;
+    /* color: black;
+    background-color: white; */
+    color: white;
+    background-color: rgb(32,43,122);;
 }
 
 a{
-    color: blue;
-    border-bottom: 1px solid blue;
+    color: white; /*blue;*/
+    border-bottom: 1px solid white; /*blue;*/
     padding-bottom: 1px;
     text-decoration: none;
 }
 a:hover{
-    color: white;
-    background-color: blue;
+    color: rgb(32,43,122); /*white;*/
+    background-color: white; /*blue;*/
 }
 
 h1{
