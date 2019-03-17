@@ -4,13 +4,14 @@
 }
 
 body{
-    font-family: 'Arial', sans-serif;
+    font: 1.1em 'Arial', sans-serif;
     width: 100%;
     line-height: 165%;
     /* color: black;
     background-color: white; */
     color: white;
-    background-color: rgb(32,43,122);;
+    background-color: rgb(32,43,122);
+    size: 0.9em;
 }
 
 a{
