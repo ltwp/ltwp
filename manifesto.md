@@ -23,7 +23,7 @@ This document should be amended as you age.
 
 8. **Take good care of your body and mind.** They need to last your entire life. This also requires taking care of the space you inhabit—remember to clean and tidy, and be conscious of your media diet. Get enough sleep. Eat enough good food. This is not a place for extremes, contrary to #5. 
 
-9. **Appreciate everything as if it were a flower.** Its life span is finite. It is beautiful regardless. Let it go. 
+9. **Love is appreciation, not possession.** Everything ends. It is beautiful regardless. Let it go. 
 
 10. **Invest in entropy**. Work towards antifragility. A fairly minimal lifestyle assists in this. This also requires establishing systems that make decisions for you, and encourage you to live well. 
 
