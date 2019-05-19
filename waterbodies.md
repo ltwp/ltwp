@@ -3,6 +3,8 @@ layout: writing
 title: waterbodies
 ---
 
+![Old map of Albany/Berkeley California, highlighting creeks and wetlands](https://d2w9rnfcy7mm78.cloudfront.net/4260909/large_aa655620ce307b9aa8188de75ce47165.jpg?1557719842)
+
 We call our home the blue planet but it can be hard to believe when California goes brown. You can always find the blue inside you. (I mean it.) When I am blue I head to the ocean.
 
 When was the last time you went for a swim? When was the last time you thought of yourself as porous? What's the nearest body of water? Is it you?
