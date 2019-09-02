@@ -45,7 +45,7 @@ Daily:
 - Start with the least appealing task.
 - Focused work time early in day.
 - Social & open-ended work time later in day.
-- Drink water, eat just enough.
+- Drink water, eat mostly vegetables.
 - Go outside.
-- No screens after showering—read instead. 
+- No screens after showering. 
 - Keep asking questions. 
