@@ -4,7 +4,7 @@ b.1992
 ----------
 Work:
 2019: GSI/Teaching Assistant for CE100 with Evan Variano @ UC Berkeley, CEE
-2019: Visiting Researcher @ USGS PCMSC
+2019: Assistant Researcher @ USGS PCMSC
 2019: GSI/Teaching Assistant for L&S70C with Nick Sitar @ UC Berkeley, CEE
 2018: Reader/Grader for CE100 with Evan Variano @ UC Berkeley, CEE 
 2017-2018: Advisor @ Renaissance Arts Academy (renarts.org)
@@ -91,6 +91,7 @@ Press:
 
 ----------
 Presentations & Workshops:
+2019: "Trends in Benthic Sediments in San Pablo and Grizzly Bays" @ State of the San Francisco Estuary Conference (Oakland, CA)
 2019: "waterbodies" @ Magic & Pasta (Berkeley, CA)
 2018: "Spaces of Community Learning" @ Free School of Architecture (Los Angeles, CA)
 2017: "STEAM in Action: Social Modeling through Game Design" @ SIAM CSE (Atlanta, GA)
