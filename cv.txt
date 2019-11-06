@@ -5,7 +5,7 @@ b.1992
 Work:
 2019: GSI/Teaching Assistant for CE100 with Evan Variano @ UC Berkeley, CEE
 2019: Graduate Student Researcher @ USGS PCMSC
-2019: GSI/Teaching Assistant for L&S70C with Nick Sitar @ UC Berkeley, CEE
+2019: GSI/Teaching Assistant for L&S70C with Nick Sitar & Robert Kayen @ UC Berkeley, CEE
 2018: Reader/Grader for CE100 with Evan Variano @ UC Berkeley, CEE 
 2017-2018: Advisor @ Renaissance Arts Academy (renarts.org)
 2017: Assistant Tour Manager @ OPIA
@@ -39,7 +39,7 @@ Volunteer Work:
 ----------
 Field Experience:
 2019: San Francisco Bay Vegetation Sedimentation Study - USGS PCMSC
-2019: ADV, CTD deployment in Tomales Bay, California - Bodega Marine Lab
+2019: Sensor Deployment in Tomales Bay, California - Bodega Marine Lab
 2018: Sediment Sampling on the Russian River, California (self-directed)
 
 ----------
@@ -91,12 +91,13 @@ Press:
 
 ----------
 Presentations & Workshops:
+2019: Berkeley Environmental Fluid Mechanics Seminar Speaker (Berkeley, CA)
 2019: "Trends in Benthic Sediments in San Pablo and Grizzly Bays" @ State of the San Francisco Estuary Conference (Oakland, CA)
 2019: "waterbodies" @ Magic & Pasta (Berkeley, CA)
 2018: "Spaces of Community Learning" @ Free School of Architecture (Los Angeles, CA)
 2017: "STEAM in Action: Social Modeling through Game Design" @ SIAM CSE (Atlanta, GA)
-2016: "What We Mean When We Say Critical Design": A Roundtable on Design & Future @ Critical Design, Critical Futures Symposium (Providence, RI)
+2016: "What We Mean When We Say Critical Design": A Roundtable @ Critical Design, Critical Futures Symposium (Providence, RI)
 2016: "Space as Policy, Policy as Space" @ Yale CEID (New Haven, CT)
-2014-2015: "Creativity and the Design Process through LEGO" workshops with Gavin Atkinson @ AS220, BWxD, BU EPIC
+2014-2015: "Creativity and the Design Process through LEGO" with Gavin Atkinson @ AS220, BWxD, BU EPIC (Providence, RI & Boston, MA)
 2013: "Statistical Analysis on Viscous Particulate Fluid Flows" @ Brown Summer Research Symposium (Providence, RI)
 

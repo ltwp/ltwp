@@ -1,10 +1,12 @@
 I have wide interests and can generally find anything interesting. 
 That said, there are some recurring topics. These include, in no order:
 
-- environmental hydrodynamics
+- environmental fluid mechanics
 - resilience of infrastructure and organizations
 - effective metrics, especially in extreme value scenarios
-- geomorphology, especially regarding sediment dynamics
+- geomorphology and anthropogenic forcing
+- sediment transport
+- hazard risk & management
 - effective pedagogy, in and beyond institutions
 - conceptual and performance art, at the edge of sculpture
 - surfing
