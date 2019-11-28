@@ -3,6 +3,7 @@ b.1992
 
 ----------
 Work:
+2020: GSI/Teaching Assistant for CE200B with Mark Stacey @ UC Berkeley, CEE
 2019: GSI/Teaching Assistant for CE100 with Evan Variano @ UC Berkeley, CEE
 2019: Graduate Student Researcher @ USGS PCMSC
 2019: GSI/Teaching Assistant for L&S70C with Nick Sitar & Robert Kayen @ UC Berkeley, CEE
@@ -39,7 +40,7 @@ Volunteer Work:
 ----------
 Field Experience:
 2019: Russian River Tributary Debris Surveys - CA Sea Grant (Brian Kastl)
-2019: San Francisco Bay Vegetation Sedimentation Study - USGS PCMSC
+2019: San Francisco Bay Erodibility Study - USGS PCMSC
 2019: Sensor Deployment in Tomales Bay, California - Bodega Marine Lab
 2018: Sediment Sampling on the Russian River, California (self-directed)
 
@@ -60,7 +61,7 @@ Programs Attended:
 
 ----------
 Memberships:
-2016-present: Brown Design Workshop Advisory Board
+2016-2018: Brown Design Workshop Advisory Board
 
 ----------
 Shows:
@@ -91,7 +92,7 @@ Press:
 2013: http://newsletter.convergenceri.com/stories/STEAM-powers-ahead-even-after-Maedas-departure,265
 
 ----------
-Presentations & Workshops:
+Presentations, Posters, and Workshops:
 2019: Berkeley Environmental Fluid Mechanics Seminar Speaker (Berkeley, CA)
 2019: "Trends in Benthic Sediments in San Pablo and Grizzly Bays" @ State of the San Francisco Estuary Conference (Oakland, CA)
 2019: "waterbodies" @ Magic & Pasta (Berkeley, CA)
