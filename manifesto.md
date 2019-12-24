@@ -1,7 +1,8 @@
 ---
-layout: writing
-title: Lessons To Self
+layout: base
 ---
+
+# Lessons To Self
 
 This document should be amended as you age. 
 
@@ -17,23 +18,23 @@ This document should be amended as you age.
 
 6. **Always be sowing seeds.** Learn new things relentlessly. Keep that beginner's attitude. Every new person is an opportunity for resonance. This nurtures a system of support and interest arounds you. 
 
-7. **Have a borrowing mindset.** Treat things and people with kindness and agility. Stay liquid and don’t buy until you’ve tried. Don’t get something until you’ll need it, and celebrate what you have. 
+7. **Have a borrowing mindset.** Treat things with kindness and utility. Stay liquid and don’t buy until you’ve tried. Don’t get something until you’ll need it, and celebrate what you have. 
 
 8. **Take good care of your body and mind.** They need to last your entire life. This also requires taking care of the space you inhabit—remember to clean and tidy, and be conscious of your media diet. Get enough sleep. Eat enough good food. This is not a place for extremes, contrary to #5. 
 
 9. **Love manifests as appreciation and generosity, not possession.** Enjoy what is in front of you. Give! A grip too strong can crush. On that note...
 
-10. **Everything is temporary.** It will end. It is beautiful regardless. Consider the flower. 
+10. **Everything changes.** It will end. It is beautiful regardless. (Consider the flower.) 
 
 11. **Invest in entropy.** Work towards antifragility. A fairly minimal lifestyle assists in this. This also requires establishing systems that make decisions for you, and encourage you to live well. 
 
 12. **Regularly reflect and reflect-through-action.** Look at yourself, check yourself, then adjust. Encourage experimental living, as it nurtures acting on reflection. Use your life as n=1. (This requires travel, unplugging, and newness).
 
-13. The thoughts you have, actions you take, people you talk to, and culture you immerse yourself in make permanent marks on you and your identities. **Your experiences and thoughts are objects of their own right, and deserve attention.**
+13. The thoughts you have, actions you take, people you talk to, and culture you immerse yourself in make permanent marks on you and your identities. **Your experiences and thoughts are objects of their own right.** Make art to give the attention they deserve.
 
 14. You are a product of immeasurable privilege. **Use your time, energy, and money to learn and act to the benefit of those without excess.** 
 
-15. **Recognize the value in habits.** More than explicit habits, consistency is key to making effects. Build patterns that work to your strengths and weaknesses. Note the cost of context-switching: block your time. **Practice focus.**
+15. **Recognize the value in habits.** More than explicit habits, consistency is key to making effects. Build patterns that work to your strengths and weaknesses. Block your time, remove distractions. **Practice focus.** Mornings are best. 
 
 16. **You learn it by doing it.** Synthesis comes through action; don't sit and think too long. Gestures don't need to be big. Small actions will lead to new insight, new questions, and momentum. 
 
