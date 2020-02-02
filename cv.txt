@@ -3,19 +3,16 @@ b.1992
 
 ----------
 Work:
-2020: GSI/Teaching Assistant for CE200B with Mark Stacey @ UC Berkeley, CEE
-2019: GSI/Teaching Assistant for CE100 with Evan Variano @ UC Berkeley, CEE
-2019: Graduate Student Researcher @ USGS PCMSC
-2019: GSI/Teaching Assistant for L&S70C with Nick Sitar & Robert Kayen @ UC Berkeley, CEE
-2018: Reader/Grader for CE100 with Evan Variano @ UC Berkeley, CEE 
+2019-2020: Graduate Student Researcher @ USGS PCMSC
+2018-2020: Teaching Assistant & Grader (CE100, L&S70C, CE200B) @ UC Berkeley, CEE 
 2017-2018: Advisor @ Renaissance Arts Academy (renarts.org)
 2017: Assistant Tour Manager @ OPIA
 2017: Intern @ The Cactus Store (hotcactus.la)
 2017: Intern @ Civic Projects (civicprojects.org)
 2016-2017: Researcher + Strategist @ Standard-Library (standard-library.com)
 2016-2017: Tutor @ The Bright Mind (thebrightmind.com)
-2015: Teaching Assistant for APMA0360 with  David Lipshutz @ Brown University
-2015-2016: Manager, Development Coordinator @ Brown Design Workshop
+2015: Teaching Assistant (APMA0360) @ Brown University
+2015-2016: Manager / Development Coordinator @ Brown Design Workshop
 2014: Researcher & Strategist @ Thicket Labs (thicketlabs.com)
 2014: Technical Intern @ Community Systems Foundation / DataForAll NYC
 2013-2014: Assistant to Richard Fishman in Creativity workshops @ ie/Brown MBA Program
@@ -24,7 +21,7 @@ Work:
 2012: Product Representative @ Belly, Inc. 
 2012: Technical Intern @ Community Systems Foundation / DevInfo NYC
 
-Various freelance research, strategy, design, and fabrication.
+Occasional freelance research, strategy, design, and fabrication.
 
 ----------
 Volunteer Work:
@@ -40,7 +37,7 @@ Volunteer Work:
 ----------
 Field Experience:
 2019: Russian River Tributary Debris Surveys - CA Sea Grant (Brian Kastl)
-2019: San Francisco Bay Erodibility Study - USGS PCMSC
+2019-2020: San Francisco Bay Erodibility Study - USGS PCMSC
 2019: Sensor Deployment in Tomales Bay, California - Bodega Marine Lab
 2018: Sediment Sampling on the Russian River, California (self-directed)
 
@@ -50,7 +47,7 @@ Fellowships/Residencies:
 
 ----------
 Formal Education:
-2020: Masters of Science, Civil Engineering (Environmental Program) - University of California, Berkeley 
+2020: Masters of Science, Environmental Engineering - University of California, Berkeley 
 2015: Bachelors of Science, Division of Applied Mathematics - Brown University
 2011: Diploma Cum Laude - Cranbrook Kingswood Upper School
 
@@ -61,6 +58,7 @@ Programs Attended:
 
 ----------
 Memberships:
+2020-present: Coastal & Estuarine Research Federation
 2016-2018: Brown Design Workshop Advisory Board
 
 ----------
@@ -72,6 +70,7 @@ Fall 2013: Brown Physics Art Show. "ALL OF THE WORDS I NEVER SAID TO YOU" Acryli
 
 ----------
 Publications:
+2020: (forthcoming piece in Berkeley Science Review)
 2018: Are.na Dispatch Newsletter Introduction, 15 November
 2017: "Math & Mysticism" on AVANT.org
 2016: "Disciplinaryism" in STEAM Catalogue 5
@@ -93,7 +92,7 @@ Press:
 
 ----------
 Presentations, Posters, and Workshops:
-2019: Berkeley Environmental Fluid Mechanics Seminar Speaker (Berkeley, CA)
+2019, 2020: Berkeley Environmental Fluid Mechanics Seminar Speaker (Berkeley, CA)
 2019: "Trends in Benthic Sediments in San Pablo and Grizzly Bays" @ State of the San Francisco Estuary Conference (Oakland, CA)
 2019: "waterbodies" @ Magic & Pasta (Berkeley, CA)
 2018: "Geomorphic and Hydraulic Controls on Coho Salmon Outmigration in the Russian River Watershed" @ River Restoration Symposium (Berkeley, CA)
