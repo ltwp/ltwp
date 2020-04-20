@@ -6,7 +6,7 @@ layout: base
 
 This document should be amended as you age. 
 
-1. **Work to implement your values in all you do.** Act towards the things you value—agency, generosity, empathy, kindness, energy, efficacy, avoiding excess, acceptance, sustainability, interestingness, etc. 
+1. **Work to implement your values in all you do.** Act towards the things you value—agency, generosity, empathy, kindness, energy, efficacy, acceptance, sustainability, interestingness, etc. 
 
 2. **Do what you say you will.** The best way to start working in this direction is being very, very careful about what you say “yes” to. Be liberal and gentle with saying “no”.
 
@@ -16,11 +16,11 @@ This document should be amended as you age.
     
 5. **Aim for an actively balanced life.** Don’t find balance by standing static in the middle of everything—instead, hit the extremes and let them stabilize each other. (Some exceptions apply.) 
 
-6. **Always be sowing seeds.** Learn new things relentlessly. Keep that beginner's attitude. Every new person is an opportunity for resonance. This nurtures a system of support and interest arounds you. 
+6. **Always be sowing seeds.** Learn new things relentlessly. Keep a beginner's attitude. Every new person is an opportunity for resonance. This nurtures a system of support and interest arounds you. 
 
 7. **Have a borrowing mindset.** Treat things with kindness and utility. Stay liquid and don’t buy until you’ve tried. Don’t get something until you’ll need it, and celebrate what you have. 
 
-8. **Take good care of your body and mind.** They need to last your entire life. This also requires taking care of the space you inhabit—remember to clean and tidy, and be conscious of your media diet. Get enough sleep. Eat enough good food. This is not a place for extremes, contrary to #5. 
+8. **Take good care of your body and mind.** They need to last your entire life. This also requires taking care of the space you inhabit—remember to clean and tidy, and be conscious of your media diet. Get enough sleep. Eat enough good food. This is not a place for extremes, contrary to above. 
 
 9. **Love manifests as appreciation and generosity, not possession.** Enjoy what is in front of you. Give! A grip too strong can crush. On that note...
 
@@ -34,13 +34,11 @@ This document should be amended as you age.
 
 14. You are a product of immeasurable privilege. **Use your time, energy, and money to learn and act to the benefit of those without excess.** 
 
-15. **Recognize the value in habits.** More than explicit habits, consistency is key to making effects. Build patterns that work to your strengths and weaknesses. Block your time, remove distractions. **Practice focus.** Mornings are best. 
+15. **Recognize the value in habits.** More than explicit habits, consistency is key to making effects. Build patterns that work to your strengths and weaknesses. Block your time, remove distractions. **Practice focus.** Find the times that work best. 
 
 16. **You learn it by doing it.** Synthesis comes through action; don't sit and think too long. Gestures don't need to be big. Small actions will lead to new insight, new questions, and momentum. 
 
-17. **Do stuff with your friends.** That's what you have them for. Ask for help! Go to things, or start them. Entertain questions. Generate energy. 
-
-18. For you, **the most rewarding social time is one-on-one**. Prioritize that. 
+17. **Do stuff with your friends.** That's what you have them for. Ask for help! Go to things, or start them. Entertain questions. Generate energy. Make one-on-one time, and group time. 
 
 ~
 

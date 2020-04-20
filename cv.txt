@@ -25,10 +25,11 @@ Occasional freelance research, strategy, design, and fabrication.
 
 ----------
 Volunteer Work:
+2020: UC Berkeley Civil & Environmental Engineering Organizing Team
 2020: City Surf Project
 2019: UC Berkeley Environmental Engineering Seminar Committee Member
 2017–2018: Faculty advisor for RenArts Water Science group.
-2016-present: Co-founder @ Learning Gardens (learning-gardens.co) 
+2016-2019: Co-founder @ Learning Gardens (learning-gardens.co) 
 2014: Studio Assistant @ Atelier Boris Bally (borisbally.com)
 2013-2014: Co-founder @ Brown STEAM (steamwith.us)
 2013-2015: Guild Member / Docent @ RISD Museum
@@ -37,7 +38,7 @@ Volunteer Work:
 
 ----------
 Field Experience:
-2020: Angelo Coast Range Reserve, Eel River Morphology - UC Berkeley (Bill Dietrich)
+[2020: Angelo Coast Range Reserve, Eel River Morphology - UC Berkeley (Bill Dietrich)]
 2019: Russian River Tributary Debris Surveys - CA Sea Grant (Brian Kastl)
 2019-2020: San Francisco Bay Erodibility Study - USGS PCMSC (Jessie Lacy et al.)
 2019: Sensor Deployment in Tomales Bay, California - Bodega Marine Lab (John Largier et al.)
