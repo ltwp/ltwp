@@ -10,7 +10,7 @@ This document should be amended as you age.
 
 2. **Do what you say you will.** The best way to start working in this direction is being very, very careful about what you say “yes” to. Be liberal and gentle with saying “no”.
 
-3. **Touch it once.** Do not split tasks into multiple parts unnecessarily. Do not defer. "Do easy" and keep the task contained within itself as best you can. 
+3. **Touch it once.** Do not split tasks into multiple parts unnecessarily. Do not defer. "Do easy" and keep the task contained within itself as best you can. **Close the gap between idea and action**. 
 
 4. **Seek out primary sources**, and be wary of secondary sources (even newspapers). Don’t read the science digest, read the science. If you can’t understand a primary source, this is a great learning opportunity. Study what you need to understand. 
     
@@ -49,5 +49,5 @@ Daily:
 - Social & open-ended work time later in day.
 - Drink water, eat mostly vegetables.
 - Go outside.
-- No screens after showering. 
+- No screens in the evening. 
 - Ask new questions. 
