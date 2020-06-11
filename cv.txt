@@ -4,7 +4,7 @@ b.1992
 ----------
 Work:
 2019-present: Graduate Student Researcher @ USGS PCMSC
-2018-2020: Teaching Assistant & Grader (CE100, L&S70C, CE200B) @ UC Berkeley, CEE 
+2018-2020: Teaching Assistant / Grader (CE100, L&S70C, CE200B) @ UC Berkeley, CEE 
 2017-2018: Advisor @ Renaissance Arts Academy (renarts.org)
 2017: Assistant Tour Manager @ OPIA
 2017: Intern @ The Cactus Store (hotcactus.la)
@@ -25,9 +25,9 @@ Occasional freelance research, strategy, design, and fabrication.
 
 ----------
 Volunteer Work:
-2020: UAW2865 Department Steward (Civil & Environmental Engineering)
-2020: UC Berkeley Civil & Environmental Engineering Organizing Team
-2020: City Surf Project
+2020-present: UAW2865 Department Steward (Civil & Environmental Engineering)
+2020-present: UC Berkeley Civil & Environmental Engineering Organizing Team
+2020-present: City Surf Project
 2019: UC Berkeley Environmental Engineering Seminar Committee Member
 2017–2018: Faculty Advisor for RenArts Water Science Group
 2016-2019: Co-founder @ Learning Gardens (learning-gardens.co) 
@@ -39,7 +39,7 @@ Volunteer Work:
 
 ----------
 Field Experience:
-[2020: Angelo Coast Range Reserve, Eel River Morphology - UC Berkeley (Bill Dietrich)]
+[postponed] 2020: Angelo Coast Range Reserve, Eel River Morphology - UC Berkeley (Bill Dietrich)
 2019: Russian River Tributary Debris Surveys - CA Sea Grant (Brian Kastl)
 2019-2020: San Francisco Bay Erodibility Study - USGS PCMSC (Jessie Lacy et al.)
 2019: Sensor Deployment in Tomales Bay, California - Bodega Marine Lab (John Largier et al.)
@@ -51,7 +51,7 @@ Fellowships/Residencies:
 
 ----------
 Formal Education:
-PhD in-progress - University of California, Berkeley
+PhD in-progress: Environmental Engineering - University of California, Berkeley
 2020: Masters of Science, Environmental Engineering - University of California, Berkeley 
 2015: Bachelors of Science, Division of Applied Mathematics - Brown University
 2011: Diploma Cum Laude - Cranbrook Kingswood Upper School
