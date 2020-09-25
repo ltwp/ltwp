@@ -40,6 +40,8 @@ This document should be amended as you age.
 
 17. **Do stuff with your friends.** That's what you have them for. Ask for help! Go to things, or start them. Entertain questions. Generate energy. Make one-on-one time, and group time. 
 
+18. It's OK to take up space. **Your desires can be reality if you pursue them.** Don't get too full of yourself, but you dictate the direction of your life. 
+
 ~
 
 Daily:
