@@ -7,22 +7,22 @@ body{
     font: 1.1em 'Arial', sans-serif;
     width: 100%;
     line-height: 165%;
-    /* color: black;
-    background-color: white; */
-    color: white;
-    background-color: rgb(32,43,122);
+    color: rgb(28,28,28);
+    background-color: white;
+    /* color: white;
+    background-color: rgb(32,43,122); */
     size: 0.9em;
 }
 
 a{
-    color: white; /*blue;*/
-    border-bottom: 1px solid white; /*blue;*/
+    color: rgb(28,28,28); /*white;*/
+    border-bottom: 1px solid rgb(28,28,28); /*white; */
     padding-bottom: 1px;
     text-decoration: none;
 }
 a:hover{
-    color: rgb(32,43,122); /*white;*/
-    background-color: white; /*blue;*/
+    color: white; /*rgb(32,43,122); */
+    background-color: rgb(28,28,28); /*white; */
 }
 
 h1{
@@ -35,7 +35,7 @@ h2{
 }
 
 .title{
-    border-bottom: 1px solid white; /*black;*/
+    border-bottom: 1px solid rgb(28,28,28); /*white;*/
 }
 
 ::selection{
@@ -51,9 +51,9 @@ ul{
     max-width: 600px;
     margin-left: 5%;
 }
-#container img{
+/*#container img{
     width: 100%;
-}
+}*/
 
 .block{
     margin-top: 12vh;
