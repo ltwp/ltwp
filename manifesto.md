@@ -48,6 +48,7 @@ Daily:
 - Stretch & Meditate.
 - Start with the least appealing task.
 - Focused work time early in day.
+- Only log on a couple times.
 - Social & open-ended work time later in day.
 - Drink water, eat mostly vegetables.
 - Go outside.
