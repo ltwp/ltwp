@@ -16,7 +16,7 @@ This document should be amended as you age.
     
 5. **Aim for an actively balanced life.** Don’t find balance by standing static in the middle of everything—instead, hit the extremes and let them stabilize each other. (Some exceptions apply.) 
 
-6. **Always be sowing seeds.** Learn new things relentlessly. Keep a beginner's attitude. Every new person is an opportunity for resonance. This nurtures a system of support and interest arounds you. 
+6. **Have a gardening mindset.** Learn new things relentlessly. Keep a beginner's attitude. Every new person is an opportunity for resonance. This nurtures a system of support and interest arounds you. 
 
 7. **Have a borrowing mindset.** Treat things with kindness and utility. Stay liquid and don’t buy until you’ve tried. Don’t get something until you’ll need it, and celebrate what you have. 
 
