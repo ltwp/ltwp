@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 # Research
 
 I am a researcher, currently as a PhD student under Mark Stacey in UC Berkeley's <a href="https://ce.berkeley.edu/">CEE</a>. I am partially supported via the USGS and have worked with federal scientists out of the Pacific Coastal and Marine Science Center.  I enjoy collaborating with people in different places and disciplines. 
