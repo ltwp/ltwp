@@ -3,63 +3,63 @@ layout: text
 title: CV
 ---
 
-Lukas T Winkler Prins
+Lukas T Winkler Prins <br />
 b. 1992
 
 **Professional Work**
 
-PhD Student
-Environmental Engineering
-UC Berkeley 
-Berkeley, California
-2020-present
+PhD Student <br />
+Environmental Engineering<br />
+UC Berkeley <br />
+Berkeley, California <br />
+2020-present<br />
 
-Graduate Student Researcher
-USGS Pacific Coastal & Marine Science Center
-Santa Cruz, California
-2019-present
+Graduate Student Researcher<br />
+USGS Pacific Coastal & Marine Science Center<br />
+Santa Cruz, California<br />
+2019-present<br />
 
-Advisor
-Renaissance Arts Academy
-Los Angeles, California
-2017-2018
+Advisor<br />
+Renaissance Arts Academy<br />
+Los Angeles, California<br />
+2017-2018<br />
 
-Development Coordinator
-Brown Design Workshop
-Providence, Rhode Island
-2015-2016
+Development Coordinator<br />
+Brown Design Workshop<br />
+Providence, Rhode Island<br />
+2015-2016<br />
 
 --
 
 **Education**
 
-M.S. Environmental Engineering
-UC Berkeley, May 2020
+M.S. Environmental Engineering<br />
+UC Berkeley, May 2020<br />
 
-B.S. Applied Mathematics
-Brown University, May 2015
+B.S. Applied Mathematics<br />
+Brown University, May 2015<br />
 
 --
 
 **Programs Attended**
 
-"Drone Camp"
-University of California
-Remote, 2021
+"Drone Camp"<br />
+University of California<br />
+Remote, 2021<br />
 
-"Getting Started with PDEs"
-Israel Institute of Advanced Study
-Jerusalem, 2015
+"Getting Started with PDEs"<br />
+Israel Institute of Advanced Study<br />
+Jerusalem, 2015<br />
 
-"Integrating Dynamics and Stochastics"
-Division of Applied Mathematics, Brown University
-Providence Rhode Island, 2014
+"Integrating Dynamics and Stochastics"<br />
+Division of Applied Mathematics, Brown University<br />
+Providence Rhode Island, 2014<br />
 
 --
 
 **Fellowships**
 
-Fellow
-The Design Office
-Providence, Rhode Island, 2016
+Fellow<br />
+The Design Office<br />
+Providence, Rhode Island, 2016<br />
 
