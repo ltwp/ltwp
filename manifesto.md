@@ -22,7 +22,7 @@ This document should be amended as you age.
 
 8. **Take good care of your body and mind.** They need to last your entire life. This also requires taking care of the space you inhabit—remember to clean and tidy, and be conscious of your media diet. Get enough sleep. Eat enough good food. This is not a place for extremes, contrary to above. 
 
-9. **Love manifests as appreciation and generosity, not possession.** Enjoy what is in front of you. Give! A grip too strong can crush. On that note...
+9. **Love manifests as appreciation and generosity, not possession.** Enjoy what is in front of you, and give to it. A grip too strong can crush. On that note...
 
 10. **Everything changes.** It will end. It is beautiful regardless. (Consider the flower.) 
 
@@ -41,3 +41,8 @@ This document should be amended as you age.
 17. **Do stuff with your friends.** That's what you have them for. Ask for help! Go to things, or start them. Entertain questions. Generate energy. Make one-on-one time, and group time. 
 
 18. It's OK to take up space. **Your desires can be reality if you pursue them.** Don't get too full of yourself, but you dictate the direction of your life. 
+
+
+- figure out what you can give the world (skills, non-consumption)
+- the cure for low self-esteem is to finish tasks
+- fail quickly
