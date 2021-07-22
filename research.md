@@ -1,8 +1,7 @@
 ---
 layout: base
+title: Research
 ---
-
-<div class="block"> 
 
 # Research
 
@@ -17,5 +16,3 @@ At the broadest scale, I am interested in understanding the forces that dictate 
 I work primarily as a field scientist, but connecting field data to larger spatial and temporal timescales using remote sensing and modeling applications is crucial. 
 
 Outside of technical questions, I am energized by the characteristics of human-nature relations and material history or historical ecology around estuaries and bays. I am keen to celebrate citizen-scale participation in environmental management and action. And I love to teach. 
-
-</div>

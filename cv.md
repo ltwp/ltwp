@@ -1,8 +1,7 @@
 ---
-layout: base
+layout: text
+title: CV
 ---
-
-<div class="block">
 
 Lukas T Winkler Prins
 b. 1992
@@ -64,4 +63,3 @@ Fellow
 The Design Office
 Providence, Rhode Island, 2016
 
-</div>
