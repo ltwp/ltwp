@@ -46,3 +46,5 @@ This document should be amended as you age.
 - figure out what you can give the world (skills, non-consumption)
 - the cure for low self-esteem is to finish tasks
 - fail quickly
+- knowledge is something that is in use
+- without fear and without trying to impress
