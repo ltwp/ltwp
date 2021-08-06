@@ -11,7 +11,7 @@ At the broadest scale, I am interested in change in coastal systems. More specif
 
 - hydrodynamics and sediment transport in estuaries
 - geomorphology and restoration engineering in estuaries
-- mathematical analysis of estuarine physics and risk
+- mathematical analysis of coastal physics and risk
 - effective use of in-situ sensors 
 
 I work primarily as a field scientist, but working on larger spatial and temporal timescales using remote sensing and modeling applications is crucial. 

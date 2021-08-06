@@ -63,3 +63,7 @@ Fellow<br />
 The Design Office<br />
 Providence, Rhode Island, 2016<br />
 
+**Publications**
+
+USGS Data Releases<br />
+https://cmgds.marine.usgs.gov/catalog/author.php?author=Winklerprins%2C+Lukas+T.
