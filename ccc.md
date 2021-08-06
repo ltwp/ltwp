@@ -1,7 +1,9 @@
 ---
 layout: text
-title: Where The Sea Flows Uphill: A CCC Story on the Tijuana River Estuary
+title: CCC Short Story
 ---
+
+# Where The Sea Flows Uphill: A CCC Story on the Tijuana River Estuary
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/12760861/original_25df4e3738ca263af78c39ee42b28e0a.png)
 
@@ -235,3 +237,5 @@ Restoration engineers began to use the estuary as a success story in Southern Ca
 The border guard no longer felt that their main workload was surviving the stench: it was now fishers who would try to fish through the border walls to get to the good ponds. Some surfers realized discarded material offshore had improved the waves, and the water quality was good enough that they wouldn’t risk an ear infection. They both had to be shooed away, but often lazily: as the flurry of the CCC project ended, the region returned to a slower pace of change. The tide continued to sweep in and out of the Tijuana Estuary, as it had for millennia, and the Santa Ana winds shook the grasses, cooling off the heat of the day. 
 
 
+<br /><br /><br /><br />
+_This story was inspired by others ([1](https://www.bryanlehrer.com/entries/ccc/), [2](http://jfrancisayres.com/writing/sad-break-up-ccc/)) and is part of a larger effort to envision the future of the Civilian Climate Corps and environmental practices in the United States._
