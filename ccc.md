@@ -11,7 +11,7 @@ Various patterns persisted while human visitorship plummeted. Bird carcasses col
 
 —
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/12760861/original_25df4e3738ca263af78c39ee42b28e0a.png)
+![](https://d2w9rnfcy7mm78.cloudfront.net/12762999/original_9697acff884eb4ced1c5fd43b0b783b6.png?1628233006?bc=0)
 
 In the mid 2020s, a massive offshore oil field was found near Punta Cabras. As the Cantarell Field in the Gulf of Mexico dried up, Pemex redirected its oil infrastructure to the Baja Peninsula, fueling infrastructure overhaul to the Sonora and Baja states and a population boom in northern Baja. Water shortages initially throttled development, but a network of federally-funded desalination plants on both the Pacific and Gulf of California side eventually served the need, and Baja’s water infrastructure began to rival that of its northern neighbor, California. The plush pockets of oil employees fueled a cultural renaissance in Ensenada and an urban corridor, coined “Cabras,” ballooned with people, connecting the oil landings to the urban agglomeration. 
 
@@ -47,7 +47,7 @@ As it turned out, Rose’s lagoons—symbols of youthful escape, stages for meet
 
 —
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/12762915/original_905d5f35a51454aaf2dd715961b0363c.jpg)
+![](https://d2w9rnfcy7mm78.cloudfront.net/12763001/original_743621aab705170d4bea020f9340761b.jpg?1628233013?bc=0)
 
 Elyssa’s job was somewhat complicated by Pemex’ gravitational pull south of the border. To any young adult, if all you could expect was manual labor, why pull weeds and haul concrete when you could work an oil truck and make ten times the income? Getting a ticket across the border was tough to find, though, with success mostly found only by those with both American and Mexican passports. Successful in the legal sense, at least. 
 
@@ -120,7 +120,7 @@ Rose had met Elyssa in her interview for the position, and had talked her throug
 
 —
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/12762910/original_403b144f9afaf67735c674ca80a70673.jpg)
+![](https://d2w9rnfcy7mm78.cloudfront.net/12763000/original_b6b0cf1d3f9fef20704a3b0d24bf33ac.jpg?1628233009?bc=0)
 
 Rose did not get her own government truck, but occasionally she got to drive one. On a crisp December day, she drove towards the group of people working the hills of the upper estuary, so that the team could shovel their pluckings into the pickup’s bed. She yanked the parking brake, hopped out, and gestured for the others to start filling the back. From the passenger side she pulled a water jug, and the field team took turns filling their water bottles after they shoveled their respective heaps of plant stuff into the back. This week’s work included removal of a few acres of invasives that had little benefit; the next week they would re-plant. It was December, and the rainy months were upon them: a perfect time to seed some new members of the ecosystem. 
 
@@ -228,7 +228,7 @@ Esteban chuckled. He pulled his hat deeper over his eyes and tossed his line out
 
 —
 
-![https://en.wikipedia.org/wiki/Tijuana_River#/media/File:Tijuana_River_Estuary.jpg](https://d2w9rnfcy7mm78.cloudfront.net/5673381/original_4bacc4e13a123f6e782c3b1394060705.jpg)
+![https://en.wikipedia.org/wiki/Tijuana_River#/media/File:Tijuana_River_Estuary.jpg](https://d2w9rnfcy7mm78.cloudfront.net/12763004/original_bf4d10a29e89a9aa7cf4cd4375092857.jpg?1628233036?bc=0) 
 
 When the mouth of the river became plugged, there was no longer the need to open it for pollution dispersion, and seals would sit sunning on the sand berm until the river flowed again. People walked near the border walls, on either side, and there was an open contract between San Diego County and Tijuana Municipal Parks to manage and monitor the region jointly, sharing policies and ecological goals. 
 
