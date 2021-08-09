@@ -54,6 +54,12 @@ ul{
 /*#container img{
     width: 100%;
 }*/
+@media screen and (max-width: 30em) {
+#container{
+width: 80vw;
+max-width: 80vw;
+margin-left: 5%;
+} }
 
 .block{
     margin-top: 12vh;
