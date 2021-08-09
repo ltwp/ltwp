@@ -46,20 +46,25 @@ ul{
     list-style-type: disc;
 }
 
-#container{
-    width: 80vw;
-    max-width: 600px;
-    margin-left: 5%;
+@media only screen and (max-width: 600px) {
+	#container{
+	    width: 90vw;
+	}
 }
-/*#container img{
-    width: 100%;
-}*/
-@media screen and (max-width: 30em) {
+@media only screen and (min-width: 601px) {
+	#container{
+		max-width: 600px;
+	}
+}
+
+
 #container{
-width: 80vw;
-max-width: 80vw;
-margin-left: 5%;
-} }
+    margin-left: 5vw;
+	width: 80vw;
+}
+#container img{
+    max-width: 100%;
+}
 
 .block{
     margin-top: 12vh;
