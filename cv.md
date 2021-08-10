@@ -67,3 +67,20 @@ Providence, Rhode Island, 2016<br />
 
 USGS Data Releases<br />
 https://cmgds.marine.usgs.gov/catalog/author.php?author=Winklerprins%2C+Lukas+T.
+
+**Volunteering**
+GSC
+UAW
+Env Eng Seminar Committee
+Brickworld
+East Bay Mutual Aid Project
+
+**Conferences**
+
+SIAM 2017 SHI
+
+SERCAL (cancelled due to COVID)
+
+Port Defense & SLR Conferences
+
+Bay Science
