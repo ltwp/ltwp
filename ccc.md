@@ -240,7 +240,7 @@ The border guard no longer felt that their main workload was surviving the stenc
 
 
 <br /><br /><br /><br />
-_This story was inspired by others ([1](https://www.bryanlehrer.com/entries/ccc/), [2](http://jfrancisayres.com/writing/sad-break-up-ccc/)) and is part of a larger effort to envision the future of the Civilian Climate Corps and environmental practices in the United States. Thanks for reading._
+_This story was inspired by others ([1](https://www.bryanlehrer.com/entries/ccc/), [2](http://jfrancisayres.com/writing/sad-break-up-ccc/)) and is part of a larger effort, the [CCC Futures Project](https://www.cccfutures.com/index.html). Let me know if you want to join. Thanks for reading._
 
 <br /><br />
-_All photos are the author's, except for the final one, which was found through [Wikimedia](https://en.wikipedia.org/wiki/Tijuana_River#/media/File:Tijuana_River_Estuary.jpg)._
+_All photos are the author's, except for the last, found through [Wikimedia](https://en.wikipedia.org/wiki/Tijuana_River#/media/File:Tijuana_River_Estuary.jpg)._
