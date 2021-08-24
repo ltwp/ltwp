@@ -4,7 +4,7 @@ title: CCC Short Story
 ---
 
 # Where The Sea Flows Uphill
-_Lukas WinklerPrins_
+_Lukas Winkler Prins_
 
 For reasons both geopolitical and sensory, no human had stepped within 300 meters of the Tijuana River Estuary in nearly a decade. For all but some migrating birds, hardy crabs, and fairy shrimp, the walls around the waterway were just too high, and the smell too acerbic to invite any visitors. The estuary—where the river flows into the ocean—is where everything lands as it flows downstream, and the region had been collecting runoff for generations while warmer temperatures encouraged algal blooms and fish kills. The pollutants were urban trash and raw sewage discharge from the Tijuana metropolis, and the cause for concentration in the estuary was inaction by government players due to disputed responsibility between the United States and Mexico, La Paz Agreement notwithstanding. San Diego County, north of the border, had turned the estuary region, formerly a patchwork of jurisdictions, into a singular park, joint-run between the state of California and Homeland Security. But, increased concerns of flooding and pollution gradually shifted the region from public space to the ecological equivalent of a demilitarized zone. 
 
@@ -241,3 +241,6 @@ The border guard no longer felt that their main workload was surviving the stenc
 
 <br /><br /><br /><br />
 _This story was inspired by others ([1](https://www.bryanlehrer.com/entries/ccc/), [2](http://jfrancisayres.com/writing/sad-break-up-ccc/)) and is part of a larger effort to envision the future of the Civilian Climate Corps and environmental practices in the United States. Thanks for reading._
+
+<br /><br />
+_All photos are the author's, except for the final one, which was found through [Wikimedia](https://en.wikipedia.org/wiki/Tijuana_River#/media/File:Tijuana_River_Estuary.jpg)._
