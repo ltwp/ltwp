@@ -9,13 +9,13 @@ I am a researcher, currently as a PhD student under Mark Stacey in UC Berkeley's
 
 At the broadest scale, I am interested in change in coastal systems. More specifically, I am interested in:
 
-- hydrodynamics and sediment transport in estuaries
-- geomorphology and restoration engineering in estuaries
+- hydrodynamics, geomorphology, and sediment transport in estuaries
+- restoration engineering in coastal environments
 - mathematical analysis of coastal physics and risk
 - effective use of in-situ sensors 
 
-I work primarily as a field scientist, but working on larger spatial and temporal timescales using remote sensing and modeling applications is crucial. 
+I work primarily as a field scientist, but connecting field data to larger spatial and temporal timescales using remote sensing and modeling applications is crucial. 
 
-Outside of technical questions, I am energized by the epistemology of human-environment relations, the social relations of infrastructure, and historical ecology around estuaries and bays. I am keen to celebrate citizen-scale participation in environmental management and action. 
+Outside of technical questions, I am energized by the epistemology of human-environment relations, the social relations of water/infrastructure, and historical ecology around estuaries and bays. I am keen to celebrate citizen-scale participation in environmental management and action. 
 
 [Google Scholar](https://scholar.google.com/citations?user=1xjkTv0AAAAJ&hl=en&oi=ao)

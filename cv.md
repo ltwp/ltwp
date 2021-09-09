@@ -64,9 +64,15 @@ The Design Office<br />
 Providence, Rhode Island, 2016<br />
 
 **Publications**
+Math & Mysticism
+Are.na "surfline cam screenshots" piece
+
+**Scientific Papers**
 
 USGS Data Releases<br />
 https://cmgds.marine.usgs.gov/catalog/author.php?author=Winklerprins%2C+Lukas+T.
+
+
 
 **Volunteering**
 GSC
@@ -74,13 +80,25 @@ UAW
 Env Eng Seminar Committee
 Brickworld
 East Bay Mutual Aid Project
+2727 California Street
 
-**Conferences**
+**Conferences Attended**
 
 SIAM 2017 SHI
 
-SERCAL (cancelled due to COVID)
+SERCAL 2020 (cancelled due to COVID)
 
-Port Defense & SLR Conferences
+Port Defense & SLR Conferences 2019 & 2020
 
-Bay Science
+State Of The Estuary 2019
+
+Ocean Sciences 2022
+
+**Workshops Led**
+
+BWxD
+Yale CEID
+Speculative Futures Thing
+SHI @ SIAM 2017
+Free School of Architecture
+magic & pasta
