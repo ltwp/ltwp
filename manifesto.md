@@ -48,3 +48,5 @@ This document should be amended as you age.
 - fail quickly
 - knowledge is something that is in use
 - without fear and without trying to impress
+
+https://www.are.na/block/13101584
