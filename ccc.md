@@ -148,7 +148,7 @@ She flipped over in bed and thought of her parents. They had visited recently, o
 
 —
 
-Esteban and his father crested a ridge after huffing through a handful of cutbacks. It was going to be a blistering summer day, but they had left early and the heat was only with the sunshine. They were in their usual place, up in the hills upriver from Ejido Eréndira, catching up after a longer-than-usual span of distance. Esteban had been spending more time in Tijuana for his job, his work with the border, his time with Ana. It all felt valuable, but he felt separated from the simple joys of outings with his father. 
+Esteban and his father crested a ridge after huffing through a handful of switchbacks. It was going to be a blistering summer day, but they had left early and the heat was only with the sunshine. They were in their usual place, up in the hills upriver from Ejido Eréndira, catching up after a longer-than-usual span of distance. Esteban had been spending more time in Tijuana for his job, his work with the border, his time with Ana. It all felt valuable, but he felt separated from the simple joys of outings with his father. 
 
 His father was telling him about the good produce he had been eating recently, growing near Mexicali. Increased use of desalinated water for municipal use had given more flow back to the Colorado river and, despite long drought years, the bounty of fruit was still good. It was idle chatter, but there was always a philosophical edge to what his father would say. 
 
