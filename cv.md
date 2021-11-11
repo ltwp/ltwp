@@ -33,6 +33,9 @@ Providence, Rhode Island<br />
 
 **Education**
 
+Ph.D. Environmental Engineering<br />
+UC Berkeley, May 2023 (anticipated)<br />
+
 M.S. Environmental Engineering<br />
 UC Berkeley, May 2020<br />
 
@@ -65,6 +68,8 @@ Providence, Rhode Island, 2016<br />
 
 **Publications**
 Math & Mysticism
+CCC story
+Field Day in BSR
 Are.na "surfline cam screenshots" piece
 
 **Scientific Papers**
@@ -83,15 +88,12 @@ East Bay Mutual Aid Project
 2727 California Street
 
 **Conferences Attended**
-
 SIAM 2017 SHI
-
-SERCAL 2020 (cancelled due to COVID)
-
 Port Defense & SLR Conferences 2019 & 2020
 
+**Conferences Presented**
 State Of The Estuary 2019
-
+SERCAL 2020 (cancelled due to COVID)
 Ocean Sciences 2022
 
 **Workshops Led**
@@ -102,3 +104,6 @@ Speculative Futures Thing
 SHI @ SIAM 2017
 Free School of Architecture
 magic & pasta
+
+**Talks**
+TRUST Sandbox 9/11/2021
