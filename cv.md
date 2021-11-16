@@ -46,16 +46,20 @@ Brown University, May 2015<br />
 
 **Programs Attended**
 
+"Delft 3D Training"<br />
+University of California
+Berkeley, 2021
+
 "Drone Camp"<br />
-University of California<br />
+At the University of California<br />
 Remote, 2021<br />
 
 "Getting Started with PDEs"<br />
-Israel Institute of Advanced Study<br />
+At the Israel Institute of Advanced Study<br />
 Jerusalem, 2015<br />
 
 "Integrating Dynamics and Stochastics"<br />
-Division of Applied Mathematics, Brown University<br />
+At the Division of Applied Mathematics, Brown University<br />
 Providence Rhode Island, 2014<br />
 
 --
