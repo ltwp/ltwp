@@ -7,7 +7,7 @@ title: Research
 
 I am a researcher, currently as a PhD student under Mark Stacey in UC Berkeley's <a href="https://ce.berkeley.edu/">CEE</a>. I am part of <a href="http://efmh.berkeley.edu/efmhgroup/about.html">EFMH</a> at Berkeley and a contributor to <a href="https://largier.sf.ucdavis.edu">COG</a> at UC Davis. I am partially supported by the US Geological Survey, working with Jessie Lacy and other federal scientists out of the <a href="https://www.usgs.gov/centers/pcmsc">Pacific Coastal and Marine Science Center</a>. I enjoy collaborating with people in different places and disciplines. 
 
-At the broadest scale, I am interested in the myriad forces that affect how coastal regions (especially marshes, mangroves, and seagrass fields) "work". More specifically, I am interested in:
+At the broadest scale, I am interested in the myriad forces that affect how coastal regions (especially marshes & mangroves) "work". More specifically, I am interested in:
 
 - hydrodynamics and sediment transport in estuaries
 - coastal geomorphology and landscape change
