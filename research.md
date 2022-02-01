@@ -17,6 +17,6 @@ At the broadest scale, I am interested in the myriad forces that affect how coas
 
 I work primarily as a field scientist, but I understand that connecting field data to larger spatial and temporal timescales using remote sensing and modeling applications is crucial. 
 
-Outside of technical questions, I am energized by cultural study and historical ecology as applied to water and infrastructure. I am keen on sovereignty through citizen-centered environmental management, science, and activism. I channel some of these interests through membership at <a href="https://trust.support/">TRUST</a>.
+Outside of technical questions, I am energized by cultural theory and historical ecology as applied to water and infrastructure. I am keen to celebrate sovereignty through citizen-centered environmental management, science, and activism. I channel some of these interests through membership at <a href="https://trust.support/">TRUST</a>.
 
 [Google Scholar](https://scholar.google.com/citations?user=1xjkTv0AAAAJ&hl=en&oi=ao)
