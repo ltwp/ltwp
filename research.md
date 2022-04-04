@@ -15,8 +15,8 @@ At the broadest scale, I am interested in the myriad forces that affect how coas
 - mathematical analysis of coastal physics and hazards
 - effective use of in-situ sensors 
 
-I work primarily as a field scientist, but I understand that connecting field data to larger spatial and temporal timescales using remote sensing and modeling applications is crucial. 
+I work primarily as a field scientist, but I understand that connecting field data to larger spatiotemporal scales using remote sensing and modeling applications is crucial. 
 
-Outside of technical questions, I am energized by cultural theory and historical ecology of water and infrastructure. I want to support sovereignty through citizen-centered environmental management, science, and activism. This includes celebrating <a href="https://oceanographyforeveryone.com/">low-cost sensors</a>, small-group organizing, and independent institutions. I channel some of these interests through membership at <a href="https://trust.support/">TRUST</a>.
+Outside of technical questions, I am energized by cultural theory and historical ecology of water and infrastructure. I want to support citizen-centered environmental management, science, and activism. This includes celebrating good education, low-cost sensors, small-group organizing, and independent institutions. I channel some of these interests through membership at <a href="https://trust.support/">TRUST</a>.
 
 [Google Scholar](https://scholar.google.com/citations?user=1xjkTv0AAAAJ&hl=en&oi=ao)
