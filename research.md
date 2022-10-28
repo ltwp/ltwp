@@ -5,18 +5,20 @@ title: Research
 
 # Research
 
-I am a researcher, currently as a PhD candidate working with Mark Stacey out of UC Berkeley's <a href="https://ce.berkeley.edu/">CEE</a>. I am part of <a href="http://efmh.berkeley.edu/efmhgroup/about.html">EFMH</a> at Berkeley and a contributor to <a href="https://largier.sf.ucdavis.edu">COG</a> at UC Davis. I am partially supported by the US Geological Survey, working with Jessie Lacy out of the <a href="https://www.usgs.gov/centers/pcmsc">Pacific Coastal and Marine Science Center</a>. I enjoy collaborating with people in different places and disciplines. 
+I am a researcher, currently as a PhD candidate working with Mark Stacey out of University of California Berkeley's <a href="http://efmh.berkeley.edu/efmhgroup/about.html">EFMH Group</a> and with Jessie Lacy out of the US Geological Survey's <a href="https://www.usgs.gov/centers/pcmsc">Pacific Coastal and Marine Science Center</a>. I enjoy collaborating with many people and during graduate school I have also been a part of <a href="https://largier.sf.ucdavis.edu">COG</a> at UCD in Davis, California, and the <a href="http://obrasciviles.usm.cl/investigacion/lineas-de-investigacion/estudios-de-procesos-e-ingenieria-costera/">Grupo de Procesos e Ingeniería Costera</a> at USM in Valparaíso, Chile.
 
 At the broadest scale, I am interested in the myriad forces that affect how coastal regions (especially marshes & mangroves) "work". I seek to study:
 
-- hydrodynamics and sediment transport in estuaries
-- coastal geomorphology and landscape change
+- coastal hydrodynamics and sediment transport
+- geomorphology and landscape change around estuaries
 - restoration engineering and blue carbon assessment
 - mathematical analysis of coastal physics and hazards
 - effective use of in-situ sensors 
 
 I work primarily as a field scientist, but I understand that connecting field data to larger spatiotemporal scales using remote sensing and modeling applications is crucial. 
 
-Outside of technical questions, I am energized by cultural theory and historical ecology of water and infrastructure. I want to support citizen-centered environmental management, science, and activism. This includes celebrating good education, low-cost sensors, small-group organizing, and independent institutions. I channel some of these interests through membership at <a href="https://trust.support/">TRUST</a>.
+Outside of technical questions, I am energized by cultural theory and historical ecology of water and infrastructure. I want to support citizen-centered environmental management, science, and activism. This includes celebrating good education, low-cost sensors, small-group organizing, and independent institutions.
 
 [Google Scholar](https://scholar.google.com/citations?user=1xjkTv0AAAAJ&hl=en&oi=ao)
+
+![time UTC gif](https://hookrace.net/time.gif)
