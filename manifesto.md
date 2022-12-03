@@ -26,7 +26,7 @@ This document should be amended as you age.
 
 10. **Everything changes.** It will end. It is beautiful regardless. (Consider the flower.) 
 
-11. **Invest in entropy.** Work towards antifragility. A fairly minimal lifestyle assists in this. This also requires establishing systems that make decisions for you, and encourage you to live well. Use things to their resolution. 
+11. **Invest in entropy.** Work towards adaptability. A fairly minimal lifestyle assists in this. This also requires establishing systems that make decisions for you, and encourage you to live well. Use things to their resolution. 
 
 12. **Regularly reflect and reflect-through-action.** Look at yourself, check yourself, then adjust. Encourage experimental living, as it nurtures acting on reflection. Use your life as n=1. (This requires travel, unplugging, and newness).
 
