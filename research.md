@@ -13,11 +13,11 @@ At the broadest scale, I am interested in the myriad forces that affect how coas
 - geomorphology and landscape change around estuaries
 - restoration engineering and blue carbon assessment
 - mathematical analysis of coastal physics and hazards
-- effective use of in-situ sensors 
+- effective use and design of environmental sensors
 
 I work primarily as a field scientist, but I understand that connecting field data to larger spatiotemporal scales using remote sensing and modeling applications is crucial. 
 
-Outside of technical questions, I am energized by cultural theory and historical ecology of water and infrastructure. I want to support degrowth-oriented and citizen-centered environmental science, management, and activism. This includes good education, low-impact methods, small-group organizing, and independent institutions.
+Outside of technical questions, I am energized by cultural theory and historical ecology of water and infrastructure. I want to support degrowth-oriented and citizen-centered environmental science, management, and activism. This includes good education, low-impact/cost methods, small-group organizing, and independent institutions.
 
 [Google Scholar](https://scholar.google.com/citations?user=1xjkTv0AAAAJ&hl=en&oi=ao)
 
