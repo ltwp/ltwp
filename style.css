@@ -4,11 +4,11 @@
 }
 
 body{
-    font: 1.1em 'Arial', sans-serif;
+    font: 1.3em 'Arial', sans-serif;
     width: 100%;
     line-height: 165%;
-    color: rgb(28,28,28);
-    background-color: white;
+    color: black; /* rgb(28,28,28); */
+    background-color:  rgb(218,75,39); /*: white; */
     /* color: white;
     background-color: rgb(32,43,122); */
     size: 0.9em;
@@ -21,8 +21,8 @@ a{
     text-decoration: none;
 }
 a:hover{
-    color: white; /*rgb(32,43,122); */
-    background-color: rgb(28,28,28); /*white; */
+    color: rgb(218,75,39); /*white; /*rgb(32,43,122); */
+    background-color: black; /*rgb(28,28,28); /*white; */
 }
 
 h1{
