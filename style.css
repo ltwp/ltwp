@@ -23,6 +23,7 @@ a{
 a:hover{
     color: white; /*rgb(32,43,122); */
     background-color: rgb(218,75,39); /*black; /*rgb(28,28,28); /*white; */
+	border-bottom: 1px solid white;
 }
 
 h1{
