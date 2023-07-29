@@ -23,12 +23,7 @@ Outside of technical questions, I am energized by cultural theory and historical
 
 (email me if you want anything)
 
-![time UTC gif](https://hookrace.net/time.gif)
+<!-- ![time UTC gif](https://hookrace.net/time.gif) -->
 
 ![Photo of me up-close from the surface of the water, with sun glint in the background and film grain.](http://amphidromic.net/images/wet_selfie.jpg)
-
-<!-- 
-I’m a field scientist focused on hydrodynamics, transport, and geomorphology in bays, estuaries, and the coastal ocean. I enjoy where these topics overlap with environmental monitoring via in-situ or remote sensing, oceanography, infrastructure, and management. I enjoy teaching and have spent years studying and working in alternative educational environments. 
---> 
-
 
