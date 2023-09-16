@@ -15,7 +15,7 @@ At the broadest scale, I am interested in the various forces that affect how coa
 - effective use and design of environmental sensors
 - applying all of the above where relevant to ecosystems and infrastructure
 
-I work primarily as a field scientist, but I understand that connecting field data to larger spatiotemporal scales using remote sensing and modeling applications is crucial. 
+While I work primarily as a field scientist, I believe there is a lot of value in connecting in-situ observations to larger spatiotemporal scales using remote sensing techniques and numerical models. 
 
 Outside of technical questions, I am energized by cultural theory and historical ecology around water and infrastructure. I want to support degrowth-oriented and citizen-centered environmental science, management, and activism. This requires good pedagogy, low-impact/cost methods, small-group organizing, and capable institutions.
 
