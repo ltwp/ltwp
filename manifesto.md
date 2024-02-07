@@ -42,11 +42,12 @@ This document should be amended as you age.
 
 18. It's OK to take up space. **Your desires can be reality if you pursue them.** Don't get too full of yourself, but you dictate the direction of your life. 
 
+19. **Find and focus on what you can give** to the world, with your skills, rather than what you can consume from it. 
 
-- figure out what you can give the world (skills, non-consumption)
-- the cure for low self-esteem is to finish tasks--thinking does not resolve confusion, action does
-- fail quickly
-- knowledge is something that is in use
-- without fear and without trying to impress
+20. **Explore problems quickly**, rather than avoid them altogether. 
 
-https://www.are.na/block/13101584
+21. The cure for low self-esteem is to finish tasks. **Thinking does not resolve confusion; action does.** Knowledge is engaged when used. (But be aware when the right "action" is disengagement.)
+
+22. What would you do if you were not afraid? Had nothing to prove? 
+
+<!-- https://www.are.na/block/13101584 The Four Agreements --> 
