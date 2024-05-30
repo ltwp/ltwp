@@ -13,9 +13,9 @@ My interests are on how waters in coastal, bay, and estuary regions move stuff a
 - how hydrodynamics drive sedimentation patterns and geomorphology in coastal regions 
 - transport and fate of carbon (or other stuff attached to sediment) 
 
-These interests mean I am effectively a coastal engineer (no P.E. yet, though). I am always thinking about how the fluids-sediment mechanisms are intertwined with infrastructural and ecological function, so I also think about community risks and habitat restoration work. 
+These interests mean I am effectively a coastal engineer (no P.E. yet, though). Coastal fluids and sediments are intertwined with infrastructural and ecological function however, so I'm often thinking about community risks and habitat restoration work. 
 
-I work primarily as a field scientist, trying to make effective use of environmental sensors and observations. But I also believe there is value in connecting in-situ observations to larger spatiotemporal scales using remote sensing techniques and numerical models.
+I work primarily as a field scientist, trying to make effective use of environmental sensors and observations. To extend the application of these findings, I connect in-situ observations to larger spatiotemporal scales using remote sensing techniques and numerical models.
 
 Outside of technical questions, I am energized by cultural theory and historical ecology around bodies of water and infrastructure. I support degrowth-oriented and citizen-centered environmental science, management, and activism. This requires good pedagogy, low-impact/cost methods, small-group organizing, long-term monitoring, and capable institutions. I love doing outreach to younger folks and channel my energy mostly through <a href="https://www.citysurfproject.com/">City Surf Project</a> in San Francisco.
 
