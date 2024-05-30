@@ -4,7 +4,7 @@ layout: text
 
 # Gnamma
 
-I have a sporadic newsletter (using Buttondown) where I write about things that interest me. You can sign-up here: 
+I have a sporadic newsletter (using Buttondown) where I write about things that interest me (mostly, hydrology and environmental philosophy stuff). You can sign-up here: 
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/gnamma"
