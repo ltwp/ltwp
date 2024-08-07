@@ -25,5 +25,6 @@ Outside of technical questions, I am energized by cultural theory and historical
 
 <!-- ![time UTC gif](https://hookrace.net/time.gif) -->
 
-![Photo of me up-close from the surface of the water, with sun glint in the background and film grain.](http://amphidromic.net/images/wet_selfie.jpg)
+![Photo of a dry marshland with creek channels running through it. I am stooped over an instrument, adjusting it, under harsh sun but with foggy clouds in the background.](http://amphidromic.net/images/in_whales_tail_marsh_1.jpeg)
+(photo by [Nate Zack](https://nathanzack.net/))
 
