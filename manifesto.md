@@ -4,7 +4,7 @@ layout: base
 
 # Lessons To Self
 
-This document should be amended as you age. 
+This document should be amended as you age! Don't let it become too static. 
 
 1. **Work to implement your values in all you do.** Act towards the things you value—agency, generosity, empathy, kindness, energy, efficacy, acceptance, sustainability, interestingness, etc. 
 
