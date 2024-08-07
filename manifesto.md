@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: text
 ---
 
 # Lessons To Self
