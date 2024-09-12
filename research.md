@@ -5,15 +5,15 @@ title: Research
 
 # Research
 
-I am part scientist, part engineer: a researcher with applied interests and a desire to teach. I have a Ph.D from the University of California where I worked closely with Dr Mark Stacey (UC Berkeley) and Dr Jessie Lacy (USGS) on hydrodynamics and sediment transport in shallow bays and marshlands. 
+I am a scientist with applied interests and a desire to teach, currently working as a postdoctoral scholar at the [Environmental Systems Dynamics Laboratory](https://www.esdlberkeley.com/) at the University of California, Berkeley. I got my Ph.D from the same university, where I worked closely with Dr Mark Stacey and Dr Jessie Lacy (USGS) on hydrodynamics and sediment transport in shallow bays and marshlands. 
 
-My interests are on how waters in bays, estuaries, and coastal regions move sediment around. Thus, I study: 
+My scholarship focuses on the following:
 
-- estuarine hydrodynamics and coastal physical oceanography
-- how hydrodynamics drive sedimentation patterns and geomorphology in coastal regions 
+- environmental fluid mechanics and physical processes of wetlands, estuaries, bays, and coastal oceans
+- how hydrodynamics are co-produced with geomorphic or ecological change
 - transport and fate of sediment, carbon, or other particulate-bound substances
 
-These questions frequently intersect with infrastructure systems/risk, ecological networks, and human communities; I am excited to do interdisciplinary work whenever possible! 
+These questions frequently intersect with infrastructure systems and human impacts, leading me to both engineering or humanistic work. I am excited to think interdisciplinarily whenever possible! 
 
 I work primarily as a field scientist, trying to make effective use of environmental sensors and observations. To extend the application of these findings, I connect in-situ observations to larger spatiotemporal scales using remote sensing techniques and numerical models.
 
