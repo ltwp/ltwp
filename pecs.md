@@ -26,7 +26,7 @@ On to these zones we imposed relationships from sediment tiles vs. distance from
 
 ![](http://amphidromic.net/images/pecs/deposition_heatmap.png)
 
-The sediment imported to the Cargill Marsh, east of Whale's Tail, was estimated by Dan Nowacki (USGS) in his upcoming paper, _Linking tidal-creek sediment fluxes to vertical sediment accumulation in a restored salt marsh_. Hydrodynamic data for this study were collected in-situ ([data available here](https://cmgds.marine.usgs.gov/data-releases/datarelease/10.5066-P972R6AW/)). 
+The sediment imported to the Cargill Marsh, east of Whale's Tail, was estimated by Dan Nowacki (USGS) in his upcoming paper, _Linking tidal-creek sediment fluxes to vertical sediment accumulation in a restored salt marsh_. Hydrodynamic data for these studies were collected in-situ ([data available here](https://cmgds.marine.usgs.gov/data-releases/datarelease/10.5066-P972R6AW/)). 
 
 Both Dan Nowacki's paper and mine ([draft PDF here](http://amphidromic.net/images/pecs/wtm_sediment_draft.pdf)) are submitted to ESPL and undergoing review. Stay tuned for an additional paper on these data by McKenna Bristow on blue carbon capture and loss! 
 
