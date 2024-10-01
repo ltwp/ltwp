@@ -4,7 +4,7 @@ layout: text
 
 # Surf Lessons
 
-I'm currently a postdoctoral scholar in coastal hazards at Cal Poly San Luis Obispo (working remotely from the Bay Area). To supplement my income, I'm doing some surf coaching! 
+I'm currently a postdoctoral scholar in wetland dynamics at the University of California, Berkeley. To supplement my income, I'm doing some surf coaching! 
 
 ![Photo of me up-close from the surface of the water, with sun glint in the background and film grain.](http://amphidromic.net/images/wet_selfie.jpg)
 

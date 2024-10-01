@@ -11,7 +11,7 @@ My scholarship focuses on the following:
 
 - environmental fluid mechanics and physical processes of wetlands, estuaries, bays, and coastal oceans
 - how hydrodynamics are co-produced with geomorphic or ecological change
-- transport and fate of sediment, carbon, or other particulate-bound substances
+- the transport and fate of sediment, carbon, plastic, and more...
 
 These questions frequently intersect with infrastructure systems and human impacts, leading me to both engineering or humanistic work. I am excited to think interdisciplinarily whenever possible! 
 
