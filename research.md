@@ -5,7 +5,7 @@ title: Research
 
 # Research
 
-I am a scientist with applied interests and a desire to teach, currently working as a postdoctoral scholar at the [Environmental Systems Dynamics Laboratory](https://www.esdlberkeley.com/) at the University of California, Berkeley. I got my Ph.D from the same university, where I worked closely with Dr Mark Stacey and Dr Jessie Lacy (USGS) on hydrodynamics and sediment transport in shallow bays and marshlands. 
+I am a scientist with applied interests and a desire to teach, currently working as a postdoctoral scholar at the [Environmental Systems Dynamics Laboratory](https://www.esdlberkeley.com/) at the University of California, Berkeley. I got my Ph.D from the same university, where I worked closely with Dr Mark Stacey and Dr Jessie Lacy (USGS) on hydrodynamics and sediment transport in shallow bays and marshlands. My bachelors is in Applied Mathematics from Brown University. 
 
 My scholarship focuses on the following:
 
