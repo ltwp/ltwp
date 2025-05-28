@@ -48,6 +48,8 @@ This document should be amended as you age! Don't let it become too static.
 
 21. The cure for low self-esteem is to finish tasks. **Thinking does not resolve confusion; action does.** Knowledge is engaged when used. (But be aware when the right "action" is disengagement.)
 
-22. What would you do if you were not afraid? Had nothing to prove? 
+22. It's preferable to make decisions out of positive thinking. **Avoid acting out of fear.**
+
+23. Remember the Four Agreements: **Be impeccable with your word. Do not take anything personally. Do not make assumptions. Always do your best.**
 
 <!-- https://www.are.na/block/13101584 The Four Agreements --> 
