@@ -5,13 +5,13 @@ title: Research
 
 # Research
 
-I am a scientist with applied interests and a desire to teach, currently working as a postdoctoral scholar at the [Environmental Systems Dynamics Laboratory](https://www.esdlberkeley.com/) at the University of California, Berkeley. I got my Ph.D from the same university, where I worked closely with Dr Mark Stacey and Dr Jessie Lacy (USGS) on hydrodynamics and sediment transport in shallow bays and marshlands. My bachelors is in Applied Mathematics from Brown University. 
+I am a scientist with applied interests and a love for teaching, currently working as a postdoctoral scholar at the [Environmental Systems Dynamics Laboratory](https://www.esdlberkeley.com/) at the University of California, Berkeley. I got my Ph.D from the same university, where I worked closely with Dr Mark Stacey and Dr Jessie Lacy (USGS) on hydrodynamics and sediment transport in shallow bays and marshlands. My bachelors is in Applied Mathematics from Brown University. 
 
-My scholarship focuses on the following:
+My scholarship focuses on the following as relevant to wetlands, estuaries, bays, and beaches: 
 
-- environmental fluid mechanics and physical processes of wetlands, estuaries, bays, and coastal oceans
-- how hydrodynamics are co-produced with geomorphic or ecological change
-- the transport and fate of sediment, carbon, plastic, and more...
+- environmental fluid mechanics and coastal physical oceanography
+- the transport and fate of water and sediment (then carbon, gases, plastics...)
+- how hydrodynamics are co-produced with geomorphic and ecological change
 
 These questions frequently intersect with infrastructure systems and human impacts, leading me to both engineering or humanistic work. I am excited to think interdisciplinarily whenever possible! 
 
