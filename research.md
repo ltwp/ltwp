@@ -9,9 +9,9 @@ I am a scientist with a love for teaching, currently working as a postdoctoral s
 
 My scholarship focuses on the following as relevant to wetlands, estuaries, bays, and beaches: 
 
-- environmental fluid mechanics and physical oceanography
-- the transport and fate of stuff moved by water: sediment, nutrients, plastics...
-- how hydrodynamics are co-produced with geomorphic and ecological change
+- environmental fluid mechanics, coastal engineering, and physical oceanography
+- the transport and fate of stuff moved by water: sediment, nutrients, plastics, etc.
+- how hydrodynamics are co-produced with geomorphic (and ecological) change
 - novel techniques for observing and representing all of the above
 
 These questions frequently intersect with infrastructure systems and concerns of human stewardship. I aim to think interdisciplinarily and humanistically!
