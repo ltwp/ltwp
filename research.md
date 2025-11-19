@@ -5,7 +5,7 @@ title: Research
 
 # Research
 
-I am a scientist/engineer with a love for teaching, currently working as a postdoctoral scholar in the Department of Physical Geography at Stockholms Universitet. I got my Ph.D from the University of California, Berkeley, where I worked closely with Dr Mark Stacey and Dr Jessie Lacy (USGS) on hydrodynamics and sediment transport in shallow bays and marshlands. I then did a one-year postdoc, also at UC Berkeley, in Laurel Larsen's Environmental Systems Dynamics Group. My bachelors is in Applied Mathematics from Brown University. 
+I am a scientist/engineer with a love for teaching, currently working as a postdoctoral scholar in the Department of Physical Geography at Stockholms Universitet with Fernando Jaramillo. I got my Ph.D from the University of California, Berkeley, where I worked with the U.S. Geological Survey on hydrodynamics and sediment transport in shallow bays and marshlands together with Mark Stacey and Jessie Lacy. I then did a one-year postdoc, also at Berkeley, in Laurel Larsen's Environmental Systems Dynamics Group. My bachelors is in Applied Mathematics from Brown University. 
 
 ![Photo looking over San Francisco Bay from shore on a bright, sunny day. Crouched on a rocky breakwater in the foreground, my hands are in the water to sampleto sample the water.](http://amphidromic.net/images/sampling_sf_horizontal.jpg)
 
