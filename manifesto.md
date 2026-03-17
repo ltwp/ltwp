@@ -36,7 +36,7 @@ This document should be amended as you age! Don't let it become too static.
 
 15. **Recognize the value in habits.** More than explicit habits, consistency is key to making effects. Build patterns that work to your strengths and weaknesses. Block your time, remove distractions. **Practice focus.** Find the times that work best. 
 
-16. **You learn it by doing it.** Synthesis comes through action; don't sit and think too long. Gestures don't need to be big. Small actions will lead to new insight, new questions, and momentum. 
+16. **You learn it by doing it.** Gestures don't need to be big. Small actions will lead to new insight, new questions, and momentum. 
 
 17. **Do stuff with your friends.** That's what you have them for. Ask for help! Go to things, or start them. Entertain questions. Generate energy. Make one-on-one time, and group time. 
 
@@ -46,10 +46,14 @@ This document should be amended as you age! Don't let it become too static.
 
 20. **Explore problems quickly**, rather than avoid them altogether. 
 
-21. The cure for low self-esteem is to finish tasks. **Thinking does not resolve confusion; action does.** Knowledge is engaged when used. (But be aware when the right "action" is disengagement.)
+21. The cure for low self-esteem is to finish tasks. **Thinking does not resolve confusion; action does.** Knowledge is engaged when used, and synthesis comes from enaction. (But be aware when the right "action" is disengagement.)
 
 22. It's preferable to make decisions out of positive thinking. **Avoid acting out of fear.**
 
-23. Remember the Four Agreements: **Be impeccable with your word. Do not take anything personally. Do not make assumptions. Always do your best.**
+23. **Practice Gratitude.** It’s the best tool against malaise and comparison. Enjoy your weird little life. 
+
+24. Remember the Four Agreements: **Be impeccable with your word. Do not take anything personally. Do not make assumptions. Always do your best.**
+
+25. **Move your body every day, and get sunshine.** 
 
 <!-- https://www.are.na/block/13101584 The Four Agreements --> 
