@@ -20,7 +20,7 @@ Some details:
 
 This is an incredible space in a historic building, renting from friendly people, in one of the best parts of Stockholm. It's peaceful and great for work-from-home if you need that. However, no pets allowed. 
 
-Contact me: LUKAS at LTWP dot NET if you are interested! 
+If you are interested, contact me (LUKAS at LTWP dot NET) or reach out directly [via qasa.se](https://qasa.com/se/sv/home/1370850). 
 
 ![](http://amphidromic.net/images/apt/1.jpeg)
 
