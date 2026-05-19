@@ -22,6 +22,20 @@ This is an incredible space in a historic building, renting from friendly people
 
 Contact me: LUKAS at LTWP dot NET if you are interested! 
 
-![](http://amphidromic.net/images/1.jpeg)
+![](http://amphidromic.net/images/apt/1.jpeg)
+
+![](http://amphidromic.net/images/apt/2.jpeg)
+
+![](http://amphidromic.net/images/apt/3.jpeg)
+
+![](http://amphidromic.net/images/apt/4.jpeg)
+
+![](http://amphidromic.net/images/apt/5.jpeg)
+
+![](http://amphidromic.net/images/apt/6.jpeg)
+
+![](http://amphidromic.net/images/apt/7.jpeg)
+
+![](http://amphidromic.net/images/apt/8.jpeg)
 
 
