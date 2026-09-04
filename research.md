@@ -5,24 +5,19 @@ title: Research
 
 # Research
 
-I am currently working as a postdoctoral researcher in the Department of Physical Geography at Stockholms Universitet with Fernando Jaramillo. I got my Ph.D in environmental engineering from the University of California, Berkeley, where I worked with the U.S. Geological Survey on hydrodynamics and sediment transport in shallow bays and marshlands together with Mark Stacey and Jessie Lacy. I then did a short postdoc, also at Berkeley, in Laurel Larsen's Environmental Systems Dynamics Group. My bachelors is in Applied Mathematics from Brown University. 
+I am (approximately) a coastal engineer, and my research focuses on hydrodynamics and geomorphic change in wetlands, estuaries, and bays. I am particularly interested in sediment transport and management of heavily-impacted systems or those undergoing restoration efforts of process and ecology. Novel techniques for observing, quantifying, and representing these environmental systems get me excited. 
 
 ![Photo looking over San Francisco Bay from shore on a bright, sunny day. Crouched on a rocky breakwater in the foreground, my hands are in the water to sampleto sample the water.](http://amphidromic.net/images/sampling_sf_horizontal.jpg)
 
-My scholarship focuses on the following:
+I work primarily in the field, using in-situ observations and sensors to capture information from the landscape. To extend the application of these findings, I connect this work to larger spatiotemporal scales using remote sensing techniques and occasionally numerical models.
 
-- environmental fluid mechanics and physical oceanography of wetlands, estuaries, and bays 
-- the transport and fate of matter in these environments: sediment, carbon, plastics, etc.
-- how hydrodynamics are co-produced with geomorphic change and ecological shifts
-- novel techniques for observing, quantifying, and representing environmental systems of interest
-- applying the above to effective management and restoration of wetlands and coastal margins
+Outside of technical questions, I am energized by cultural theory and historical ecology around bodies of water, environmental stewardship, and infrastructure. I aim to think trans-disciplinarily and humanistically! I collect and organize lots of information from my life at [are.na/lukas-w](https://www.are.na/lukas-w/index). 
 
-I work primarily as a field scientist, using in-situ observations and sensors to capture information from the landscape. To extend the application of these findings, I connect this work to larger spatiotemporal scales using remote sensing techniques and occasionally numerical models.
+Outreach to young people and those who live near the water I study is important to me. I channel my energy mostly through [City Surf Project](https://www.citysurfproject.com/) and [Wild Oyster Project](https://wildoysters.org/) in San Francisco.
 
-Outside of technical questions, I am energized by cultural theory and historical ecology around bodies of water, environmental stewardship, and infrastructure. I aim to think interdisciplinarily and humanistically! Increasingly, I am interested in how institutions and finances are organized to support habitat restoration for ecosystem and hazard resiliency. I collect and organize lots of information from my life at [are.na/lukas-w](https://www.are.na/lukas-w/index). 
+I got my B.S. in Applied Mathematics from Brown University, then M.S. and Ph.D. in Civil/Environmental Engineering from the University of California (Berkeley) working with Mark Stacey and Jessie Lacy (USGS). Afterwards, I was a postdoc in Laurel Larsen's Environmental Systems Dynamics Lab and then Fernando Jaramillo's Hydrogeodesy Lab, focusing on seasonal hydrology of inland deltas. 
 
-<!-- Outreach to young people and those who live near the water I study is important to me. I channel my energy mostly through <a href="https://www.citysurfproject.com/">City Surf Project</a> and <a href="https://wildoysters.org/">Wild Oyster Project</a> in San Francisco.
-I support degrowth-oriented and citizen-centered environmental science, management, and activism. This requires good pedagogy, low-impact/cost methods, small-group organizing, long-term monitoring, and capable institutions.  -->
+<!-- I support degrowth-oriented and citizen-centered environmental science, management, and activism. This requires good pedagogy, low-impact/cost methods, small-group organizing, long-term monitoring, and capable institutions.  -->
 
 [Google Scholar](https://scholar.google.com/citations?user=1xjkTv0AAAAJ&hl=en&oi=ao)
 
