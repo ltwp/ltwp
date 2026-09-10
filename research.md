@@ -7,7 +7,7 @@ title: Research
 
 I am (approximately) a coastal engineer, and my research focuses on the hydrodynamics and geomorphology of wetlands, estuaries, and bays. I am particularly interested in sediment transport and ecological or process-based restoration in these environments in the context of extensive human modification, sea level rise, and climate change. Novel techniques for observing, quantifying, and representing these environmental systems get me excited. 
 
-![Photo looking over San Francisco Bay from shore on a bright, sunny day. Crouched on a rocky breakwater in the foreground, my hands are in the water to sampleto sample the water.](http://amphidromic.net/images/sampling_sf_horizontal.jpg)
+![Photo looking over San Francisco Bay from shore on a bright, sunny day. Crouched on a rocky breakwater in the foreground, my hands are in the water to sampleto sample the water.](http://amphidromic.net/images/sampling_sf_horizontal_dithered.png)
 
 I work primarily in the field, using in-situ observations and sensors to capture information from the landscape. To extend the application of these findings, I explore larger spatial and temporal scales using remote sensing data and occasionally numerical models.
 
@@ -25,7 +25,7 @@ I got my B.S. in Applied Mathematics from Brown University, then M.S. and Ph.D. 
 
 <!-- ![time UTC gif](https://hookrace.net/time.gif) -->
 
-![Photo of a dry marshland with mudflats and mountains in the background. I am standing in the foreground, taking notes in a small notebook, with fog hovering in the distance.](http://amphidromic.net/images/in_whales_tail_marsh_2.jpeg)
+![Photo of a dry marshland with mudflats and mountains in the background. I am standing in the foreground, taking notes in a small notebook, with fog hovering in the distance.](http://amphidromic.net/images/in_whales_tail_marsh_2_dithered.png)
 
 (photos by [Nate Zack](https://nathanzack.net/))
 
